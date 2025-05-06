@@ -1,0 +1,34 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have things been since our last session?,T,Insignificant
+"Hi, Ellie! Things have been pretty good. I actually started using a schedule for my tasks, and it’s helped a lot.",P,Current Functional Status
+That’s fantastic news! How has implementing a schedule impacted your work and stress levels?,T,Insignificant
+"I feel way more organized. I’m getting things done on time, and it’s relieving some of that anxiety.",P,Current Functional Status: History of Present Illness (HPI)
+Wonderful! It sounds like you’ve found a strategy that works for you. Have you noticed any changes in your mood as a result?,T,Insignificant
+"Yes, definitely. I feel more accomplished and less overwhelmed, which is a nice change.",P,History of Present Illness (HPI)
+"That’s great to hear! Last time, we also talked about connecting with your niece and nephew. Have you had a chance to spend time with them yet?",T,Insignificant
+Yes! I took them to the zoo last weekend. We had a blast!,P,Current Functional Status
+That sounds like so much fun! How did it feel to spend that time with them?,T,Insignificant
+"It was amazing. We laughed a lot, and I felt like I really connected with them. I think they enjoyed it too.",P,Current Functional Status
+That’s wonderful! Building those connections can be so rewarding. Do you think you’ll plan more outings like that in the future?,T,Insignificant
+Absolutely! I want to make it a regular thing.,P,Current Functional Status
+That’s a great goal. Let’s also revisit your family dynamics. How has your relationship with your brother been since our last conversation?,T,Insignificant
+"It’s been okay. We still have our disagreements, but I’m trying to be more patient.",P,Psychosocial History
+Patience can be really important in family relationships. Have you noticed any changes in how you communicate with him?,T,Insignificant
+I think I’m listening more instead of just reacting. It’s helping.,P,Psychosocial History
+That’s a significant step forward. Active listening can foster better understanding. How does that make you feel when you approach conversations this way?,T,Insignificant
+It feels good. I feel less defensive and more open.,P,Psychosocial History
+"That’s a positive shift. As you continue to navigate these relationships, remember to check in with yourself emotionally. Are there any new challenges you’d like to address today?",T,Insignificant
+I’ve been feeling a bit anxious about a work presentation coming up next week.,P,History of Present Illness (HPI): Risk Assessment
+Presentations can certainly be nerve-wracking. What specifically makes you anxious about it?,T,Insignificant
+I worry about how I’ll be perceived and whether I’ll forget what I want to say.,P,History of Present Illness (HPI): Risk Assessment
+Those are common fears. Have you thought about any techniques to manage that anxiety before or during the presentation?,T,Insignificant
+I’ve considered practicing more and maybe using some breathing techniques.,P,Therapeutic Interventions
+Practicing is a great way to build confidence. Breathing techniques can also help calm your nerves. Would you like to set a plan to incorporate these strategies leading up to your presentation?,T,Therapeutic Interventions
+"Yes, I’ll practice daily and use breathing exercises before I go on stage.",P,Therapeutic Interventions
+"That sounds like a solid plan. You’ve got this! Remember, it’s okay to feel nervous; it shows that you care about your performance. ",T,Insignificant
+Thank you! I appreciate your encouragement.,P,Insignificant
+"Of course! As we wrap up today, is there anything else you’d like to discuss or any other goals you’d like to set for the coming weeks?",T,Insignificant
+"I think I’m good for now. I feel like I have a lot to work on, but I’m excited about it.",P,Next Steps
+That’s a great mindset to have! I look forward to hearing about your progress in our next session. Take care and good luck with everything!,T,Insignificant
+"Thank you, Ellie! I’ll see you next time. Bye!",P,Insignificant
+Bye!,T,Insignificant

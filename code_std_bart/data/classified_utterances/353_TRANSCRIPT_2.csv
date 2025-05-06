@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have things been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing better, I think. I managed to go to the park a couple of times.",P,Current Functional Status
+That’s fantastic! How did it feel to be out there?,T,Insignificant
+"It was a bit nerve-wracking at first, but once I got there, I felt okay. ",P,History of Present Illness (HPI)
+That’s a great accomplishment! Did you use any of the coping strategies we discussed?,T,Insignificant
+"Yes, I reminded myself to breathe and I used the affirmation we created.",P,Therapeutic Interventions
+Wonderful! It sounds like you’re really applying what we’ve talked about. Did you notice any changes in your anxiety during those visits?,T,Insignificant
+"A little. I felt anxious at first, but it faded as I walked around. ",P,History of Present Illness (HPI)
+That’s a positive sign. It seems like you’re building resilience. How did you celebrate your visits to the park?,T,Insignificant
+"I treated myself to a nice coffee afterward, just like I planned.",P,Current Functional Status
+Excellent! Celebrating your successes is important. Is there a next step you’d like to take now that you’ve visited the park?,T,Insignificant
+"I want to try going to the grocery store next, but I’m a bit scared.",P,Presenting Problem / Chief Complaint
+"That’s a big step, but it sounds like a good goal. How can we make that feel more manageable for you?",T,Insignificant
+"Maybe I could go during a quieter time, like early in the morning.",P,Therapeutic Interventions
+That’s a smart strategy. How about we create a plan for that?,T,Insignificant
+"Okay, I could make a list beforehand to keep me focused.",P,Therapeutic Interventions
+Great idea! Having a list can help reduce overwhelm. When do you think you’ll try going to the store?,T,Insignificant
+I could aim for this weekend.,P,Next Steps
+That sounds like a reasonable timeline. How will you celebrate that accomplishment?,T,Insignificant
+I’ll treat myself to a nice dinner after.,P,Current Functional Status
+Perfect! It sounds like you’re setting yourself up for success. Is there anything else on your mind today?,T,Insignificant
+"I’ve been feeling a bit more paranoid lately, especially in crowded places.",P,History of Present Illness (HPI)
+I understand. Have there been any specific situations that triggered those feelings?,T,Insignificant
+"I went to a concert last week, and I felt really on edge.",P,History of Present Illness (HPI)
+"That’s understandable, especially in a crowded environment. How did you cope in that situation?",T,Insignificant
+"I tried to focus on my breathing, but I still felt overwhelmed.",P,History of Present Illness (HPI)
+It can be tough in such stimulating environments. Would it help to have a strategy for future events?,T,Insignificant
+"Yes, I think I need a better plan for that.",P,Insignificant
+How about creating a “safety plan” for when you’re in crowded places? ,T,Therapeutic Interventions
+That sounds good. What should be included in that?,P,Insignificant
+"You could include your breathing exercises, affirmations, and even a way to step outside if needed.",T,Therapeutic Interventions
+I like that idea. I’ll write it down.,P,Insignificant
+Excellent! How do you feel about implementing that plan?,T,Insignificant
+I feel more prepared. It makes me feel like I have some control.,P,Mental Health Observations
+"That’s a great mindset. Remember, it’s okay to take breaks if you need to. ",T,Insignificant
+"Thank you, Ellie. I appreciate that reminder.",P,Insignificant
+"Before we finish today, what’s one goal you’d like to set for our next session?",T,Insignificant
+I want to try going to the grocery store and see how it goes.,P,Next Steps
+That sounds like a solid goal. I look forward to hearing about your experience. Thank you for sharing today!,T,Insignificant
+Thank you! I feel more hopeful.,P,Mental Health Observations
+"That’s wonderful to hear. Take care, and I’ll see you next time!",T,Insignificant
+"Bye, Ellie!",P,Insignificant

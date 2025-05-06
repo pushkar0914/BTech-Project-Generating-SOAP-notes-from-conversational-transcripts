@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It's great to see you again. How have you been since our last session?",T,Insignificant
+"Um, I don't know. Same as usual, I guess.",P,Insignificant
+"That's understandable. Sometimes things can feel a bit stagnant. Last time, you mentioned that you enjoy sleeping to relax. Have you had any new experiences or thoughts about that since we last spoke?",T,Insignificant
+Not really. Just sleep.,P,Insignificant
+"Sleep is important, but it sounds like you might be feeling a bit stuck. Are there any activities or hobbies you've thought about trying to mix things up a bit?",T,Insignificant
+Not really. I don't have the energy for that.,P,Physiological Observations
+I get that. Sometimes low energy can affect our motivation. Would you say you’ve been feeling low energy recently?,T,Physiological Observations
+"Yeah, I guess. It’s just the same every day.",P,History of Present Illness (HPI)
+That can be tough. Have you noticed any specific thoughts or feelings that come up when you feel this way?,T,Insignificant
+Not really. Just... nothing.,P,Insignificant
+It seems like there might be a lot of “nothing” in your thoughts. Would you be open to exploring that a bit more? ,T,Insignificant
+I suppose.,P,Insignificant
+Great! Let’s try to unpack that. Can you think of a time recently when you felt particularly indifferent or unmotivated?,T,Insignificant
+"Hmm, maybe when I was supposed to go out with friends last week. I just didn’t want to.",P,History of Present Illness (HPI)
+What do you think led to that feeling of not wanting to go out?,T,Insignificant
+I don’t know. Just didn’t feel like it.,P,Insignificant
+"Sometimes, that can be a sign of feeling overwhelmed or disconnected. How do you feel about social situations in general?",T,Insignificant
+"They’re okay, but sometimes I just want to be alone.",P,History of Present Illness (HPI)
+That’s completely valid. It’s important to honor your need for alone time. Do you feel like you have a good balance between socializing and having time to yourself?,T,Insignificant
+Not really. I think I spend too much time alone.,P,History of Present Illness (HPI)
+That’s insightful. It sounds like you might be craving some connection but also feel overwhelmed by it. Would you like to explore ways to find that balance?,T,Insignificant
+"Sure, I guess.",P,Insignificant
+"One approach could be to set small, manageable goals for socializing. For instance, committing to just one outing a month. How does that sound?",T,Next Steps
+That could work. ,P,Next Steps
+Great! We can also look at how to make those outings more enjoyable for you. What activities do you think would be fun or comfortable?,T,Insignificant
+Maybe basketball with friends?,P,Next Steps
+"That sounds like a great idea! Basketball is something you enjoy, and it can be a good way to connect with friends. Would you feel comfortable reaching out to them?",T,Next Steps
+I think so. ,P,Next Steps
+Excellent! Let’s set a goal for you to reach out to them this week. How does that feel?,T,Next Steps
+I can do that.,P,Next Steps
+"Wonderful! Now, let's shift gears a bit. You mentioned before that you sometimes feel guilty about things. Have you had any thoughts about that since we last talked?",T,Insignificant
+Not really. I don’t feel guilty about anything.,P,Insignificant
+"That’s interesting. It can be helpful to explore any feelings of guilt or shame, even if they seem small. Sometimes they can affect our mood without us realizing it. ",T,Insignificant
+Okay.,P,Insignificant
+Let’s try a quick exercise. Think of a recent situation where you felt something—maybe frustration or sadness. Can you share that with me?,T,Insignificant
+I don’t know. I guess I felt frustrated when I saw someone driving recklessly.,P,History of Present Illness (HPI)
+That makes sense. It’s understandable to feel frustrated in that situation. What do you think that frustration says about your values?,T,Insignificant
+I guess I care about safety?,P,Insignificant
+Exactly! Your feelings reveal what’s important to you. Recognizing those values can help guide your actions. How can you express that care for safety in your daily life?,T,Insignificant
+Maybe by being more careful when I drive?,P,Next Steps
+That’s a great start! Taking care of yourself and others can be empowering. How do you feel about that?,T,Insignificant
+It makes sense.,P,Insignificant
+"Perfect! As we wrap up today, let’s recap what you’ll focus on until our next session. You’ll reach out to your friends about basketball and practice mindful driving. How does that sound?",T,Next Steps
+Sounds good.,P,Insignificant
+"I’m glad to hear that! Remember, it’s all about small steps. I look forward to hearing about your experiences next time. Take care!",T,Insignificant
+You too. Goodbye.,P,Insignificant

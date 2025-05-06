@@ -1,0 +1,31 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I’ve been feeling a bit more relaxed, actually.",P,History of Present Illness (HPI)
+That’s great to hear! What do you think contributed to that relaxation?,T,Insignificant
+"I’ve been practicing the breathing exercises we talked about, and I even tried singing a bit more.",P,Therapeutic Interventions
+That’s wonderful! How did singing make you feel?,T,Insignificant
+"It felt freeing. I really enjoyed it, and it took my mind off things.",P,History of Present Illness (HPI)
+I’m so glad to hear that! It sounds like you’ve found a positive outlet. Have you had any opportunities to apply for jobs since we last spoke?,T,Insignificant
+"Yes, I applied for a couple of positions, and I actually got an interview for one of them!",P,Current Functional Status
+That’s fantastic news! How are you feeling about the interview?,T,Insignificant
+I’m excited but also really nervous. It’s been a while since I’ve interviewed.,P,History of Present Illness (HPI)
+It’s completely normal to feel nervous. Would you like to practice some interview questions together?,T,Insignificant
+"Yes, that would help a lot.",P,Insignificant
+"Alright, let’s start with a common question: “Tell me about yourself.” How would you respond to that?",T,Insignificant
+"Um, I would say I’m an English major with a passion for music. I’ve been working on my singing and looking for opportunities to combine that with my career.",P,Current Functional Status
+That’s a solid start! You’re highlighting your strengths and interests. What other skills could you mention?,T,Insignificant
+I can mention my adaptability and how I’m a good communicator. Those are important in any job.,P,Current Functional Status
+Absolutely! Those are valuable skills. Remember to convey your enthusiasm for the position as well. How do you plan to prepare for the interview?,T,Insignificant
+I think I’ll research the company and practice common questions. I’ll also try to visualize myself doing well.,P,Next Steps
+Visualization is a powerful technique. It can help reduce anxiety and boost your confidence. Have you done any visualization exercises before?,T,Insignificant
+"Not really, but I’d like to try it!",P,Insignificant
+Let’s do a quick visualization exercise now. Close your eyes and imagine yourself walking into the interview room feeling confident and prepared. Picture the interviewer smiling and engaging with you. How does that feel?,T,Insignificant
+It feels good! I can see myself smiling back and feeling comfortable.,P,History of Present Illness (HPI)
+That’s excellent! You can use this visualization technique before your interview to help calm your nerves. Is there anything else you’d like to focus on today?,T,Insignificant
+I think I’m good for now. I feel more prepared for the interview.,P,Current Functional Status
+I’m glad to hear that! Remember to take care of yourself in the days leading up to it. Would you like to set a goal for yourself before our next session?,T,Insignificant
+"Yes, I want to practice my breathing exercises daily and do a little singing each day.",P,Next Steps
+"That sounds like a wonderful goal! I look forward to hearing how it goes. Take care, and good luck with your interview!",T,Insignificant
+"Thank you, Ellie! I appreciate your help.",P,Insignificant
+You’re welcome! See you next time!,T,Insignificant
+Bye!,P,Insignificant

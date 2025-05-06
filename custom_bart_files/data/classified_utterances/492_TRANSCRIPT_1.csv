@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi Ellie! I've been doing pretty well, thanks for asking.",P,Insignificant
+"That's great to hear! Last time, we talked about your experiences in L.A. and some of your work-related challenges. Have there been any updates on those fronts?",T,History of Present Illness (HPI)
+"Yes, actually. I had a conversation with the woman from church about the meeting situation. I pointed out the micromanagement issue, and she was receptive. It felt good to express my concerns.",P,History of Present Illness (HPI)
+That’s a positive step! How did it feel to have that conversation?,T,Insignificant
+"It was a bit nerve-wracking at first, but once I started talking, it felt empowering. I think it went well.",P,Mental Health Observations
+I'm glad to hear that! It sounds like you're becoming more comfortable advocating for yourself. Are there any other areas in your life where you feel you could apply that same assertiveness?,T,Insignificant
+"I think I could be more assertive with my family. Sometimes, I feel like they don’t take my opinions seriously.",P,History of Present Illness (HPI)
+That’s an important insight. What do you think holds you back from being more assertive with them?,T,Insignificant
+I guess it’s just the fear of conflict or upsetting them. I don’t want to create tension.,P,Risk Assessment
+"That’s understandable. Sometimes, the fear of conflict can prevent us from expressing ourselves. Would you like to explore some strategies to communicate more effectively with your family?",T,Insignificant
+"Yes, I think that would help.",P,Insignificant
+"Great! One approach is to use ""I"" statements. For example, instead of saying, ""You never listen to me,"" you could say, ""I feel unheard when my opinions aren't acknowledged."" ",T,Therapeutic Interventions
+I like that. It sounds less confrontational.,P,Insignificant
+Exactly! It focuses on your feelings rather than placing blame. Do you have a specific situation in mind where you could practice this?,T,Insignificant
+"Yes, there’s a family gathering coming up. I often feel sidelined during discussions.",P,History of Present Illness (HPI)
+That sounds like a perfect opportunity! How would you like to approach that?,T,Insignificant
+"I could try to share my thoughts more openly and use those ""I"" statements when I feel dismissed.",P,Next Steps
+That sounds like a solid plan. How do you think your family might respond?,T,Insignificant
+"They might be surprised at first, but I hope they’ll listen.",P,Insignificant
+"That’s a great attitude to have. Remember, it’s about expressing yourself, not controlling their reactions. Is there anything else you’d like to address today?",T,Insignificant
+"I’ve been thinking a lot about my career change. I’m excited about pursuing a business degree, but I also feel a bit anxious about it.",P,History of Present Illness (HPI)
+It’s completely normal to feel anxious about a significant change. Can you share what specifically makes you anxious?,T,Insignificant
+I worry about whether I’ll be successful in a business environment. I’ve been in healthcare for so long.,P,History of Present Illness (HPI)
+That’s a valid concern. Transitioning fields can be daunting. What strengths do you think you bring from your nursing background that could benefit you in business?,T,Insignificant
+I think my skills in communication and teamwork are strong. I’ve had to work with diverse groups and manage stressful situations.,P,Medical and Psychiatric History
+Those are invaluable skills in any field! How can you remind yourself of those strengths when you start feeling anxious?,T,Insignificant
+"I could keep a list of my accomplishments and skills handy. That way, I can refer to it when I doubt myself.",P,Next Steps
+That’s an excellent idea! Keeping a positive reminder can help shift your mindset. Would you like to set a goal for this week regarding your degree pursuit?,T,Insignificant
+Yes! I’d like to research some programs and maybe reach out to someone in the field to ask about their experience.,P,Next Steps
+That sounds like a productive goal! How do you feel about taking that step?,T,Insignificant
+"I feel good about it. It’s a bit intimidating, but I’m ready to move forward.",P,Mental Health Observations
+"That’s the spirit! Remember, every small step counts. Before we wrap up, is there anything else you’d like to discuss?",T,Insignificant
+"No, I think we covered a lot today. Thank you!",P,Insignificant
+You’re very welcome! I look forward to hearing about your progress next time. Take care!,T,Insignificant
+"Bye, Ellie! See you next week!",P,Insignificant

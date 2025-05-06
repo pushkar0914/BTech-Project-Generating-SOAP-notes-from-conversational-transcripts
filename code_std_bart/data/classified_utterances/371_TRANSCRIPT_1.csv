@@ -1,0 +1,55 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again. How have you been since our last session?",T,Insignificant
+"Hey, I’ve been okay. Just trying to keep busy, you know?",P,Insignificant
+"That’s good to hear. Last time, we talked about some of your feelings of not accomplishing as much as you wanted. Have you had any thoughts about that since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, I’ve been thinking about it a lot. I still feel like I’m not where I want to be, but I’ve tried to focus on small goals instead.",P,History of Present Illness (HPI)
+That’s a great approach. What are some of those small goals you’ve set for yourself?,T,Insignificant
+"Well, I started taking a class online about something I’m interested in, and I’m trying to get back into biking more regularly.",P,Current Functional Status
+That sounds like a positive step forward. How do you feel about the class so far?,T,Insignificant
+"It’s been good! I actually enjoy it, which is surprising. I thought it would just feel like more work.",P,Mental Health Observations
+That’s wonderful! What do you think makes it enjoyable for you?,T,Insignificant
+I think it’s because I’m learning something new and it feels like I’m actually doing something for myself.,P,Mental Health Observations
+Learning can be very empowering. Have you noticed any changes in your mood or outlook since starting the class?,T,History of Present Illness (HPI)
+"A little bit, yeah. I feel more motivated. But then there are days when I feel overwhelmed again.",P,History of Present Illness (HPI)
+It’s natural to have ups and downs. What do you do on those overwhelming days?,T,Insignificant
+"I try to distract myself, maybe watch a movie or listen to music. Sometimes I just need to take a break.",P,Current Functional Status
+Taking breaks is important. Have you found any specific techniques that help you when you feel overwhelmed?,T,Insignificant
+Breathing exercises help a bit. I learned some from a video. Just focusing on my breath for a few minutes.,P,Therapeutic Interventions
+That’s a great technique. Would you like to explore more coping strategies together today?,T,Insignificant
+"Sure, that would be helpful.",P,Insignificant
+One technique we could explore is mindfulness. It involves being present in the moment without judgment. Would you be interested in trying a brief mindfulness exercise?,T,Therapeutic Interventions
+"Yeah, I’d like to try that.",P,Insignificant
+Great! Let’s take a moment to close our eyes and focus on our breath. Inhale deeply... and exhale slowly. How does that feel?,T,Insignificant
+It feels nice. I can feel my shoulders relaxing.,P,Mental Health Observations
+Excellent. Mindfulness can be a powerful tool for managing stress. How do you think you could incorporate this into your daily routine?,T,Insignificant
+Maybe I could set aside a few minutes in the morning or before bed to practice.,P,Next Steps
+That sounds like a solid plan. It might help with your sleep issues too. Have you noticed any patterns in your sleep since we last talked?,T,History of Present Illness (HPI)
+"A little. I still have trouble falling asleep, but I’ve been trying to stick to a routine.",P,History of Present Illness (HPI): Physiological Observations
+Sticking to a routine can be very beneficial. What does your current routine look like?,T,Insignificant
+"I usually try to go to bed around the same time, but I often end up scrolling through my phone for too long.",P,Physiological Observations
+That’s common. Maybe we can look into setting boundaries with your phone use before bed. Would you be open to that?,T,Insignificant
+"Yeah, I think that could help. I know I need to cut back on screen time.",P,Insignificant
+Let’s set a goal together. How about aiming to put your phone away at least 30 minutes before bedtime?,T,Next Steps
+That sounds doable. I’ll give it a try.,P,Insignificant
+Great! Let’s check in about that next time. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m still worried about my family dynamics. My mom and I had another disagreement recently.,P,Psychosocial History
+I’m sorry to hear that. What was the disagreement about?,T,Insignificant
+"We argued about how to handle my grandmother’s care again. I just feel like I want to have a say, but I also want to respect my mom’s wishes.",P,Psychosocial History
+That’s a tough position to be in. It sounds like you’re trying to balance your feelings with respecting your mom. How did you handle it this time?,T,Insignificant
+"I tried to express my feelings without being too confrontational, but it didn’t go as well as I hoped.",P,Psychosocial History
+"Communication can be challenging, especially with family. Would you like to practice some communication strategies together?",T,Insignificant
+"Yeah, that would be helpful.",P,Insignificant
+"Let’s role-play a scenario where you express your thoughts to your mom. I’ll be your mom, and you can practice how you’d like to approach the conversation.",T,Therapeutic Interventions
+"Okay, let’s try it.",P,Insignificant
+"Alright, I’m your mom. How do you want to start?",T,Insignificant
+"Mom, I know we have different opinions about Grandma’s care, but I’d like to share my thoughts on it.",P,Insignificant
+Go on.,T,Insignificant
+"I feel concerned about her wellbeing, and I think we should consider some options together.",P,Insignificant
+That’s a good start. How does that feel to say?,T,Insignificant
+It feels okay. I think I could say it like that.,P,Insignificant
+"Remember, it’s all about expressing your feelings while being open to her perspective. How do you feel about this approach?",T,Insignificant
+I feel more confident about it. I think it’s a good way to express myself.,P,Mental Health Observations
+I’m glad to hear that. Let’s work on this further in our next session. Thank you for sharing today. You’ve made some great progress.,T,Progress Evaluation
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! See you next time!,T,Insignificant
+Bye!,P,Insignificant

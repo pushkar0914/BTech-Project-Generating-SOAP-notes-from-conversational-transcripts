@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How was your week?,T,Insignificant
+Hi! It was okay. I actually looked into a couple of internships!,P,History of Present Illness (HPI)
+That’s fantastic! How did that feel?,T,Insignificant
+It felt good to take action. I found a couple of places that seem interesting.,P,History of Present Illness (HPI)
+That’s wonderful to hear! What kind of internships did you find?,T,Insignificant
+"One is at a local elementary school, and the other is with a nonprofit that works with kids with special needs.",P,History of Present Illness (HPI)
+Both sound like great opportunities! Have you applied yet?,T,Insignificant
+"I haven’t submitted anything yet, but I plan to this weekend.",P,History of Present Illness (HPI)
+That’s a great plan! What’s holding you back from submitting?,T,Insignificant
+I guess I’m just nervous about the application process.,P,History of Present Illness (HPI)
+That’s completely normal. Would you like to talk through any concerns you have about applying?,T,Insignificant
+I just worry that I won’t stand out or that they won’t want me.,P,History of Present Illness (HPI)
+"It’s natural to have those thoughts. Remember, you have valuable skills and experiences to share. What makes you a good fit for these positions?",T,Insignificant
+"Well, I have my degree in child development, and I’ve worked with kids before in tutoring.",P,History of Present Illness (HPI)
+Exactly! Those experiences are what will set you apart. It might help to highlight those in your applications. Would you like to practice how to frame your experiences?,T,Therapeutic Interventions
+"Yeah, that could help.",P,Therapeutic Interventions
+Let’s say you’re writing your cover letter. How would you describe your experience with tutoring?,T,Therapeutic Interventions
+"I’d say something like, “I have experience tutoring children in various subjects, which helped me develop my communication skills.”",P,Therapeutic Interventions
+That’s a solid start! You can also emphasize your passion for working with children and your commitment to special education. ,T,Therapeutic Interventions
+That makes sense. ,P,Insignificant
+Great! How are you feeling about your living situation this week?,T,Insignificant
+"It’s still the same, honestly. I haven’t talked to my roommates yet.",P,History of Present Illness (HPI)
+That’s okay. It can take time to find the right moment. What do you think is holding you back from having that conversation?,T,Insignificant
+I think I’m just overthinking it. I don’t want to hurt their feelings.,P,History of Present Illness (HPI)
+"That’s understandable. It’s important to be kind, but it’s also important to express your needs. Would it help to practice that conversation again?",T,Therapeutic Interventions
+"Yes, I’d like that.",P,Therapeutic Interventions
+"Okay, let’s role-play. Start with how you’d greet them.",T,Therapeutic Interventions
+"“Hey, can we talk for a minute?”",P,Therapeutic Interventions
+"Perfect! Now, how would you express your feelings?",T,Therapeutic Interventions
+“I’ve been feeling a bit lonely living here and would love to connect more.”,P,Therapeutic Interventions
+That’s a great way to start. It’s honest and non-confrontational. How do you think they might respond?,T,Insignificant
+I hope they’d be understanding.,P,Insignificant
+"I think they will be. It’s a conversation worth having. Remember, you deserve to feel comfortable in your living space. ",T,Insignificant
+Thanks for the encouragement.,P,Insignificant
+"Of course! As we wrap up today, what’s one goal you’d like to focus on for next week?",T,Insignificant
+I want to submit those internship applications and have a conversation with my roommates.,P,Next Steps
+Those are excellent goals! Let’s check in on your progress in our next session. ,T,Next Steps
+"Okay, I’ll do my best.",P,Insignificant
+"I believe in you! Have a great week, and I’m looking forward to hearing about your experiences.",T,Insignificant
+"Thanks, Ellie! Bye!",P,Insignificant
+Bye!,T,Insignificant

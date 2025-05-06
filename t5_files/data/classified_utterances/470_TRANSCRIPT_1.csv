@@ -1,0 +1,60 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"I've been okay, just trying to stay positive and look for work.",P,History of Present Illness (HPI)
+"That's good to hear. Last time, you mentioned feeling a little sad about your current situation. Have those feelings changed at all?",T,History of Present Illness (HPI)
+"A bit, but I still feel like I'm stuck sometimes, you know?",P,History of Present Illness (HPI)
+"I understand. It’s normal to feel that way, especially when searching for a job can be so challenging. Have you had any interviews or opportunities come up?",T,Insignificant
+"I had one interview last week, but I didn’t get the job. It was disheartening.",P,History of Present Illness (HPI)
+I’m sorry to hear that. It's tough to deal with rejection. How did you feel after the interview?,T,Insignificant
+"I felt hopeful at first, but then I was just disappointed. I thought I did well.",P,History of Present Illness (HPI)
+It’s completely understandable to feel that way. What do you think you could take away from that experience?,T,Insignificant
+Maybe I could have prepared better or practiced more. I just thought I was ready.,P,History of Present Illness (HPI)
+That’s a great insight. Preparing can really boost your confidence. Would you like to set a goal for practicing interview skills before your next opportunity?,T,Next Steps
+"Yeah, that sounds good. I could use some help with that.",P,Next Steps
+Fantastic! We can work on some common interview questions together. How do you feel about role-playing an interview scenario?,T,Therapeutic Interventions
+That sounds helpful! I could use the practice.,P,Therapeutic Interventions
+Great! Let’s start with a common question: “Tell me about yourself.” How would you answer that?,T,Insignificant
+"Um, I’d say I’m a hard worker, a good mother, and I have experience in child development.",P,History of Present Illness (HPI)
+That’s a solid start! You’re highlighting your strengths. Can you add a bit more detail about your experience?,T,Insignificant
+"Sure! I graduated in child development, and I’ve worked with kids in various settings like schools and daycare centers.",P,History of Present Illness (HPI)
+Excellent! That gives the interviewer a clearer picture of your background. How does it feel to articulate that?,T,Insignificant
+"It feels good, actually. I never thought about how to present myself like this.",P,Current Functional Status
+It’s a skill that can be developed. Let’s keep practicing! What’s another common question you think you might face?,T,Insignificant
+“What are your greatest strengths and weaknesses?”,P,Insignificant
+Perfect! Let’s tackle that one. What would you say your greatest strength is?,T,Insignificant
+I think my greatest strength is my ability to connect with children. I really enjoy working with them.,P,History of Present Illness (HPI)
+That’s a wonderful strength! And what about a weakness?,T,Insignificant
+"Maybe my lack of experience in a formal job setting? I haven’t worked in a while, so I feel a bit rusty.",P,History of Present Illness (HPI)
+Acknowledging that is a good start. You can frame it positively by saying you’re eager to learn and grow. How does that sound?,T,Insignificant
+That makes sense. I can say I’m motivated to gain more experience.,P,History of Present Illness (HPI)
+Exactly! You’re turning a potential negative into a positive. How do you feel about your job search overall?,T,Insignificant
+"I feel like I’m trying my best, but sometimes I doubt myself.",P,History of Present Illness (HPI)
+"It’s natural to have self-doubt, especially during a job search. What strategies do you use to combat those feelings?",T,Insignificant
+I try to focus on my accomplishments and remind myself that I have skills to offer.,P,Current Functional Status
+That’s a great strategy! Keeping a list of your achievements can help reinforce your self-worth. Would you like to create a list together?,T,Next Steps
+"Yes, that would be helpful.",P,Next Steps
+Great! What are some accomplishments you’re proud of?,T,Insignificant
+"I graduated college, and I’ve been a good parent. I also volunteered at a local community center.",P,Current Functional Status
+Those are fantastic accomplishments! Let’s write them down. How does it feel to reflect on these positive experiences?,T,Insignificant
+It feels good. I sometimes forget about the good things I’ve done.,P,Current Functional Status
+It’s easy to overlook our achievements when we’re focused on challenges. Would you like to keep this list handy for when you feel down?,T,Next Steps
+"Yes, I think that would help me a lot.",P,Next Steps
+Perfect! We can revisit it in our future sessions. Is there anything else you’d like to discuss today?,T,Insignificant
+I still struggle with my insecurities. I wish I could be more confident.,P,History of Present Illness (HPI)
+That’s a common struggle. Would you be open to exploring some techniques to boost your confidence?,T,Next Steps
+"Yes, I’d like that.",P,Next Steps
+One technique we can try is positive affirmations. Would you be willing to create some affirmations together?,T,Therapeutic Interventions
+Sure! What do you mean by that?,P,Insignificant
+"Affirmations are positive statements that can help challenge negative thoughts. For example, “I am capable and deserving of success.” What do you think?",T,Insignificant
+I like that! I want to believe that.,P,Insignificant
+Let’s create a few more together. What’s something you want to affirm about yourself?,T,Insignificant
+I want to affirm that I’m a good mother and that I’m doing my best.,P,Therapeutic Interventions
+"That’s wonderful! We can say, “I am a loving and dedicated mother.” How does that resonate with you?",T,Insignificant
+It resonates well. I feel good saying that.,P,Insignificant
+Excellent! Let’s make it a habit to repeat these affirmations daily. How does that sound?,T,Next Steps
+Sounds like a plan! I’ll try to remember to do that.,P,Next Steps
+Great! We can check in on your progress next time. Thank you for sharing today. I look forward to our next session!,T,Insignificant
+Thank you! I appreciate your help.,P,Insignificant
+Goodbye for now!,T,Insignificant
+Goodbye!,P,Insignificant

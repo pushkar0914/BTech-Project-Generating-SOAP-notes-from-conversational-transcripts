@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been doing well. I reached out to my friends like we talked about, and we had a great time!",P,Psychosocial History
+That’s fantastic! I’m glad to hear that. How did it feel to reconnect with them?,T,Insignificant
+It felt really good. We went out for dinner and just caught up. I realized how important those connections are for me.,P,Psychosocial History
+"That’s wonderful insight! It sounds like you’re prioritizing your relationships, which is so important. Did you notice any changes in your mood or energy after spending time with them?",T,Insignificant
+Definitely! I felt more energized and motivated afterward. It was a nice break from work.,P,Physiological Observations
+That’s great to hear. It sounds like socializing has a positive impact on your well-being. Have you been able to incorporate mindfulness into your routine since our last session?,T,Insignificant
+"Yes, I’ve been trying it in the mornings. It’s been helpful, especially on days when I feel anxious.",P,Therapeutic Interventions
+That’s excellent! Mindfulness can be a powerful tool. Have you noticed any specific benefits from practicing it regularly?,T,Insignificant
+I feel more centered and less reactive throughout the day. It helps me focus better on my tasks.,P,Physiological Observations
+That’s a significant benefit! It sounds like you’re making great strides in managing your anxiety and self-doubt. Have there been any new challenges or feelings that have come up for you lately?,T,Insignificant
+I’ve been feeling a bit overwhelmed with some upcoming deadlines at work. I want to make sure I’m producing quality work.,P,History of Present Illness (HPI)
+"It’s understandable to feel overwhelmed, especially with deadlines approaching. How are you currently managing that stress?",T,Insignificant
+"I’ve been trying to break tasks into smaller pieces, but I still feel the pressure.",P,History of Present Illness (HPI)
+That’s a good strategy. It can also be helpful to remind yourself of your accomplishments and strengths. What are some past successes you can draw on during this busy time?,T,Insignificant
+I completed a short film project recently that I was really proud of. It received positive feedback from my peers.,P,History of Present Illness (HPI)
+That’s a fantastic achievement! Reflecting on that success can help boost your confidence. Would you like to create a plan for managing your workload while maintaining your well-being?,T,Insignificant
+"Yes, I think that would be helpful.",P,Next Steps
+Great! Let’s outline your tasks and prioritize them. How many projects do you have on your plate right now?,T,Insignificant
+I have three main projects due in the next few weeks.,P,Current Functional Status
+"Let’s break those down. What’s the first project, and when is it due?",T,Insignificant
+"The first one is a short film, and it’s due in two weeks.",P,Current Functional Status
+Perfect! What are the steps you need to complete for that project?,T,Insignificant
+"I need to finalize the script, shoot the scenes, and then edit it.",P,Next Steps
+Let’s set some deadlines for each of those steps. How about you aim to finish the script by the end of this week?,T,Next Steps
+That sounds doable.,P,Insignificant
+Awesome! And then we can plan to shoot next week. How does that sound?,T,Insignificant
+That works for me!,P,Insignificant
+Great! We’ll check in on your progress next session. Remember to be kind to yourself during this busy period. ,T,Insignificant
+I will! Thank you for helping me stay organized.,P,Insignificant
+"You’re doing the hard work, and I’m here to support you. Is there anything else on your mind today?",T,Insignificant
+I think I’m good for now. I feel more focused after this conversation.,P,Physiological Observations
+"I’m glad to hear that! Remember, progress takes time, and it’s okay to seek support when needed. I look forward to hearing how everything goes next time!",T,Insignificant
+"Me too! Thanks again, Ellie.",P,Insignificant
+"You’re welcome! Take care, and see you soon!",T,Insignificant
+Bye!,P,Insignificant

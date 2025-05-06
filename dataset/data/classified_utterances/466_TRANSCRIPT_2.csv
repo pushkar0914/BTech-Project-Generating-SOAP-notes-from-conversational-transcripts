@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have things been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I did manage to go for a few walks since we last spoke.",P,Current Functional Status
+That’s fantastic! How did they go?,T,Insignificant
+"They were challenging but rewarding. I felt anxious, but I used the reframing techniques we talked about.",P,History of Present Illness (HPI):Therapeutic Interventions
+That’s wonderful to hear! How did it feel to use those techniques in real time?,T,Insignificant
+It felt empowering. I was able to calm myself down a bit and keep going.,P,Mental Health Observations
+That’s a significant achievement! Were there any moments during your walks that stood out to you?,T,Insignificant
+"Yes, there was a moment when I felt really panicked, but I reminded myself that I could manage it. I ended up sitting down for a few minutes and breathing.",P,Risk Assessment:Therapeutic Interventions
+That’s a great coping strategy! Taking a moment to breathe can be very grounding. How did you feel after that?,T,Insignificant
+I felt much better. I was able to continue my walk afterward.,P,Mental Health Observations:Current Functional Status
+That’s a huge accomplishment! It sounds like you’re making progress. Have you noticed any changes in your anxiety levels since implementing these strategies?,T,Insignificant
+"Yes, I feel a bit more in control of my anxiety. It’s still there, but I feel like I can manage it better.",P,History of Present Illness (HPI)
+That’s a positive shift! Have you had any other experiences that challenged you outside of your walks?,T,Insignificant
+"I went to a small gathering with friends last weekend. It was nerve-wracking, but I went.",P,History of Present Illness (HPI):Current Functional Status
+That’s an excellent step! How did you feel during the gathering?,T,Insignificant
+"I was really anxious at first, but I used the breathing techniques, and it got easier as the night went on.",P,Mental Health Observations:Therapeutic Interventions
+That’s impressive! It’s great to hear that you’re applying what we’ve discussed in different settings. How did you feel afterward?,T,Insignificant
+I felt proud of myself for going and for managing my anxiety.,P,Mental Health Observations
+You should be proud! Celebrating those moments is important. Have you thought about what your next goals might be?,T,Insignificant
+I’d like to try going to a larger event next. Maybe a local festival or something.,P,Presenting Problem / Chief Complaint
+That sounds like a wonderful goal! What steps can you take to prepare for that?,T,Insignificant
+"I think I’ll go with a friend for support, and I’ll try to set a time limit for how long I stay.",P,Next Steps
+Those are excellent strategies. Having support and a plan can make a big difference. Is there anything else you’d like to work on today?,T,Insignificant
+I’ve been having some really vivid nightmares lately. They’ve been distressing.,P,Presenting Problem / Chief Complaint
+I’m sorry to hear that. Nightmares can be very unsettling. Can you tell me more about them?,T,Insignificant
+"They often involve my injury or my family. They feel so real, and I wake up feeling panicked.",P,History of Present Illness (HPI):Risk Assessment
+That sounds incredibly difficult. Have you noticed any patterns or triggers related to your nightmares?,T,Insignificant
+They seem to happen more when I’m stressed or haven’t slept well.,P,History of Present Illness (HPI)
+It makes sense that stress would influence your sleeping patterns. Would you like to explore some techniques to help reduce the intensity of your nightmares?,T,Insignificant
+"Yes, I’d appreciate that.",P,Insignificant
+"One technique is to create a “dream journal.” Before bed, write down any worries or thoughts that are on your mind. This can help release some of that tension.",T,Therapeutic Interventions
+That sounds helpful. I can try that.,P,Insignificant
+You can also practice visualization techniques before sleep. Imagine a peaceful scene or a safe place that brings you comfort.,T,Therapeutic Interventions
+I like that idea. I could visualize a beach or something calming.,P,Insignificant
+That’s perfect! Associating sleep with positive imagery can help reduce anxiety. How does that sound to you?,T,Insignificant
+It sounds good. I’ll give it a try.,P,Insignificant
+Great! I’d love to hear how it goes in our next session. Is there anything else you’d like to address today?,T,Insignificant
+"No, I think that’s it for now. I feel a bit lighter after talking.",P,Mental Health Observations
+"I’m glad to hear that! Remember, it’s all about progress, not perfection. I look forward to hearing about your experiences next time.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you soon.",T,Insignificant
+Bye!,P,Insignificant

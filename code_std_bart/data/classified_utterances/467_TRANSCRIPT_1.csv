@@ -1,0 +1,61 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi again! It’s great to see you back. How have you been since our last session?  ,T,Insignificant
+"I’ve been okay, I guess. Just the usual ups and downs.  ",P,Insignificant
+"That’s understandable. Last time, you mentioned feeling unsure about your direction in life. Have you had any thoughts about that since we last spoke?  ",T,History of Present Illness (HPI)
+"Yeah, a bit. I've been thinking about what I really want to do, but I'm still not sure.  ",P,History of Present Illness (HPI)
+It’s a big question. What kind of things have you been considering?  ,T,History of Present Illness (HPI)
+"Well, I keep coming back to that idea of working outdoors, like being a forest ranger or something.  ",P,History of Present Illness (HPI)
+That sounds like a meaningful path. What draws you to that kind of work?  ,T,Insignificant
+"I just love nature, you know? Being outside makes me feel alive.  ",P,Psychosocial History
+That’s wonderful. Have you looked into any opportunities or programs related to that?  ,T,Insignificant
+"A little. I’ve seen some volunteer programs, but I haven’t applied to anything yet.  ",P,History of Present Illness (HPI)
+What’s holding you back from applying?  ,T,Insignificant
+I guess I’m just nervous about committing to something. What if I don’t like it?  ,P,History of Present Illness (HPI)
+That’s a valid concern. Have you thought about how you could explore that interest without fully committing right away?  ,T,Insignificant
+Maybe I could do some short-term volunteering first?  ,P,Next Steps
+That sounds like a great idea! It could give you a taste of what it’s like.  ,T,Insignificant
+"Yeah, I think I’d feel more comfortable with that.  ",P,Insignificant
+How do you think you would feel if you tried it and didn’t enjoy it?  ,T,Insignificant
+"I’d probably feel disappointed, but I guess it would just mean I need to keep looking for what fits.  ",P,Insignificant
+Exactly! It’s all part of the journey. What else have you been feeling uncertain about?  ,T,Insignificant
+I think I’m also worried about making friends here in L.A.  ,P,History of Present Illness (HPI)
+"That’s a common concern, especially in a new place. Have you had any opportunities to meet new people?  ",T,Insignificant
+"I’ve met a few people through classes, but it’s hard to connect deeply.  ",P,History of Present Illness (HPI)
+What do you think makes it difficult for you to connect?  ,T,Insignificant
+"I’m just naturally shy, I guess. It takes me a while to open up.  ",P,History of Present Illness (HPI)
+That makes sense. Would you like to explore some strategies to help ease that process?  ,T,Insignificant
+"Yeah, I’d be open to that.  ",P,Insignificant
+One approach is to start with common interests. What are some things you enjoy that you could share with others?  ,T,Insignificant
+I like drawing and music.  ,P,Psychosocial History
+Those are great! Have you thought about joining a group or club around those interests?  ,T,Insignificant
+"I’ve seen some art classes and music meetups, but I haven’t gone to any yet.  ",P,History of Present Illness (HPI)
+What’s stopping you from attending?  ,T,Insignificant
+Just the thought of being in a new group makes me anxious.  ,P,History of Present Illness (HPI)
+"That’s understandable. How about setting a small goal, like attending just one class?  ",T,Next Steps
+I think I could do that. Just one class to start.  ,P,Next Steps
+"That’s a fantastic plan! And remember, it’s okay to feel nervous. Everyone else there is likely feeling a bit out of their comfort zone too.  ",T,Insignificant
+True. I hadn’t thought of it that way.  ,P,Insignificant
+How do you typically handle those feelings of anxiety?  ,T,Insignificant
+I usually just try to distract myself with music or drawing.  ,P,History of Present Illness (HPI)
+Those are healthy coping mechanisms. Have you tried any mindfulness techniques?  ,T,Insignificant
+"Not really. I’ve heard of them, but I don’t know how to start.  ",P,Insignificant
+Mindfulness can be a great tool. Would you be interested in trying a simple breathing exercise together?  ,T,Therapeutic Interventions
+"Sure, I’d like that.  ",P,Insignificant
+"Okay, let’s take a moment. Close your eyes if you feel comfortable. Take a deep breath in through your nose... and out through your mouth.  ",T,Insignificant
+<inhales and exhales>  ,P,Insignificant
+Great. Now focus on your breath. In... and out. Let any thoughts come and go without holding onto them.  ,T,Insignificant
+<continues breathing>  ,P,Insignificant
+How did that feel?  ,T,Insignificant
+It felt nice. I feel a little more relaxed.  ,P,Physiological Observations
+That’s wonderful! You can use this technique anytime you’re feeling anxious.  ,T,Next Steps
+I’ll definitely try to remember that.  ,P,Insignificant
+Is there anything else on your mind that you’d like to discuss today?  ,T,Insignificant
+I think I’m good for now.  ,P,Insignificant
+"Alright, let’s set a goal for next time. How about you try that art class and practice the mindfulness exercise?  ",T,Next Steps
+Sounds good! I’ll try to do both.  ,P,Next Steps
+Great! I look forward to hearing how it goes.  ,T,Insignificant
+Me too! Thanks for the help today.  ,P,Insignificant
+You’re welcome! See you next time!  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

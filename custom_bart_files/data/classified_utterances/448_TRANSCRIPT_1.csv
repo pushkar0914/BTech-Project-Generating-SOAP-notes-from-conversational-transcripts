@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. How have you been since our last session?",T,Insignificant
+"Hey, Ellie. I've been okay, I guess. Just trying to keep busy.",P,Insignificant
+That's good to hear. Last time we talked about your uncle and how his passing has affected you. How have you been feeling about that recently?,T,History of Present Illness (HPI)
+"Well, it still hurts, but I’m starting to find some peace with it. I think about him a lot, but I’m trying to focus on the good memories.",P,History of Present Illness (HPI)
+That sounds like a positive step. Are there any specific memories that bring you comfort?,T,Insignificant
+"Yeah, I remember all the times we would watch old movies together. He loved film noir too, and we’d spend hours talking about them.",P,History of Present Illness (HPI)
+It sounds like those shared moments were really special. Have you been able to watch any films lately?,T,Insignificant
+"I did! I watched ""Double Indemnity"" last week. It was like he was right there with me.",P,History of Present Illness (HPI)
+That’s wonderful. Keeping those connections alive can be really healing. Have you noticed any changes in your mood or motivation since our last talk?,T,History of Present Illness (HPI)
+"I still feel a bit unmotivated, especially with work. Some days, I just don’t want to get out of bed.",P,History of Present Illness (HPI):Risk Assessment
+I see. It’s understandable given everything you've been through. Have you been able to engage in any activities that usually bring you joy?,T,Insignificant
+"Not really. I’ve just been going through the motions. I know I should exercise or do something productive, but it feels like too much effort.",P,History of Present Illness (HPI)
+It sounds like you might be experiencing some symptoms of depression. Have you been able to discuss this with your doctor?,T,Diagnostic Impressions
+Not really. I just see them for medication refills. I don’t think they have the time to go deeper.,P,Medical and Psychiatric History
+It’s important to have that deeper conversation. Would you be open to exploring some coping strategies together today?,T,Insignificant
+"Sure, I’m willing to try anything.",P,Insignificant
+"Great! One approach we can consider is setting small, achievable goals for yourself. What’s one small thing you could commit to this week?",T,Next Steps
+Maybe I could go for a short walk a couple of times. That seems doable.,P,Next Steps
+That sounds like a perfect start! Walking can really help lift your mood and clear your mind. How about we aim for two short walks this week?,T,Next Steps
+"Yeah, I can do that.",P,Next Steps
+"Awesome! And if you feel up to it, you could also try journaling about your feelings or your memories of your uncle. ",T,Next Steps
+"I’ve never really journaled before, but I could give it a shot.",P,Next Steps
+It doesn’t have to be anything formal. Just write down whatever comes to mind. It might help you process your emotions.,T,Next Steps
+"Okay, I’ll try that too.",P,Next Steps
+Excellent! Remember to be gentle with yourself. It’s okay to have days where you don’t feel like doing much. ,T,Insignificant
+"Thanks, Ellie. I appreciate that.",P,Insignificant
+Of course! Is there anything else on your mind today?,T,Insignificant
+"Well, I’ve been thinking about my weight and how I want to lose some, but it’s hard to get motivated.",P,History of Present Illness (HPI)
+"That’s a common struggle, especially when dealing with emotional pain. Would you like to explore some small steps you could take regarding that?",T,Insignificant
+"Yeah, I think that would help.",P,Insignificant
+How about starting with a goal to incorporate a healthy snack into your day? Something simple like fruit or nuts.,T,Next Steps
+That sounds manageable. I can do that.,P,Next Steps
+"Great! Let’s check in on that next time. Remember, small changes can lead to big results over time.",T,Insignificant
+I’ll keep that in mind.,P,Insignificant
+"Before we wrap up, how do you feel about our session today?",T,Insignificant
+"I feel a bit lighter, actually. It’s nice to talk about things.",P,History of Present Illness (HPI)
+"I’m glad to hear that. Remember, you’re not alone in this. I’m here to support you.",T,Insignificant
+"Thank you, Ellie. I really appreciate it.",P,Insignificant
+You’re welcome! I look forward to hearing about your walks and journaling next time. Take care!,T,Insignificant
+"Bye, Ellie.",P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, I'm Ellie. It's nice to see you again. How have you been since our last session?",T,Insignificant
+"Hey, Ellie. I've been alright, I guess. Just trying to take things one day at a time.",P,Insignificant
+"That sounds like a good approach. Last time, we talked about some of the challenges you've faced. Have there been any specific situations that have come up since then?",T,Insignificant
+"Yeah, actually. I had a bit of a rough patch with my family. We had a disagreement about my plans for the future.",P,History of Present Illness (HPI)
+I'm sorry to hear that. What was the disagreement about?,T,Insignificant
+"They want me to focus on a stable job, something more conventional, while I want to pursue my dream of starting a record label.",P,History of Present Illness (HPI)
+That sounds like a tough situation. How did that make you feel?,T,Insignificant
+"Frustrated, mostly. I mean, I get where they're coming from, but I also feel like I need to follow my passion.",P,History of Present Illness (HPI)
+It's understandable to feel torn between your family's expectations and your own dreams. Have you had a chance to express your feelings to them?,T,Insignificant
+"I tried, but it didn't go well. They just kept insisting that I need to be practical.",P,History of Present Illness (HPI)
+That can be really difficult. It sounds like your passion for music is very important to you. How do you think you can bridge that gap with your family?,T,Insignificant
+I think I need to show them that I can make it work. Maybe if I had a solid plan or something to present to them.,P,Next Steps
+That sounds like a constructive idea. What steps could you take to create that plan?,T,Insignificant
+"I could start by researching the industry more, maybe even finding a mentor or someone who's done it before.",P,Next Steps
+That sounds like a great strategy. Finding a mentor could provide you with valuable insights. Have you thought about who you might reach out to?,T,Insignificant
+"There’s a local producer I know. He seems pretty well-connected, and I think he’d be open to helping out.",P,Next Steps
+That’s a wonderful resource. How do you feel about reaching out to him?,T,Insignificant
+"A bit nervous, honestly. What if he says no or thinks I'm not serious?",P,Risk Assessment
+"It's natural to feel nervous about reaching out. Remember, every successful person has faced rejection at some point. What if you framed it as a learning opportunity?",T,Insignificant
+"That makes sense. I guess even if he says no, I could still learn something from the experience.",P,Insignificant
+"Exactly! It's about growth. Speaking of growth, how have you been managing your PTSD symptoms since we last spoke?",T,History of Present Illness (HPI)
+"I've been trying to use some of the coping strategies we discussed, like stepping back before reacting.",P,Current Functional Status
+That’s good to hear. Have you noticed any changes in your reactions or feelings?,T,Insignificant
+"Yeah, actually. I’ve been more aware of my triggers and have been able to avoid some conflicts.",P,Progress Evaluation
+That’s a significant step forward! How does that make you feel?,T,Insignificant
+"It feels empowering, like I’m starting to gain control over my emotions.",P,Current Functional Status
+That’s fantastic! It’s great to see you making progress. Is there anything specific that you find particularly challenging in managing your symptoms?,T,Insignificant
+"Sometimes, when I'm reminded of my past, I still get those anxious feelings. It’s hard to shake them off.",P,History of Present Illness (HPI)
+That’s understandable. Triggers can be tough to deal with. Have you tried any grounding techniques when you feel that anxiety?,T,Insignificant
+"A little bit. I’ve been trying to focus on my breathing, but it’s not always easy.",P,Current Functional Status
+Breathing exercises can be really helpful. Would you like to try a brief grounding exercise together now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+"Great! Let’s take a moment to focus on your breath. Inhale deeply through your nose, hold for a few seconds, and then exhale slowly through your mouth. Let’s do that a few times.",T,Therapeutic Interventions
+*breathes deeply* ,P,Insignificant
+How do you feel after that?,T,Insignificant
+"A little calmer, actually. It helps to focus on something simple.",P,Current Functional Status
+I’m glad to hear that. It’s a good tool to have in your toolbox. Is there anything else you’d like to discuss today?,T,Insignificant
+I think I just want to keep working on my goals and maybe find ways to manage my anxiety better.,P,Next Steps
+"That sounds like a solid plan. For next time, how about we focus on creating that action plan for your record label and explore more coping strategies for anxiety?",T,Next Steps
+"Yeah, that sounds good. I’m looking forward to it.",P,Insignificant
+"Me too! Thank you for sharing today, and I’ll see you next time.",T,Insignificant
+"Thanks, Ellie. Bye!",P,Insignificant
+Bye!,T,Insignificant

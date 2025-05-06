@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hey, I’ve been pretty good! I started doing the mindfulness exercises every morning.",P,History of Present Illness (HPI)
+That’s wonderful to hear! How has it been for you?,T,Insignificant
+It’s been really helpful. I feel calmer throughout the day.,P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re finding a routine that works for you. Have you noticed any changes in your mood swings since incorporating mindfulness?,T,History of Present Illness (HPI)
+"Yeah, I think they’ve gotten better. I feel like I can handle stress better now.",P,History of Present Illness (HPI)
+That’s a significant improvement! It shows that you’re making strides in managing your emotions. Have you had any challenging situations arise where you applied these techniques?,T,Insignificant
+"Yes, actually. I had a stressful day at work last week, but I used the breathing techniques, and it helped me stay calm.",P,History of Present Illness (HPI)
+That’s excellent! It sounds like you’re really integrating these strategies into your life. How did your coworkers react to your calmer demeanor?,T,Insignificant
+They noticed! One of them even asked if I was on vacation or something. ,P,Current Functional Status
+That’s a great compliment! It shows that your efforts are having a positive impact not just on you but on those around you as well. Have you continued with your course research?,T,Insignificant
+"Yes, I signed up for one of the management courses, and I’m really enjoying it.",P,Current Functional Status
+That’s fantastic! How do you feel about the material so far?,T,Insignificant
+It’s interesting! I’m learning a lot about leadership styles and team dynamics.,P,Current Functional Status
+Those are valuable skills to develop. Do you find that the course is helping you feel more confident in your current role?,T,Insignificant
+Definitely! I feel like I’m gaining knowledge that I can apply right away.,P,Current Functional Status
+That’s great to hear. It sounds like you’re making meaningful progress toward your career goals. Is there anything else you’d like to focus on today?,T,Insignificant
+I’ve been thinking about my past a lot lately. I still have some regrets that come up.,P,History of Present Illness (HPI)
+It’s natural for those feelings to resurface. Would you like to explore those regrets and how they affect you now?,T,Insignificant
+"Yeah, I think that would be good. I just want to understand why they still bother me.",P,Insignificant
+That’s a healthy approach. Can you share one of those regrets with me?,T,Insignificant
+I regret not finishing school when I had the chance. I feel like I could have done more with my life.,P,Trauma History
+It’s understandable to feel that way. Education can open many doors. How do you think that regret impacts you today?,T,Insignificant
+"I think it makes me doubt myself sometimes. Like, I wonder if I’m capable of achieving my goals.",P,History of Present Illness (HPI)
+"It’s important to recognize that your past doesn’t define your future. You’re actively working toward your goals now, which is what matters. Would you like to set a goal related to this feeling of self-doubt?",T,Insignificant
+"Yeah, I think I’d like to focus on building my confidence more.",P,Next Steps
+That’s a great goal. We can work on strategies to help you build that confidence over the next few sessions. Would that be okay?,T,Therapeutic Interventions
+"Yes, that sounds good.",P,Insignificant
+Wonderful! I appreciate your openness today. It’s been a pleasure to see your progress. Let’s check in on your confidence-building next time!,T,Insignificant
+"Thanks, Ellie. I feel good about this.",P,Insignificant
+I’m glad to hear that! See you next time!,T,Insignificant
+Bye!,P,Insignificant

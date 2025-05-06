@@ -1,0 +1,30 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How has your week been?,T,Insignificant
+"Hi, Ellie! It was a mixed bag. I went to a club meeting, and it was... interesting.",P,Insignificant
+Interesting? That sounds intriguing. Can you tell me more about it?,T,Insignificant
+"Well, I was really nervous at first, but I ended up talking to a couple of people. It was nice, but I still felt a bit out of place.",P,History of Present Illness (HPI)
+That’s a common feeling when you’re trying something new. It’s great that you pushed through and made an effort to connect!,T,Insignificant
+"Yeah, I guess it was better than I expected.",P,Insignificant
+That’s a win! Did you feel any moments of connection with anyone there?,T,Insignificant
+A little. There was one person I chatted with about a shared interest in movies. ,P,History of Present Illness (HPI)
+That’s fantastic! Building connections can take time. How did you feel afterward?,T,Insignificant
+I felt good! Like I did something for myself.,P,History of Present Illness (HPI)
+That’s a wonderful feeling. It sounds like you’re starting to break out of that rut. Have you thought about following up with that person?,T,Insignificant
+"I thought about it, but I’m not sure how to reach out.",P,Insignificant
+You could send a simple message or even suggest grabbing coffee. It doesn’t have to be anything formal.,T,Insignificant
+That sounds doable. I could try that.,P,Insignificant
+"Great! It’s all about taking small steps. Now, how has your sleep been this week?",T,Insignificant
+It’s been a bit better! The sleep journal helped. I noticed I was worrying a lot about my finances before bed.,P,Physiological Observations: History of Present Illness (HPI)
+That’s insightful! Recognizing those worries is the first step. Have you thought about how you might address those financial concerns?,T,Insignificant
+"I’ve been thinking I need to create a budget or something. It feels overwhelming, though.",P,History of Present Illness (HPI)
+"It can be overwhelming, but breaking it down into smaller tasks can help. Would you like to set a goal to create a simple budget this week?",T,Next Steps
+That sounds manageable. I can do that.,P,Next Steps
+"Perfect! Remember, it’s about progress. Now, let’s circle back to your feelings of loneliness. How have you been managing that?",T,Insignificant
+"I still have moments, but I’m trying to focus on the connections I’m building.",P,History of Present Illness (HPI)
+That’s a healthy approach. It’s about quality over quantity. Have you thought about reaching out to your uncle?,T,Insignificant
+"I haven’t, but that’s a good idea. I think I’ll call him this week.",P,Next Steps
+That sounds like a great plan! Connecting with family can be very grounding. Is there anything else on your mind today?,T,Insignificant
+"No, I think we covered everything. Thanks for the support, Ellie.",P,Insignificant
+You’re doing great work! I’m proud of you. Let’s check in next week on your progress.,T,Next Steps
+"Thanks, Ellie! Bye for now!",P,Insignificant
+Bye! Take care!,T,Insignificant

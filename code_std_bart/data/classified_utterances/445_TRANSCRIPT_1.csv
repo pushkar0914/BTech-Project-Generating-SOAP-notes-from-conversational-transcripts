@@ -1,0 +1,57 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh> ,P,Insignificant
+Hi again! It's good to see you. How have you been since our last session? ,T,Insignificant
+"I've been okay, I guess. Trying to stay positive despite some financial stress. ",P,History of Present Illness (HPI)
+"That’s understandable. Last time, you mentioned your girlfriend has been a positive influence. How has she been helping you? ",T,Insignificant
+"She's been really supportive, reminding me to focus on what I can control. ",P,Psychosocial History
+That sounds helpful. Have you had any specific moments where her support made a difference? ,T,Insignificant
+"Yes, there was a day I was feeling really down about money, and she took me out for a walk. Just being outside helped a lot. ",P,History of Present Illness (HPI)
+Nature can be a great healer. Did you find that the walk helped shift your perspective? ,T,Insignificant
+Definitely. It reminded me that there are things outside of my worries that I can enjoy. ,P,History of Present Illness (HPI)
+That's a great insight. Have you been able to incorporate more of those moments into your routine? ,T,Insignificant
+"Yeah, I've tried to go for walks more often. ",P,Current Functional Status
+That's wonderful! What else have you been doing to cope with the stress? ,T,Insignificant
+I’ve been listening to music more. It really helps me relax and forget about things for a while. ,P,History of Present Illness (HPI)
+Music can be very therapeutic. What kind of music do you find most comforting? ,T,Insignificant
+I like a mix of jazz and acoustic. It’s soothing. ,P,Insignificant
+Sounds lovely. Have you thought about how you can use music to express your feelings? ,T,Insignificant
+"I haven't really, but that’s a good idea. I used to write songs when I was feeling low. ",P,History of Present Illness (HPI)
+Writing could be a great outlet for you. Would you be open to trying that again? ,T,Insignificant
+"Yeah, I think I’d like to. ",P,Insignificant
+That’s great! It could help you process your emotions. Have you had any nightmares recently? ,T,Insignificant
+"A few, but they haven’t been as frequent. ",P,History of Present Illness (HPI)
+That’s a positive change. What do you think contributed to that? ,T,Insignificant
+I think focusing on the good things in my life has helped. ,P,History of Present Illness (HPI)
+That’s a significant step. How do you feel about your temper since we last spoke? ,T,Insignificant
+"I’ve been trying to be more aware of it. I still struggle, but I’m working on it. ",P,History of Present Illness (HPI)
+Awareness is key. Have you had any situations where you noticed your temper rising? ,T,Insignificant
+"Yes, there was a minor argument with my girlfriend about household chores. ",P,History of Present Illness (HPI)
+How did you handle it? ,T,Insignificant
+I took a deep breath and tried to communicate calmly instead of reacting. ,P,Current Functional Status
+That’s a fantastic approach! How did that feel? ,T,Insignificant
+It felt good. I didn’t want to escalate things. ,P,History of Present Illness (HPI)
+That’s a great achievement! Do you think you could use similar strategies in the future? ,T,Insignificant
+I hope so. I want to keep improving. ,P,Insignificant
+That’s a healthy mindset. Have you encountered any new triggers for your temper? ,T,Insignificant
+Mostly when I feel overwhelmed. ,P,History of Present Illness (HPI)
+Overwhelm can definitely be a trigger. What are some ways you can manage that feeling? ,T,Insignificant
+I’ve been trying to break tasks down into smaller steps. ,P,Current Functional Status
+That’s a helpful strategy. How has that worked for you? ,T,Insignificant
+"It’s made things feel more manageable, which is nice. ",P,Current Functional Status
+I’m glad to hear that. Have you noticed any changes in how you view challenges lately? ,T,Insignificant
+I’m trying to see them as opportunities for growth rather than obstacles. ,P,History of Present Illness (HPI)
+That’s a powerful shift in perspective. How do you feel about your progress? ,T,Insignificant
+"I feel proud. It’s not easy, but I’m trying. ",P,History of Present Illness (HPI)
+That’s important to recognize. Let’s talk about your goals moving forward. What would you like to focus on in our next sessions? ,T,Insignificant
+I want to work on my emotional responses and maybe explore songwriting again. ,P,Next Steps
+Those sound like meaningful goals. We can definitely incorporate songwriting into our sessions. ,T,Next Steps
+That would be great! ,P,Insignificant
+How about we set a goal for you to write a short song or poem about your feelings for next time? ,T,Next Steps
+I can do that! ,P,Next Steps
+Wonderful! I’m looking forward to hearing it. Is there anything else you want to discuss today? ,T,Insignificant
+"Not really, I think we covered a lot. ",P,Insignificant
+Great. I’m proud of the progress you’re making. Keep focusing on those positive moments and self-awareness. ,T,Insignificant
+Thank you! ,P,Insignificant
+You’re welcome. I’ll see you next time! ,T,Insignificant
+Bye! ,P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you. How have you been since our last session?,T,Insignificant
+"I've been doing well, thanks! Just keeping busy with work and some projects.",P,Insignificant
+"That's good to hear. Last time, we talked about your move to L.A. and how it was a bittersweet decision. Have you had any new thoughts or reflections on that since we spoke?",T,History of Present Illness (HPI)
+"I think I've become more grateful for the opportunities here. I still miss home sometimes, but I feel like I belong here now.",P,History of Present Illness (HPI)
+That's a positive shift! It sounds like you're finding your place in L.A. What opportunities have you been pursuing lately?,T,Insignificant
+I've been working on some short films and collaborating with friends on projects. It's exciting to be creating again.,P,Current Functional Status
+That sounds wonderful! How does that creative process feel for you?,T,Insignificant
+It's really fulfilling. I love bringing ideas to life and working with others who are passionate about film too.,P,Current Functional Status
+That's great to hear. You mentioned feeling more disciplined in your pursuits; how has that impacted your creative work?,T,Insignificant
+"I think it's helped me stay focused and manage my time better. I used to get overwhelmed, but now I set small goals, which makes it easier.",P,History of Present Illness (HPI):Current Functional Status
+Setting small goals is a great strategy! How do you feel when you achieve those goals?,T,Insignificant
+I feel a sense of accomplishment. It's motivating and makes me want to keep going.,P,Current Functional Status
+That's fantastic! It's important to celebrate those wins. Have you faced any challenges while working on your projects?,T,Insignificant
+"Yeah, sometimes I struggle with self-doubt. I worry if my work is good enough or if I’ll ever make it in the industry.",P,Risk Assessment
+"Self-doubt can be tough to navigate, especially in creative fields. How do you usually cope with those feelings?",T,Insignificant
+I try to remind myself that everyone has doubts and that it's part of the process. I talk to my friends for support too.,P,Risk Assessment
+"That's a healthy approach. Having a support system is crucial. Have you noticed any patterns in your self-doubt? For example, does it come up more during certain stages of a project?",T,Insignificant
+Definitely. I tend to doubt myself more when I'm starting something new or when I'm waiting for feedback.,P,Risk Assessment
+That makes sense. Starting something new can be intimidating. Would you be open to trying some techniques to manage those feelings when they arise?,T,Insignificant
+"Sure, I'm open to that.",P,Insignificant
+Great! One technique we could explore is mindfulness. It can help ground you and reduce anxiety. Would you like to try a brief mindfulness exercise together?,T,Therapeutic Interventions
+"Yes, that sounds interesting.",P,Insignificant
+"Okay, let's take a moment. Close your eyes if you feel comfortable, and take a deep breath in through your nose... and out through your mouth. Focus on the sensation of your breath. ",T,Therapeutic Interventions
+*takes a deep breath* ,P,Insignificant
+"Notice any thoughts that come up, but try to let them pass like clouds in the sky. Just focus on your breath for a moment.",T,Therapeutic Interventions
+*pauses* ,P,Insignificant
+"When you're ready, you can open your eyes. How did that feel for you?",T,Insignificant
+It felt calming. I could feel my heart rate slow down a bit.,P,Mental Health Observations
+That's wonderful! Practicing mindfulness regularly can help you manage those moments of self-doubt. Would you be willing to incorporate this into your routine?,T,Therapeutic Interventions
+"Yes, I think I could do that. Maybe in the mornings before I start working.",P,Therapeutic Interventions
+That sounds like a great plan! Let's check in on how that goes next time. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’ve been thinking about my relationships too. I want to make sure I’m nurturing my friendships while pursuing my career.,P,Psychosocial History
+That’s an important consideration. How do you currently balance your time between work and socializing?,T,Insignificant
+"I try to set aside weekends for friends, but sometimes I get caught up in projects and forget.",P,Current Functional Status
+It can be easy to lose track of time when you're passionate about your work. How do you feel when you do spend time with friends?,T,Insignificant
+I feel recharged and happy. It’s nice to have that support and fun outside of work.,P,Mental Health Observations
+That’s great to hear! Perhaps we can explore ways to prioritize those social connections in your schedule moving forward. ,T,Next Steps
+I’d like that. I think it would help with my overall well-being.,P,Next Steps
+"Absolutely! Let’s work on finding a balance that feels right for you. For now, would you like to set a small goal to connect with friends this week?",T,Next Steps
+Yes! I’ll reach out to a couple of friends and plan something for this weekend.,P,Next Steps
+That sounds like a perfect goal! I’m looking forward to hearing how it goes. ,T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"You're welcome! I'm glad to support you. Remember, it’s all about progress, not perfection. See you next time!",T,Insignificant
+See you!,P,Insignificant

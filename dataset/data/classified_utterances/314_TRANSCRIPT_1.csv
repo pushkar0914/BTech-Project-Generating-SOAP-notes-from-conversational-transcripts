@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+[sync]  ,T,Insignificant
+"Hi, it's great to see you again! How have you been since our last session?  ",T,Insignificant
+"Hi Ellie! I've been okay, a bit overwhelmed with the decision about moving in with my parents, but managing.  ",P,Presenting Problem / Chief Complaint
+That sounds like a big change. Have you had a chance to talk more with your family about it?  ,T,Insignificant
+"Yes, we had a family meeting. Everyone is on board, but there are still so many logistics to figure out.  ",P,History of Present Illness (HPI)
+It sounds like you’re making progress. What has been the most challenging part for you?  ,T,Insignificant
+Just the thought of uprooting my family and the renovations. I want to make it a comfortable space for everyone.  ,P,History of Present Illness (HPI)
+Understandable. Have you thought about how to manage that stress?  ,T,Insignificant
+"I’ve tried to focus on one task at a time, but sometimes it feels like too much.  ",P,History of Present Illness (HPI)
+That's a good strategy. Have you been able to set aside time for yourself during this?  ,T,Insignificant
+Not really. I feel guilty taking time when there's so much to do.  ,P,History of Present Illness (HPI)
+Guilt can be a heavy burden. What do you think would help you feel less guilty about taking time for yourself?  ,T,Insignificant
+Maybe if I scheduled it like an appointment? But I worry about being seen as selfish.  ,P,History of Present Illness (HPI)
+Scheduling time for self-care is not selfish; it’s necessary. It helps you recharge. Would you be open to trying that?  ,T,Insignificant
+"I think so. I just need to remind myself that I can’t pour from an empty cup, right?  ",P,Insignificant
+Exactly! How about we set a goal for you to schedule at least one hour a week just for yourself?  ,T,Next Steps
+That sounds doable. I can start with that.  ,P,Next Steps
+Great! What activities would you like to include in that hour?  ,T,Insignificant
+I enjoy reading and sometimes just sitting outside with a cup of tea.  ,P,Next Steps
+Those sound lovely. How does it feel to think about taking that time?  ,T,Insignificant
+"A bit freeing, actually. It’s nice to know I can carve out that space.  ",P,History of Present Illness (HPI)
+I’m glad to hear that. You mentioned your daughter was in therapy. How has that been going?  ,T,Insignificant
+"She’s doing better, but there are still tough days. The group therapy helped, but it’s a process.  ",P,History of Present Illness (HPI)
+That’s understandable. Have you been able to communicate with her about her feelings?  ,T,Insignificant
+"Yes, we’ve had some heart-to-heart talks. I try to be open, but sometimes she shuts down.  ",P,History of Present Illness (HPI)
+It’s great that you’re making an effort. What do you think makes her shut down?  ,T,Insignificant
+I think she feels overwhelmed and doesn’t want to burden me.  ,P,History of Present Illness (HPI)
+It’s common for kids to feel that way. How do you reassure her that she can share her feelings with you?  ,T,Insignificant
+I tell her that I’m here for her and that it’s okay to feel whatever she’s feeling.  ,P,History of Present Illness (HPI)
+That’s a wonderful approach. It’s important she knows she has a safe space. Have you noticed any changes in your own anxiety since starting this journey?  ,T,Insignificant
+"I think I’m more aware of it, but I still have moments where it creeps back in, especially with the stress of everything.  ",P,History of Present Illness (HPI)
+Awareness is a big step. What strategies have you used when you feel that anxiety creeping in?  ,T,Insignificant
+I try deep breathing exercises and sometimes I journal.  ,P,History of Present Illness (HPI)
+Those are excellent techniques. How often do you find yourself using them?  ,T,Insignificant
+I tend to forget about them until I’m really stressed.  ,P,History of Present Illness (HPI)
+That’s normal. How about we work on integrating those techniques into your daily routine?  ,T,Therapeutic Interventions
+That could help. Maybe setting reminders on my phone?  ,P,Next Steps
+Absolutely! Reminders can be a great way to prompt you to take a moment for yourself.  ,T,Insignificant
+I’ll try that.  ,P,Insignificant
+Wonderful! Is there anything else on your mind today?  ,T,Insignificant
+I’ve been thinking about how to support my daughter better. I want to be there for her but also not overwhelm her.  ,P,History of Present Illness (HPI)
+It’s a delicate balance. Have you considered asking her what she needs from you?  ,T,Insignificant
+I haven’t directly asked her that. It might be a good idea to check in with her.  ,P,Next Steps
+"Yes, it could open up a dialogue about her feelings and your concerns.  ",T,Insignificant
+I’ll definitely try that.  ,P,Insignificant
+Great! I’m proud of you for wanting to support her. What are some other areas you’d like to explore in our sessions?  ,T,Insignificant
+I think I’d like to work on managing my own anxiety more effectively.  ,P,Presenting Problem / Chief Complaint
+That’s a solid goal. We can dive deeper into coping strategies and maybe explore some mindfulness techniques if you’re open to it.  ,T,Therapeutic Interventions
+I’d like that. I’m willing to try new things.  ,P,Insignificant
+Excellent! Let’s set that as a focus for our next session.  ,T,Next Steps
+Sounds good.  ,P,Insignificant
+"Before we wrap up, how do you feel about the progress you’ve made today?  ",T,Insignificant
+I feel more hopeful. It’s nice to talk through these things and feel supported.  ,P,History of Present Illness (HPI)
+"I’m glad to hear that! Remember, it’s a journey, and you’re making strides.  ",T,Insignificant
+"Thank you, Ellie.  ",P,Insignificant
+You’re welcome! I look forward to our next session.  ,T,Insignificant
+Me too! Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

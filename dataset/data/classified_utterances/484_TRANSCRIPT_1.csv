@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?",T,Insignificant
+"Hi! I’ve been doing okay, I think. A little overwhelmed with school, but managing.",P,History of Present Illness (HPI)
+That’s understandable. You mentioned feeling emotionally drained last time. Has that changed at all?,T,History of Present Illness (HPI)
+"Yes, I’d say it’s still there, but I’ve been trying to use some of the mindfulness techniques we talked about.",P,History of Present Illness (HPI): Therapeutic Interventions
+That’s great to hear! Can you tell me about how you’ve been using those techniques?,T,Therapeutic Interventions
+"Sure! I’ve been doing some breathing exercises before bed, and I’ve also started journaling a bit. It helps me to process my thoughts.",P,Therapeutic Interventions
+Journaling can be a fantastic tool for self-reflection. What have you been writing about?,T,Therapeutic Interventions
+Mostly about my feelings regarding school and some of the stressors I face. It helps me clarify things in my mind.,P,History of Present Illness (HPI)
+That sounds very productive. Have you noticed any specific patterns or themes in what you’ve been writing?,T,Therapeutic Interventions
+"I’ve noticed that I often write about feeling inadequate or overwhelmed, especially with group projects. ",P,History of Present Illness (HPI)
+That’s an important insight. How do those feelings of inadequacy affect you in your daily life?,T,History of Present Illness (HPI)
+They make me hesitant to participate in discussions or share my ideas. I worry that they won’t be good enough.,P,History of Present Illness (HPI)
+"It’s common to feel that way, especially in academic settings. Have you found any strategies that help you push through those feelings?",T,History of Present Illness (HPI)
+"I’ve been trying to remind myself that everyone has something valuable to contribute, and that it’s okay to make mistakes.",P,Therapeutic Interventions
+That’s a healthy perspective. How do you feel when you remind yourself of that?,T,History of Present Illness (HPI)
+"I feel a bit lighter, like I can breathe a little easier. But then it’s easy to slip back into doubt.",P,History of Present Illness (HPI)
+"It’s a process, and it’s okay to have ups and downs. Perhaps we can explore some cognitive-behavioral strategies to help reinforce that positive self-talk. Would you be open to that?",T,Therapeutic Interventions
+"Yes, I’d love to!",P,Insignificant
+"Great! One technique is to challenge negative thoughts. When you notice a thought like “I’m not good enough,” you can ask yourself if there’s evidence to support that thought.",T,Therapeutic Interventions
+That sounds helpful. I often don’t question those thoughts; I just accept them.,P,History of Present Illness (HPI)
+Exactly! The goal is to create a habit of questioning those thoughts. Can we practice that together? ,T,Therapeutic Interventions
+Sure! ,P,Insignificant
+Let’s take a recent situation where you felt inadequate. Can you share one?,T,History of Present Illness (HPI)
+"Last week, I had to present in class, and I felt like I stumbled over my words a lot.",P,History of Present Illness (HPI)
+How did that make you feel afterward?,T,History of Present Illness (HPI)
+I felt embarrassed and like I failed.,P,History of Present Illness (HPI)
+"Now, let’s challenge that thought. What evidence do you have that you failed?",T,Therapeutic Interventions
+"Well, I guess I didn’t get any negative feedback, and some classmates even told me I did well.",P,History of Present Illness (HPI)
+"That’s a great observation! So, is it fair to say that your initial thought of failing might not be accurate?",T,Progress Evaluation
+I see what you mean. I guess I was too hard on myself.,P,Progress Evaluation
+It’s a common reaction. Practicing this can help shift your mindset over time. How do you feel about using this technique in the future?,T,Therapeutic Interventions
+I think it could really help! ,P,Insignificant
+Excellent! Let’s set a goal for you to try this out over the next week. How does that sound?,T,Next Steps
+Sounds good! I’ll try to challenge my negative thoughts when they come up.,P,Next Steps
+Perfect! Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+"I’ve been thinking about my relationship with my dad. We don’t talk much, and I feel like I want to reach out more.",P,Psychosocial History
+That’s a significant realization. What has been holding you back from reaching out?,T,Psychosocial History
+I think it’s just the awkwardness of not having spoken in a while. I’m not sure what to say.,P,Psychosocial History
+It’s understandable to feel that way. Would it help to brainstorm some conversation starters or topics you could discuss?,T,Therapeutic Interventions
+"Yes, that would be helpful!",P,Insignificant
+"How about starting with something simple, like asking him about his recent activities or sharing something from your life that you’re proud of?",T,Therapeutic Interventions
+I like that idea! I could share about my progress in grad school.,P,Psychosocial History
+That sounds like a great way to reconnect! How do you feel about reaching out to him this week?,T,Psychosocial History
+"I feel a bit nervous, but I think I’ll do it. ",P,Psychosocial History
+"That’s a good first step. Remember, it’s about building the connection slowly. You don’t have to cover everything in one conversation.",T,Therapeutic Interventions
+True! Thanks for that reminder.,P,Insignificant
+You’re welcome! Let’s check in on that next session. How are you feeling about today’s session overall?,T,Insignificant
+I feel good! I appreciate the strategies we talked about.,P,Progress Evaluation
+I’m glad to hear that. Remember to be gentle with yourself as you implement these changes. I look forward to hearing about your progress next time!,T,Next Steps
+"Me too! Thank you, Ellie.",P,Insignificant
+"You’re welcome! Take care, and see you soon!",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I tried the bedtime routine, and it helped a bit.",P,Physiological Observations
+That’s fantastic! I’m glad to hear that. How did you feel about the changes you made?,T,Insignificant
+I felt more relaxed before bed. I read a little and listened to some calming music. It was nice.,P,Physiological Observations
+That’s wonderful progress! Have you noticed any changes in your sleep patterns?,T,Physiological Observations
+"I still wake up sometimes, but I feel like I’m falling asleep easier now.",P,Physiological Observations
+That’s a great improvement! It sounds like you’re on the right track. How about the family call you wanted to organize?,T,Insignificant
+"I did reach out to my sister, and we set up a call for this weekend!",P,Insignificant
+That’s excellent! How do you feel about that?,T,Insignificant
+"I’m a bit nervous, but also excited. It’s been a while since we all talked.",P,Psychosocial History
+"It’s completely natural to feel nervous. Just remember, it’s an opportunity to reconnect. What do you hope to discuss during the call?",T,Insignificant
+I want to catch up and see how everyone is doing. Maybe share some stories.,P,Insignificant
+That sounds lovely. Storytelling can really strengthen connections. Is there anything you want to prepare for the call?,T,Insignificant
+"I think I’ll write down some questions to ask them, so I don’t get too anxious.",P,Psychosocial History
+That’s a great strategy! Having a plan can help ease those nerves. What kind of questions do you have in mind?,T,Insignificant
+"Just asking about their lives, what’s new, and sharing some of my art projects.",P,Insignificant
+Those sound like wonderful conversation starters. It’s great that you want to share your art with them. ,T,Insignificant
+"Yeah, I think they’d love to hear about it.",P,Insignificant
+"Now, let’s talk about your anxiety. Have you continued using the grounding techniques we practiced?",T,History of Present Illness (HPI)
+"Yes, I’ve been using them when I feel anxious, especially at work.",P,History of Present Illness (HPI)
+That’s great to hear! How has it been working for you?,T,Insignificant
+"It helps a lot. I can feel the anxiety start to creep in, and then I just focus on the grounding exercise.",P,History of Present Illness (HPI)
+Fantastic! It sounds like you’re developing a strong toolkit for managing your anxiety. Are there any other techniques you’d like to explore?,T,Insignificant
+I’ve heard about mindfulness meditation. I’d like to try that.,P,Therapeutic Interventions
+Mindfulness meditation can be very beneficial. Would you like to practice a short mindfulness exercise together now?,T,Insignificant
+"Yes, I’d love that!",P,Insignificant
+Great! Let’s start by taking a few deep breaths together. Inhale deeply through your nose... and exhale slowly through your mouth. ,T,Insignificant
+*breathes in and out*,P,Insignificant
+"Now, as you continue to breathe, focus on the sensation of your breath entering and leaving your body. Notice any thoughts that come up, and gently guide your focus back to your breath.",T,Insignificant
+*breathes* ,P,Insignificant
+How does that feel for you?,T,Insignificant
+It feels calming. I can feel my shoulders relaxing.,P,Physiological Observations
+That’s wonderful! Mindfulness is all about being present and accepting your feelings without judgment. How do you think you could incorporate this into your daily routine?,T,Insignificant
+"I could try doing it in the morning or before bed, like my reading.",P,Therapeutic Interventions
+That sounds like a great plan! Consistency is key. Would you like to commit to practicing mindfulness a few times this week?,T,Insignificant
+"Yes, I’ll try to do it every morning.",P,Next Steps
+Perfect! I’m excited to hear how it goes. Is there anything else you’d like to explore today?,T,Insignificant
+I’ve been thinking about my past and how it still affects me. ,P,Trauma History
+That’s an important topic. Can you elaborate on what you’ve been reflecting on?,T,Insignificant
+I’ve been thinking about my time as a professional fighter and how I sometimes feel like I’m still fighting those battles in my head.,P,Trauma History
+"It’s understandable to feel that way, especially when those experiences were so intense. How do you think those past experiences shape your current feelings?",T,Insignificant
+I think they create a lot of pressure to succeed and not fail again. It’s like I’m always on guard.,P,Trauma History
+That makes a lot of sense. It’s common for past experiences to influence our present. Have you thought about how you can reframe those experiences?,T,Insignificant
+I haven’t really. I guess I just see them as failures.,P,Trauma History
+"What if we looked at them as learning experiences instead? Each fight taught you something valuable, right?",T,Insignificant
+"Yeah, I learned a lot about discipline and resilience.",P,Trauma History
+Exactly! Those qualities can serve you well in your current life. How might you apply those lessons to your daily challenges?,T,Insignificant
+"I could remind myself that setbacks are part of growth, not failures.",P,Trauma History
+That’s a powerful mindset! I encourage you to keep that perspective as you move forward. It can help lessen the weight of those past experiences.,T,Insignificant
+"Thank you, Ellie. That makes sense.",P,Insignificant
+You’re welcome! I’m proud of you for being willing to explore these feelings. It’s a big step in your healing journey. ,T,Insignificant
+I appreciate your support.,P,Insignificant
+Of course! Let’s continue to build on this progress next time we meet. Is there anything else you’d like to discuss before we wrap up?,T,Insignificant
+"No, I think we covered a lot today.",P,Insignificant
+Great! I’m looking forward to hearing about your family call and your mindfulness practice next session.,T,Insignificant
+Me too. Thanks for everything!,P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week!",T,Insignificant
+Bye!,P,Insignificant

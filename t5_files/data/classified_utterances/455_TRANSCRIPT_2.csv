@@ -1,0 +1,36 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! I’m glad to see you again. How did it go with practicing your boundary-setting in group settings?,T,Insignificant
+"Hi, Ellie! It went surprisingly well! I used the technique a couple of times.",P,Progress Evaluation
+That’s fantastic! Can you share an example of how it went?,T,Insignificant
+"Sure! There was a moment when someone asked about my family, and I felt it was too personal. So, I used the response we practiced.",P,History of Present Illness (HPI)
+How did that feel for you?,T,Insignificant
+"It felt liberating! The person respected my response, and I didn’t feel pressured to share more.",P,History of Present Illness (HPI)
+That’s a great outcome! It’s important to feel respected in your boundaries. Did this experience impact your feelings about connecting with others?,T,Insignificant
+"Yes, it made me feel more confident. I realized I can still connect without overexposing myself.",P,History of Present Illness (HPI)
+That’s an important realization. How has this newfound confidence influenced your interactions since then?,T,Insignificant
+"I feel more at ease in conversations. I’m more selective about what I share, which feels healthier.",P,Current Functional Status
+That’s a positive shift! Have you noticed any changes in your emotional responses after setting those boundaries?,T,Insignificant
+I feel less anxious in social situations. It’s like I have more control over my narrative.,P,History of Present Illness (HPI)
+That’s a powerful feeling. Have you encountered any challenges while implementing these boundaries?,T,Insignificant
+"There was one situation where I felt tempted to overshare again, but I caught myself.",P,History of Present Illness (HPI)
+It’s great that you recognized the urge. What did you do in that moment?,T,Insignificant
+I took a deep breath and reminded myself of the importance of boundaries. I redirected the conversation instead.,P,Current Functional Status
+Well done! Redirecting is a great strategy. Have you thought about how you can continue to reinforce this practice?,T,Insignificant
+I think I’ll keep journaling about my experiences. It helps me process everything.,P,Therapeutic Interventions
+Journaling can be a useful tool for reflection. Are there any specific themes or patterns you’ve noticed in your entries?,T,Insignificant
+I’ve been writing about my feelings of connection and disconnection. It’s interesting to see how I navigate those emotions.,P,History of Present Illness (HPI)
+That’s insightful. How do you feel when you explore those themes in your writing?,T,Insignificant
+It’s cathartic. I can see my growth and understand my emotions better.,P,History of Present Illness (HPI)
+That’s a valuable perspective. Are there any emotions that stand out as particularly challenging for you?,T,Insignificant
+"I think I still struggle with feelings of loneliness at times, especially when I’m not around friends.",P,History of Present Illness (HPI)
+Loneliness can be tough. What do you think contributes to those feelings for you?,T,Insignificant
+I think it’s the contrast of being around so many people and then feeling isolated when I’m alone.,P,History of Present Illness (HPI)
+That makes sense. Have you thought about how to address those feelings of loneliness?,T,Insignificant
+"I’ve considered reaching out to friends more often, even just for a chat.",P,Next Steps
+That sounds like a great idea! Connecting with others can help alleviate those feelings. Would you like to set a goal for reaching out to friends before our next session?,T,Insignificant
+"Yes, I’d like to aim for at least one meaningful conversation each week.",P,Next Steps
+That’s a realistic and achievable goal. Let’s check in on how that goes next time. Is there anything else on your mind today?,T,Insignificant
+Not at the moment! I feel good about our progress.,P,Progress Evaluation
+"I’m glad to hear that! Remember, it’s about taking small steps. I look forward to hearing about your conversations next time.",T,Insignificant
+"Thank you, Ellie! See you soon.",P,Insignificant
+Bye for now!,T,Insignificant

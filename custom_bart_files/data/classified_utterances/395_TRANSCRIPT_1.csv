@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, a bit stressed still, but managing.",P,History of Present Illness (HPI)
+"I'm glad to hear you're managing. Last time, we discussed some of your stressors, particularly regarding your career. Have you had any progress in that area?",T,Insignificant
+"Well, I’ve been applying for a few photography gigs, but nothing has come through yet. It’s a bit discouraging.",P,History of Present Illness (HPI)
+I can understand how that would feel discouraging. Have you found any specific strategies that help you cope with that stress?,T,Insignificant
+"I’ve been trying to focus on my photography more, like taking photos for fun instead of just for work. It helps a little.",P,History of Present Illness (HPI): Therapeutic Interventions
+That sounds like a great approach! Engaging in something you love can often relieve stress. Are there any particular themes or subjects you've been focusing on in your photography?,T,Insignificant
+I've been doing a lot of nature photography lately. Just being outside helps me feel better.,P,History of Present Illness (HPI): Physiological Observations
+Nature can be very grounding. Have you had the chance to explore any new locations for your photography?,T,Insignificant
+"Yes! I went to a park last weekend, and it was really refreshing. I took some great shots of the flowers and trees.",P,History of Present Illness (HPI): Current Functional Status
+That sounds wonderful! How did that experience make you feel?,T,Insignificant
+"It felt really good. I felt peaceful and happy, just being in the moment.",P,Physiological Observations
+That's fantastic! It sounds like you found a way to connect with your passion and also find peace. How do you think you can incorporate more of those experiences into your week?,T,Insignificant
+I could definitely make more time for it. Maybe I could go out every weekend or even after work sometimes.,P,Next Steps
+That sounds like a solid plan. Setting aside time for your passion can help alleviate some of that stress. Have you had any thoughts about how you might feel if you were able to pursue photography more seriously?,T,Insignificant
+I think it would make me feel more fulfilled. I just worry about the financial side of it.,P,History of Present Illness (HPI): Risk Assessment
+"It's understandable to worry about finances, especially when pursuing a passion. Have you considered any ways to balance your passion with financial stability?",T,Insignificant
+Maybe I could do some freelance work or sell prints online. I’ve thought about that.,P,Next Steps
+That sounds like a great idea! Freelancing could provide you with both income and creative fulfillment. What steps do you think you could take to start that process?,T,Insignificant
+I could set up a website and start promoting my work on social media. I’ve been wanting to do that for a while.,P,Next Steps
+That sounds like a positive step forward! Setting up a website could really help you showcase your talent. How do you feel about taking that step?,T,Insignificant
+"A bit nervous, to be honest. I’m not sure if it will be good enough.",P,Risk Assessment
+"It's natural to feel nervous, especially when putting your work out there. Remember, your unique perspective is valuable. What would you say to a friend who had the same fears about sharing their work?",T,Insignificant
+I would tell them to just go for it! Everyone starts somewhere.,P,Insignificant
+"Exactly! It’s important to be kind to yourself and recognize that growth comes from taking risks. As you think about this, how can you apply that same advice to yourself?",T,Insignificant
+I guess I should just start and not worry too much about perfection.,P,Next Steps
+That's a great mindset to adopt. Perfectionism can often hold us back. How about we set a goal for you to take some actionable steps towards this website by our next session?,T,Next Steps
+That sounds good! Maybe I could aim to have a rough draft of the website ready.,P,Next Steps
+That sounds like a perfect goal! Remember to celebrate the little victories along the way. Is there anything else you'd like to discuss today?,T,Insignificant
+I think that covers it for now. I feel a bit more motivated.,P,History of Present Illness (HPI): Progress Evaluation
+"I'm glad to hear that! Remember, it’s a journey, and every step counts. I look forward to hearing about your progress next time. ",T,Insignificant
+"Thank you, Ellie!",P,Insignificant
+You're welcome! See you next time!,T,Insignificant
+Bye!,P,Insignificant

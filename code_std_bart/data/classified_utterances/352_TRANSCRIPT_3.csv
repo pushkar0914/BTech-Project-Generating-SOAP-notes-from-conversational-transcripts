@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve been doing really well. I’ve been practicing the reframing techniques we talked about.  ",P,Progress Evaluation
+That’s fantastic! How has that been going for you?  ,T,Insignificant
+"It’s been helpful. I catch myself thinking negatively, but now I try to reframe it, and it works!  ",P,Progress Evaluation
+That’s wonderful progress! Have you noticed any specific situations where this has been particularly useful?  ,T,Insignificant
+"Yes, there was a time when I felt overwhelmed with work, and instead of thinking I can’t handle it, I reminded myself that I’ve managed before.  ",P,History of Present Illness (HPI)
+That’s a great example! It shows you’re building resilience. Have you been able to maintain your social connections as well?  ,T,Insignificant
+"Yes! I went out with my co-workers again last week, and it was a lot of fun.  ",P,Current Functional Status
+That’s great to hear! How did it feel to spend that time with them?  ,T,Insignificant
+"It felt really good. I felt included and part of the team, which is nice.  ",P,Current Functional Status
+That’s a significant feeling. Building those connections can enhance your overall well-being. Have you experienced any challenges in that area?  ,T,Insignificant
+"A little. Sometimes I still feel shy about reaching out to people, but I’m working on it.  ",P,History of Present Illness (HPI)
+It’s normal to feel shy. What strategies have you been using to overcome that shyness?  ,T,Insignificant
+"I remind myself that everyone is just trying to connect, and I try to take small steps, like initiating conversations.  ",P,Therapeutic Interventions
+That’s a great approach! It’s all about taking small steps towards building those connections. Have you noticed any changes in your self-confidence?  ,T,Insignificant
+"Yes! I feel more confident in social situations, which is a nice change.  ",P,Progress Evaluation
+That’s wonderful to hear! It sounds like you’re really growing. Is there anything specific you’d like to focus on today?  ,T,Insignificant
+"I’d like to explore how to handle moments when I feel overwhelmed, especially at work.  ",P,Presenting Problem / Chief Complaint
+Absolutely! Let’s start by identifying what specifically overwhelms you at work.  ,T,Insignificant
+I think it’s when I have multiple deadlines at once. It feels like too much to handle.  ,P,History of Present Illness (HPI)
+That’s understandable. Have you tried any strategies to manage those overwhelming moments?  ,T,Insignificant
+"I’ve been trying to prioritize tasks, but sometimes I still feel anxious.  ",P,History of Present Illness (HPI)
+Prioritizing tasks is a great start. We can also explore time management techniques to help with that. Would you like to try that?  ,T,Insignificant
+"Yes, I think that would be really helpful.  ",P,Insignificant
+"One technique is the Pomodoro Technique, where you work for a set period, then take a short break. Have you heard of it?  ",T,Insignificant
+"I think I’ve heard of it, but I’ve never tried it.  ",P,Insignificant
+"It can be effective! You work for 25 minutes, then take a 5-minute break. After four cycles, you take a longer break. Would you like to give it a try?  ",T,Insignificant
+"Yes, I’d love to! I think it would help me stay focused.  ",P,Insignificant
+Great! Let’s also discuss how to manage your expectations during busy times. It’s okay to ask for help or delegate tasks when needed.  ,T,Insignificant
+That’s true. I sometimes hesitate to ask for help because I don’t want to seem incompetent.  ,P,History of Present Illness (HPI)
+"It’s important to remember that asking for help is a sign of strength, not weakness. How does that perspective feel?  ",T,Insignificant
+It feels good! I need to remind myself of that more often.  ,P,Insignificant
+Absolutely! It’s all about collaboration. Is there anything else you’d like to discuss today?  ,T,Insignificant
+"No, I think we’ve covered a lot of ground. I feel really good about everything we talked about!  ",P,Progress Evaluation
+I’m glad to hear that! Thank you for your openness today. I look forward to our next session.  ,T,Insignificant
+"Me too! Thank you, Ellie.  ",P,Insignificant
+Goodbye for now!  ,T,Insignificant
+Bye!,P,Insignificant

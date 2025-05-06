@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie. I’ve been okay. I tried to do some journaling like we talked about.  ",P,History of Present Illness (HPI)
+That’s great! How did that go for you?  ,T,Insignificant
+"It was a little hard at first, but once I got into it, I found it helpful.  ",P,History of Present Illness (HPI)
+I’m glad to hear that! What did you write about?  ,T,Insignificant
+I wrote about that anxious day I mentioned last time and how I felt afterward.  ,P,History of Present Illness (HPI)
+That sounds like a valuable reflection. How did it feel to put those thoughts on paper?  ,T,Insignificant
+It felt like I was releasing some of the weight. I could see my feelings more clearly.  ,P,History of Present Illness (HPI)
+That’s a wonderful insight! Sometimes writing can help us organize our thoughts and emotions.  ,T,Insignificant
+"Yeah, I think I’ll keep doing it.  ",P,Insignificant
+Excellent! Have you had any moments since our last session where you felt overwhelmed?  ,T,History of Present Illness (HPI)
+"Actually, yes. I had an audition last week, and I was really anxious leading up to it.  ",P,History of Present Illness (HPI)
+Auditions can be nerve-wracking. How did you cope with that anxiety?  ,T,Insignificant
+"I tried to use the breathing exercises you taught me, and it helped a bit.  ",P,Therapeutic Interventions
+That’s fantastic! It sounds like you’re starting to apply the tools we’ve discussed. What happened during the audition?  ,T,Insignificant
+"I felt nervous, but I think I did okay. I just reminded myself that it was practice.  ",P,History of Present Illness (HPI)
+That’s a healthy perspective! Focusing on the experience rather than the outcome can reduce pressure.  ,T,Insignificant
+"Yeah, I think I need to remind myself of that more often.  ",P,Insignificant
+"Absolutely. It’s a process, and it’s okay to take it one step at a time. How did you feel afterward?  ",T,Insignificant
+I felt relieved but also a bit down because I didn’t get a callback.  ,P,History of Present Illness (HPI)
+It’s normal to feel disappointed. How did you cope with those feelings?  ,T,Insignificant
+"I tried to distract myself and went out with friends, but I still felt a bit off.  ",P,History of Present Illness (HPI)
+"Socializing can help, but it’s also important to allow yourself to feel those emotions. Did you journal about it?  ",T,Insignificant
+"I did, actually. I wrote about my disappointment and how it’s hard not to take it personally.  ",P,History of Present Illness (HPI)
+"That’s a good reflection. Remember, rejection is a part of the process in acting. It doesn’t define your worth or talent.  ",T,Insignificant
+"I know, but it’s tough to remember that sometimes.  ",P,Insignificant
+"It is, and that’s completely understandable. How can you remind yourself of your strengths during these times?  ",T,Insignificant
+Maybe I could list out my accomplishments or positive feedback I’ve received.  ,P,Next Steps
+That’s a great idea! Keeping a list of affirmations can help counter negative thoughts. Would you like to start that?  ,T,Next Steps
+"Yes, I think I will.  ",P,Next Steps
+Wonderful! Let’s also revisit mindfulness. Have you had a chance to practice any mindfulness techniques?  ,T,Insignificant
+"I did a few breathing exercises, and I think they helped.  ",P,Therapeutic Interventions
+"Excellent! Mindfulness takes practice, but it can be a great tool for managing anxiety.  ",T,Insignificant
+I feel like it’s something I need to keep working on.  ,P,Insignificant
+That’s the spirit! It’s a journey. Is there anything else on your mind that you’d like to discuss today?  ,T,Insignificant
+I think I’m okay for now. I just want to keep working on these tools.  ,P,Next Steps
+"That sounds like a solid plan. Remember, progress takes time, and you’re doing great.  ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.  ",P,Insignificant
+You’re very welcome! I look forward to hearing about your progress next session. Take care!  ,T,Insignificant
+You too! Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

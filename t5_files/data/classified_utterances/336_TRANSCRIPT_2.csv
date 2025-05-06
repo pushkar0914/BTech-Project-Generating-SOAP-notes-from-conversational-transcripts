@@ -1,0 +1,56 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s Ellie again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I’ve been good, a bit busy with work and trying to find gigs.",P,Psychosocial History
+That’s great to hear! Were you able to find any new opportunities?,T,Insignificant
+Yes! I found an open mic night and performed last weekend.,P,History of Present Illness (HPI)
+"Wow, that’s fantastic! How did it go?",T,Insignificant
+"It was nerve-wracking at first, but once I started singing, it felt amazing.",P,History of Present Illness (HPI)
+That’s wonderful! How did the audience respond?,T,Insignificant
+"They seemed to enjoy it! I got a few compliments afterward, which felt great.",P,History of Present Illness (HPI)
+That’s a huge accomplishment! How did it feel to receive that positive feedback?,T,Insignificant
+"It felt validating, like all the hard work was worth it.",P,History of Present Illness (HPI)
+That’s a beautiful feeling. Have you thought about how you can continue to build on that momentum?,T,Insignificant
+I’m thinking of looking for more open mics and maybe even some small gigs.,P,Next Steps
+That sounds like a solid plan! How can you hold yourself accountable to that goal?,T,Insignificant
+I could set a specific number of events to attend each month.,P,Next Steps
+That’s an excellent idea! How many do you think you could realistically aim for?,T,Insignificant
+Maybe two or three a month?,P,Next Steps
+That sounds achievable. Let’s set that as your goal for the next month. How about your meditation practice? Have you been able to incorporate it into your routine?,T,Insignificant
+"Yes! I’ve been meditating before bed, and it’s really helping me unwind.",P,History of Present Illness (HPI)
+I’m glad to hear that! How has it affected your sleep?,T,Insignificant
+I’ve been sleeping better overall. I feel more relaxed when I go to bed.,P,Physiological Observations
+That’s fantastic progress! Have you noticed any changes in your self-criticism since we last spoke?,T,Insignificant
+"I think I’m being kinder to myself. I still have moments, but I’m catching them quicker.",P,History of Present Illness (HPI)
+That’s great to hear! What techniques have been most helpful for you in shifting your mindset?,T,Insignificant
+I’ve been practicing affirmations and reminding myself of my strengths.,P,Therapeutic Interventions
+Affirmations can be powerful! What’s one affirmation that resonates with you?,T,Insignificant
+"“I am a talented singer, and I deserve to share my voice.”",P,Therapeutic Interventions
+That’s a beautiful affirmation. How does saying that make you feel?,T,Insignificant
+It gives me a boost of confidence and reminds me why I love singing.,P,History of Present Illness (HPI)
+That’s wonderful! How can you incorporate that affirmation into your daily routine?,T,Insignificant
+I could say it every morning when I wake up.,P,Next Steps
+That’s a great idea! Starting your day with positive affirmations can set a good tone. How about your relationships? How are things with your girlfriend?,T,Insignificant
+They’re going really well. We’re supportive of each other’s goals.,P,Psychosocial History
+That’s lovely to hear. Have you had any meaningful conversations about your dreams and aspirations?,T,Insignificant
+"Yes, we talk about our goals a lot. It feels good to have that support.",P,Psychosocial History
+That’s so important. How do you feel when you share your dreams with her?,T,Insignificant
+It feels freeing. She encourages me to go after what I want.,P,Psychosocial History
+That’s a beautiful dynamic to have. Is there anything you’d like to work on in your relationship?,T,Insignificant
+I think we could work on communication a bit more. Sometimes I hold back my feelings.,P,History of Present Illness (HPI)
+That’s a good insight. What do you think holds you back from expressing your feelings?,T,Insignificant
+I worry about burdening her with my problems.,P,History of Present Illness (HPI)
+"It’s understandable to feel that way, but sharing can strengthen your bond. How might you approach that?",T,Insignificant
+Maybe I could pick a specific time to talk about my feelings when we’re both relaxed.,P,Next Steps
+That sounds like a great plan! It’s important to create a safe space for those conversations. How about your family? Have you had any thoughts about your relationship with your brothers since we last talked?,T,Insignificant
+"I’ve been reflecting on it. I still don’t want to be around them, but I’m trying to let go of the anger.",P,History of Present Illness (HPI)
+That’s a healthy approach. How do you feel when you think about letting go of that anger?,T,Insignificant
+"It feels freeing, but it’s hard to fully let go.",P,History of Present Illness (HPI)
+It can be a process. What steps do you think you could take to work towards that?,T,Insignificant
+I could write down my feelings about them and then find a way to release that energy.,P,Next Steps
+That’s a good idea! Writing can be a powerful tool for processing emotions. Would you be open to trying that this week?,T,Insignificant
+"Yes, I’ll give it a shot.",P,Next Steps
+Great! I’m looking forward to hearing how that goes. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we covered everything. Thank you for your support!",P,Insignificant
+You’re very welcome! I’m proud of the progress you’ve made. I look forward to our next session.,T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Goodbye! Take care!,T,Insignificant

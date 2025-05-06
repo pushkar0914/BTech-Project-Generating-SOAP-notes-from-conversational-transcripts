@@ -1,0 +1,62 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh> ,P,Insignificant
+Hi again! It’s nice to see you. How have you been since our last session? ,T,Insignificant
+"I've been okay, I guess. A bit up and down. ",P,History of Present Illness (HPI)
+Up and down? Can you elaborate on that? ,T,History of Present Illness (HPI)
+"Well, some days I feel really good, like after I go hiking or fishing. But then there are days when I feel really low and just can’t shake it off. ",P,History of Present Illness (HPI)
+I understand. It sounds like you’re experiencing some fluctuations in your mood. Have you noticed any triggers for those low days? ,T,History of Present Illness (HPI)
+"Yeah, sometimes it’s just the pain in my back that makes everything seem worse. Other times, it’s thoughts about my business or my dad. ",P,History of Present Illness (HPI)
+Those sound like significant stressors. How do you usually cope when those thoughts come up? ,T,History of Present Illness (HPI)
+"I try to distract myself, maybe watch a movie or go for a walk, but it doesn’t always work. ",P,History of Present Illness (HPI)
+It’s understandable to want to distract yourself. Have you tried any specific coping strategies that have been helpful? ,T,History of Present Illness (HPI)
+"I’ve been meditating more. That helps sometimes, but it’s hard to focus when my mind is racing. ",P,History of Present Illness (HPI)
+"Meditation can be challenging, especially with racing thoughts. Would you like to explore some techniques that might help you focus better during meditation? ",T,Insignificant
+"Sure, that would be helpful. ",P,Insignificant
+"One technique is to focus on your breath. When you notice your mind wandering, gently bring your focus back to your breath. Another approach is to use guided meditations. Have you tried those? ",T,Insignificant
+"I haven’t, but I’m open to it. ",P,Insignificant
+"Great! I can suggest some apps or resources you can explore. Now, you mentioned feeling low when thinking about your business. Can you share more about that? ",T,History of Present Illness (HPI)
+"Yeah, I just think about what could have been if I hadn’t sold it. Sometimes I wonder if I made the right choice. ",P,History of Present Illness (HPI)
+It sounds like there’s a lot of regret tied to that decision. What do you think you could have done differently? ,T,Insignificant
+"I could have sought advice or just waited it out. I acted out of fear, and I regret that. ",P,History of Present Illness (HPI)
+It’s common to look back and wish we had made different choices. How does that regret affect you now? ,T,History of Present Illness (HPI)
+"It makes me feel stuck sometimes, like I can’t move forward. ",P,History of Present Illness (HPI)
+That feeling of being stuck can be really heavy. What do you think would help you feel more free to move forward? ,T,Insignificant
+I think I need to find a way to let go of that regret. ,P,History of Present Illness (HPI)
+Letting go can be a process. One approach is to acknowledge those feelings and allow yourself to grieve the loss of that opportunity. Would you be open to exploring that? ,T,Insignificant
+"Yeah, I think I need to. ",P,Insignificant
+Good. It’s important to give yourself space to feel those emotions. Would you like to try a brief exercise where you express those feelings? ,T,Insignificant
+"Sure, what do you have in mind? ",P,Insignificant
+"Let’s take a few moments to write down how you feel about the business sale. You can include your regrets, what you learned, and how you want to move forward. ",T,Therapeutic Interventions
+"Okay, I can do that. ",P,Insignificant
+Take your time. ,T,Insignificant
+"<pauses> I feel regret for selling my business out of fear. I wish I had been more patient and sought help. I learned that fear often leads to hasty decisions. Moving forward, I want to make decisions based on clarity, not fear. ",P,History of Present Illness (HPI)
+That’s a powerful reflection. How does it feel to have expressed that? ,T,Insignificant
+"It feels good to get it out, actually. ",P,Insignificant
+I’m glad to hear that. Writing can be a therapeutic way to process emotions. Would you consider doing that more regularly? ,T,Therapeutic Interventions
+"Yes, I think I will. ",P,Insignificant
+"Excellent. Now, let’s shift gears a bit. You mentioned feeling a bit depressed. Can you describe what that looks like for you on a daily basis? ",T,History of Present Illness (HPI)
+"It’s just a heaviness, like I’m dragging my feet. I don’t want to do much, and I feel unmotivated. ",P,History of Present Illness (HPI)
+That sounds really tough. Have you noticed any activities that help lift that heaviness? ,T,History of Present Illness (HPI)
+"Sometimes being outdoors helps, but it’s not consistent. ",P,History of Present Illness (HPI)
+Being in nature can be very grounding. What about your relationships? Have you been able to connect with friends or family? ,T,History of Present Illness (HPI)
+"I see my mom and sister occasionally, but I feel like I’m holding back. ",P,Psychosocial History
+Holding back? In what way? ,T,Insignificant
+"I don’t want to burden them with my feelings, so I put on a brave face. ",P,Psychosocial History
+"It’s understandable to want to protect loved ones from our struggles, but sharing can often strengthen those connections. Would you be willing to experiment with being more open with them? ",T,Therapeutic Interventions
+I could try that. ,P,Insignificant
+"That’s a great step. Remember, it’s okay to lean on your support system. Now, let’s talk about your sleep. You mentioned it’s been difficult. Have you made any changes since we last spoke? ",T,History of Present Illness (HPI)
+"I’ve been trying to stretch before bed, but it’s still hit or miss. ",P,Physiological Observations
+Stretching can be helpful. Another technique is to establish a calming bedtime routine. Have you considered that? ,T,Therapeutic Interventions
+"No, I haven’t really thought about it. ",P,Insignificant
+"A calming routine can signal to your body that it’s time to wind down. This could include activities like reading, gentle stretching, or even listening to soothing music. ",T,Therapeutic Interventions
+That sounds nice. I’ll give it a shot. ,P,Insignificant
+Wonderful! Let’s check in on your goals from last time. You wanted to focus on coping strategies and address your feelings of regret. How do you feel about your progress? ,T,Progress Evaluation
+I think I’m making progress. Writing down my feelings was a good step. ,P,Progress Evaluation
+I’m glad to hear that. What would you like to focus on for our next session? ,T,Insignificant
+I’d like to explore more about letting go of regret and maybe some more coping strategies. ,P,Next Steps
+That sounds like a solid plan. We can also check in on your sleep and meditation practices. ,T,Next Steps
+"Yes, let’s do that. ",P,Insignificant
+Great! Thank you for sharing today. It’s been a productive session. ,T,Insignificant
+Thank you! ,P,Insignificant
+See you next time. ,T,Insignificant
+Bye! ,P,Insignificant

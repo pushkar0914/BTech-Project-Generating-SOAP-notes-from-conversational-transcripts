@@ -1,0 +1,38 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How has your week been?,T,Insignificant
+"Hi, Ellie! It’s been pretty good. I actually started taking walks like we talked about!",P,Current Functional Status
+That’s fantastic! How did it feel to incorporate that into your routine?,T,Insignificant
+"It felt really nice! I’ve been going for short walks after work, and it helps clear my mind.",P,Current Functional Status
+That’s wonderful to hear! Exercise can be such a great way to relieve stress. Have you noticed any changes in your mood or energy levels?,T,Insignificant
+"Yeah, I feel a bit more energized, and it’s nice to have that time to myself.",P,Mental Health Observations
+I’m glad to hear that! You also mentioned wanting to improve your sleep routine. How has that been going?,T,Insignificant
+"I’ve been trying to stick to a schedule, and I think it’s helping. I feel like I’m sleeping a bit better.",P,Physiological Observations
+That’s great progress! Consistency can make a big difference. What time have you been going to bed?,T,Insignificant
+"I’ve been aiming for around 10:30, which is earlier than I was before.",P,Physiological Observations
+That’s a great goal! How do you feel about your overall stress levels this week?,T,Insignificant
+I think they’ve gone down a bit. I feel more in control now that I’m taking those walks and getting better sleep.,P,Mental Health Observations
+That’s excellent! It sounds like you’re making positive changes. Have you been able to keep up with your studies as well?,T,Insignificant
+"I’ve been studying a bit more too. I’m still struggling with motivation, but I’m trying to set small goals.",P,History of Present Illness (HPI)
+"Setting small, achievable goals is a great strategy. What kind of goals have you set for yourself?",T,Insignificant
+I’ve been trying to study for at least 30 minutes a day instead of cramming all at once.,P,Current Functional Status
+That’s a smart approach! It can make studying feel less overwhelming. Have you found any specific topics or areas of psychology that interest you more?,T,Insignificant
+I’ve been really interested in counseling techniques lately. I like the idea of helping people work through their issues.,P,History of Present Illness (HPI)
+That’s a valuable area to explore. Have you thought about any specific techniques or methods that resonate with you?,T,Insignificant
+"I’ve been reading about active listening and empathy, and I think those are really important.",P,History of Present Illness (HPI)
+Absolutely! Those skills are crucial in counseling. Have you had any opportunities to practice those skills in your volunteer work?,T,Insignificant
+"Yes, actually! I’ve been trying to use active listening with the people I interact with, and it feels good to connect with them.",P,Current Functional Status
+That’s fantastic! It sounds like you’re applying what you’re learning in real-life situations. Is there anything else you’d like to focus on today?,T,Insignificant
+I guess I’m just curious about how to handle stress better when it comes up unexpectedly.,P,Presenting Problem / Chief Complaint
+That’s a great topic. What kinds of situations tend to cause you stress?,T,Insignificant
+I think when I have deadlines for school or work. It can feel overwhelming sometimes.,P,History of Present Illness (HPI)
+It’s common to feel that way during busy times. Have you tried any techniques to manage stress in those moments?,T,Insignificant
+"I’ve tried deep breathing, but I sometimes forget to do it when I’m really stressed.",P,History of Present Illness (HPI)
+It can be hard to remember those techniques in the heat of the moment. Would it help to set reminders or practice them when you’re not feeling stressed?,T,Insignificant
+"Yeah, I think that would be helpful. I want to make it a habit.",P,Next Steps
+That’s a great idea! Let’s make that a goal for the week. How about setting a reminder on your phone to practice deep breathing daily?,T,Next Steps
+I can do that! I’ll try to make it part of my walk routine.,P,Next Steps
+Perfect! I’m looking forward to hearing how that goes. Is there anything else on your mind today?,T,Insignificant
+"No, I think that’s it for now. Thank you for all your help!",P,Insignificant
+You’re very welcome! I’m proud of the progress you’re making. See you next time!,T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Goodbye!,T,Insignificant

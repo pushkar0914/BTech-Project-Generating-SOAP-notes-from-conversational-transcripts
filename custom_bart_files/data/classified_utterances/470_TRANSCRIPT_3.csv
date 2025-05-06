@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+I’ve been okay. I practiced mindfulness and reached out to some contacts.,P,History of Present Illness (HPI)
+That’s fantastic! How did it go?,T,Insignificant
+"I got a response from one of my classmates, and they mentioned a job opening at a daycare!",P,History of Present Illness (HPI)
+That’s exciting news! How do you feel about that opportunity?,T,Insignificant
+"I feel hopeful, but I’m also nervous about applying.",P,History of Present Illness (HPI)
+It’s natural to feel nervous. What specifically makes you feel that way?,T,Insignificant
+I guess I worry that I won’t be good enough for the position.,P,History of Present Illness (HPI)
+"It’s common to have those feelings, but remember the strengths you’ve identified. You have experience in child development and a passion for working with kids. How can you remind yourself of that?",T,Insignificant
+I could look at my list of accomplishments or repeat my affirmations before applying.,P,Therapeutic Interventions
+That’s a great strategy! Let’s take a moment to visualize yourself applying confidently. How does that feel?,T,Insignificant
+It feels empowering. I can do this!,P,Insignificant
+Absolutely! Let’s work on your application together. What do you think you should include in your cover letter?,T,Insignificant
+I want to highlight my experience and my dedication to helping children grow.,P,Insignificant
+Excellent! Those are key points. Let’s also mention your recent volunteer work. It shows your commitment to the field. How does that sound?,T,Insignificant
+That sounds perfect! I’ll definitely include that.,P,Insignificant
+"Great! Once you’ve written it, would you like to review it together in our next session?",T,Insignificant
+"Yes, I’d appreciate that.",P,Insignificant
+"Wonderful! Now, how have you been feeling about your role as a single parent since we last spoke?",T,Insignificant
+"I’ve been trying to focus on the positives, but some days are still tough.",P,History of Present Illness (HPI)
+It’s okay to have tough days. Have you been able to spend quality time with your daughter?,T,Insignificant
+"Yes! We went to the park last weekend, and we had a picnic. It was nice.",P,Current Functional Status
+That sounds lovely! Those moments can be so fulfilling. How did your daughter enjoy it?,T,Insignificant
+She loved it! She was so happy to be outside and play.,P,Insignificant
+That’s wonderful to hear! Creating those joyful memories is so important. Do you have plans for more outings?,T,Insignificant
+"Yes, I want to take her to see a movie next week.",P,Current Functional Status
+That sounds like a fun plan! It’s great that you’re prioritizing that time together. Have you noticed any changes in your relationship with her?,T,Insignificant
+"I think we’re getting closer. I’m more present with her, and I try to listen more.",P,History of Present Illness (HPI)
+That’s a beautiful change. Being present can make a significant difference in your connection. Is there anything specific you’d like to work on as a parent?,T,Insignificant
+I want to be more patient with her when she gets upset.,P,History of Present Illness (HPI)
+Patience is a valuable quality. Would you like to explore some techniques to help with that?,T,Insignificant
+"Yes, I’d like that.",P,Insignificant
+"One technique is deep breathing. When you feel yourself getting frustrated, taking a moment to breathe can help you respond calmly. Would you like to practice that together?",T,Therapeutic Interventions
+Sure!,P,Insignificant
+Let’s take a deep breath in… hold it… and exhale slowly. How does that feel?,T,Insignificant
+It feels calming. I can see how that would help.,P,Insignificant
+Absolutely! Practicing that can help you pause before reacting. Would you like to set a goal to practice this technique when you feel overwhelmed?,T,Next Steps
+"Yes, that sounds good. I’ll try to remember to breathe before reacting.",P,Next Steps
+"Great! Remember, it’s a process, and it’s okay to have setbacks. Is there anything else you’d like to discuss today?",T,Insignificant
+I think I’m good for now. I feel like I’ve made progress.,P,Progress Evaluation
+You’ve made wonderful progress! I’m so proud of you. Let’s keep building on this momentum in our next session. I look forward to hearing about your application!,T,Progress Evaluation
+Thank you! I appreciate your support.,P,Insignificant
+"You’re welcome! Take care, and see you next time!",T,Insignificant
+Goodbye!,P,Insignificant

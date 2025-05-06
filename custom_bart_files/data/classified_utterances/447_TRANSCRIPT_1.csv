@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"hey, I've been okay. Just trying to keep up with everything.",P,Insignificant
+"That’s good to hear. Last time, you mentioned feeling stressed about those court tickets. Have you made any progress on that front?",T,History of Present Illness (HPI)
+"Yeah, I actually spoke to a friend who's a lawyer. They said I might be able to get a payment plan or something, so that felt good.",P,History of Present Illness (HPI)
+That’s a positive step! How did it feel to reach out for help?,T,Insignificant
+"Honestly, it felt kind of weird at first. I’m not used to asking for help, you know? But it was nice to have someone who knows what they’re talking about.",P,History of Present Illness (HPI)
+"It’s great that you took that initiative. Asking for help can be tough, especially when you’re used to handling things on your own. ",T,Insignificant
+Right? I guess it’s just part of the whole growing up thing.,P,Insignificant
+Absolutely. You also mentioned in our last session about bottling up your emotions. Have you noticed any changes in how you handle your feelings since we last spoke?,T,History of Present Illness (HPI)
+"I’ve been trying to talk to my friends more. Like, if something's bothering me, I’ll just bring it up instead of keeping it in.",P,History of Present Illness (HPI)
+That’s a wonderful strategy! How has that been working for you?,T,Insignificant
+"It’s been good, actually. They’re supportive, and it feels nice to not carry everything alone.",P,Current Functional Status
+That’s so important. Building a support system can really help lighten the emotional load. Have you faced any challenges while trying to open up?,T,Insignificant
+"Sometimes, I worry that I’ll burden them with my problems, you know? ",P,Risk Assessment
+That’s a common concern. It’s important to remember that friendships are built on sharing and supporting each other. Have you shared that worry with them?,T,Insignificant
+"Not yet, but I think I should. ",P,Insignificant
+That sounds like a good idea. It could open up a deeper conversation and strengthen your connections. ,T,Insignificant
+"Yeah, I’ll give it a shot. ",P,Insignificant
+Great! Let’s also talk about your music. You mentioned that you write music to relax. How has that been for you lately?,T,Insignificant
+It’s been good! I wrote a new song last week. It felt nice to express myself through it.,P,Current Functional Status
+That’s wonderful! What was the song about?,T,Insignificant
+It was about feeling lost and trying to find my way. I think it reflects how I’ve been feeling lately.,P,History of Present Illness (HPI)
+It sounds like a meaningful piece. Writing can be such a powerful way to process emotions. Do you find it helps you cope?,T,Insignificant
+"Definitely. When I write, I feel like I can let everything out without judgment.",P,Current Functional Status
+That’s a healthy outlet. Do you think you could incorporate music more into your routine as a coping mechanism?,T,Insignificant
+I could! I’ve been thinking about setting aside time each week just to write and not worry about anything else.,P,Next Steps
+That sounds like a great plan. It could serve as a creative escape for you. ,T,Insignificant
+I’ll try to make it happen.,P,Insignificant
+Fantastic! Let’s also revisit your feelings of stress. You mentioned before that you sometimes feel overwhelmed by your obligations. How are you managing that now?,T,History of Present Illness (HPI)
+"I’ve been trying to prioritize my tasks and take things one step at a time. It’s not perfect, but it helps.",P,Current Functional Status
+That’s a smart approach. Breaking things down into manageable steps can make a big difference. Have you found any specific techniques that work best for you?,T,Insignificant
+I started using a planner to keep track of deadlines and stuff. It feels nice to check things off.,P,Current Functional Status
+That’s a great strategy! Keeping organized can alleviate a lot of stress. How do you feel when you check something off your list?,T,Insignificant
+"It feels satisfying! Like I’ve accomplished something, even if it’s small.",P,Current Functional Status
+That’s a great feeling to cultivate. Celebrating small wins can help maintain motivation. ,T,Insignificant
+"I hadn’t thought of it that way, but you’re right.",P,Insignificant
+Is there anything else you’d like to focus on today? Any specific challenges you want to address?,T,Insignificant
+"Hmm, I guess I’m still trying to figure out how to handle my anger better. ",P,Presenting Problem / Chief Complaint
+"That’s an important topic. Last time, you mentioned bottling up emotions. Have you thought about any alternative outlets for expressing anger?",T,Insignificant
+"I’ve tried working out more when I’m angry, but sometimes it doesn’t feel like enough.",P,History of Present Illness (HPI)
+"Physical activity is a great start. Have you considered other forms of expression, like journaling or art?",T,Insignificant
+I haven’t really thought about journaling. I guess I could try that.,P,Next Steps
+Journaling can be a great way to explore your feelings and understand them better. It can also provide clarity on what triggers your anger.,T,Insignificant
+That makes sense. I’ll give it a shot.,P,Insignificant
+"Wonderful! Remember, it’s about finding what works for you. You might discover new insights about yourself through journaling.",T,Insignificant
+"Yeah, I hope so.",P,Insignificant
+"Before we wrap up, is there anything specific you want to set as a goal for our next session?",T,Insignificant
+I’d like to have at least a couple of journal entries written by then and maybe write another song.,P,Next Steps
+That sounds like a fantastic goal! I look forward to hearing about your progress in our next session. ,T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+You’re welcome! I’m glad to be here for you. Take care until next time!,T,Insignificant
+You too! Bye!,P,Insignificant

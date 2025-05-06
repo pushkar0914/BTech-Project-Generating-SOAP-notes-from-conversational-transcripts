@@ -1,0 +1,64 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie!  ",P,Insignificant
+Hi! It’s great to see you again. How has the past week been?  ,T,Insignificant
+It’s been okay. I actually followed through with the study plan!  ,P,Progress Evaluation
+That’s fantastic! How did it go?  ,T,Insignificant
+"I managed to finish the research and outline, and I’m halfway through writing the paper.  ",P,Progress Evaluation
+"Wow, that’s impressive! How did you feel during the process?  ",T,Insignificant
+"I felt less anxious than before, which was nice.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear! What do you think made the difference?  ,T,Insignificant
+I think breaking it down into smaller tasks helped a lot.  ,P,History of Present Illness (HPI)
+Absolutely! It’s a great strategy. Did you find time for breaks?  ,T,Insignificant
+I did! I went for walks and watched a couple of shows.  ,P,Current Functional Status
+That’s excellent! It’s important to recharge. How did that affect your productivity?  ,T,Insignificant
+I think it helped me focus better when I returned to studying.  ,P,Current Functional Status
+Fantastic! What about your sleep? Have you tried any relaxation techniques?  ,T,Insignificant
+"Yes, I started doing the deep breathing exercises before bed.  ",P,Therapeutic Interventions
+How has that worked for you?  ,T,Insignificant
+"I think it’s helped a bit, but I still wake up feeling tired.  ",P,Physiological Observations
+It’s a step in the right direction. Have you discussed your sleep issues further with your doctor?  ,T,Insignificant
+I have an appointment next week to talk about it.  ,P,Next Steps
+"That’s good to hear. Remember, it’s important to advocate for your health.  ",T,Insignificant
+I will. I want to feel better.  ,P,Insignificant
+Absolutely! You deserve to feel good. Have you noticed any changes in your mood lately?  ,T,Insignificant
+I think I feel a little more positive.  ,P,History of Present Illness (HPI)
+That’s great! What do you think contributed to that change?  ,T,Insignificant
+Probably finishing parts of the paper and having some good moments with friends.  ,P,History of Present Illness (HPI)
+That’s wonderful! Social connections can really boost our mood.  ,T,Insignificant
+"Yeah, I reached out to a friend for help, and it felt good.  ",P,History of Present Illness (HPI)
+That’s a big step! How did that conversation go?  ,T,Insignificant
+It went really well! She was really supportive.  ,P,History of Present Illness (HPI)
+I’m so glad to hear that. It sounds like you’re building a stronger support system.  ,T,Insignificant
+I hope so. I want to keep reaching out.  ,P,Insignificant
+That’s a great goal. Is there anyone else you’d like to connect with?  ,T,Insignificant
+I’ve been thinking about talking to my family more.  ,P,History of Present Illness (HPI)
+That’s a wonderful idea. What holds you back from connecting with them?  ,T,Insignificant
+I guess I feel like they wouldn’t understand what I’m going through.  ,P,History of Present Illness (HPI)
+It’s common to feel that way. Have you considered sharing your feelings with them?  ,T,Insignificant
+"I haven’t, but maybe I should try.  ",P,Next Steps
+"It might help strengthen your relationship. Even if they don’t fully understand, they can still offer support.  ",T,Insignificant
+That makes sense.  ,P,Insignificant
+How about we set a goal for you to reach out to one family member this week?  ,T,Next Steps
+I can do that.  ,P,Next Steps
+Great! What else would you like to focus on during our session today?  ,T,Insignificant
+I want to talk about my feelings of being down sometimes.  ,P,Presenting Problem / Chief Complaint
+Of course. Can you tell me more about those feelings?  ,T,Insignificant
+"Sometimes I just feel really low, even when things are going well.  ",P,History of Present Illness (HPI)
+It’s okay to feel that way. Are there specific triggers that you’ve noticed?  ,T,Insignificant
+I think it’s just the combination of my health issues and feeling overwhelmed.  ,P,History of Present Illness (HPI)
+That’s understandable. It’s a lot to carry. Have you found any coping mechanisms that help?  ,T,Insignificant
+"I try to distract myself with activities, but it doesn’t always work.  ",P,History of Present Illness (HPI)
+Distraction can be a temporary relief. How about incorporating more activities that bring you joy?  ,T,Insignificant
+I’d like that. I’ve been meaning to try painting again.  ,P,Next Steps
+That sounds like a wonderful idea! Art can be very therapeutic.  ,T,Insignificant
+I used to enjoy it a lot.  ,P,Insignificant
+Let’s set a goal for you to spend some time painting this week.  ,T,Next Steps
+"Yes, I’ll make time for that.  ",P,Next Steps
+"Perfect! As we wrap up, what’s one thing you’d like to take away from today’s session?  ",T,Insignificant
+I want to focus on reaching out to family and making time for painting.  ,P,Next Steps
+Those are excellent goals. I’m proud of you for taking these steps.  ,T,Insignificant
+"Thanks, Ellie.  ",P,Insignificant
+You’re doing great! I look forward to hearing about your progress next time.  ,T,Insignificant
+Me too!  ,P,Insignificant
+Goodbye for now.  ,T,Insignificant
+Bye!,P,Insignificant

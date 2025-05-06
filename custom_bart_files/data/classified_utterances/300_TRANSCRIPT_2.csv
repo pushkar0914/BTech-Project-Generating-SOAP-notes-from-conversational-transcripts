@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How have you been since our last session?,T,Insignificant
+Hi! I’ve been doing alright. I actually applied to a couple of jobs!,P,Presenting Problem / Chief Complaint
+That’s fantastic! How did that go for you?,T,Insignificant
+It felt good to finally take that step. I applied to three places.,P,History of Present Illness (HPI)
+That’s great to hear! How did you feel about the applications?,T,Insignificant
+"A bit nervous, but also relieved to have done it.",P,History of Present Illness (HPI)
+It’s completely normal to feel that way. Have you heard back from any of them yet?,T,Insignificant
+"Not yet, but I’m trying to be patient.",P,History of Present Illness (HPI)
+"That’s a healthy mindset. While you wait, how has your week been in terms of cooking and exercising?",T,Insignificant
+I managed to cook that pasta recipe I mentioned! It turned out really well.,P,Current Functional Status
+That’s excellent! How did it feel to make it?,T,Insignificant
+It was fun! I felt accomplished.,P,Current Functional Status
+Cooking can be such a rewarding experience. Did you find time for your exercise goal too?,T,Insignificant
+I went for two runs! It felt good to get back into it.,P,Current Functional Status
+Awesome! It sounds like you’re making great progress. How did those runs feel?,T,Insignificant
+They helped clear my mind a lot. I felt energized afterward.,P,Current Functional Status
+That’s wonderful to hear. It sounds like you’re finding a good balance. Have you had any moments of annoyance this week?,T,Insignificant
+"Yes, actually. I had a disagreement with a friend, but I tried to write it down like we discussed.",P,History of Present Illness (HPI)
+How did that go for you?,T,Insignificant
+It helped! I was able to express my feelings better when we talked.,P,Progress Evaluation
+That’s a significant step forward. What did you learn from that experience?,T,Insignificant
+I realized that I need to communicate more openly instead of shutting down.,P,Mental Health Observations
+That’s a valuable insight. How do you feel about continuing to work on that communication?,T,Insignificant
+I want to keep improving. It feels good to express myself.,P,Progress Evaluation
+I’m glad to hear that. We can continue to explore that in our sessions. Is there anything else you’d like to address today?,T,Insignificant
+I’ve been thinking about my future and what I want to do with my life.,P,Presenting Problem / Chief Complaint
+That’s an important topic. What specific thoughts do you have about your future?,T,Insignificant
+I’m just worried about finding a job that I’ll actually enjoy.,P,Presenting Problem / Chief Complaint
+It’s understandable to have those concerns. Have you thought about what aspects of a job would make you happy?,T,Insignificant
+I think I’d like something that allows me to be creative and work with people.,P,Presenting Problem / Chief Complaint
+Those are great qualities to look for. Are there any specific industries or roles that interest you?,T,Insignificant
+Maybe marketing or something in event planning.,P,Presenting Problem / Chief Complaint
+Those fields can certainly provide opportunities for creativity and collaboration. Would you like to explore ways to learn more about those industries?,T,Insignificant
+"Yes, I’d like that. Maybe I could reach out to people in those fields for advice.",P,Next Steps
+That’s a proactive approach! Networking can be very beneficial. How do you feel about setting a goal to reach out to a couple of people this week?,T,Insignificant
+That sounds like a good idea! I’ll try to do that.,P,Next Steps
+Excellent! It sounds like you’re making strides in many areas of your life. I’m proud of the progress you’re making.,T,Progress Evaluation
+Thank you! I appreciate your support.,P,Insignificant
+"You’re welcome! Remember, it’s all about taking small steps. Let’s check in on your goals next time and see how everything is progressing.",T,Next Steps
+Sounds good! I’m looking forward to it.,P,Insignificant
+"Me too! Have a great week, and take care.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

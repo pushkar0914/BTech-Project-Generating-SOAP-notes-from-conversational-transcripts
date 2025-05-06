@@ -1,0 +1,56 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+"Hi, it's Ellie again. How have you been since our last session?",T,Insignificant
+"I've been doing pretty well, actually. Just trying to keep up with everything.",P,History of Present Illness (HPI)
+"That's great to hear! Last time, we talked about your travels and how they help you connect with different cultures. Have you had any travels or experiences since then that stood out to you?",T,Insignificant
+"Not really traveling, but I did meet up with some friends I hadn’t seen in a while. We went to this amazing Moroccan restaurant.",P,Psychosocial History
+That sounds lovely! How did it feel to reconnect with them?,T,Insignificant
+It felt really good. We laughed a lot and reminisced about old times. It reminded me of how important those connections are.,P,Psychosocial History
+"Absolutely, maintaining connections can be so beneficial for our well-being. Do you find that you often reach out to friends or do they reach out to you?",T,Insignificant
+"I think it’s a mix. I try to initiate plans, but sometimes life gets busy. I’m glad they reached out this time.",P,Psychosocial History
+"It’s wonderful that you have friends who care enough to reach out. Last time, you mentioned feeling a bit annoyed with someone who disrespected your privacy. Have you had any situations like that recently?",T,Insignificant
+Not really. I’ve been trying to focus more on the positive aspects of interactions. I think it’s helping.,P,History of Present Illness (HPI)
+That’s a great approach. Focusing on the positive can shift our perspective. Have you noticed any changes in your mood or thoughts since adopting this mindset?,T,Insignificant
+"Yeah, I think I’m feeling lighter. I try to let go of things that don’t serve me or that I can’t control.",P,History of Present Illness (HPI)
+That’s a healthy perspective. It sounds like you’re practicing some emotional regulation. Are there specific strategies you use to let go?,T,Insignificant
+I try to meditate when I can. It helps clear my mind and ground me.,P,Therapeutic Interventions
+Meditation can be such a powerful tool. How often have you been able to meditate lately?,T,Insignificant
+"I’ve been doing it a few times a week, but I’d like to make it a daily habit.",P,Next Steps
+That’s a wonderful goal. What do you think is holding you back from meditating every day?,T,Insignificant
+"Sometimes I feel like I don’t have enough time, or I forget to make it a priority.",P,History of Present Illness (HPI)
+It’s understandable. Life can get busy. Would it help to set a specific time each day for your meditation practice?,T,Insignificant
+"Yes, I think that would help me stick to it. Maybe in the morning before starting my day.",P,Next Steps
+That sounds like a great plan. Morning meditation can set a positive tone for the day. Have you found any particular meditation techniques that resonate with you?,T,Insignificant
+I really like guided meditations. They help me focus and keep my mind from wandering.,P,Therapeutic Interventions
+Guided meditations can be very effective. Have you tried any specific apps or resources for that?,T,Insignificant
+I’ve used Headspace and Insight Timer. They both have some great options.,P,Therapeutic Interventions
+Those are both excellent choices! Perhaps you could explore a few new meditations that focus on letting go or gratitude to support your new mindset.,T,Next Steps
+That’s a good idea. I’ll look into that.,P,Next Steps
+Wonderful! Let’s shift gears a bit. You mentioned in our last session that you have skin flare-ups due to photo-sensitivity. How have you been managing that?,T,Insignificant
+"It’s been a bit challenging, but I’ve been more mindful about protecting my skin when I’m outdoors.",P,History of Present Illness (HPI)
+That’s a proactive approach. Have you noticed any particular triggers that worsen the flare-ups?,T,Insignificant
+"Yes, I’ve noticed that stress can definitely make it worse. When I’m anxious, it flares up more.",P,History of Present Illness (HPI): Risk Assessment
+Stress can have a significant impact on our physical health. What strategies do you use to manage stress in your life?,T,Insignificant
+"I try to exercise regularly, and I’ve been practicing yoga, which helps a lot.",P,Therapeutic Interventions
+"That’s fantastic! Yoga combines physical movement with mindfulness, which can be very beneficial. How often do you practice yoga these days?",T,Insignificant
+"I’ve been going to a class once a week, but I’d like to do some home practice too.",P,Next Steps
+That sounds like a great plan. Incorporating yoga at home can help reinforce your practice. Have you thought about setting aside specific times for that?,T,Insignificant
+I think I could do that. Maybe a short session a few times a week.,P,Next Steps
+That sounds very manageable. You could even combine it with your meditation practice for a holistic approach.,T,Insignificant
+That’s a great idea! I hadn’t thought of that.,P,Insignificant
+Excellent! Let’s talk about your emotional well-being. Have you noticed any patterns in your emotional responses lately?,T,Insignificant
+I’ve been more aware of how I react to situations. I think I’m getting better at taking a step back before responding.,P,History of Present Illness (HPI)
+That’s a significant improvement. Recognizing emotional patterns is key to emotional regulation. Do you find it easier to communicate your feelings now?,T,Insignificant
+"Yes, I think I’m more open with my friends about how I feel instead of bottling things up.",P,History of Present Illness (HPI)
+That’s wonderful to hear. Open communication can strengthen relationships. Have you had any conversations recently that felt particularly meaningful?,T,Insignificant
+I had a deep talk with my sister about our childhood. It felt good to share our experiences and validate each other.,P,Psychosocial History
+That sounds like a powerful experience. Sharing our stories can foster connection and healing. How did that conversation impact your relationship with her?,T,Insignificant
+I feel closer to her now. It was nice to hear her perspective and realize we went through similar struggles.,P,Psychosocial History
+It’s amazing how shared experiences can bring people together. Is there anything you’d like to explore further in our next session?,T,Insignificant
+I’d like to delve deeper into how I can manage stress better and maybe explore more mindfulness techniques.,P,Next Steps
+That sounds like a valuable focus for our next session. We can explore additional tools and techniques to support your well-being. How does that sound?,T,Insignificant
+That sounds great! I’m looking forward to it.,P,Insignificant
+Me too! Thank you for sharing today. I appreciate your openness and willingness to explore these topics.,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"Take care, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant

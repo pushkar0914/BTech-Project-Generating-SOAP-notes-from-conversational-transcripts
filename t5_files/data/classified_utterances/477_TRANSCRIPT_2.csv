@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi Ellie, I’m back!",P,Insignificant
+Hi! It’s great to see you again. How did the journaling go this past week?,T,Insignificant
+It went surprisingly well! I found it helpful to get my thoughts down before bed.,P,History of Present Illness (HPI)
+That’s fantastic! Did you notice any changes in your dreams or anxiety levels?,T,History of Present Illness (HPI)
+"Actually, yes. I didn’t have the dream again, which was a relief.",P,History of Present Illness (HPI)
+That’s wonderful news! It sounds like the journaling helped you process those feelings. How did you feel after writing?,T,Insignificant
+"I felt lighter, like I was able to let go of some of the stress.",P,History of Present Illness (HPI)
+That’s a great outcome! Writing can be a powerful tool for emotional release. Did anything in particular stand out in your writing?,T,Insignificant
+I wrote about my worries regarding work and how I sometimes feel inadequate.,P,History of Present Illness (HPI)
+That’s an important insight. Acknowledging those feelings is the first step to addressing them. How do you feel about those worries now?,T,Insignificant
+"I still feel them, but writing them down made them seem less overwhelming.",P,History of Present Illness (HPI)
+That’s a healthy perspective. Have you been able to share those feelings with anyone at work?,T,Insignificant
+Not yet. I’m still a bit hesitant to open up.,P,History of Present Illness (HPI)
+That’s understandable. It can be challenging to share vulnerabilities. Would you like to role-play how you might approach a conversation about it?,T,Insignificant
+"Sure, I think that would help.",P,Insignificant
+"Great! Let’s say you’re speaking to your supervisor. You could start with, “I wanted to talk about how I’ve been feeling a bit overwhelmed with my workload…” ",T,Insignificant
+"Okay, “I wanted to talk about how I’ve been feeling a bit overwhelmed with my workload. I’ve been trying to manage my tasks, but I think I could use some support.”",P,History of Present Illness (HPI)
+That sounds good! How does that feel to say?,T,Insignificant
+"It feels a bit scary, but also empowering.",P,History of Present Illness (HPI)
+"That’s a great mix of feelings! Remember, it’s okay to ask for help. You’re not alone in this. ",T,Insignificant
+I’ll try to keep that in mind.,P,Insignificant
+"Excellent! Now, let’s discuss your exercise routine. Have you been able to stick to those short walks?",T,Insignificant
+"I managed to go for a walk a few times this week, but I still struggle with consistency.",P,Current Functional Status
+"That’s a common challenge. It might help to schedule those walks into your day, like an appointment. ",T,Insignificant
+That’s a good idea. I could set reminders on my phone.,P,Insignificant
+"Exactly! Creating a routine can help make it a habit. How about pairing the walks with something enjoyable, like listening to music or a podcast?",T,Insignificant
+I like that idea! I’ll try that next time.,P,Insignificant
+Great! I’m excited to hear how that goes. Have you noticed any changes in your mood with the added physical activity?,T,Insignificant
+I think I feel a bit more energized after walking. It definitely helps clear my mind.,P,Mental Health Observations
+That’s wonderful to hear! Physical activity can have such a positive impact on our mental health. ,T,Insignificant
+"Yeah, I’ve realized that more lately.",P,Insignificant
+Excellent! Let’s also revisit the topic of your family. How have you felt about your visits with your nephew lately?,T,Insignificant
+I still feel guilty about not seeing him as often as I’d like. I wish I could be there more.,P,Psychosocial History
+"It’s understandable to feel that way. Have you thought about ways to stay connected, even from a distance?",T,Insignificant
+"We’ve been doing video calls, which help, but it’s not the same as being there in person.",P,Current Functional Status
+That’s true. Perhaps you could plan a visit for a special occasion or even send him a little surprise in the mail?,T,Insignificant
+I love that idea! I could send him a book or a small gift.,P,Insignificant
+"That would be a lovely gesture. It shows him you’re thinking of him, even from afar. ",T,Insignificant
+I’ll definitely do that!,P,Insignificant
+"Fantastic! As we wrap up today, what would you like to focus on for our next session?",T,Insignificant
+I’d like to continue working on my anxiety and maybe explore some more coping strategies.,P,Presenting Problem / Chief Complaint
+Absolutely! We can dive deeper into some cognitive-behavioral techniques to help manage that anxiety. ,T,Therapeutic Interventions
+"That sounds perfect. Thank you, Ellie!",P,Insignificant
+You’re very welcome! I look forward to our next session. ,T,Insignificant
+Me too! See you next week!,P,Insignificant
+Bye for now!,T,Insignificant
+Bye!,P,Insignificant

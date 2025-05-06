@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I've been trying to stick to my goals. I wrote a little and went for a few walks.",P,Current Functional Status
+That’s fantastic! How did it feel to write again?,T,Insignificant
+"It felt good, actually. It was nice to express myself again.",P,History of Present Illness (HPI)
+I’m so glad to hear that! What did you write about?,T,Insignificant
+"I wrote a short story about a character who feels lost, kind of like me. ",P,History of Present Illness (HPI)
+That’s a powerful theme. It sounds like you’re processing your feelings through your writing. Did anything surprise you while writing?,T,Insignificant
+I realized how much I miss being creative. It felt freeing.,P,History of Present Illness (HPI)
+That’s a significant realization. How can you incorporate more creativity into your life moving forward?,T,Insignificant
+I could set aside time each week just to write or think about ideas. ,P,Next Steps
+That sounds like a great plan. How about we set a specific time for that each week to help you stay committed?,T,Insignificant
+"Yeah, I could do Friday afternoons. ",P,Next Steps
+"Perfect! Now, how about your walks? Did you find them helpful?",T,Insignificant
+"Yes, they helped clear my mind. I felt a bit more energized after.",P,History of Present Illness (HPI)
+That’s wonderful! Would you like to increase the frequency of your walks?,T,Insignificant
+Maybe to four times a week? ,P,Next Steps
+That sounds like a solid goal! How do you plan to incorporate that into your routine?,T,Insignificant
+I could do them in the mornings before I start my day.,P,Next Steps
+Great! Establishing a routine can help create a positive start to your day. Have you noticed any changes in your mood since making these adjustments?,T,Insignificant
+"I think I feel a little lighter, but some days are still tough.",P,History of Present Illness (HPI)
+It’s normal to have ups and downs. What do you think contributes to those tougher days?,T,Insignificant
+I think it’s when I get overwhelmed with thoughts about the future and my job situation.,P,History of Present Illness (HPI)
+"That makes sense. It can be daunting to think about the future, especially when feeling uncertain. Would it help to focus on the present and what you can control?",T,Insignificant
+"Yes, that might help. ",P,Insignificant
+How about practicing mindfulness techniques? We could try a few exercises together.,T,Therapeutic Interventions
+I’d be open to that.,P,Insignificant
+Great! Let’s take a moment to focus on your breath. Close your eyes if you feel comfortable and take a deep breath in... and out. ,T,Insignificant
+"<pauses> Okay, I’m doing it.",P,Insignificant
+Notice how your body feels with each breath. Inhale... and exhale. ,T,Insignificant
+I feel a bit calmer.,P,History of Present Illness (HPI)
+That’s wonderful! Mindfulness can be a helpful tool for grounding yourself. Would you like to incorporate this into your routine as well?,T,Insignificant
+"Yes, I think I could try doing this for a few minutes each day.",P,Next Steps
+Perfect! Let’s aim for five minutes daily. We can check in on how that goes next time. ,T,Next Steps
+Sounds good! ,P,Insignificant
+Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we covered a lot. I feel good about my progress.",P,Progress Evaluation
+"I’m proud of you for taking these steps. Keep up the great work, and I look forward to hearing about your experiences next session!",T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant

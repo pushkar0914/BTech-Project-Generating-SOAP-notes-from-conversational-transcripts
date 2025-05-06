@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's good to see you back today. How have you been since our last session?",T,Insignificant
+"Hi! I've been okay, I guess. Some ups and downs, you know?",P,Insignificant
+I understand. Can you tell me a bit more about those ups and downs?,T,Insignificant
+"Well, I've had some good moments, like spending time with friends, but I've also felt a bit more anxious about my work lately.",P,History of Present Illness (HPI)
+That sounds challenging. What specifically has been causing you anxiety about work?,T,Insignificant
+"I think it's the pressure to succeed in the music industry. I feel like I need to prove myself, and sometimes I doubt my abilities.",P,History of Present Illness (HPI)
+"It’s understandable to feel that pressure, especially in a competitive field. How do you usually cope with those feelings of doubt?",T,Insignificant
+"I try to distract myself with music or go for walks with my dogs. But sometimes, those feelings just linger.",P,History of Present Illness (HPI)
+Have you noticed any particular thoughts that come up when you're feeling those doubts?,T,Insignificant
+"Yeah, I often think, ""What if I'm not good enough?"" or ""What if I fail?"" It’s like a loop in my head.",P,History of Present Illness (HPI)
+Those thoughts can be quite powerful. Would you be open to trying some cognitive techniques to challenge those thoughts?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+"Great! One technique is to identify evidence for and against those thoughts. For example, what evidence do you have that you are good enough?",T,Therapeutic Interventions
+"Well, I have had some positive feedback from clients and friends. They say they love my work.",P,History of Present Illness (HPI)
+"That’s excellent evidence! Now, what about the thought that you might fail? What evidence do you have for that?",T,Therapeutic Interventions
+I guess I don’t have concrete evidence of that. It’s more of a fear than a reality.,P,History of Present Illness (HPI)
+Exactly. It sounds like you’re aware that those fears may not be based on facts. How does that realization feel?,T,Insignificant
+"It feels a bit relieving, actually. I think I can challenge those thoughts more effectively now.",P,Progress Evaluation
+I'm glad to hear that! Let's also talk about your sleep. You mentioned it’s been difficult lately. Have you tried any strategies to improve it?,T,Insignificant
+"I’ve been trying to avoid screens before bed, but my mind still races.",P,Physiological Observations
+"That’s a good start. Sometimes, incorporating a calming bedtime routine can help. Would you be willing to try some relaxation exercises before bed?",T,Therapeutic Interventions
+"Yes, I think that might help.",P,Insignificant
+Fantastic! We could also explore mindfulness techniques to help quiet your mind. Would you like to try a short mindfulness exercise right now?,T,Therapeutic Interventions
+"Sure, I’d like to try that.",P,Insignificant
+"Okay, let’s take a deep breath in together... and out. Focus on the sensation of your breath. Notice how it feels to breathe in and out.",T,Insignificant
+"<breathes> Okay, I’m focusing.",P,Insignificant
+"Good. If thoughts come up, acknowledge them, but gently bring your focus back to your breath. How does that feel for you?",T,Insignificant
+"It feels calming, actually. I can see how it could help me at night.",P,Progress Evaluation
+"Wonderful! You can practice this technique daily, even for just a few minutes. How do you feel about setting a goal to try this every night this week?",T,Next Steps
+I like that idea. I’ll give it a shot.,P,Insignificant
+"Great! Now, before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I think I just want to keep working on my confidence and managing my anxiety.,P,Presenting Problem / Chief Complaint
+That’s a solid goal. We can continue to explore strategies for building your confidence in our next sessions as well. ,T,Next Steps
+"Sounds good! Thank you, Ellie.",P,Insignificant
+You’re welcome! I look forward to hearing how your week goes. Take care!,T,Insignificant
+You too! Bye!,P,Insignificant

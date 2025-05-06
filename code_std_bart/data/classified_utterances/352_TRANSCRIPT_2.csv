@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! Welcome back. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve been doing well. I’ve been focusing on staying positive and connecting with my co-workers.  ",P,History of Present Illness (HPI)
+That’s fantastic! Have you been able to build any new friendships at work?  ,T,Insignificant
+"Yes! I went out for coffee with a couple of them last week, and it was really nice.  ",P,History of Present Illness (HPI)
+That sounds like a great experience. How did it feel to connect with them outside of work?  ,T,Insignificant
+It felt good! It was nice to talk about things other than work and just get to know them better.  ,P,History of Present Illness (HPI)
+Building those connections can be very rewarding. Have you noticed any changes in your mood after these interactions?  ,T,Insignificant
+Definitely! I feel more energized and less lonely. It’s nice to have that support.  ,P,History of Present Illness (HPI)
+That’s wonderful to hear. You mentioned wanting to maintain your positivity. What strategies have you been using?  ,T,Insignificant
+I’ve been trying to focus on gratitude. I write down a few things I’m thankful for each day.  ,P,Therapeutic Interventions
+Gratitude journaling can be a powerful practice. How has that impacted your outlook?  ,T,Insignificant
+"It really shifts my focus. Even on tough days, I can find something positive to hold onto.  ",P,History of Present Illness (HPI)
+That’s a great realization. Have you encountered any challenges while practicing gratitude?  ,T,Insignificant
+"Sometimes, it’s hard to think of things when I’m feeling down. I can get stuck in negative thoughts.  ",P,History of Present Illness (HPI)
+That’s understandable. It can be difficult to shift our mindset. Would you like to explore some techniques to help with that?  ,T,Insignificant
+"Yes, I’d love that! I want to get better at recognizing those moments.  ",P,Insignificant
+"One technique could be to challenge negative thoughts. When you notice them, ask yourself if they’re really true.  ",T,Therapeutic Interventions
+That makes sense. I often blow things out of proportion when I’m feeling low.  ,P,History of Present Illness (HPI)
+Exactly! It’s about finding balance in your thoughts. Have you tried any other coping strategies when you feel down?  ,T,Insignificant
+I’ve been going for walks more often. It helps clear my head.  ,P,Therapeutic Interventions
+That’s a great strategy! Physical activity can be very beneficial for mental health. How do you feel after your walks?  ,T,Insignificant
+I feel refreshed and more positive. It’s like a reset for me.  ,P,Physiological Observations
+That’s wonderful! It seems like you’re developing a toolkit of strategies to manage your emotions.  ,T,Insignificant
+I hope so! I want to keep building on that.  ,P,Insignificant
+It sounds like you’re making good progress. Is there anything specific you’d like to focus on today?  ,T,Insignificant
+I want to work on dealing with those negative thoughts when they come up.  ,P,Presenting Problem / Chief Complaint
+Great goal! We can practice some cognitive restructuring techniques. Would you like to try that?  ,T,Insignificant
+"Yes, I’d really like that.  ",P,Insignificant
+"Okay, let’s start by identifying a recent negative thought you experienced.  ",T,Insignificant
+I remember thinking I’m not good enough for this job when I made a mistake last week.  ,P,History of Present Illness (HPI)
+That’s a common thought. Let’s challenge it. What evidence do you have that supports or contradicts that thought?  ,T,Insignificant
+"Well, I’ve been doing well overall, and my supervisor said I’m improving.  ",P,History of Present Illness (HPI)
+That’s excellent evidence against the negative thought! How can you reframe that thought?  ,T,Insignificant
+"I guess I could say that everyone makes mistakes, and I’m learning and improving.  ",P,History of Present Illness (HPI)
+Exactly! That’s a much healthier perspective. How does that feel to acknowledge?  ,T,Insignificant
+It feels good! I can see that I’m not defined by my mistakes.  ,P,History of Present Illness (HPI)
+That’s a powerful realization. Keep practicing that reframing technique when negative thoughts arise.  ,T,Therapeutic Interventions
+I will! I think it will help me a lot.  ,P,Insignificant
+Is there anything else you’d like to cover today?  ,T,Insignificant
+"No, I think we’ve covered a lot! I feel really good about this session.  ",P,Insignificant
+I’m glad to hear that! Thank you for your openness today. I look forward to our next session.  ,T,Insignificant
+"Me too! Thank you, Ellie.  ",P,Insignificant
+Goodbye for now!  ,T,Insignificant
+Bye!  ,P,Insignificant

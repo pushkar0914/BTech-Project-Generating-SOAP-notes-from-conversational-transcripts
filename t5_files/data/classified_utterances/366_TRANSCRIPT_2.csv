@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hey, Ellie!",P,Insignificant
+Hi! It’s good to see you again. How have things been since our last session?,T,Insignificant
+"They’ve been a bit up and down, to be honest.",P,History of Present Illness (HPI)
+I appreciate your honesty. Let’s start with the conversation you wanted to have with your dad. How did that go?,T,Insignificant
+"It was tough. I tried to express my feelings, but he got defensive.",P,History of Present Illness (HPI)
+I’m sorry to hear that. How did you feel during the conversation?,T,Insignificant
+Frustrated and kind of sad. I felt like he wasn’t really listening to me.,P,History of Present Illness (HPI)
+That’s understandable. It can be hard when we feel unheard. Did you manage to communicate your feelings despite the defensiveness?,T,Insignificant
+"I think I did, but it didn’t go as well as I hoped. ",P,History of Present Illness (HPI)
+"It’s okay. Sometimes, it takes multiple conversations for people to really understand. How do you feel about trying again in the future?",T,Insignificant
+I think I will. I just need to figure out a better way to approach it.,P,Insignificant
+That’s a positive mindset. What do you think you could do differently next time?,T,Insignificant
+Maybe I could choose a different time or setting when he’s more relaxed.,P,Next Steps
+That’s a great idea. It’s important to create an environment that’s conducive to open communication. ,T,Insignificant
+"Yeah, I’ll definitely keep that in mind.",P,Insignificant
+How about the mentoring at work? Did you reach out to anyone?,T,Insignificant
+"I did! I talked to one of my coworkers, and they seemed really receptive.",P,Current Functional Status
+That’s fantastic! How did that conversation go for you?,T,Insignificant
+It felt good to share my experiences. I think I can help them a lot.,P,Current Functional Status
+That’s wonderful to hear! It sounds like you’re making strides in helping others. How did that make you feel?,T,Insignificant
+It felt fulfilling. I realized I really enjoy sharing what I know.,P,Current Functional Status
+That’s great! Helping others can be a powerful way to feel connected and purposeful. ,T,Insignificant
+Definitely. ,P,Insignificant
+"Last time, we talked about being more in touch with your emotions. Have you noticed any changes there?",T,Insignificant
+"I’ve been trying to check in with myself more often. It’s hard sometimes, but I’m getting better.",P,History of Present Illness (HPI)
+That’s a significant step! What have you noticed about your emotions lately?,T,Insignificant
+"I’ve noticed I get anxious before big conversations, like with my dad.",P,History of Present Illness (HPI)
+That’s a valuable observation. What do you think contributes to that anxiety?,T,Insignificant
+I think it’s the fear of conflict. I don’t want to hurt his feelings.,P,History of Present Illness (HPI)
+"That’s understandable. It’s natural to want to protect others' feelings, but remember, your feelings are important too. ",T,Insignificant
+Right. ,P,Insignificant
+How do you usually cope with that anxiety before a conversation?,T,Insignificant
+I try to breathe and remind myself to stay calm. ,P,Therapeutic Interventions
+Those are good techniques. Have you considered practicing mindfulness or grounding techniques to help further?,T,Insignificant
+"I haven’t, but that sounds helpful.",P,Insignificant
+Mindfulness can help you stay present and reduce anxiety. Would you like to try a simple breathing exercise together?,T,Therapeutic Interventions
+Sure!,P,Insignificant
+"Okay, let’s take a deep breath in for four counts... hold it for four... and exhale for four. Let’s do that a couple of times.",T,Therapeutic Interventions
+"<deep breath> Okay, that felt nice.",P,Insignificant
+Great! Practicing that before difficult conversations can help you feel more centered. ,T,Therapeutic Interventions
+I’ll definitely try that.,P,Next Steps
+"As we wrap up today, what goals would you like to set for the upcoming week?",T,Insignificant
+I want to keep working on my emotional awareness and try the breathing exercise before my next conversation.,P,Next Steps
+Those sound like excellent goals! I’m excited to hear how it goes next time.,T,Insignificant
+"Me too! Thanks for all your help, Ellie.",P,Insignificant
+"You’re very welcome! Take care, and I look forward to our next session.",T,Insignificant
+Bye!,P,Insignificant
+Goodbye!,T,Insignificant

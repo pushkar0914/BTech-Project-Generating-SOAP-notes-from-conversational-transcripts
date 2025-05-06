@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How did your week go with the social interactions?,T,Insignificant
+"Hi, Ellie! I actually did try talking to a cashier. It was a little awkward, but I did it!",P,Current Functional Status
+That’s fantastic! How did it feel afterward?,T,Insignificant
+"It felt good, actually. I was nervous going in, but once I did it, I felt a bit of relief.",P,History of Present Illness (HPI)
+That’s a wonderful step forward! It’s great to hear that you felt relief. Did anything else happen this week that stood out to you?,T,Insignificant
+"Well, I did have a couple of moments where I felt really down again, especially when I was alone at home.",P,History of Present Illness (HPI)
+I see. It’s normal to have ups and downs. What do you think triggered those feelings of sadness?,T,Insignificant
+I think it’s just the loneliness creeping back in. Sometimes I just feel like I’m stuck in a rut.,P,History of Present Illness (HPI)
+"That’s understandable. You’ve made progress in reaching out, but it can take time to shift those deeper feelings. Have you thought about what else you might want in your life to combat that loneliness?",T,Insignificant
+I’ve thought about joining a club or something. But I still feel hesitant.,P,Current Functional Status
+Joining a club could be a great way to meet new people and engage in activities you enjoy. What’s holding you back from taking that step?,T,Insignificant
+I think I’m just worried about not fitting in or being awkward again.,P,History of Present Illness (HPI)
+"Those feelings are very common. Remember, everyone else is there to connect as well. What if you tried attending a meeting or event just to observe first?",T,Therapeutic Interventions
+That sounds less intimidating. I could do that.,P,Insignificant
+"Great! Let’s aim for that this week. You don’t have to commit to anything, just see how it feels. ",T,Next Steps
+"Okay, I can try that. ",P,Insignificant
+"Wonderful! Now, how has your sleep been since we last spoke? Have you tried the mindfulness exercise?",T,Insignificant
+"I did, and it helped a bit. I still wake up sometimes, but I feel more relaxed going to bed.",P,Physiological Observations
+"That’s a positive development! It’s about progress, not perfection. Would you like to explore more techniques to help with your sleep?",T,Insignificant
+"Sure, I’m open to that.",P,Insignificant
+How about trying a sleep journal? You can jot down your thoughts before bed to clear your mind. ,T,Therapeutic Interventions
+That sounds helpful. I can give it a shot.,P,Insignificant
+"Excellent! It could provide insight into your thoughts and patterns. Now, let’s revisit the idea of a girlfriend. Have you had any thoughts about what you’re looking for in a partner?",T,Insignificant
+I think I want someone who is understanding and shares similar interests. ,P,Current Functional Status
+That’s a solid foundation. Have you thought about where you might meet someone like that?,T,Insignificant
+I guess through hobbies or activities I enjoy. That’s why joining a club seems like a good idea.,P,Current Functional Status
+Absolutely! Engaging in activities you enjoy will naturally attract people with similar interests. ,T,Insignificant
+"Yeah, I see that now.",P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+"No, I think we covered it all. Thanks for the encouragement, Ellie.",P,Insignificant
+You’re welcome! I’m proud of the steps you’re taking. Let’s check in next week on how everything goes.,T,Next Steps
+"Sounds good. Bye, Ellie!",P,Insignificant

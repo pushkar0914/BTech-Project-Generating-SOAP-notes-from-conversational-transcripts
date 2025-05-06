@@ -1,0 +1,62 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, I'm Ellie. It's great to see you again. How have you been since our last session?  ",T,Insignificant
+"Hi, Ellie! I've been alright, just busy with work and family, you know how it goes.  ",P,Insignificant
+I understand. You mentioned last time that you were working on a short film. How did that go?  ,T,Insignificant
+"Oh, it went really well! We had our premiere last week, and the audience seemed to really enjoy it.  ",P,History of Present Illness (HPI)
+That’s fantastic! How did that make you feel?  ,T,Insignificant
+"Honestly, it felt amazing. I was really proud of the work we put into it.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear. Did you experience any challenges during the process?  ,T,Insignificant
+"Definitely. There were moments when I thought we wouldn't finish in time, and I was stressed about it.  ",P,History of Present Illness (HPI)
+How did you cope with that stress?  ,T,Insignificant
+I tried to take breaks and remind myself to breathe. Sometimes I even went for a walk to clear my head.  ,P,Therapeutic Interventions
+Those are great strategies. Have you noticed any changes in how you handle stress since we last spoke?  ,T,Insignificant
+I think I’m getting better at it. I’m more aware of when I start to feel overwhelmed.  ,P,Progress Evaluation
+That’s a positive development. Awareness is the first step to managing stress effectively.  ,T,Insignificant
+"Yeah, it feels good to recognize it.  ",P,Insignificant
+You also mentioned feeling annoyed when your daughter didn't pay attention in school. How has that been lately?  ,T,Insignificant
+It's been a bit better actually. I’ve been trying to be more patient with her.  ,P,Progress Evaluation
+That’s a great approach. What changes have you made to be more patient?  ,T,Insignificant
+I’ve been focusing on listening to her more and understanding her perspective.  ,P,Therapeutic Interventions
+That’s wonderful. How has she responded to that?  ,T,Insignificant
+"She seems to open up more, and I think it helps her feel supported.  ",P,Current Functional Status
+That’s fantastic progress. It sounds like you’re building a stronger connection with her.  ,T,Insignificant
+I hope so! I really want her to feel comfortable talking to me.  ,P,Insignificant
+It’s clear you care deeply about her well-being. What other aspects of parenting have you been reflecting on?  ,T,Insignificant
+I’ve been thinking a lot about how to balance my work and family time.  ,P,History of Present Illness (HPI)
+That’s an important consideration. What challenges do you face in finding that balance?  ,T,Insignificant
+"Sometimes work gets overwhelming, and I end up bringing stress home with me.  ",P,History of Present Illness (HPI)
+It’s understandable. Have you tried any techniques to help separate work from home life?  ,T,Insignificant
+I’ve started setting specific work hours and trying to leave my work at the office.  ,P,Therapeutic Interventions
+That’s a great strategy. How has that worked for you so far?  ,T,Insignificant
+"It’s been helpful, but I still struggle with it sometimes.  ",P,Progress Evaluation
+It’s a process. What can you do to reinforce those boundaries?  ,T,Insignificant
+Maybe I could create a ritual to signal the end of my workday.  ,P,Therapeutic Interventions
+That sounds like a great idea! What kind of ritual do you have in mind?  ,T,Insignificant
+I thought about taking a short walk after work or listening to a specific song.  ,P,Therapeutic Interventions
+Those sound like effective ways to transition. I encourage you to try it out and see how it feels.  ,T,Insignificant
+I will! I’ll let you know how it goes.  ,P,Insignificant
+Please do! How are you feeling about your filmmaking aspirations?  ,T,Insignificant
+I’m feeling more motivated than ever. I want to keep making films.  ,P,Progress Evaluation
+That’s great to hear! What’s your next project?  ,T,Insignificant
+I’m thinking about a documentary this time. I want to explore a local issue.  ,P,History of Present Illness (HPI)
+That sounds intriguing! What issue are you considering?  ,T,Insignificant
+I want to focus on homelessness in our area. It’s a pressing issue that needs more attention.  ,P,History of Present Illness (HPI)
+That’s a powerful topic. What are your initial thoughts on how to approach it?  ,T,Insignificant
+I want to interview people who are experiencing it and share their stories.  ,P,Therapeutic Interventions
+That’s a meaningful approach. Have you thought about how to ensure their voices are heard respectfully?  ,T,Insignificant
+"Yes, I want to be sensitive and make sure they feel comfortable sharing.  ",P,Therapeutic Interventions
+That’s very important. It sounds like you’re really committed to this project.  ,T,Insignificant
+I am! I think it’s important to highlight their experiences.  ,P,Insignificant
+Absolutely. It could make a significant impact. How do you feel about the challenges you might face during this project?  ,T,Insignificant
+"I’m a bit nervous about it, but I think it’s worth it.  ",P,Progress Evaluation
+"It’s natural to feel nervous, especially when tackling such sensitive subjects. How can you prepare for those challenges?  ",T,Insignificant
+I think I’ll do more research and maybe talk to other filmmakers who have done similar projects.  ,P,Therapeutic Interventions
+That’s a smart approach. Networking with others can provide valuable insights.  ,T,Insignificant
+I’ll reach out to some local filmmakers I know.  ,P,Therapeutic Interventions
+"Great! As we wrap up today, what goals would you like to set for our next session?  ",T,Insignificant
+I’d like to focus on my documentary and how I can manage my time better between work and family.  ,P,Next Steps
+Those sound like excellent goals. I look forward to hearing about your progress.  ,T,Insignificant
+"Me too! Thanks for the support, Ellie.  ",P,Insignificant
+You’re very welcome! See you next time.  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

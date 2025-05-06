@@ -1,0 +1,63 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi again! It’s great to see you back. How have you been since our last session?  ,T,Insignificant
+"Uh, not too bad, I guess. Just the usual ups and downs.  ",P,Insignificant
+"I’m glad to hear that. Last time, we talked a lot about your experiences with Katrina and your ex. Have you had any thoughts about those topics since we last spoke?  ",T,History of Present Illness (HPI)
+"Yeah, I’ve thought about it a bit. I mean, it’s hard not to, right?  ",P,History of Present Illness (HPI)
+Absolutely. It’s a big part of your life. Did anything in particular stand out to you?  ,T,History of Present Illness (HPI)
+"I guess I realized how much those experiences shaped me. Like, I’m still dealing with the aftermath of both.  ",P,Trauma History
+That’s a powerful insight. How do you feel those experiences have shaped your daily life now?  ,T,History of Present Illness (HPI)
+"Well, with Katrina, I think I’m more anxious about things that could happen. Like, I always feel like I need to be prepared for the worst.  ",P,History of Present Illness (HPI)
+That makes sense. It sounds like a survival instinct. How does that anxiety manifest for you?  ,T,History of Present Illness (HPI)
+"I get really restless and sometimes paranoid. Like, I’ll check the news constantly about weather or earthquakes.  ",P,History of Present Illness (HPI):Risk Assessment
+That sounds exhausting. Have you found any strategies that help you cope with that anxiety?  ,T,History of Present Illness (HPI)
+"Not really. I mean, I try to distract myself with video games or books, but sometimes it just doesn’t work.  ",P,History of Present Illness (HPI)
+"Distraction can be helpful, but it sounds like you might need some additional coping strategies. Would you be open to exploring some techniques together?  ",T,Therapeutic Interventions
+"Sure, I’m willing to try anything at this point.  ",P,Insignificant
+Great! One technique we can try is mindfulness. It helps ground you in the present moment. Have you ever practiced mindfulness before?  ,T,Therapeutic Interventions
+"Not really. I’ve heard about it, but I don’t know how to do it.  ",P,Insignificant
+That’s okay! We can start simple. Let’s take a moment to focus on your breathing. Just inhale deeply through your nose and exhale through your mouth.  ,T,Therapeutic Interventions
+<deep breath> Okay.  ,P,Insignificant
+"Good. As you breathe, try to notice how your body feels. Are there any areas of tension?  ",T,Mental Health Observations
+I feel tightness in my shoulders.  ,P,Mental Health Observations
+"Acknowledge that tension. With each breath, imagine it releasing. Inhale calm, exhale tension.  ",T,Therapeutic Interventions
+"<sigh> Okay, I think I’m getting it.  ",P,Insignificant
+Excellent. Mindfulness can be a great tool for managing anxiety. How do you feel now after practicing that for a moment?  ,T,History of Present Illness (HPI)
+"I feel a little lighter, actually.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear! Would you like to incorporate mindfulness into your daily routine?  ,T,Next Steps
+"Yeah, I think I could do that. It might help with the anxiety.  ",P,Next Steps
+"Absolutely! It’s all about finding what works for you. Speaking of routines, how have you been sleeping lately?  ",T,Physiological Observations
+"Not great. I still feel like I’m sleeping too much, but I’m also tired a lot.  ",P,Physiological Observations
+It sounds like you’re caught in a cycle of fatigue. Have you noticed any triggers that affect your sleep?  ,T,Physiological Observations
+"Sometimes it’s just my mind racing with thoughts. Other times, it’s just that I feel so drained from everything.  ",P,Physiological Observations
+That’s understandable. Have you tried any techniques to calm your mind before bed?  ,T,Next Steps
+Not really. I usually just scroll through my phone until I pass out.  ,P,Insignificant
+"That’s common, but it can actually disrupt your sleep. Would you be interested in exploring some bedtime routines?  ",T,Next Steps
+"Yeah, I’m open to that.  ",P,Insignificant
+"Great! One technique is to create a wind-down routine. This could include reading a book, listening to calming music, or practicing relaxation exercises.  ",T,Therapeutic Interventions
+"Okay, I can try that. I do like reading.  ",P,Next Steps
+Perfect! Let’s set a goal for you to try this routine for a week and see how it affects your sleep. How does that sound?  ,T,Next Steps
+Sounds good! I’ll give it a shot.  ,P,Next Steps
+"Awesome! And remember, be gentle with yourself. It’s all about progress, not perfection.  ",T,Insignificant
+"Right, I’ll keep that in mind.  ",P,Insignificant
+Is there anything else on your mind that you’d like to discuss today?  ,T,Insignificant
+I think I want to talk about my temper again. I’ve noticed I’ve been getting angry more easily lately.  ,P,History of Present Illness (HPI)
+That’s important to address. What do you think is triggering that anger?  ,T,History of Present Illness (HPI)
+"I think it’s just frustration from everything. Like, I feel stuck in my life and it just bubbles over sometimes.  ",P,History of Present Illness (HPI)
+Feeling stuck can be really challenging. Have you thought about what you’d like to change in your life?  ,T,History of Present Illness (HPI)
+"Yeah, I want to find a job that I actually enjoy, but I’m not sure what that is.  ",P,History of Present Illness (HPI)
+That’s a great goal. Exploring your interests and passions can help you find that path. What do you enjoy doing?  ,T,History of Present Illness (HPI)
+"I like drawing and creating things, but I don’t know how to turn that into a job.  ",P,History of Present Illness (HPI)
+"That’s a start! Have you considered looking into fields that combine your interests, like graphic design or animation?  ",T,Next Steps
+"I’ve thought about it, but I feel like I’d be starting from scratch.  ",P,Insignificant
+"Starting from scratch can feel daunting, but remember, every expert was once a beginner. What if we set a goal for you to explore some options in those fields?  ",T,Next Steps
+"Yeah, I could do that. Maybe I’ll look into some classes or online tutorials.  ",P,Next Steps
+That sounds like a fantastic plan! Let’s aim for you to research at least one option this week.  ,T,Next Steps
+"Okay, I can do that.  ",P,Insignificant
+"Great! I’m proud of you for taking these steps. As we wrap up today, how are you feeling about our session?  ",T,Insignificant
+"I feel good. I think I have some things to work on, but it’s manageable.  ",P,Insignificant
+"I’m glad to hear that! Remember, you’re not alone in this process. I’m here to support you.  ",T,Insignificant
+"Thanks, Ellie. I appreciate it.  ",P,Insignificant
+You’re welcome! I look forward to hearing about your progress next time. Take care until then!  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi there! It’s wonderful to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been doing well, actually. I started using the schedule we talked about!",P,History of Present Illness (HPI)
+That’s great to hear! How did it go for you?,T,Insignificant
+"It was really helpful. I felt more organized, and I managed to find time for self-care, which made a big difference.",P,History of Present Illness (HPI)
+I’m so glad to hear that! What activities did you prioritize during your self-care time?,T,Insignificant
+"I’ve been meditating regularly, and I even finished a book I started a while ago. It felt good to have that time for myself.",P,History of Present Illness (HPI)
+That’s wonderful! It sounds like you’re making self-care a priority. How did that impact your overall mood and stress levels?,T,Insignificant
+I felt more relaxed and less anxious. I think it helped me handle my responsibilities better.,P,History of Present Illness (HPI)
+That’s a positive outcome! Have you encountered any challenges while implementing your schedule?,T,Insignificant
+"A few times, things got a bit hectic, and I had to adjust my plans, but I tried to stay flexible as we discussed.",P,History of Present Illness (HPI)
+Flexibility is key! How did you feel when you had to adjust your plans?,T,Insignificant
+"I was initially frustrated, but then I reminded myself that it’s okay to change things up. It helped me not to stress too much.",P,History of Present Illness (HPI)
+That’s a great coping strategy! It shows you’re learning to navigate challenges more effectively. Have you noticed any changes in your communication with your husband since you started the schedule?,T,Insignificant
+"Yes, actually! I think I’ve been more calm and focused, which has helped our conversations.",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like the self-care practices are benefiting not just you but also your relationship. Have there been any new developments with your husband?,T,Insignificant
+"We’ve been spending more quality time together, which has been nice. We went for walks together on weekends.",P,Psychosocial History
+That’s lovely! Connecting through shared activities can strengthen your bond. How does that make you feel?,T,Insignificant
+It makes me feel closer to him. I appreciate having that time together.,P,Psychosocial History
+"That’s wonderful to hear. As you continue to grow in your relationship, are there any specific goals you’d like to set for both of you?",T,Insignificant
+I think we could benefit from having regular date nights to maintain our connection.,P,Next Steps
+That’s a great idea! Setting aside dedicated time for each other can enhance your relationship. How often do you think you’d like to have those date nights?,T,Insignificant
+Maybe once every two weeks to start?,P,Next Steps
+That sounds like a manageable plan. How do you feel about planning the first one together?,T,Insignificant
+I’m excited! We could try a new restaurant or even have a movie night at home.,P,Next Steps
+Both options sound fun! It’s important to keep the spark alive. Is there anything else you’d like to focus on today?,T,Insignificant
+I’ve been thinking about my goals for school. I want to make sure I stay motivated.,P,Presenting Problem / Chief Complaint
+That’s a great focus. What specific goals do you have in mind for your education?,T,Insignificant
+I want to maintain a good GPA and really absorb the material. I also want to network with my classmates.,P,Next Steps
+Those are excellent goals! How do you plan to stay motivated throughout your studies?,T,Insignificant
+I think setting small milestones and rewarding myself for achieving them might help.,P,Therapeutic Interventions
+That’s a solid plan! Celebrating small victories can keep you motivated. What kind of rewards do you have in mind?,T,Insignificant
+Maybe treating myself to a nice dinner or a day out after completing a big assignment.,P,Next Steps
+"Those sound like wonderful incentives! It’s important to celebrate your hard work. How do you feel about sharing these goals with someone, like a friend or mentor?",T,Insignificant
+I think that could help keep me accountable. I’ll definitely consider it.,P,Next Steps
+Accountability can be a powerful motivator. I’m excited to hear how this goes for you. Is there anything else you’d like to discuss before we wrap up?,T,Insignificant
+"No, I think we covered everything important. Thank you for your support!",P,Insignificant
+"You’re very welcome! Keep up the great work, and I look forward to hearing about your progress next time.",T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Bye!,T,Insignificant

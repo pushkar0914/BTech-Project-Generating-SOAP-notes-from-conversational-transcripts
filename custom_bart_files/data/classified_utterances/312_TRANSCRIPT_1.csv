@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you back today. How have you been since our last session?,T,Insignificant
+"I've been okay, I guess. Just busy with work and thinking about grad school.",P,Psychosocial History
+That makes sense. You mentioned feeling apprehensive about applying to grad school. Have there been any developments in that area?,T,Insignificant
+"Not really. I’ve been gathering my materials, but I still feel nervous about the whole process.",P,History of Present Illness (HPI)
+It’s completely normal to feel nervous about such a significant step. Can you share more about what specifically makes you feel apprehensive?,T,Insignificant
+"I guess it’s the fear of not being good enough or not getting in. I’ve been out of school for a while, and I worry I won’t measure up.",P,History of Present Illness (HPI)
+"Those feelings of self-doubt can be tough to manage. Have you experienced similar feelings in the past, perhaps during your undergraduate studies?",T,Insignificant
+"Yeah, definitely. I remember feeling that way before exams or when I had to present research.",P,History of Present Illness (HPI)
+It sounds like you’ve faced these feelings before. How did you cope with them back then?,T,Insignificant
+"I tried to prepare as much as I could. I would study a lot, and I found that helped me feel a bit more confident.",P,History of Present Illness (HPI)
+Preparation can be a great way to alleviate anxiety. Would you like to explore some specific strategies for preparing for grad school applications?,T,Insignificant
+"Sure, that sounds helpful.",P,Insignificant
+"Great! One strategy could be setting small, manageable goals for your application process. For example, you could focus on one component at a time, like your personal statement. How does that sound?",T,Therapeutic Interventions
+That sounds doable. I think breaking it down might help me not feel so overwhelmed.,P,Therapeutic Interventions
+"Exactly! Also, how do you feel about seeking feedback from colleagues or mentors on your application materials?",T,Therapeutic Interventions
+I think that could be helpful. I just worry about what they might say.,P,History of Present Illness (HPI)
+"It’s natural to feel apprehensive about receiving feedback, but it can provide valuable insights. Remember, constructive criticism is a part of growth. Would you like to practice how to ask for feedback?",T,Therapeutic Interventions
+"Yeah, I think that could help me feel more prepared.",P,Insignificant
+Okay! Let’s role-play. You can start by asking a colleague for feedback on your personal statement.,T,Therapeutic Interventions
+"Alright. “Hey, could you take a look at my personal statement and let me know what you think?”",P,Therapeutic Interventions
+"That’s a great start! You might also want to add something like, “I’m looking for honest feedback, especially on areas I can improve.” How does that feel?",T,Therapeutic Interventions
+That feels good. It gives them direction on what I’m looking for.,P,Insignificant
+"Exactly! You’re taking control of the process. Now, shifting gears a bit, how have you been managing your sleep lately?",T,Insignificant
+"It’s been a bit better since I’ve been more active, but I still have nights where I struggle.",P,Physiological Observations
+That’s good to hear that it’s improving! Have you noticed any patterns or triggers that affect your sleep?,T,Insignificant
+"I think it’s mostly when I’m stressed or have a lot on my mind. On those nights, I can’t seem to shut my brain off.",P,Physiological Observations
+That’s a common experience. Have you tried any relaxation techniques before bed to help calm your mind?,T,Therapeutic Interventions
+"I’ve tried a few things, like reading or listening to music, but sometimes it doesn’t help.",P,Insignificant
+It might be beneficial to explore mindfulness or meditation as well. Would you be open to trying a short mindfulness exercise together now?,T,Therapeutic Interventions
+"Sure, I’d be willing to try that.",P,Insignificant
+Great! Let’s take a moment to focus on your breath. Close your eyes if you’re comfortable. Inhale deeply through your nose... and exhale slowly through your mouth. Let’s do this a few times together.,T,Therapeutic Interventions
+*inhales and exhales* ,P,Insignificant
+"As you breathe, try to let go of any tension in your body. With each exhale, imagine releasing stress and anxiety. How does that feel for you?",T,Therapeutic Interventions
+"It feels calming, actually. I can feel my shoulders relaxing.",P,Physiological Observations
+That’s wonderful! Practicing this for a few minutes each night could help you wind down before sleep. Would you like to commit to trying this technique?,T,Therapeutic Interventions
+"Yes, I think I will. It seems helpful.",P,Insignificant
+"Fantastic! So, to summarize our session today, we discussed breaking down your grad school application into smaller tasks, seeking feedback, and trying mindfulness for better sleep. How do you feel about these steps?",T,Insignificant
+I feel more optimistic about them. It seems like I have a plan now.,P,Next Steps
+"I’m glad to hear that! Remember, it’s okay to take it one step at a time. Is there anything else you’d like to talk about before we wrap up today?",T,Insignificant
+"No, I think we covered a lot. Thank you!",P,Insignificant
+You’re welcome! I look forward to hearing how these strategies work for you in our next session. Take care!,T,Insignificant
+You too! Goodbye.,P,Insignificant

@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. I'm glad to see you today. How have you been since our last session?",T,Insignificant
+"Hi Ellie. I've been okay, just trying to shake off this cold. ",P,Physiological Observations
+I hope you feel better soon. Last time we talked about your relationship with your family and some of the challenges you've faced. Have you had any thoughts or feelings about that since we last spoke?,T,History of Present Illness (HPI)
+"Yeah, I've been thinking about my mom a lot. It’s been tough not being there for her when she needed me.",P,History of Present Illness (HPI)
+It's understandable to have those feelings. You mentioned feeling guilty about that. Can you tell me more about what you’ve been reflecting on?,T,History of Present Illness (HPI)
+"I just wish I could have done more. She was always there for me, and I feel like I let her down.",P,History of Present Illness (HPI)
+That sounds really heavy. It’s common to feel that way when we think about our loved ones. What do you think you could do to honor her memory or the relationship you had?,T,Insignificant
+I think I could start by being more present with my daughters and granddaughters. I don’t want them to feel the same way I do.,P,History of Present Illness (HPI)
+That sounds like a meaningful goal. How do you think you can be more present with them?,T,Insignificant
+"I could make more time for them, maybe set up regular family dinners or something.",P,Next Steps
+That’s a great idea! Regular family gatherings can strengthen those bonds. Have you talked to them about how you'd like to do that?,T,Insignificant
+Not yet. I guess I was waiting for the right moment.,P,Insignificant
+"It could be helpful to bring it up casually, maybe during a conversation about family traditions. Would you like to practice how you might approach that?",T,Therapeutic Interventions
+"Sure, that could help.",P,Insignificant
+"Okay, imagine you’re sitting with your daughters. You might say, “I’ve been thinking about how important family is to me, and I’d love to have regular dinners together. What do you think?” ",T,Therapeutic Interventions
+That sounds good. I can see how that could open up a nice conversation.,P,Insignificant
+Absolutely! And it shows them that you value spending time together. How do you feel about that approach?,T,Insignificant
+I feel more confident about it. I think they’d like the idea.,P,Insignificant
+"That’s wonderful! Shifting gears a bit, you mentioned your friend who is on life support. How has that situation affected you?",T,History of Present Illness (HPI)
+"It’s been hard. I keep thinking about how fragile life is. One moment you’re fine, and the next, everything changes.",P,History of Present Illness (HPI)
+That’s a powerful realization. It’s natural to feel a range of emotions in response to such a situation. Have you found any ways to cope with those feelings?,T,Insignificant
+"I’ve been listening to more music, trying to distract myself a bit. ",P,History of Present Illness (HPI)
+Music can be a great outlet. Are there specific songs or genres that help you feel better?,T,Insignificant
+I’ve been listening to a lot of jazz lately. It’s soothing. ,P,Insignificant
+That’s great. Music can really elevate our mood. Have you considered sharing that music with your family during your gatherings?,T,Insignificant
+That’s a good idea! We could have a little music night.,P,Next Steps
+That sounds lovely! It could be a way to bond and share something you enjoy. How do you think your family would respond to that?,T,Insignificant
+"I think they’d love it. They enjoy music too, especially my granddaughters.",P,Insignificant
+"Fantastic! It seems like you’re finding ways to connect with them more deeply. As we move forward, is there anything specific you’d like to focus on in our next session?",T,Insignificant
+"I think I’d like to explore my feelings about my past relationships, especially my second marriage.",P,Presenting Problem / Chief Complaint
+That sounds like a valuable area to explore. Relationships can shape us in many ways. Would you like to reflect on what aspects of that relationship you want to discuss?,T,Insignificant
+"Yeah, I think I need to understand why I was so rigid back then. ",P,History of Present Illness (HPI)
+That’s a great insight. Understanding our past can help us grow. I look forward to diving into that with you next time. ,T,Next Steps
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+"Of course! Thank you for sharing today. Take care, and I hope you feel better soon.",T,Insignificant
+"Bye, Ellie. See you next time.",P,Insignificant

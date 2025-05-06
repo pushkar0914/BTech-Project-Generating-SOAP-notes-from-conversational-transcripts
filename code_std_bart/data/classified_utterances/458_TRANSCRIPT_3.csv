@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"I’ve been doing well! I stuck to my walking goal, and it feels good.",P,Current Functional Status
+That’s fantastic! How often were you able to walk this week?,T,Insignificant
+"I managed to walk three times, and I even went a bit longer than 20 minutes on one day.",P,Current Functional Status
+That’s impressive! It sounds like you’re building a positive routine. How did it feel to achieve that?,T,Insignificant
+It felt rewarding. I noticed I had more energy afterward.,P,Physiological Observations
+That’s a great benefit. Physical activity can really boost your mood and energy levels. Have you thought about how to keep that momentum going?,T,Insignificant
+"I want to keep walking, and maybe I’ll try jogging a little.",P,Current Functional Status
+That sounds like a wonderful progression. Just remember to listen to your body as you increase your activity. ,T,Insignificant
+I will. ,P,Insignificant
+"Now, how has your studying for the real estate exam been going?",T,Insignificant
+"I’m getting more comfortable with the financing concepts. I took some extra notes, and it helped.",P,Current Functional Status
+That’s excellent progress! What other topics are you currently focusing on?,T,Insignificant
+"I’m working on property management now, and it’s interesting.",P,Current Functional Status
+Property management is a crucial aspect of real estate. What have you found most intriguing about it so far?,T,Insignificant
+I like learning about tenant rights and responsibilities. It’s important to know how to handle those situations.,P,Current Functional Status
+Absolutely! Understanding those rights can make a big difference in your future career. Have you had any practical experiences related to property management?,T,Insignificant
+"Not yet, but I hope to find an internship soon.",P,Current Functional Status
+That’s a great idea! Gaining practical experience will enhance your learning. Have you begun looking for opportunities?,T,Insignificant
+"I’ve started searching online, but I haven’t applied yet.",P,Current Functional Status
+Would it help to set a goal for the number of applications you’d like to submit by our next session?,T,Insignificant
+"Yes, I think that would motivate me.",P,Insignificant
+How about aiming for two applications? ,T,Next Steps
+That sounds good.,P,Insignificant
+"Perfect! Now, let’s revisit your interactions with your ex. Have you been able to maintain the calming techniques during your conversations?",T,Insignificant
+"I have! We had a discussion last week, and I felt much more in control. ",P,History of Present Illness (HPI)
+That’s wonderful to hear. How did your ex respond to your calmer approach?,T,Insignificant
+"He seemed more open to listening, which was a nice change.",P,History of Present Illness (HPI)
+That’s a positive shift! It sounds like your efforts are having a real impact. ,T,Insignificant
+"Yes, I’m glad.",P,Insignificant
+"As we conclude today, let’s recap your goals: continue your walking routine, submit two applications for internships, and keep practicing your breathing techniques. ",T,Next Steps
+I’ll definitely work on all of those.,P,Insignificant
+I’m looking forward to hearing about your progress next time. ,T,Insignificant
+Thank you for your support!,P,Insignificant
+You’re very welcome! Have a great week ahead. ,T,Insignificant
+Bye!,P,Insignificant

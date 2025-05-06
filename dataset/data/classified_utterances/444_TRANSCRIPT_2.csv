@@ -1,0 +1,32 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How have you been since we last spoke?,T,Insignificant
+"Hi Ellie! I’ve been okay, a bit better actually. I’ve been trying to stick to my meditation routine.",P,History of Present Illness (HPI)
+That’s fantastic! How has that been going for you?,T,Insignificant
+"I’ve managed to meditate most mornings, even if it’s just for a few minutes. I feel calmer throughout the day.",P,History of Present Illness (HPI)
+That’s wonderful to hear! It sounds like you’re starting to notice some positive effects. Have you been journaling about your experiences?,T,Insignificant
+"Yes, I’ve written a few entries. It helps me reflect on my feelings, but I still find it hard to be consistent.",P,History of Present Illness (HPI)
+Consistency can be challenging. Maybe we can brainstorm some strategies to help you incorporate journaling into your routine.,T,Insignificant
+"That would be great. I think I need to tie it to another habit, like after meditation.",P,Next Steps
+That’s a good idea! Pairing it with another established habit can create a routine. How about setting a goal for the next week to journal right after meditating?,T,Next Steps
+I’ll definitely try that. ,P,Next Steps
+"Excellent! Now, how has your sleep been? Have you been able to implement your bedtime routine?",T,Insignificant
+I have! I’ve been turning off screens and reading something light before bed. It’s helped a lot.,P,Physiological Observations
+I’m glad to hear that! Have you noticed any changes in how you feel during the day?,T,Insignificant
+"Yes, I feel more alert and less groggy in the mornings. I think it’s making a difference.",P,Physiological Observations
+That’s fantastic progress! It sounds like you’re taking significant steps toward improving your overall well-being. Have there been any challenges you faced while trying to maintain these routines?,T,Insignificant
+"Sometimes the kids’ schedules can throw me off. If they have late activities, it’s hard to stick to my bedtime.",P,History of Present Illness (HPI)
+That’s understandable. How might you adjust your routine on those days to accommodate the changes?,T,Insignificant
+"Maybe I can set a slightly earlier bedtime on those days, so I still get enough rest.",P,Next Steps
+"That sounds like a practical solution. Flexibility is key. Now, let’s check in on your communication with your kids. Have you had a chance to use the “I” statements we discussed?",T,Insignificant
+"Yes! I used it when I felt overwhelmed while making dinner. I told them I needed some quiet time, and it worked!",P,History of Present Illness (HPI)
+That’s excellent! How did they respond?,T,Insignificant
+They were really understanding and gave me some space. It felt good to express myself without snapping.,P,History of Present Illness (HPI)
+That’s a significant improvement! It’s great to hear that you’re finding ways to communicate effectively. How do you feel about your progress in managing your emotions?,T,Insignificant
+"I feel more in control. I’m still a work in progress, but I’m getting there.",P,History of Present Illness (HPI)
+"Absolutely! Remember that progress takes time, and it’s okay to have ups and downs. Is there anything specific you’d like to focus on in our next session?",T,Insignificant
+"I’d like to explore more about managing stress, especially with the kids’ schedules getting busier.",P,Presenting Problem / Chief Complaint
+That sounds like a great plan. We can discuss some stress management techniques and strategies for balancing everything. ,T,Therapeutic Interventions
+"Thank you, Ellie! I appreciate your support.",P,Insignificant
+You’re welcome! I’m proud of the progress you’re making. I look forward to seeing you next time. ,T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

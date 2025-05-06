@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing well. I actually started working on my website!",P,History of Present Illness (HPI)
+That’s fantastic! How has that experience been for you?,T,Insignificant
+"It was a bit overwhelming at first, but once I started, it felt good. I’ve got a basic layout done.",P,History of Present Illness (HPI)
+That’s a significant accomplishment! How did it feel to make progress on something you’re passionate about?,T,Insignificant
+It felt rewarding. I felt proud of myself for taking that step.,P,History of Present Illness (HPI)
+You should be proud! Taking action can often alleviate feelings of stress and uncertainty. Have you had any feedback or thoughts from friends or family about your website?,T,Insignificant
+"I shared it with a couple of friends, and they were really supportive. It felt good to have their encouragement.",P,History of Present Illness (HPI)
+That’s wonderful! Support from loved ones can be incredibly motivating. What’s your next step in developing the website?,T,Insignificant
+I want to start adding some of my best photos and maybe write a little about my photography journey.,P,History of Present Illness (HPI)
+That sounds like a great way to connect with your audience. Sharing your journey can help others relate to your work. How do you feel about writing that narrative?,T,Insignificant
+I’m a bit nervous about it. I’m not sure if my story is interesting enough.,P,History of Present Illness (HPI)
+"It’s completely normal to feel that way. Remember, your unique experiences and perspectives are what make your story valuable. What would you say to yourself if you were encouraging a friend to share their story?",T,Insignificant
+"I’d tell them that everyone has a story worth sharing, and it’s okay to be vulnerable.",P,Insignificant
+Exactly! Embracing vulnerability can create deeper connections. How can you apply that same encouragement to yourself?,T,Insignificant
+I guess I should just write it down and not overthink it. ,P,Next Steps
+That’s a great approach! You can always revise later. What do you think would help you get started with that writing?,T,Insignificant
+Maybe I could set aside some time this week to just brainstorm ideas.,P,Next Steps
+That sounds like a productive plan. How about we set a goal for you to write a draft of your story by our next session?,T,Next Steps
+I think I can do that! ,P,Next Steps
+Excellent! Remember to be gentle with yourself during this process. Is there anything else on your mind today?,T,Insignificant
+I’ve been feeling a bit anxious about my financial situation still. ,P,History of Present Illness (HPI)
+"It’s understandable to feel anxious about finances, especially when pursuing a passion. Have you thought of any ways to address those financial concerns?",T,Insignificant
+I’ve been considering looking for part-time work to help with the income.,P,Next Steps
+That could be a helpful strategy. Balancing your passion with a stable income can create a sense of security. Have you thought about what kind of part-time work you might be interested in?,T,Insignificant
+Maybe something related to photography or even retail. Just something to bring in extra money.,P,Next Steps
+That sounds like a good plan. Applying your skills in photography could also keep you connected to your passion. How do you feel about starting that search?,T,Insignificant
+"A bit anxious, but I think I can manage it.",P,Risk Assessment
+It’s completely normal to feel anxious about job searching. Just remember to take it one step at a time. Would it help to set a small goal for yourself regarding that search?,T,Insignificant
+"Yes, maybe I could aim to apply for a couple of part-time jobs by next week.",P,Next Steps
+That sounds like a perfect goal! You’re taking charge of your situation. I’m looking forward to hearing about your progress next time. ,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Remember, you’re not alone in this journey. See you next time!",T,Insignificant
+Bye!,P,Insignificant

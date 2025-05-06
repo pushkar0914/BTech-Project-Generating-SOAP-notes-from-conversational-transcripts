@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been?  ,T,Insignificant
+"Hi Ellie! I’ve been okay, I did get to go hiking a couple of times.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear! How did it feel?  ,T,Insignificant
+It felt great. I really enjoyed being out in nature.  ,P,History of Present Illness (HPI)
+I’m glad you took that time for yourself. Did you notice any changes in your mood after those hikes?  ,T,History of Present Illness (HPI)
+"Yeah, I felt more energized and less stressed afterward.  ",P,History of Present Illness (HPI)
+That’s fantastic! It seems like getting outside is beneficial for you. Did you have a chance to talk to your wife about your feelings?  ,T,Insignificant
+"I did, actually. It went really well. She appreciated me opening up.  ",P,History of Present Illness (HPI)
+That’s excellent! How did it feel to share your feelings with her?  ,T,Insignificant
+It felt like a relief. I think it helped both of us.  ,P,History of Present Illness (HPI)
+That’s great to hear. Communication can really strengthen relationships. How has your mother-in-law been doing?  ,T,Insignificant
+"She’s still the same, unfortunately. It’s hard to watch.  ",P,Psychosocial History
+I can only imagine how difficult that must be for you and your wife. Have you been able to find support for yourself during this time?  ,T,Insignificant
+"I’ve been trying to talk to friends more, but it’s still tough.  ",P,Psychosocial History
+"That’s a good step. Sometimes, just sharing with friends can lighten the load. Have you found any specific conversations helpful?  ",T,Insignificant
+"Yeah, one friend who went through something similar really understood.  ",P,Psychosocial History
+That’s valuable. It helps to share with someone who can relate. How about your back injury? Have you looked into any physical therapy options?  ,T,Insignificant
+"I did some research, and I found a couple of places nearby.  ",P,Current Functional Status
+That’s great progress! Have you thought about scheduling an appointment?  ,T,Insignificant
+I’m thinking about it. I want to make sure it’s the right fit for me.  ,P,Current Functional Status
+"That makes sense. It’s important to feel comfortable with whoever you choose. If you need help deciding, we can talk about it next time.  ",T,Insignificant
+"That would be helpful, thanks.  ",P,Insignificant
+Absolutely. How has your sleep been lately?  ,T,Insignificant
+"A little better, I think. I’ve been trying to use some of the breathing techniques we talked about.  ",P,Physiological Observations
+That’s a positive step! Have you noticed any specific techniques that work better for you?  ,T,Insignificant
+"I find that focusing on the breathing helps, especially when I visualize that peaceful place.  ",P,Therapeutic Interventions
+That’s wonderful! Visualization can be a powerful tool. Would you like to build on that technique today?  ,T,Insignificant
+"Sure, I’d like that.  ",P,Insignificant
+"Okay, let’s take a moment to breathe in deeply… and out. Now, picture yourself in that peaceful forest again.  ",T,Therapeutic Interventions
+<breathes>  ,P,Insignificant
+"Great. As you visualize, notice how your body feels. Are there any areas of tension?  ",T,Insignificant
+I can feel a bit of tension in my shoulders.  ,P,Mental Health Observations
+"Let’s focus on that. As you breathe out, imagine the tension melting away.  ",T,Therapeutic Interventions
+<breathes out>  ,P,Insignificant
+Good. How does that feel?  ,T,Insignificant
+"A little better, actually.  ",P,Mental Health Observations
+Excellent! You can use this visualization anytime you feel stressed. Would you like to set a goal to practice this technique regularly?  ,T,Next Steps
+"Yes, I’ll try to do it every night before bed.  ",P,Next Steps
+That sounds like a great plan. Let’s check in on that next time. Is there anything else you want to discuss today?  ,T,Insignificant
+"Just feeling a bit anxious about the future, with everything going on.  ",P,History of Present Illness (HPI)
+That’s completely understandable. It’s a lot to process. What specifically makes you feel anxious?  ,T,Insignificant
+I worry about my wife and what will happen next with her mom.  ,P,History of Present Illness (HPI)
+It’s natural to feel that way. Have you found any strategies to cope with that anxiety?  ,T,Insignificant
+"I’ve been trying to stay busy, but it doesn’t always work.  ",P,History of Present Illness (HPI)
+"Staying busy can be a distraction, but it’s also important to process those feelings. Would you be open to journaling about your thoughts?  ",T,Therapeutic Interventions
+I could try that.  ,P,Insignificant
+Journaling can help you express and understand your feelings better. We can discuss how that goes in our next session.  ,T,Next Steps
+"Okay, I’ll give it a shot.  ",P,Insignificant
+Thank you for sharing today. Remember to be gentle with yourself. I’m here to support you through this.  ,T,Insignificant
+"Thanks, Ellie. I appreciate it a lot.  ",P,Insignificant
+You’re welcome! Looking forward to our next session. Take care!  ,T,Insignificant
+Bye!  ,P,Insignificant

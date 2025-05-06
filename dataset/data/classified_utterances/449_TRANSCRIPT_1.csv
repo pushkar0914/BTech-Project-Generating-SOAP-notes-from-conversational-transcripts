@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, it's great to see you again! How have you been since our last session?",T,Insignificant
+"Hi Ellie! I've been doing well, thanks for asking. Just keeping busy with work and family.",P,Insignificant
+"That's good to hear! Last time, you mentioned feeling good overall but having some rough patches with your son and daughter. How has that been for you lately?",T,Insignificant
+"It's been a bit of a rollercoaster. My daughter is still navigating her teenage years, and sometimes we clash. But I think we're finding our rhythm.",P,History of Present Illness (HPI):Psychosocial History
+That sounds promising. Can you tell me more about a recent interaction you had with her?,T,Insignificant
+"Sure! Just the other day, she wanted to go out with friends, and I felt she wasn't being responsible about it. We had a bit of a disagreement, but I tried to listen to her perspective.",P,History of Present Illness (HPI):Psychosocial History
+How did that conversation go?,T,Insignificant
+"It was tough at first. I was worried she wasn't being safe. But once I calmed down and listened, I realized she just wanted some independence. We ended up reaching a compromise.",P,History of Present Illness (HPI):Psychosocial History
+That's a great approach! It sounds like you were able to validate her feelings while still expressing your concerns.,T,Insignificant
+"Yes, exactly! I felt proud of how we handled it. ",P,Insignificant
+That’s wonderful. How did you feel after the conversation?,T,Insignificant
+"I felt relieved and proud. It was a good reminder that communication is key, even when emotions run high.",P,History of Present Illness (HPI):Psychosocial History
+Absolutely! It sounds like you're making progress in your relationship with her. What about your son? Have you had any updates there?,T,Insignificant
+"Well, he's still a bit distant. I’ve been trying to give him space, but sometimes I wish he would reach out more.",P,History of Present Illness (HPI):Psychosocial History
+That’s understandable. It can be hard to watch your child pull away. Have you considered any ways to reconnect with him?,T,Insignificant
+I think I might try inviting him over for dinner. Just the two of us. I want him to know I'm here for him without pressure.,P,Next Steps
+That sounds like a lovely idea! It could provide a relaxed environment for both of you to connect. How do you feel about initiating that?,T,Insignificant
+"A bit nervous, to be honest. What if he declines again?",P,Risk Assessment
+"It's natural to feel that way. Remember, it's about creating the opportunity, not forcing it. If he declines, it doesn't reflect your worth as a parent.",T,Insignificant
+That’s true. I need to remind myself of that. ,P,Insignificant
+"Yes, and you can always express that you’re there when he’s ready. It shows him that you care. ",T,Insignificant
+I will definitely keep that in mind. ,P,Insignificant
+"Great! Now, shifting gears a bit, how have you been managing your own self-care amidst all this?",T,Insignificant
+"I’ve been trying to carve out some time for myself. I’ve picked up yoga again, and it's been refreshing.",P,History of Present Illness (HPI):Psychosocial History
+That sounds wonderful! Yoga can be a great way to center yourself. How does it make you feel?,T,Insignificant
+It really helps me clear my mind and find some peace. I feel more in control afterward.,P,Physiological Observations
+It's fantastic that you have found something that works for you. Have you noticed any changes in your mood or stress levels since you started practicing?,T,Insignificant
+Definitely! I feel less anxious and more grounded. It’s like a reset button for me.,P,Physiological Observations
+That’s a powerful tool to have! Would you like to set any specific self-care goals for the next few weeks?,T,Insignificant
+Maybe I could aim for three yoga sessions a week. That feels manageable.,P,Next Steps
+That sounds like a great plan! How about we check in on that goal in our next session?,T,Insignificant
+"Yes, I’d like that. ",P,Insignificant
+Perfect! Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now. Just feeling a bit more hopeful about my relationships.,P,History of Present Illness (HPI)
+"I’m glad to hear that! Remember, it’s all about progress, not perfection. ",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+You’re very welcome! I look forward to hearing about your yoga practice and your dinner invitation next time. ,T,Insignificant
+Me too! ,P,Insignificant
+"Take care, and see you soon!",T,Insignificant
+Bye!,P,Insignificant

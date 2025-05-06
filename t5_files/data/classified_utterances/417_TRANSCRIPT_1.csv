@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+"Hi, it’s good to see you again. How have you been since our last session?",T,Insignificant
+"Hi, I’ve been okay. A bit anxious, but overall, I’m managing.",P,History of Present Illness (HPI)
+That’s understandable. You mentioned feeling more positive last time. Has that continued?,T,Insignificant
+"Yeah, I think so. I’ve had some good days, but there are still moments where I feel overwhelmed.",P,History of Present Illness (HPI)
+Can you tell me more about those overwhelming moments?,T,Insignificant
+"Well, sometimes it’s just little things, like being in a crowded place or having too much on my to-do list. It can just hit me suddenly.",P,History of Present Illness (HPI)
+It sounds like those situations trigger your anxiety. Have you tried any coping strategies when that happens?,T,Insignificant
+"I’ve been trying to practice deep breathing. It helps a little, but it’s hard to remember to do it in the moment.",P,History of Present Illness (HPI)
+That’s a great start. Perhaps we can work on integrating that into your routine. Would you like to try a mindfulness exercise together now?,T,Insignificant
+"Sure, I’d like that.",P,Insignificant
+"Okay, let’s take a few deep breaths together. Inhale deeply… and exhale slowly. Focus on your breath. How does that feel?",T,Insignificant
+It feels nice. I can feel my shoulders relaxing a bit.,P,Mental Health Observations
+That’s wonderful. Practicing this regularly can help you manage those overwhelming feelings better. Would you be open to setting a goal to practice this daily?,T,Insignificant
+"Yeah, I could try that. Maybe in the morning or before bed?",P,Next Steps
+Both are great times! You could also try it during those overwhelming moments if you remember. How does that sound?,T,Insignificant
+That sounds good. I’ll definitely give it a shot.,P,Insignificant
+Great! You also mentioned wanting to help others through sex education. How is that going for you?,T,Insignificant
+"I’ve been looking into programs and classes, but I’m still unsure about committing.",P,Psychosocial History
+It’s okay to take your time. What’s holding you back from committing?,T,Insignificant
+I guess I’m worried that I won’t be good enough or that I’ll fail.,P,Risk Assessment
+Those feelings are valid. It’s common to feel that way when pursuing something important. What would you say to a friend who felt that way?,T,Insignificant
+I’d probably tell them that it’s okay to make mistakes and that they should just try their best.,P,Insignificant
+Exactly! You deserve that same kindness. How can you apply that advice to yourself?,T,Insignificant
+I think I need to remind myself that it’s a process and that I can learn along the way.,P,Psychosocial History
+That’s a great perspective. What small steps could you take to move forward with this goal?,T,Insignificant
+Maybe I could start by attending a few workshops or volunteering somewhere.,P,Next Steps
+That sounds like an excellent plan! Taking small steps can help build your confidence. Would you like to set a timeline for that?,T,Insignificant
+"Yeah, I could aim to find something in the next month.",P,Next Steps
+Perfect! Let’s check in on that in our next session. How does that feel?,T,Insignificant
+That feels good. I like having a plan.,P,Insignificant
+"I’m glad to hear that! Now, let’s talk about your relationship with your boyfriend. You mentioned having some arguments. How have things been since then?",T,Insignificant
+"We’ve been okay. We still have our moments, but I think we’re getting better at communicating.",P,Psychosocial History
+That’s great progress! What strategies have you found helpful in your communication?,T,Insignificant
+We’ve been trying to talk things out more calmly instead of arguing right away.,P,Psychosocial History
+That’s a healthy approach. Have you noticed any changes in how you both handle disagreements?,T,Insignificant
+"Yeah, I think we’re both more willing to listen to each other now.",P,Psychosocial History
+Listening is key in any relationship. What else do you think can improve your communication?,T,Insignificant
+Maybe being more open about how we’re feeling instead of waiting for things to escalate.,P,Psychosocial History
+That sounds like a solid plan. How can you encourage that openness?,T,Insignificant
+I could start by sharing my feelings first and encouraging him to do the same.,P,Next Steps
+That’s a wonderful idea! Creating a safe space for both of you to express yourselves can strengthen your relationship. ,T,Insignificant
+I hope so. I really want us to be able to talk about anything.,P,Psychosocial History
+"It’s a great goal to have. As you work on this, remember to be patient with yourselves. It takes time to develop these skills.",T,Insignificant
+"Yeah, I’ll keep that in mind. ",P,Insignificant
+"Before we wrap up today, is there anything else you’d like to discuss or any concerns you have?",T,Insignificant
+I think we’ve covered a lot. I’m feeling good about the mindfulness practice and my goals.,P,Progress Evaluation
+"I’m glad to hear that! Remember, you’re doing great work. Let’s plan to touch base on your goals and mindfulness practice next time.",T,Next Steps
+Sounds good! Thank you!,P,Insignificant
+"You’re welcome! Take care, and I look forward to seeing you next week. ",T,Insignificant
+Bye!,P,Insignificant

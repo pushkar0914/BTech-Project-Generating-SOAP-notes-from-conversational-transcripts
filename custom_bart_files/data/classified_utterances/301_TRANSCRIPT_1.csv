@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. How have you been since our last session?",T,Insignificant
+"Hey, I've been alright, thanks for asking.",P,Insignificant
+"That's good to hear. Last time, we talked about your job situation and how you feel about it. Have there been any updates or changes since then?",T,History of Present Illness (HPI)
+"Not really, still working as an administrative assistant. Just trying to keep my head above water.",P,History of Present Illness (HPI)
+I understand. Have you had any opportunities to explore other job options or creative ventures?,T,History of Present Illness (HPI)
+"A few, but nothing concrete. I’ve been thinking about starting a small side project, maybe something creative, but I’m not sure yet.",P,History of Present Illness (HPI)
+That sounds like a positive step. What kind of project are you considering?,T,Insignificant
+"I’m not entirely sure. Maybe something with music or art, since I have friends in those areas. Just something to express myself, you know?",P,History of Present Illness (HPI)
+That sounds promising! What’s holding you back from starting that project?,T,Insignificant
+I guess it’s just the usual fear of failure. What if it doesn’t go anywhere?,P,History of Present Illness (HPI)
+That’s a common concern. What would it mean for you if the project didn’t succeed?,T,Insignificant
+"I suppose it would feel like a waste of time, and I don’t want to disappoint myself or my friends.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. But what if we reframe that thought? What if you viewed it as an opportunity to learn rather than a failure?,T,Insignificant
+I guess that could work. It’s just hard to shake off the fear.,P,Insignificant
+"Absolutely, and it’s okay to feel that fear. Have you had any past experiences where trying something new led to unexpected outcomes?",T,Insignificant
+"Yeah, I mean, I tried out for a band once, and even though I didn’t get in, it was fun and I met some cool people.",P,History of Present Illness (HPI)
+"That’s a great example! It sounds like you gained some valuable experiences from that, even if it didn’t turn out how you hoped.",T,Insignificant
+"True, I guess I should focus more on the experience rather than the outcome.",P,Insignificant
+Exactly! How do you think you can apply that mindset to your potential project?,T,Insignificant
+"Maybe I could set smaller goals for myself, like just creating something without worrying about how it will be received.",P,Next Steps
+That sounds like a fantastic plan. Smaller goals can help reduce the pressure and make it more enjoyable. What’s a small goal you could set for yourself this week?,T,Next Steps
+I could try to write a song or create a piece of art. Just something to get the ball rolling.,P,Next Steps
+That’s a wonderful idea! How do you feel about committing to that?,T,Insignificant
+I feel good about it. It sounds manageable.,P,Insignificant
+"Great! I’m excited to hear how that goes. Now, let’s talk a bit about your temper. You mentioned you’ve been working on controlling it. How has that been going for you?",T,History of Present Illness (HPI)
+"Honestly, it’s been a mixed bag. Some days I feel like I’m doing well, and other days, I just lose it.",P,History of Present Illness (HPI)
+It’s okay to have ups and downs. Can you think of a recent situation where you felt your temper flaring?,T,Insignificant
+"Yeah, just the other day, I was driving and someone cut me off. I was so angry I almost yelled at them.",P,History of Present Illness (HPI)
+That sounds frustrating! How did you handle that anger in that moment?,T,Insignificant
+I just took a deep breath and tried to let it go. I didn’t want to escalate things.,P,Mental Health Observations
+That’s a great strategy! It shows that you’re making progress in managing your reactions. What do you think triggered your anger in that situation?,T,Insignificant
+I think it’s just the stress of everyday life. Sometimes it feels like everything is just piling up.,P,History of Present Illness (HPI)
+That’s understandable. Have you thought about any additional coping strategies you could use when you feel that stress building?,T,Insignificant
+"I’ve been trying to exercise more, like running or going to the gym, but I think I need to incorporate some mindfulness too.",P,Therapeutic Interventions
+Mindfulness can be very helpful! Would you be open to trying some mindfulness exercises this week?,T,Therapeutic Interventions
+"Sure, I can give it a shot. Maybe some breathing exercises or meditation.",P,Therapeutic Interventions
+That sounds like a great plan! Let’s set a goal for you to practice mindfulness a few times this week. How does that sound?,T,Next Steps
+I can do that. It might help with the stress and my temper.,P,Next Steps
+"Absolutely! I’m looking forward to hearing how it goes. As we wrap up today, is there anything else on your mind that you’d like to discuss?",T,Insignificant
+"Not really, I feel like we covered a lot today.",P,Insignificant
+I’m glad to hear that. Remember to focus on those small goals and be kind to yourself. I’ll see you next time!,T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+"You’re welcome! Take care, and see you soon.",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi! Welcome back! How have you been since our last session?  ,T,Insignificant
+"I’ve been okay, but I still feel a bit overwhelmed.  ",P,History of Present Illness (HPI)
+I’m sorry to hear that. Can you share what’s been overwhelming you?  ,T,Insignificant
+"I tried meal prepping, but it didn’t go as planned.  ",P,History of Present Illness (HPI)
+That can happen! What challenges did you face?  ,T,Insignificant
+I didn’t have enough time and ended up rushing it.  ,P,History of Present Illness (HPI)
+Rushing can definitely make things feel chaotic. How did that affect your meals?  ,T,Insignificant
+"They didn’t turn out great, and I ended up just ordering takeout anyway.  ",P,History of Present Illness (HPI)
+"It sounds frustrating. Remember, it’s a learning process. What did you learn from this experience?  ",T,Insignificant
+I learned that I need to give myself more time and plan better.  ,P,History of Present Illness (HPI)
+That’s a valuable insight! How about we work on a more manageable plan together?  ,T,Insignificant
+That would help.  ,P,Insignificant
+How much time do you think you can realistically set aside for meal prepping?  ,T,Insignificant
+Maybe two hours on Sundays?  ,P,Next Steps
+That sounds reasonable. Would you feel comfortable setting a timer to keep you focused during that time?  ,T,Insignificant
+I could try that!  ,P,Next Steps
+"Great! And if things don’t go perfectly, that’s okay too. It’s about progress, not perfection.  ",T,Insignificant
+True. I need to remind myself of that.  ,P,Insignificant
+"Now, how about the networking? Have you made any connections?  ",T,Insignificant
+Yes! I reached out to a couple of people.  ,P,History of Present Illness (HPI)
+That’s fantastic! What was the response like?  ,T,Insignificant
+"One person agreed to meet for coffee next week, so I’m excited but nervous.  ",P,History of Present Illness (HPI)
+It’s normal to feel nervous. What are you hoping to gain from the meeting?  ,T,Insignificant
+I want to learn more about their work and see if they have any advice for getting started in the field.  ,P,Next Steps
+That’s a great goal! Have you thought about any specific questions you’d like to ask?  ,T,Insignificant
+I want to ask about their career path and how they got their first clients.  ,P,Next Steps
+Those are excellent questions! It shows you’re genuinely interested in their experience.  ,T,Insignificant
+Thanks! I hope it goes well.  ,P,Insignificant
+I’m sure it will! Just remember to listen and take notes.  ,T,Insignificant
+Good idea.  ,P,Insignificant
+How have you been feeling about your social connections lately?  ,T,Insignificant
+"I’ve been trying to reach out more, but sometimes I feel like I’m bothering people.  ",P,Psychosocial History
+"It’s common to feel that way, but remember that friends appreciate hearing from you.  ",T,Insignificant
+I guess that’s true.  ,P,Insignificant
+Have you had any positive interactions with friends recently?  ,T,Insignificant
+"Yes! I had dinner with a friend last week, and it was really nice.  ",P,Psychosocial History
+That’s wonderful! Spending time with friends can help lift your spirits.  ,T,Insignificant
+"It did! I laughed a lot, which I needed.  ",P,Psychosocial History
+Laughter is a great stress reliever. How can you incorporate more of that into your life?  ,T,Insignificant
+I could plan more outings with friends or maybe even join a class.  ,P,Next Steps
+That sounds like a fun idea! What kind of class are you interested in?  ,T,Insignificant
+Maybe a cooking class or something creative like painting.  ,P,Next Steps
+Both sound like great options! They could also help you meet new people.  ,T,Insignificant
+That’s true. I’ll look into it.  ,P,Next Steps
+Fantastic! It seems like you’re making strides in various areas of your life.  ,T,Insignificant
+I hope so. I want to keep moving forward.  ,P,Insignificant
+"That’s the spirit! Remember, it’s about taking small steps. What’s one small step you can commit to this week?  ",T,Insignificant
+I think I’ll go to that coffee meeting and look for a class to join.  ,P,Next Steps
+That sounds like a solid plan! I’m excited to hear how it goes.  ,T,Insignificant
+Me too!  ,P,Insignificant
+"Before we wrap up, is there anything else on your mind?  ",T,Insignificant
+Just that I’m grateful for the support.  ,P,Insignificant
+"I’m glad to hear that! You’re doing the hard work, and it’s paying off.  ",T,Insignificant
+Thanks! I appreciate it.  ,P,Insignificant
+You’re welcome! I look forward to our next session.  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I’ve been okay, I guess. A bit up and down, you know?",P,Insignificant
+I understand. You mentioned feeling like you were slipping back a little. Can you tell me more about that?,T,History of Present Illness (HPI)
+"Yeah, I think it’s mostly because of the work slow down. I’ve been sleeping in again and not really keeping a schedule.",P,History of Present Illness (HPI): Physiological Observations
+"That makes sense. Structure can be really important, especially when managing depression. Have you tried any strategies to help maintain that structure?",T,Insignificant
+"I’ve tried setting alarms and making to-do lists, but it’s hard to stick to them when I don’t have much to do.",P,History of Present Illness (HPI)
+It’s definitely a challenge. What do you think makes it difficult to stick to those plans?,T,Insignificant
+"I think when I don’t have a lot of obligations, I just lose motivation. It’s like I’m waiting for something to happen.",P,History of Present Illness (HPI)
+That feeling of waiting can be tough. Have you found any activities that help you feel more engaged or motivated?,T,Insignificant
+"I’ve been trying to go for walks more often, and I did photograph a local event last week, which was nice.",P,Current Functional Status: Physiological Observations
+That sounds great! Engaging in photography seems to bring you joy. How did it feel to be out there capturing moments?,T,Insignificant
+It felt really good. I love being in the moment and focusing on something creative. It takes my mind off things.,P,Current Functional Status
+That’s wonderful! Maybe we can explore how to incorporate more of those activities into your week. What do you think?,T,Insignificant
+"Yeah, that would be helpful. I think I need to find ways to keep myself busy.",P,Insignificant
+Absolutely. Let’s brainstorm some ideas together. What other types of photography or creative projects interest you?,T,Insignificant
+"I’ve always wanted to try portrait photography more seriously, maybe even setting up a small studio at home.",P,Current Functional Status
+That sounds like a fantastic goal! Setting up a home studio could provide you with a creative outlet and structure. What steps do you think you would need to take to start that?,T,Insignificant
+I’d need to clear some space in my apartment and maybe invest in some backdrops and lighting.,P,Next Steps
+Those are great first steps. How do you feel about setting aside time each week to work on this project?,T,Insignificant
+"I think that could work. If I schedule it, I might actually follow through.",P,Next Steps
+Scheduling it sounds like a good plan. Would you like to set a specific day and time for this?,T,Insignificant
+Maybe Saturdays? I usually have more free time then.,P,Next Steps
+Perfect! Let’s aim for Saturdays to work on your photography. How does that feel?,T,Insignificant
+It feels good! I’m excited to get started.,P,Insignificant
+"That’s great to hear! Now, let’s also talk about your feelings of negativity that you mentioned last time. Have those thoughts continued?",T,Insignificant
+"Yeah, I’ve noticed I’m still dwelling on darker themes, like historical battles and stuff. It’s weird.",P,History of Present Illness (HPI)
+"It’s not uncommon to get caught up in those thoughts, especially during slower times. Have you found it helpful to talk about them, or do they feel overwhelming?",T,Insignificant
+Sometimes it’s overwhelming. I think I’m just trying to make sense of things.,P,History of Present Illness (HPI)
+That makes sense. It might help to explore why those themes are resonating with you. What do you think draws you to them?,T,Insignificant
+I think it’s the struggle and survival aspect. Maybe it’s a reflection of how I feel sometimes.,P,History of Present Illness (HPI)
+That’s an insightful connection. It sounds like you’re relating to their experiences. Would you like to explore coping mechanisms for those thoughts?,T,Insignificant
+"Yes, I think that would help. I don’t want to get stuck in that mindset.",P,Insignificant
+"One strategy could be to redirect those thoughts when they arise. For instance, when you catch yourself thinking about those themes, you might try to shift your focus to something positive or grounding.",T,Therapeutic Interventions
+I’ll try that. Maybe I can think about my photography instead.,P,Therapeutic Interventions
+That’s a great idea! You can also use mindfulness techniques to bring yourself back to the present moment. Would you be open to practicing a brief mindfulness exercise together now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+Great! Let’s take a moment to focus on your breath. Inhale deeply through your nose… and exhale slowly through your mouth. Let’s do that a few times together.,T,Therapeutic Interventions
+*breathes* ,P,Insignificant
+"As you breathe, notice how your body feels. Allow any tension to melt away with each exhale.",T,Therapeutic Interventions
+"*breathes* Okay, I feel a bit more relaxed.",P,Physiological Observations
+That’s wonderful! Mindfulness can be a powerful tool to help you manage those overwhelming thoughts. Would you like to incorporate this practice into your weekly routine?,T,Therapeutic Interventions
+"Yes, I think that could be beneficial. Maybe I can do it before I start my photography sessions.",P,Next Steps
+That sounds like a perfect plan! Let’s aim for a few minutes of mindfulness before you begin each Saturday. ,T,Next Steps
+I’ll definitely try that.,P,Insignificant
+"Excellent! Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I think we covered a lot. I feel more hopeful about the upcoming week.,P,Insignificant
+"I’m glad to hear that! Remember, it’s okay to have ups and downs. Just take things one step at a time. ",T,Insignificant
+"Thank you, Ellie. I appreciate your help.",P,Insignificant
+You’re very welcome! I look forward to hearing about your progress next time. Take care!,T,Insignificant
+You too! Goodbye!,P,Insignificant

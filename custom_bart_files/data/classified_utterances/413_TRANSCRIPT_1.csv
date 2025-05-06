@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's nice to see you back today. How have you been since our last session?",T,Insignificant
+"Hi Ellie! I've been okay, I guess. Just the usual ups and downs.",P,Insignificant
+"I understand. Last time we talked about your feelings of being in ""one note land."" Have you noticed any changes in that?",T,History of Present Illness (HPI)
+"Not really. I still feel kind of flat. I try to shake it off, but it lingers.",P,History of Present Illness (HPI)
+That sounds tough. Have you had any moments where you felt more engaged or excited about something?,T,History of Present Illness (HPI)
+"Well, I did go to that basketball game with my friend again, and it was fun. But it was just a temporary high.",P,History of Present Illness (HPI)
+It’s great that you had a good time at the game! What do you think keeps you from feeling that excitement more often?,T,History of Present Illness (HPI)
+"I think it’s just life here. Sometimes it feels like a routine, and I’m not sure how to break out of it.",P,History of Present Illness (HPI)
+Routines can definitely feel stifling. Have you thought about what you might want to change in your daily life to add some variety?,T,History of Present Illness (HPI)
+"I’ve considered trying new hobbies, but I often end up putting it off. I think I’m just too tired or unmotivated.",P,History of Present Illness (HPI)
+"That’s understandable. Perhaps we could explore some small, manageable changes you could try? What’s one hobby you’ve thought about?",T,History of Present Illness (HPI)
+"I’ve always wanted to try painting. I think it would be relaxing, but I just never get around to it.",P,History of Present Illness (HPI)
+Painting sounds like a wonderful creative outlet! Would you be willing to set aside some time this week to try it out?,T,Next Steps
+"I could try to make time for it, maybe just an hour or so.",P,Next Steps
+"That sounds like a great plan. Remember, it doesn’t have to be perfect; just enjoy the process. How do you feel about that idea?",T,Next Steps
+I feel good about it. It might help me clear my mind.,P,Next Steps
+"Fantastic! Let’s check in about that in our next session. Now, you mentioned feeling more reserved and secluded over the years. Can you share more about that?",T,History of Present Illness (HPI)
+"Yeah, I just find myself not wanting to go out as much. I used to be more social, but now it feels exhausting.",P,History of Present Illness (HPI)
+It’s common for social energy to fluctuate. Do you think there’s anything specific that triggers that exhaustion for you?,T,History of Present Illness (HPI)
+I think it’s just the pressure of having to interact with people. Sometimes I feel like I don’t know what to say or how to act.,P,History of Present Illness (HPI)
+That pressure can be overwhelming. Have you ever tried any techniques to help manage those feelings before social situations?,T,History of Present Illness (HPI)
+"I’ve read about deep breathing exercises, but I haven’t really practiced them.",P,History of Present Illness (HPI)
+Deep breathing can be a great tool. Would you like to try a simple breathing exercise together now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Therapeutic Interventions
+Let’s take a deep breath in for four counts… hold for four… and exhale for four. Repeat that a few times. How does that feel?,T,Therapeutic Interventions
+"It feels calming, actually. I think I should try this before I go out next time.",P,Therapeutic Interventions
+That’s a great idea! Practicing it regularly can help you feel more centered. What other strategies do you think might help you in social situations?,T,Next Steps
+"Maybe I could try to set smaller goals, like just talking to one new person instead of feeling like I have to mingle with everyone.",P,Next Steps
+Setting smaller goals is an excellent approach! It can make socializing feel less daunting. Would you like to set a specific goal for your next outing?,T,Next Steps
+"Yes, I think I’ll aim to introduce myself to one new person at the next event I attend.",P,Next Steps
+Perfect! I’m excited to hear how that goes. Is there anything else on your mind today that you’d like to discuss?,T,Insignificant
+I guess just the ongoing tension with my dad. It’s still bothering me.,P,Presenting Problem / Chief Complaint
+That’s understandable. Would you like to explore that further?,T,Insignificant
+"Yeah, I think it would help. I just feel like we’re stuck in this cycle of arguing.",P,History of Present Illness (HPI)
+It sounds frustrating. What do you think contributes to that cycle?,T,History of Present Illness (HPI)
+I think it’s a mix of misunderstandings and him pushing me to do things I’m not comfortable with.,P,History of Present Illness (HPI)
+It might be helpful to communicate your feelings more directly to him. Have you thought about how you might approach that conversation?,T,Next Steps
+I haven’t really figured that out yet. I’m not sure he would listen.,P,History of Present Illness (HPI)
+"It can be challenging, but expressing your feelings calmly might open the door for a better understanding. Would you like to role-play that conversation here?",T,Therapeutic Interventions
+That could be useful. I’d like to see how I might phrase things.,P,Therapeutic Interventions
+Great! Let’s start with how you might express your feelings about the situation without placing blame.,T,Therapeutic Interventions
+"Okay, I would say something like, “Dad, I feel overwhelmed when you tell me to reach out to her. It makes me feel pressured.”",P,Therapeutic Interventions
+That’s a good start! It’s important to express how you feel. How do you think he might respond to that?,T,Insignificant
+"He might get defensive, but maybe it would help him see my side.",P,History of Present Illness (HPI)
+"It’s possible. Remember, you can’t control his reaction, but you can control how you express yourself. Would you feel ready to try that in real life?",T,Next Steps
+I think I could try it. It’s worth a shot.,P,Next Steps
+Absolutely! I’m proud of you for wanting to address this. Let’s touch base about how it goes in our next session. ,T,Next Steps
+"Thank you, Ellie. I appreciate your help.",P,Insignificant
+You’re welcome! I look forward to hearing about your progress. Take care until then!,T,Insignificant
+Bye!,P,Insignificant

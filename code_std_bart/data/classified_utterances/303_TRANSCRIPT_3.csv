@@ -1,0 +1,38 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last conversation?,T,Insignificant
+"Hi Ellie! I’ve been okay, just keeping busy with work and the kids. ",P,Psychosocial History
+It sounds like you’ve been juggling a lot! How did the quality time with your son go?,T,Insignificant
+"It went really well! We had a fun day at the park, and I tried to focus on being present with him.",P,History of Present Illness (HPI)
+That’s wonderful to hear! How did he respond to the time you spent together?,T,Insignificant
+He seemed really happy. We played games and just talked. It felt good to connect.,P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re building a strong bond. Have you noticed any changes in his behavior since you’ve been spending more time together?,T,Insignificant
+"He seems more open to talking about his feelings, which is nice.",P,History of Present Illness (HPI)
+That’s a positive development! Encouraging open communication can really help him feel secure. Is there anything else you’d like to explore in your relationship with him?,T,Insignificant
+I want to make sure he feels comfortable coming to me with anything. I don’t want him to feel like he has to hide things.,P,Presenting Problem / Chief Complaint
+That’s an important goal. What strategies do you think could help create that safe space for him?,T,Insignificant
+I think just being non-judgmental and really listening when he talks would help.,P,Therapeutic Interventions
+"That’s a great approach! Modeling that behavior can encourage him to be more open. Now, how have the classes been going for you?",T,Insignificant
+"They’re still challenging, but I’m managing. I’ve been sticking to my study schedule.",P,Current Functional Status
+That’s great to hear! It sounds like you’re finding a rhythm. What aspects of the classes have you enjoyed the most?,T,Insignificant
+I really like the leadership training. It’s giving me a lot of useful tools.,P,Current Functional Status
+"That’s excellent! Leadership skills are essential, especially as you aim for that supervisory position. Have you thought about how you can apply what you’re learning at work?",T,Insignificant
+"Yes, I’ve started to take on more responsibilities at work, which is exciting.",P,Current Functional Status
+That’s a fantastic way to put your skills into practice! How does it feel to step into those responsibilities?,T,Insignificant
+It feels empowering. I’m starting to see myself in that role.,P,History of Present Illness (HPI)
+"That’s a significant shift! It’s wonderful to see you embracing your potential. Now, how has your sleep been lately?",T,Insignificant
+"It’s been pretty good! I’ve been sticking to my routine, and the stretching helps.",P,Physiological Observations
+That’s wonderful! It seems like you’re making great progress. Have you noticed any changes in how you feel during the day?,T,Insignificant
+"I have more energy, and I’m not as easily irritated.",P,Physiological Observations
+That’s a positive outcome! It’s amazing what a good night’s sleep can do. Is there anything else you’d like to work on today?,T,Insignificant
+"I’ve been thinking about my relationship with my oldest daughter again. I still want to help her, but I’m not sure how.",P,Presenting Problem / Chief Complaint
+It’s great that you want to support her. What specific challenges are you facing in that relationship?,T,Insignificant
+"I just feel like she’s struggling, and I want to guide her without pushing her away.",P,Presenting Problem / Chief Complaint
+That’s a delicate balance. Have you considered having an open conversation with her about how she’s feeling?,T,Insignificant
+"I think I could do that. Maybe if I approach it gently, she’ll be more receptive.",P,Therapeutic Interventions
+That sounds like a good plan. Creating a safe space for her to express herself is key. How do you feel about setting a time to talk with her this week?,T,Insignificant
+I’ll try to make that happen. I think it could be really helpful.,P,Next Steps
+"That’s a great step! I’m looking forward to hearing how that goes. Before we wrap up, is there anything else on your mind?",T,Insignificant
+"No, I think we covered a lot today. Thank you for your support.",P,Insignificant
+"You’re very welcome! I’m proud of the progress you’re making. Take care, and I’ll see you next time!",T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Goodbye!,T,Insignificant

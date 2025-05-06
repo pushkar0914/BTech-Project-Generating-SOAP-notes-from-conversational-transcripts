@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I reached out to Sarah, and we talked for a bit.",P,History of Present Illness (HPI)
+That’s wonderful news! How did that conversation go?,T,Insignificant
+It felt good to talk to her. She was really supportive and understood what I’m going through.,P,History of Present Illness (HPI)
+I’m glad to hear that! It sounds like reconnecting with her was beneficial. Did you feel any relief after the conversation?,T,Insignificant
+"Yeah, definitely. It felt nice to share my feelings with someone who gets it.",P,History of Present Illness (HPI)
+That’s fantastic. Having a support system can make a big difference. Have you been able to practice the mindfulness exercises we discussed?,T,Insignificant
+"Yes, I’ve been trying to do it every morning. It helps me start the day on a better note.",P,Physiological Observations
+That’s great to hear! How has it impacted your overall mood throughout the day?,T,Insignificant
+I’ve noticed that I’m less reactive to stress. I can take a moment to breathe before responding to things.,P,History of Present Illness (HPI):Mental Health Observations
+That’s a significant improvement! It sounds like you’re building a solid foundation for managing your anxiety. Have you had a chance to get back into running?,T,Insignificant
+I went for a short jog a couple of times. It felt amazing to be outside and move again.,P,Current Functional Status
+That’s wonderful! Physical activity can be such a great outlet for stress. How did you feel afterward?,T,Insignificant
+Exhausted but in a good way. It’s like I released a lot of pent-up energy.,P,Physiological Observations
+That’s exactly the benefit of exercise. It can help clear your mind and boost your mood. Are you planning to continue running?,T,Insignificant
+"Yes, I want to make it a regular part of my routine again. ",P,Current Functional Status
+That’s a great goal. Consistency is key. Have you noticed any changes in your interactions with friends or family since implementing these strategies?,T,Insignificant
+I’ve been more open with my friends. I even invited Sarah to hang out this weekend.,P,Current Functional Status
+That’s fantastic! It sounds like you’re making strides in building those connections. How do you feel about spending time with friends again?,T,Insignificant
+I’m excited! I think it’ll be good to have some fun and take my mind off things.,P,History of Present Illness (HPI)
+"Definitely! It’s important to find joy amidst the challenges. Speaking of challenges, how have things been with your custody situation?",T,Insignificant
+"It’s still stressful, but I feel like I’m handling it better. I’m trying to focus on what I can control.",P,History of Present Illness (HPI)
+That’s a healthy mindset. Focusing on what you can control can help reduce feelings of helplessness. Have you been able to set any boundaries with your family regarding the situation?,T,Insignificant
+"I’ve started to limit conversations with my mom. It’s hard, but I know it’s necessary.",P,History of Present Illness (HPI)
+"That sounds like a positive step for your mental health. Setting boundaries can be difficult, but it’s essential for your well-being. How does it feel to take that step?",T,Insignificant
+It feels empowering. I’m tired of letting her affect my mood.,P,History of Present Illness (HPI)
+"That’s a significant realization. Remember, it’s okay to prioritize your mental health. Do you feel like you have the tools to maintain those boundaries?",T,Insignificant
+I think so. I just need to stay firm and not let her manipulate me.,P,History of Present Illness (HPI)
+"Absolutely. It’s about protecting your peace. If you ever feel overwhelmed, you can always use mindfulness or reach out to Sarah for support.",T,Insignificant
+I will. I’m learning that it’s okay to ask for help.,P,History of Present Illness (HPI)
+"That’s a great insight. Remember, you’re not alone in this. As we wrap up today, what are some goals you’d like to set for our next session?",T,Insignificant
+I want to keep working on my self-care routine and maybe explore more coping strategies for the custody battle.,P,Next Steps
+That sounds like a solid plan. We can definitely explore additional coping strategies. How about we also set a goal for you to try a new self-care activity this week?,T,Insignificant
+I’d like that! Maybe I can try yoga or something relaxing.,P,Next Steps
+Yoga could be a wonderful addition! It combines mindfulness with movement. Let’s aim for that. ,T,Therapeutic Interventions
+"Okay, I’ll look for a class or some online videos.",P,Next Steps
+"Perfect! I’m looking forward to hearing about your experiences next time. Remember, take it one step at a time.",T,Insignificant
+"Thanks, Ellie. I appreciate your guidance.",P,Insignificant
+"You’re doing great work. Take care, and I’ll see you next week!",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+"Hi, welcome back! How have you been since our last session?  ",T,Insignificant
+"I've been okay, just dealing with some family stuff.  ",P,Psychosocial History
+I remember you mentioned your mother-in-law is unwell. How has that been for you?  ,T,Insignificant
+"It's been really tough. We spent a lot of time at the hospital, and it’s just draining.  ",P,History of Present Illness (HPI)
+That sounds exhausting. Have you had a chance to take care of yourself during this time?  ,T,Insignificant
+Not really. I've been focused on supporting my wife and her family.  ,P,Psychosocial History
+That’s understandable. Supporting others can sometimes come at the expense of our own needs. What do you think you need right now?  ,T,Insignificant
+I don’t know… maybe just some time to breathe.  ,P,Insignificant
+That’s a good start. Have you been able to find any moments for yourself?  ,T,Insignificant
+"A little, like when I take a walk or go for a hike. It helps clear my mind.  ",P,Physiological Observations
+That’s great to hear. Nature can be very healing. How does it feel to be out there?  ,T,Insignificant
+It feels refreshing. It’s like I can forget everything for a moment.  ,P,Mental Health Observations
+That’s important. Have you noticed any changes in your mood when you’re outside versus when you’re at home?  ,T,Insignificant
+"Yeah, I feel lighter when I’m outside. Inside, it’s just… heavy.  ",P,Mental Health Observations
+It’s interesting how environment can affect our emotions. Would you be open to setting a goal to spend more time outdoors this week?  ,T,Insignificant
+I think I could do that. I’ll try to go hiking at least twice.  ,P,Next Steps
+That sounds like a solid plan. Let’s check in on that next time. How about your sleep? Have you been able to rest?  ,T,Insignificant
+Not really. It’s been hard to sleep with everything going on.  ,P,Physiological Observations
+Sleep can be significantly impacted by stress. Have you tried any techniques to help with that?  ,T,Insignificant
+"I’ve tried some breathing exercises, but it’s tough to quiet my mind.  ",P,Therapeutic Interventions
+Breathing exercises can be helpful. Would you like to try a short mindfulness exercise together now?  ,T,Therapeutic Interventions
+"Sure, that sounds good.  ",P,Insignificant
+"Okay, let’s take a deep breath in… and out. Focus on the sensation of your breath.  ",T,Therapeutic Interventions
+<breathes>  ,P,Insignificant
+"Good. Now, picture a place where you feel safe and happy. Can you describe it?  ",T,Insignificant
+I’m imagining a quiet forest with soft sunlight filtering through the trees.  ,P,Insignificant
+That sounds beautiful. How does being in that space make you feel?  ,T,Insignificant
+It makes me feel calm and peaceful.  ,P,Mental Health Observations
+"Excellent. Whenever you feel overwhelmed, remember that space and try to visualize it.  ",T,Insignificant
+I’ll try to remember that.  ,P,Insignificant
+Great. Let’s also talk about your back injury. How has that been affecting you lately?  ,T,Insignificant
+"It’s still bothering me. I can’t do as much as I’d like, and it’s frustrating.  ",P,History of Present Illness (HPI)
+That frustration is valid. Have you considered any physical therapy or exercises that might help?  ,T,Insignificant
+"I’ve thought about it, but I’m not sure where to start.  ",P,Insignificant
+How about we set a goal to research some options this week? You could look into local physical therapists or online resources.  ,T,Next Steps
+That sounds doable. I’ll look into it.  ,P,Next Steps
+Good. It’s a step towards regaining some control over your physical health.  ,T,Insignificant
+"Yeah, I hope it helps.  ",P,Insignificant
+Is there anything else on your mind today?  ,T,Insignificant
+Just a lot of worry about my wife and her family.  ,P,Psychosocial History
+That’s understandable. It’s hard to see loved ones in pain. Have you talked to her about how you’re feeling?  ,T,Insignificant
+Not really. I don’t want to add to her stress.  ,P,Insignificant
+It might help to share your feelings with her. It can strengthen your connection during this tough time.  ,T,Insignificant
+I guess I’ll try to talk to her about it.  ,P,Next Steps
+That sounds like a good idea. Communication is key in supporting each other.  ,T,Insignificant
+"Yeah, I’ll work on that.  ",P,Next Steps
+Great! Let’s plan to discuss how that conversation goes in our next session.  ,T,Next Steps
+"Okay, sounds good.  ",P,Insignificant
+"Thank you for sharing today. Remember to take care of yourself, and I look forward to hearing about your hikes and your conversation with your wife next time.  ",T,Insignificant
+"Thanks, Ellie. I appreciate it.  ",P,Insignificant
+"You’re welcome! Take care, and see you soon.  ",T,Insignificant
+Bye!  ,P,Insignificant

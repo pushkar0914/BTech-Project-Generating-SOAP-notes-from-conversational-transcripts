@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey, Ellie! I've been okay, I guess. Just the usual ups and downs.",P,Insignificant
+"That's understandable. Last time, we talked about your experiences with depression and how therapy has helped you manage your temper. Have you noticed any changes since then?",T,History of Present Illness (HPI)
+"Yeah, I think I've been able to step back a bit more during tense moments. It’s still a work in progress, but I’m getting there.",P,History of Present Illness (HPI)
+That's great to hear! What specific situations have you found easier to handle?,T,Insignificant
+"Well, I had a minor disagreement with my roommate again, but instead of getting defensive, I just listened to her. It felt good not to escalate things.",P,History of Present Illness (HPI)
+That sounds like a significant improvement! How did that feel for you?,T,Insignificant
+"Honestly, it felt liberating. I didn’t realize how much energy I wasted on being angry.",P,History of Present Illness (HPI)
+Wonderful! It seems like you’re developing healthier coping mechanisms. Are there other areas of your life where you feel you're making progress?,T,Insignificant
+"I think so. I’ve been trying to focus more on my hobbies, like fostering dogs. It gives me a sense of purpose.",P,Psychosocial History
+That’s fantastic! You mentioned that rescuing dogs brings you joy. Have you had any new experiences with that lately?,T,Insignificant
+"Yes! I just rescued a little terrier mix last week. She was so scared, but after a few days, she started warming up to me. It’s been rewarding.",P,Psychosocial History
+That’s heartwarming to hear! How does it feel to help these animals find homes?,T,Insignificant
+"It feels amazing. I love seeing them go to good families. It’s like I’m making a difference, even if it’s small.",P,Psychosocial History
+Absolutely! You’re creating positive change for those dogs. Do you feel that this activity helps with your overall mood?,T,Insignificant
+Definitely. It distracts me from my own worries and gives me something to look forward to.,P,History of Present Illness (HPI)
+That’s a great insight. It sounds like you’re using your passion for fostering as a healthy outlet. Are there any challenges you’ve faced during this process?,T,Insignificant
+"Sometimes, it can be emotionally draining. I get attached, and it’s hard to let them go.",P,History of Present Illness (HPI)
+That’s understandable. It’s natural to feel that way when you invest time and care into something. How do you cope with those feelings?,T,Insignificant
+I try to remind myself that I’m helping them find a better life. It helps me let go.,P,History of Present Illness (HPI)
+"That’s a healthy perspective. It seems like you’re developing resilience. Speaking of resilience, how have you been managing stress lately?",T,Insignificant
+I’ve been trying mindfulness techniques. I’ve started meditating for a few minutes each day.,P,History of Present Illness (HPI)
+That’s wonderful! How has that been for you?,T,Insignificant
+"It’s challenging to quiet my mind, but I feel calmer afterward. I think it’s helping.",P,History of Present Illness (HPI)
+That’s a great start! Meditation can be a powerful tool for managing stress. Have you noticed any changes in your sleep patterns since you began?,T,Insignificant
+"Surprisingly, yes! I’ve been sleeping a bit better. I think the meditation helps.",P,Physiological Observations
+That’s excellent! A good night’s sleep is so important for mental health. Is there anything you’d like to focus on for our next session?,T,Insignificant
+I’d like to explore my feelings about my family more. I think there’s a lot I haven’t unpacked there.,P,Presenting Problem / Chief Complaint
+"Absolutely, we can delve into that. It sounds like a significant area for you. Is there a specific aspect of your family relationships that you want to address?",T,Insignificant
+"Maybe my relationship with my parents. I feel like it’s a bit strained, but I’m not sure why.",P,Presenting Problem / Chief Complaint
+"That’s a valuable topic to explore. Understanding those dynamics can lead to greater clarity and healing. Before we wrap up, is there anything else on your mind today?",T,Insignificant
+I think I’m good for now. I appreciate the time to reflect.,P,Insignificant
+Of course! Thank you for sharing your thoughts and experiences with me. I look forward to our next conversation. Take care!,T,Insignificant
+"Thank you, Ellie! See you next time.",P,Insignificant

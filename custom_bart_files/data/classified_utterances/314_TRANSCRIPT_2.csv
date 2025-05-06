@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+[sync]  ,T,Insignificant
+Hi! It’s wonderful to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi Ellie! I’ve been okay, though the stress of moving is still there.  ",P,Presenting Problem / Chief Complaint
+I can imagine. Have you been able to implement any self-care strategies?  ,T,Insignificant
+Yes! I scheduled some time for myself last week and read a book. It felt great!  ,P,History of Present Illness (HPI)
+That’s fantastic! How did it feel to take that time?  ,T,Insignificant
+It was refreshing. I forgot how much I enjoy reading.  ,P,History of Present Illness (HPI)
+I’m so glad to hear that. Have you scheduled more time for yourself since then?  ,T,Insignificant
+I have! I’m trying to make it a regular thing.  ,P,History of Present Illness (HPI)
+That’s a wonderful commitment. How else have you been managing your stress?  ,T,Insignificant
+"I’ve been using deep breathing exercises more often. They help, especially when I feel overwhelmed.  ",P,History of Present Illness (HPI)
+That’s great progress! Have you noticed any changes in your anxiety levels?  ,T,Insignificant
+"I think I’m handling it better. I still have moments, but I feel more equipped now.  ",P,History of Present Illness (HPI)
+That’s a significant improvement! What do you think has contributed to that?  ,T,Insignificant
+Probably the combination of self-care and being more aware of my triggers.  ,P,History of Present Illness (HPI)
+Awareness is key! Have you had a chance to talk to your daughter about what she needs from you?  ,T,Insignificant
+"Yes, I asked her, and she expressed that she just wants me to listen when she’s upset.  ",P,Psychosocial History
+That’s a valuable insight. How do you feel about being able to provide that support?  ,T,Insignificant
+I feel good about it. I think I can be more present for her without trying to fix everything.  ,P,Psychosocial History
+That’s a healthy approach. It’s important for her to feel heard. Have you noticed any changes in her since you’ve been more open?  ,T,Insignificant
+Yes! She seems more willing to share her feelings with me. It’s a relief.  ,P,Psychosocial History
+That’s wonderful progress for both of you. Is there anything specific you’d like to focus on today?  ,T,Insignificant
+I’d like to explore more coping strategies for when anxiety hits hard.  ,P,Presenting Problem / Chief Complaint
+Absolutely. One technique we can explore is grounding exercises. Have you heard of them?  ,T,Insignificant
+"I think I’ve heard the term, but I’m not sure what it involves.  ",P,Insignificant
+"Grounding exercises help bring your focus back to the present moment. It can involve physical sensations, like feeling your feet on the ground or holding a textured object.  ",T,Therapeutic Interventions
+That sounds interesting. How do I start?  ,P,Insignificant
+"You can start by finding a comfortable position, taking a few deep breaths, and then focusing on your surroundings. What do you see, hear, and feel?  ",T,Therapeutic Interventions
+I can definitely try that.  ,P,Insignificant
+Great! You can practice this whenever you feel anxious. It helps to anchor you in the present.  ,T,Therapeutic Interventions
+I’ll make a note of that.  ,P,Insignificant
+Wonderful! Is there anything else you’d like to discuss today?  ,T,Insignificant
+I’ve been reflecting on my relationship with my husband lately.  ,P,Presenting Problem / Chief Complaint
+What’s been on your mind regarding that?  ,T,Insignificant
+I feel like we’ve been so busy with everything that we haven’t had much time for each other.  ,P,History of Present Illness (HPI)
+"It’s common for couples to feel that way, especially during stressful times. Have you thought about ways to reconnect?  ",T,Insignificant
+"We’ve talked about going on a date night, but it’s hard to find the time.  ",P,History of Present Illness (HPI)
+Scheduling a date night could be a great way to prioritize your relationship. What would you like to do?  ,T,Insignificant
+I’d love to go to dinner and maybe catch a movie.  ,P,Insignificant
+That sounds lovely! How can you make that happen?  ,T,Insignificant
+I think I’ll talk to my husband tonight and see if we can set a specific date.  ,P,Next Steps
+That’s a great plan. How do you feel about making that commitment?  ,T,Insignificant
+I feel excited! It’ll be nice to have some time together.  ,P,Insignificant
+I’m glad to hear that! It’s important to nurture your relationship. Is there anything else you’d like to explore today?  ,T,Insignificant
+I think that covers everything for now.  ,P,Insignificant
+Excellent! I’m proud of the progress you’ve made. Remember to be kind to yourself through this process.  ,T,Progress Evaluation
+"Thank you, Ellie. I appreciate your support.  ",P,Insignificant
+You’re welcome! I look forward to hearing about your experiences in our next session.  ,T,Insignificant
+Me too! Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

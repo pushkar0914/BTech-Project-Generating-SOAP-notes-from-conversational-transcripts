@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How has your week been?,T,Insignificant
+"Hi, Ellie! I had a mix of days again. I tried painting, though!",P,Insignificant
+That’s fantastic! How did it go?,T,Insignificant
+"It was really nice. I painted a sunset, and it felt good to be creative again.",P,History of Present Illness (HPI)
+That sounds beautiful! How did you feel while you were painting?,T,Insignificant
+I felt peaceful and focused. It was a nice escape from everything else.,P,History of Present Illness (HPI)
+I’m so glad to hear that. It sounds like painting is a positive outlet for you. Did you notice any changes in your mood afterwards?,T,Insignificant
+"Yes, I felt lighter afterward. But then I had a couple of rough days again.",P,History of Present Illness (HPI)
+I appreciate your honesty. What do you think contributed to those rough days?,T,Insignificant
+"I think it was just the job search again. I got a couple of rejections, and it hit me hard.",P,History of Present Illness (HPI)
+Rejections can be really tough. How did you cope with those feelings?,T,Insignificant
+"I tried to remind myself that it’s part of the process, but it’s hard to stay positive.",P,History of Present Illness (HPI)
+"It’s completely normal to feel discouraged. Have you thought about ways to celebrate the small wins, even in the job search?",T,Insignificant
+I haven’t really. I guess I just focus on the negatives.,P,History of Present Illness (HPI)
+"It might help to create a list of things you’re proud of, even if they’re small. Would you be willing to try that?",T,Therapeutic Interventions
+"Yeah, I could do that. ",P,Next Steps
+"Great! You could write down your accomplishments in painting, attending the art exhibit, and even the effort you put into job applications. ",T,Therapeutic Interventions
+That makes sense. I’ll try to keep track of those.,P,Next Steps
+I’m excited to hear how that goes. It’s important to acknowledge your efforts. Is there anything else you’d like to discuss today?,T,Insignificant
+I’ve been thinking about my family a lot. I miss them.,P,History of Present Illness (HPI)
+Family can be a significant part of our lives. What specifically do you miss about them?,T,Insignificant
+"Just being around them, sharing moments. I wish I could see them more often.",P,History of Present Illness (HPI)
+It sounds like you value those connections. Have you considered setting up regular calls or video chats to stay in touch?,T,Insignificant
+I haven’t thought about that. It could be nice to connect more often.,P,Next Steps
+It could help bridge the distance and keep those relationships strong. Would you like to set a goal for that?,T,Next Steps
+"Yes, I could try to call them once a week.",P,Next Steps
+That sounds like a wonderful goal. Let’s check in about how that goes in our next session. ,T,Next Steps
+"Okay, I’ll do that.",P,Next Steps
+"I’m proud of you for taking these steps to connect with your family. Remember, it’s okay to feel a range of emotions during this time.",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+You’re very welcome. I’m here for you. Let’s continue to work together on these goals. ,T,Insignificant
+Sounds good to me!,P,Insignificant
+Great! I look forward to our next session. Take care!,T,Insignificant
+"Bye, Ellie!",P,Insignificant

@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I've been okay, just the usual ups and downs.",P,Insignificant
+"I understand. Last time, we talked about your anxiety and how it relates to your job hunting. Have you had any new experiences or feelings around that?",T,History of Present Illness (HPI)
+"Yeah, I’ve had a few interviews, but they didn't go as well as I hoped. It’s frustrating.",P,History of Present Illness (HPI)
+That sounds tough. Can you share what made those interviews feel frustrating?,T,Insignificant
+"Well, I felt like I wasn’t able to showcase my skills properly. I was just so nervous.",P,History of Present Illness (HPI)
+It’s completely normal to feel nervous in interviews. Have you tried any techniques to manage that anxiety before interviews?,T,Insignificant
+"I’ve tried deep breathing, but it doesn’t always help.",P,Therapeutic Interventions
+"That’s a good start. Sometimes, practicing mindfulness can help too. Would you like to explore that together?",T,Therapeutic Interventions
+"Sure, that sounds interesting.",P,Insignificant
+"Great! Let’s try a simple mindfulness exercise. Close your eyes and take a deep breath in through your nose, hold it for a moment, and then exhale slowly through your mouth. ",T,Therapeutic Interventions
+"*breathes* Okay, I’m doing it.",P,Insignificant
+"Good. Now, as you breathe, try to focus only on your breath. If thoughts come in, acknowledge them and let them float away like clouds. ",T,Therapeutic Interventions
+*sighs* I think I’m feeling a bit calmer.,P,Mental Health Observations
+That’s wonderful to hear! Practicing this regularly can help you feel more grounded during stressful situations.,T,Therapeutic Interventions
+I’ll definitely try to incorporate that. ,P,Insignificant
+Excellent. You mentioned that you feel anxious about your bills. How has that been for you lately?,T,History of Present Illness (HPI)
+It’s been weighing on my mind. I keep thinking about how to make ends meet.,P,History of Present Illness (HPI)
+That’s understandable. It’s important to address those financial concerns. Have you thought about any potential side jobs or other income sources?,T,Insignificant
+"I’ve considered it. There are some acting gigs I could pursue, but I worry about the time commitment.",P,History of Present Illness (HPI)
+It’s a balancing act for sure. What if we brainstorm some flexible options that could ease your financial burden?,T,Insignificant
+That could help. I’m open to ideas.,P,Insignificant
+"How about looking into freelance opportunities related to your skills? For example, writing or creating content?",T,Next Steps
+That’s a good idea! I’ve done some writing before.,P,Insignificant
+Perfect! Maybe start small and see how it fits into your schedule. ,T,Next Steps
+"Yeah, I could start with a few hours a week.",P,Next Steps
+That sounds manageable. How do you feel about that?,T,Insignificant
+"I feel a bit more hopeful, actually.",P,Mental Health Observations
+That’s great to hear! Hope can be a powerful motivator. Have you noticed any changes in your mood since we started talking about these strategies?,T,History of Present Illness (HPI)
+"I think so. I feel a little lighter, like there’s a bit more possibility.",P,Mental Health Observations
+That’s a positive shift! Remember to celebrate those small wins. ,T,Insignificant
+I will. It’s easy to overlook them.,P,Insignificant
+"Absolutely. It’s important to acknowledge progress, no matter how small. ",T,Insignificant
+I appreciate that reminder.,P,Insignificant
+"Now, let’s revisit your relationship with your wife. You mentioned some differences in how you both approach job hunting. Have there been any developments there?",T,Insignificant
+We had a conversation about it. I tried to be more open to her suggestions.,P,History of Present Illness (HPI)
+That’s a great step forward! How did that conversation go?,T,Insignificant
+"It was good! We both shared our perspectives, and I think we’re starting to understand each other better.",P,History of Present Illness (HPI)
+Communication is key in relationships. It sounds like you’re making progress. ,T,Insignificant
+"Yeah, I feel like we’re on the same team now.",P,Mental Health Observations
+That’s wonderful to hear! How does that make you feel?,T,Insignificant
+It makes me feel supported. It’s nice to have that connection.,P,Mental Health Observations
+Absolutely. Support can be incredibly grounding. Is there anything else you’d like to discuss today?,T,Insignificant
+I think we’ve covered a lot. I feel more equipped to handle things now.,P,Mental Health Observations
+I’m glad to hear that! Let’s set some goals for your next session. Perhaps you can work on incorporating mindfulness into your routine and explore freelance writing?,T,Next Steps
+That sounds good. I’ll keep you updated on how it goes.,P,Insignificant
+I look forward to hearing about your progress! Thank you for sharing today. ,T,Insignificant
+"Thank you, Ellie. I appreciate your help.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been okay, I guess. A bit up and down.",P,Insignificant
+I'm glad you came in today. Can you tell me more about the ups and downs you've been experiencing?,T,History of Present Illness (HPI)
+"Well, I’ve had some good days where I feel motivated, but then there are days when I just feel really low and unmotivated again.",P,History of Present Illness (HPI)
+That sounds challenging. What do you think triggers those low days?,T,History of Present Illness (HPI)
+"I think it’s mostly related to my job situation. I still haven’t found anything, and it just weighs on me sometimes.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you had a chance to apply any of the strategies we discussed in our last session?,T,Insignificant
+"Yes, I’ve been trying to push myself to get out more, but it’s hard. Some days I just want to stay in bed.",P,Current Functional Status
+It’s a great step that you’re trying to get out. Can you think of a specific time you pushed yourself recently?,T,Insignificant
+"I went to a local art exhibit last weekend. It was nice to be around art and people, but I felt a bit out of place.",P,Current Functional Status
+"That’s a significant step! It’s normal to feel out of place sometimes, especially when you’re not feeling your best. How did you feel after the exhibit?",T,Insignificant
+"I felt good that I went, but I also felt a bit sad afterwards. Like, I should be doing more with my life.",P,History of Present Illness (HPI)
+It’s common to have mixed feelings after such experiences. It sounds like you’re being hard on yourself again. Can you remind yourself of the effort it took to go out?,T,Insignificant
+"Yes, I guess I should focus on that more. It’s just hard to shake off the negative thoughts.",P,History of Present Illness (HPI)
+"Absolutely, and it’s okay to acknowledge those feelings. Have you considered any techniques to manage those negative thoughts?",T,Insignificant
+"I’ve tried some breathing exercises, but I don’t always remember to do them when I need to.",P,Therapeutic Interventions
+That’s a good start! Perhaps we can work on a reminder system or a mindfulness practice that fits into your daily routine. Would you be open to that?,T,Therapeutic Interventions
+"Yeah, that sounds helpful.",P,Insignificant
+Great! What if we set a specific time each day for a short mindfulness exercise? It could be as simple as five minutes of focused breathing.,T,Therapeutic Interventions
+I could try that. Maybe in the morning before I start my day?,P,Next Steps
+That sounds perfect! How do you think you’ll feel after incorporating that into your routine?,T,Insignificant
+I think it could help me start the day with a clearer mind. I’ll give it a shot.,P,Next Steps
+Excellent! Let’s check in about that in our next session. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my mom a lot lately. It’s been tough without her.,P,Psychosocial History
+I’m sorry to hear that. Would you like to share a memory of her that brings you comfort?,T,Insignificant
+"Sure. She loved to paint, and I remember watching her create these beautiful landscapes. It always made me feel at peace.",P,Psychosocial History
+That’s a lovely memory. It sounds like art is a connection for you both. How can you honor that connection moving forward?,T,Insignificant
+Maybe I could try painting again. I haven’t done that in years.,P,Next Steps
+That sounds like a wonderful idea! Engaging in art could be a therapeutic outlet for you. How about we set a goal for you to paint something in the next week?,T,Next Steps
+I’d like that. It could be a nice way to remember her.,P,Insignificant
+Absolutely. I think it could be very healing. Let’s also explore how you feel after you paint in our next session. ,T,Next Steps
+"Okay, I’ll try to do that.",P,Insignificant
+Wonderful! I’m proud of you for taking these steps. Remember to be gentle with yourself along the way.,T,Insignificant
+"Thank you, Ellie. I appreciate it.",P,Insignificant
+You’re welcome. I look forward to hearing about your progress next time. Take care!,T,Insignificant
+"Bye, Ellie!",P,Insignificant

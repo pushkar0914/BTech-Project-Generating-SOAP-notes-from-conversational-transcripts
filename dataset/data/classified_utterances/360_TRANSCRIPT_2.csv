@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How have you been since our last session?  ,T,Insignificant
+"I’ve been alright, still job searching, but I did manage to see my family over the weekend.  ",P,Psychosocial History
+That’s great to hear! How was the time with your family?  ,T,Insignificant
+"It was really nice. We had a barbecue, and it felt good to be together.  ",P,Insignificant
+That sounds lovely! Did you notice any changes in how you felt after spending time with them?  ,T,Insignificant
+I felt a lot happier afterward. It reminded me of the good times we share.  ,P,History of Present Illness (HPI)
+That’s wonderful! It’s important to nourish those relationships. Have you been able to apply any of the coping strategies we discussed?  ,T,Insignificant
+"Yes! I set a goal to apply for a job every day, and I’ve been sticking to it.  ",P,Current Functional Status
+That’s fantastic progress! How has that been going for you?  ,T,Insignificant
+"It feels good to have a routine, even if I haven’t heard back from many places yet.  ",P,Current Functional Status
+That’s a healthy mindset! Focusing on the process rather than just the outcome can be beneficial.  ,T,Insignificant
+"Yeah, I realize that now.  ",P,Insignificant
+Have you had any responses from your applications?  ,T,Insignificant
+"Just one, but they said they went with another candidate.  ",P,History of Present Illness (HPI)
+That can be disappointing. How did you handle that news?  ,T,Insignificant
+"I felt a bit down, but I reminded myself it’s part of the process.  ",P,History of Present Illness (HPI)
+"That’s a strong approach! It’s normal to feel disappointed, but it sounds like you’re managing it well.  ",T,Insignificant
+Thanks! I’m trying to stay positive.  ,P,Insignificant
+Staying positive is key. Let’s explore any other feelings you’ve been experiencing. You mentioned feeling down sometimes. Has that persisted?  ,T,Insignificant
+"A little, but I think spending time with family helped.  ",P,History of Present Illness (HPI)
+That’s good to hear. Have you noticed any triggers that lead to those down feelings?  ,T,Insignificant
+"Sometimes it’s just feeling stuck in my job search, or when I think about financial issues.  ",P,History of Present Illness (HPI):Risk Assessment
+Those are valid triggers. Have you discussed financial concerns with your fiancé?  ,T,Insignificant
+"We have, but it’s still a sensitive topic.  ",P,Psychosocial History
+It’s understandable. Communication can be challenging in those situations. Would it help to come up with a plan together?  ,T,Insignificant
+I think that might help us feel more on the same page.  ,P,Next Steps
+That’s a proactive approach! It could reduce some of the anxiety surrounding finances.  ,T,Insignificant
+"Yeah, I’d like to try that.  ",P,Insignificant
+"Great! Let’s set that as a goal for your next conversation. Now, how have you been managing your feelings of annoyance?  ",T,Insignificant
+I’ve been practicing breathing exercises like we talked about.  ,P,Therapeutic Interventions
+That’s excellent! Have you noticed any differences in how you react to those feelings?  ,T,Insignificant
+"I feel like I’m not as quick to get upset, which is nice.  ",P,Mental Health Observations
+That’s a significant improvement! It sounds like you’re developing good emotional regulation skills.  ,T,Progress Evaluation
+I hope so!  ,P,Insignificant
+"You are! It takes practice, but you’re on the right track. Is there anything else you’d like to work on today?  ",T,Insignificant
+"I think we’ve covered a lot, but I’d like to focus more on my career goals next time.  ",P,Next Steps
+"Absolutely! We can dive deeper into that. Thank you for sharing today, and I look forward to our next session!  ",T,Insignificant
+Thank you! See you next time!  ,P,Insignificant
+Goodbye!  ,T,Insignificant

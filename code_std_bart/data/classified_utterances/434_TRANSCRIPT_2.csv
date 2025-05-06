@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing well. I actually wrote that letter to my son.",P,History of Present Illness (HPI)
+That’s fantastic! How did that feel for you?,T,Insignificant
+It felt really cathartic. I poured my heart out on the page. ,P,History of Present Illness (HPI)
+That’s wonderful to hear. What did you write about?,T,Insignificant
+I talked about my memories with him and how much I miss him. I also shared my hopes for the future.,P,History of Present Illness (HPI)
+That’s beautiful. Did you end up sending it?,T,Insignificant
+"I did! I found an address and sent it off. I don’t know if he’ll get it, but it felt good to send it.",P,History of Present Illness (HPI)
+That’s a big step! How do you feel now that it’s been sent?,T,Insignificant
+"I feel lighter, like I’ve released some of the weight I was carrying. ",P,History of Present Illness (HPI)
+That’s a powerful feeling. It’s great that you found a way to express yourself. Have you thought about writing more letters?,T,Insignificant
+I think I will. It’s a good way to keep my feelings in check and stay connected.,P,History of Present Illness (HPI)
+"Absolutely! It can be a way to process your emotions regularly. Now, let’s talk about your job search. Have you made any progress?",T,Insignificant
+Yes! I started volunteering at a local addiction recovery center.,P,History of Present Illness (HPI)
+That’s amazing! How has that experience been for you so far?,T,Insignificant
+It’s been really fulfilling. I’m learning a lot and meeting some great people.,P,Current Functional Status
+That’s wonderful. How do you feel about the work you’re doing there?,T,Insignificant
+"I feel like I’m making a difference, even if it’s just a small one. It’s nice to be in a supportive environment.",P,Current Functional Status
+Being in that environment can be very healing. Are there any challenges you’ve faced while volunteering?,T,Insignificant
+Sometimes I feel overwhelmed by the stories I hear. It’s tough to see people struggle.,P,Risk Assessment
+That’s understandable. It’s important to take care of yourself while supporting others. How do you manage those feelings?,T,Insignificant
+"I try to remind myself that I’m there to help, not to carry their burdens. I also talk to the other volunteers about my feelings.",P,Current Functional Status
+That’s a healthy approach. Having a support system is crucial. Have you found any coping strategies that work for you?,T,Insignificant
+I’ve been practicing mindfulness. I take a few minutes to breathe and center myself when I feel overwhelmed.,P,Therapeutic Interventions
+That’s a great technique. Mindfulness can help ground you in the present. How has that practice been for you?,T,Insignificant
+It’s been helpful. I feel more in control of my emotions when I take those moments for myself.,P,Progress Evaluation
+That’s excellent progress! It sounds like you’re becoming more attuned to your needs. Have you noticed any changes in your overall mood?,T,Insignificant
+"Yes, I feel more balanced. I’m not letting things affect me as much as before.",P,Progress Evaluation
+That’s a significant shift. It shows that you’re growing and developing resilience. What are some goals you have for the next few weeks?,T,Insignificant
+I want to continue volunteering and possibly look for part-time counseling jobs as well.,P,Next Steps
+That sounds like a solid plan. It’s great to have both volunteering and job searching as your focus. ,T,Insignificant
+I think it’ll keep me motivated.,P,Next Steps
+Motivation is key. Let’s also discuss your writing. Have you been able to write more poetry since our last session?,T,Insignificant
+Yes! I wrote a couple of new poems inspired by my experiences at the recovery center.,P,History of Present Illness (HPI)
+That’s wonderful! Would you like to share one of those poems with me?,T,Insignificant
+Sure! I’d love to. ,P,Insignificant
+I’m looking forward to hearing it. Writing can be such a powerful tool for expression. ,T,Insignificant
+It really is. I feel like I’m tapping into a part of myself that I’ve neglected for a while.,P,History of Present Illness (HPI)
+That’s a beautiful realization. It’s important to nurture that part of you. Is there anything else you’d like to explore today?,T,Insignificant
+I think we’ve covered a lot. I feel good about where I’m at.,P,Progress Evaluation
+"I’m glad to hear that. You’re making great strides, and I’m proud of you. ",T,Insignificant
+"Thank you, Ellie. Your support means a lot.",P,Insignificant
+Of course! Let’s set a goal for our next session. Maybe you can share one of your new poems with me?,T,Next Steps
+I’d be happy to do that!,P,Next Steps
+"Great! I look forward to it. Take care, and see you next time!",T,Insignificant
+"See you, Ellie! Thank you!",P,Insignificant

@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's nice to see you today. How have you been since our last session?,T,Insignificant
+"Hi! I've been okay, I guess. Just trying to take things one day at a time.",P,Insignificant
+"That's a healthy approach. Last time, we talked about some of the challenges you've been facing, especially with your sleep and feelings of depression. Have you noticed any changes or patterns since then?",T,History of Present Illness (HPI)
+"Not really. My sleep is still pretty bad, and I still feel down a lot of the time.",P,History of Present Illness (HPI)
+"I appreciate your honesty. Have you had a chance to try any of the coping strategies we discussed, like mindfulness or journaling?",T,Insignificant
+"I tried journaling a bit, but it felt a little forced. I don't know. ",P,Therapeutic Interventions
+That's understandable. It can take time to find the right method that works for you. What about mindfulness? Have you had a chance to practice that?,T,Insignificant
+"I tried it once, but my mind kept wandering. I found it hard to focus.",P,Therapeutic Interventions
+"That’s common, especially when starting out. It can be helpful to focus on your breath or even just to notice the sensations in your body. Would you like to try a short mindfulness exercise together now?",T,Therapeutic Interventions
+"Sure, that could be helpful.",P,Insignificant
+Great! Let’s take a moment. Close your eyes if you feel comfortable. Take a deep breath in... and out. Notice how your body feels with each breath. ,T,Insignificant
+Okay... I’m trying.,P,Insignificant
+"Good. If your mind wanders, gently bring your focus back to your breath. How does it feel to take this moment for yourself?",T,Insignificant
+"It feels nice, actually. I can feel my shoulders relaxing a bit.",P,Mental Health Observations
+"That’s wonderful to hear. Just remember, it’s okay if your mind wanders. The practice is about returning to that moment. ",T,Insignificant
+I’ll keep that in mind.,P,Insignificant
+"Moving on, I’d like to check in about your feelings regarding your daughter’s therapy. How has that been for you?",T,Insignificant
+"It’s been tough. I worry about her a lot, and I feel helpless sometimes.",P,History of Present Illness (HPI)
+That sounds really challenging. It’s natural to feel that way when someone you love is going through a difficult time. Have you been able to talk to her about your feelings?,T,Insignificant
+I haven't really. I don't want to add to her stress.,P,Insignificant
+"That’s understandable, but sharing your feelings can sometimes help both of you. It might help her to know that you care and are there for her. ",T,Insignificant
+I guess that makes sense. I just don’t want her to feel like she has to take care of me too.,P,Insignificant
+"It’s a delicate balance, for sure. It might be useful to express that you’re there to support her, but that you also have your own feelings. ",T,Insignificant
+I can try that. ,P,Insignificant
+"Wonderful. On a different note, you mentioned in our last session that you enjoy spending time with your granddaughter. Have you had a chance to see her recently?",T,Insignificant
+"Yes! I saw her last week. We went to the park, and it was so much fun.",P,Current Functional Status
+That sounds lovely! What did you enjoy most about that time together?,T,Insignificant
+Just seeing her smile and play. It reminded me of my own childhood.,P,Current Functional Status
+Those moments can be so precious. How did you feel afterward?,T,Insignificant
+I felt really happy. It was a nice break from everything else.,P,Mental Health Observations
+That’s great to hear! It’s important to hold onto those moments. They can help lift your spirits. ,T,Insignificant
+"Yeah, I need to remember to do that more often.",P,Insignificant
+Absolutely. Would you like to set a goal for yourself to spend more time with her or engage in activities that bring you joy?,T,Next Steps
+"Yes, I think that would be good for me.",P,Next Steps
+How about we aim for at least one fun activity with her each week? ,T,Next Steps
+That sounds doable!,P,Next Steps
+"Excellent! And if you ever feel overwhelmed, remember that it’s okay to take a step back and focus on self-care. ",T,Insignificant
+I appreciate that. I sometimes forget to take care of myself.,P,Insignificant
+"It’s a common struggle, especially for caregivers. What are some self-care activities you enjoy?",T,Insignificant
+"I like reading and watching movies, but I haven't done much of that lately.",P,Current Functional Status
+How about making a plan to set aside some time each week for those activities? ,T,Next Steps
+I can try to do that. Maybe one evening a week?,P,Next Steps
+That sounds perfect. You deserve that time for yourself. ,T,Insignificant
+"Thank you, Ellie.",P,Insignificant
+"You’re welcome. Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I think I’m good for now. I feel like we covered a lot.,P,Insignificant
+I’m glad to hear that. Remember to practice the mindfulness techniques and to reach out to your daughter when you feel ready. ,T,Next Steps
+I will. Thank you for your help.,P,Insignificant
+You’re doing great. I look forward to hearing about your progress in our next session. Take care!,T,Insignificant
+Bye!,P,Insignificant

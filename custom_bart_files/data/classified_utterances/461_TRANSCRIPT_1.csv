@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's good to see you. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. A bit up and down.",P,Insignificant
+I understand. Can you tell me more about what's been causing those ups and downs?,T,Insignificant
+"Well, I still feel anxious about not having a job. It weighs on me a lot.",P,History of Present Illness (HPI)
+That’s understandable. Job searching can be stressful. Have you been able to apply for any positions?,T,Insignificant
+"A few, but I keep second-guessing myself. I feel like I’m not qualified enough.",P,History of Present Illness (HPI)
+"That’s a common feeling, especially when facing uncertainty. What do you think is contributing to those feelings of inadequacy?",T,Insignificant
+I think it's just my past experiences. I’ve had a lot of rejection over the years.,P,Trauma History
+That sounds tough. It can be hard to keep trying when faced with rejection. How do you usually cope with those feelings?,T,Insignificant
+"I try to meditate, but sometimes it just feels overwhelming.",P,History of Present Illness (HPI)
+Meditation can be a helpful tool. Would you like to explore some other coping strategies together?,T,Insignificant
+"Sure, I’m open to that.",P,Insignificant
+"Great! One technique we could try is cognitive restructuring, which helps challenge negative thoughts. Can you share a recent negative thought you had about yourself?",T,Insignificant
+"I thought, “I’ll never find a job,” after I didn’t hear back from a couple of applications.",P,History of Present Illness (HPI)
+That’s a powerful thought. Let’s try to challenge it. What evidence do you have that supports this thought?,T,Insignificant
+"Well, I haven’t had much luck lately.",P,Insignificant
+"True, but what evidence do you have that contradicts it? Have you had any interviews or positive feedback in the past?",T,Insignificant
+"Yes, I’ve had a few interviews, and some people said I did well.",P,Current Functional Status
+"Exactly! So, while it feels discouraging now, it doesn’t mean you won’t find a job. Would you like to reframe that thought?",T,Insignificant
+"I guess I could say, “I’ve had some interviews, and I’m still trying.”",P,Insignificant
+That’s a much healthier perspective! How does that feel to say?,T,Insignificant
+"It feels a bit better, actually. ",P,Insignificant
+That’s wonderful to hear. Let’s keep practicing this technique. How about we set a goal for you to apply to a certain number of jobs this week?,T,Next Steps
+That sounds good. Maybe three applications?,P,Next Steps
+That’s a realistic goal. How do you feel about that?,T,Insignificant
+I feel like I can handle that.,P,Insignificant
+"Fantastic! Now, shifting gears a bit, how have you been sleeping since we last spoke?",T,Insignificant
+Not great. I still wake up a lot.,P,Physiological Observations
+I’m sorry to hear that. Have you been able to try any of the relaxation techniques we discussed?,T,Insignificant
+"I’ve tried some deep breathing before bed, but it’s hard to stick to a routine.",P,Current Functional Status
+It can be challenging to establish new habits. Would you like to create a more structured bedtime routine together?,T,Insignificant
+"Yes, I think that would help.",P,Insignificant
+Let’s break it down. What time do you usually go to bed?,T,Insignificant
+"Around 11 PM, but I end up scrolling on my phone for a while.",P,Current Functional Status
+"How about we aim to put your phone away an hour before bed? Instead, you could read or listen to calming music.",T,Therapeutic Interventions
+That sounds nice. I could try that.,P,Insignificant
+Great! And maybe incorporate some light stretching or meditation before sleep? ,T,Therapeutic Interventions
+I could add that in too.,P,Insignificant
+"Perfect. So, your routine could look like this: put away your phone by 10 PM, do some light stretching, and then meditate for a few minutes before bed.",T,Next Steps
+I like that. ,P,Insignificant
+How do you feel about committing to this routine for the next week?,T,Insignificant
+I’m willing to give it a shot.,P,Insignificant
+Excellent! We’ll check in on how that goes in our next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I just want to feel less anxious overall.,P,Presenting Problem / Chief Complaint
+That’s a valid goal. We can continue to work on strategies to manage your anxiety. Would you be interested in exploring mindfulness techniques next time?,T,Next Steps
+"Yes, that would be helpful.",P,Insignificant
+Great! I look forward to hearing about your progress with the job applications and your bedtime routine. ,T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant

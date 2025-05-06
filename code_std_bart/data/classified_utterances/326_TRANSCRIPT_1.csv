@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, I'm glad to see you back today! How have you been since our last session?  ",T,Insignificant
+"Hey, Ellie! I've been alright, just keeping busy.  ",P,Insignificant
+"That’s good to hear. Last time, you mentioned playing guitar and hanging out with friends. Have you had any opportunities to do that recently?  ",T,History of Present Illness (HPI)
+"Yeah, I actually played with some friends last weekend. It was fun!  ",P,History of Present Illness (HPI)
+That sounds great! How did it feel to play with them?  ,T,Insignificant
+"Really good, like a stress relief.  ",P,History of Present Illness (HPI)
+I can imagine. Music can be such a powerful outlet. Have you noticed any changes in your mood or energy levels after playing?  ,T,History of Present Illness (HPI)
+"Definitely. I feel lighter, you know? Less weighed down.  ",P,History of Present Illness (HPI): Physiological Observations
+That’s wonderful! It seems like music is a positive coping mechanism for you. Would you like to explore that further?  ,T,Insignificant
+"Sure, I could talk about it.  ",P,Insignificant
+Great! How does playing music help you when you’re feeling agitated or stressed?  ,T,Insignificant
+It just takes my mind off things. I can focus on the chords and forget about everything else.  ,P,History of Present Illness (HPI)
+That sounds very therapeutic. Have you considered incorporating that into your daily routine?  ,T,Insignificant
+"I haven't thought about it, but it could help.  ",P,Insignificant
+Maybe we can set a goal for you to play a little each day. How does that sound?  ,T,Next Steps
+I think I could do that.  ,P,Next Steps
+"Awesome! So, let’s aim for at least 15 minutes a day. We can check in on that next session.  ",T,Next Steps
+"Okay, I can manage that.  ",P,Next Steps
+How about your relationship with your girlfriend? You mentioned she sometimes frustrates you. Have you had any conversations with her about that?  ,T,History of Present Illness (HPI)
+Not really. I don’t want to start an argument.  ,P,History of Present Illness (HPI)
+I understand. Communication can be tricky. What if we brainstorm some ways to express your feelings without it turning into an argument?  ,T,Insignificant
+That might help.  ,P,Insignificant
+Excellent! What’s one specific situation where you felt frustrated with her recently?  ,T,History of Present Illness (HPI)
+"Well, she was talking over me during dinner the other night.  ",P,History of Present Illness (HPI)
+That sounds frustrating. How did that make you feel?  ,T,Insignificant
+"I felt ignored, like my opinions didn’t matter.  ",P,History of Present Illness (HPI)
+It’s understandable to feel that way. How do you think she would respond if you brought this up with her?  ,T,Insignificant
+I think she’d get defensive.  ,P,History of Present Illness (HPI)
+That’s a possibility. What if you approached it from a place of curiosity instead? Like asking how she feels about conversations?  ,T,Insignificant
+That might work. I could ask her why she does that.  ,P,Next Steps
+Yes! Framing it as a question could open up a dialogue. Would you feel comfortable trying that?  ,T,Next Steps
+"Yeah, I think I could do that.  ",P,Next Steps
+Great! Let’s also set a goal for you to have that conversation this week.  ,T,Next Steps
+"Okay, I’ll try.  ",P,Next Steps
+"Wonderful! Now, you mentioned feeling overwhelmed at times. What else contributes to that feeling?  ",T,History of Present Illness (HPI)
+"Just work, I guess. It can be stressful.  ",P,History of Present Illness (HPI)
+What aspects of your work are most stressful for you?  ,T,Insignificant
+Just deadlines and expectations. I feel like I’m always racing against the clock.  ,P,History of Present Illness (HPI)
+That sounds tough. Have you tried any strategies to manage that stress?  ,T,Insignificant
+Not really. I just push through.  ,P,History of Present Illness (HPI)
+It might be helpful to explore some time management techniques or relaxation exercises. Would you be interested in that?  ,T,Next Steps
+"Yeah, I’d be open to it.  ",P,Next Steps
+"Perfect! We can work on some techniques together. For now, how about we focus on one small thing you can do to relieve stress?  ",T,Next Steps
+Maybe taking breaks?  ,P,Next Steps
+Absolutely! Let’s set a goal for you to take at least one break during your workday.  ,T,Next Steps
+Sounds doable.  ,P,Next Steps
+Great! We’ll review how that goes next time. Is there anything else you’d like to discuss today?  ,T,Insignificant
+"No, I think we covered a lot.  ",P,Insignificant
+I agree! You’ve made some great goals for yourself. I look forward to hearing about your progress.  ,T,Insignificant
+"Thanks, Ellie!  ",P,Insignificant
+You’re welcome! Take care and see you next time!  ,T,Insignificant
+Bye!  ,P,Insignificant

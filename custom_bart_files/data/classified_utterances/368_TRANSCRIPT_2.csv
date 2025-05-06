@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I’ve been okay. I tried reaching out to a friend like we talked about.",P,History of Present Illness (HPI)
+That’s great to hear! How did that go?,T,Insignificant
+"It was a bit awkward at first, but we ended up having a good conversation. He mentioned some job openings he’s heard about.",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like it was a productive conversation. How did it feel to reach out?,T,Insignificant
+"Honestly, it felt good. I was nervous, but I’m glad I did it.",P,History of Present Illness (HPI)
+I’m proud of you for taking that step. Have you looked into those job openings yet?,T,Insignificant
+"Not yet. I’ve been a bit busy with everything else, but I plan to check them out this week.",P,Current Functional Status
+"That sounds like a solid plan. Remember, it’s okay to take your time. Have you been able to keep up with your exercise routine?",T,Insignificant
+"I have! I started taking those short walks, and it’s helped a lot. I feel more energized.",P,Physiological Observations
+That’s wonderful to hear! It’s great that you found a way to stay active without feeling overwhelmed. How has that impacted your mood?,T,Insignificant
+"I feel less anxious, honestly. It’s nice to get outside and clear my head.",P,History of Present Illness (HPI): Physiological Observations
+That’s a significant improvement! Have you noticed any changes in your feelings about your mom since our last conversation?,T,Insignificant
+"Yeah, I talked to her about how I’ve been feeling. She was really supportive, which surprised me.",P,Psychosocial History
+That’s wonderful! It sounds like it brought you closer together. How did that conversation go?,T,Insignificant
+I just told her I was worried and that I wanted to be there for her. She appreciated it and shared some of her feelings too.,P,Psychosocial History
+That’s a beautiful exchange. It’s important to share those feelings with each other. How do you feel about continuing those conversations moving forward?,T,Insignificant
+I think it’s important. I feel like we both needed to talk about it. It’s helped me feel less alone in this.,P,Psychosocial History
+That’s an excellent insight. Communication can be a powerful tool in relationships. Is there anything else you’d like to focus on today?,T,Insignificant
+"I’ve been thinking about my diet again. I’m trying to eat healthier, but it’s tough.",P,History of Present Illness (HPI)
+It can be challenging to change eating habits. What specific obstacles are you facing?,T,Insignificant
+"I just love food too much! It’s hard to resist junk food, especially when I’m stressed.",P,Substance Use History
+It’s understandable to turn to comfort food during stressful times. What do you think might help you make healthier choices?,T,Insignificant
+"Maybe I could meal prep? That way, I’d have healthy options ready to go.",P,Next Steps
+That sounds like a practical approach. Would you like to set a goal for meal prepping this week?,T,Insignificant
+"Yeah, I can try to prepare some meals for the week. I think that’ll help.",P,Next Steps
+"Great! It’s all about finding what works for you. Remember, it’s okay to indulge sometimes too. Balance is key.",T,Insignificant
+Right. I need to remind myself of that.,P,Insignificant
+Absolutely. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m just worried about the job search again. I don’t want to get my hopes up.,P,History of Present Illness (HPI)
+It’s natural to feel that way. Have you thought about how to manage your expectations during this process?,T,Insignificant
+I guess I could remind myself that it might take time and that’s okay.,P,Next Steps
+"That’s a healthy perspective. Focusing on what you can control, like applying and networking, can help reduce that anxiety.",T,Progress Evaluation
+"Yeah, I’ll try to keep that in mind.",P,Insignificant
+"You’re doing great. Remember, it’s a journey, and each step counts. I’m here to support you through it.",T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! I’m glad we could talk today. Let’s check in again next week. ,T,Insignificant
+"Sounds good! See you next time, Ellie.",P,Insignificant
+Goodbye! Take care!,T,Insignificant

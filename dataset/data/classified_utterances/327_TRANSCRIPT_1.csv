@@ -1,0 +1,67 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I've been okay, just trying to keep busy.  ",P,Insignificant
+That’s good to hear. Last time you mentioned feeling pretty good overall. Has that continued?  ,T,History of Present Illness (HPI)
+"Yes, mostly. I still have my ups and downs, but I’m trying to focus on the positives.  ",P,History of Present Illness (HPI)
+That's a great mindset. Have you noticed any specific triggers for your downs?  ,T,History of Present Illness (HPI)
+"Sometimes it’s just the loneliness, especially when I think about my family back home.  ",P,History of Present Illness (HPI)
+That makes sense. Loneliness can be challenging. What have you been doing to cope with those feelings?  ,T,History of Present Illness (HPI)
+"I’ve been trying to reach out more, like calling my daughters or friends.  ",P,History of Present Illness (HPI)
+That’s a wonderful strategy. How has that worked for you?  ,T,History of Present Illness (HPI)
+"It helps, but sometimes I still feel a bit disconnected.  ",P,History of Present Illness (HPI)
+It’s understandable. Relationships can be complicated. Have you considered any new activities or hobbies to meet new people?  ,T,History of Present Illness (HPI)
+"I’ve thought about joining a local club or class, maybe something related to art or fitness.  ",P,History of Present Illness (HPI)
+That sounds like a great idea! Engaging in activities can help you meet like-minded people. Do you have any specific classes in mind?  ,T,History of Present Illness (HPI)
+I saw a painting class at a community center that looked interesting.  ,P,History of Present Illness (HPI)
+That sounds lovely! Painting can be a great way to express yourself. Would you be open to signing up for that?  ,T,Next Steps
+"Yes, I think I will. It could be fun!  ",P,Next Steps
+Fantastic! Let’s keep that as a goal for this week. How do you feel about that?  ,T,Next Steps
+I feel good about it. I think it’ll be a nice change.  ,P,Next Steps
+"Great! Last session, you mentioned your sleep was about fifty-fifty. Have you noticed any changes there?  ",T,History of Present Illness (HPI)
+"It’s still hit or miss, but I’ve been trying to stick to a routine.  ",P,Physiological Observations
+That’s a positive step. Have you implemented any specific strategies to help with your sleep?  ,T,History of Present Illness (HPI)
+I’ve started reading before bed instead of looking at my phone.  ,P,Current Functional Status
+Excellent choice! Reading can be very calming. How has that been for you?  ,T,History of Present Illness (HPI)
+It’s nice. I feel more relaxed when I go to bed.  ,P,Physiological Observations
+That’s wonderful to hear. Let’s continue to build on that. Is there anything else you’ve tried that’s helped?  ,T,History of Present Illness (HPI)
+I’ve also been practicing some breathing exercises.  ,P,Current Functional Status
+Breathing exercises can be very effective. How do you feel when you do them?  ,T,History of Present Illness (HPI)
+They really help calm my mind. I feel more centered afterward.  ,P,Physiological Observations
+That’s great progress! Would you like to explore more techniques like that?  ,T,Next Steps
+"Yes, I’d love to.  ",P,Next Steps
+Perfect! We can incorporate some mindfulness practices into our sessions. Would you be open to that?  ,T,Next Steps
+Absolutely!  ,P,Next Steps
+Wonderful. Let’s start with a simple exercise today. Would you like to try a short guided mindfulness session?  ,T,Therapeutic Interventions
+"Sure, I’d like that.  ",P,Therapeutic Interventions
+"Okay, let’s take a moment to close our eyes and focus on our breath. Inhale deeply… and exhale slowly.  ",T,Therapeutic Interventions
+*takes a deep breath*  ,P,Insignificant
+"As you breathe, notice how your body feels. Are there any areas of tension?  ",T,Mental Health Observations
+My shoulders feel a bit tight.  ,P,Mental Health Observations
+"Good awareness. As you exhale, imagine releasing that tension.  ",T,Therapeutic Interventions
+*exhales slowly*  ,P,Insignificant
+"Wonderful. With each breath, you’re allowing your body to relax more.  ",T,Therapeutic Interventions
+I can feel it.  ,P,Insignificant
+Great! Let’s take a few more breaths together. Inhale… and exhale.  ,T,Therapeutic Interventions
+*continues breathing*  ,P,Insignificant
+How do you feel now?  ,T,Physiological Observations
+Much more relaxed. I like this.  ,P,Physiological Observations
+I’m glad to hear that. We can use this technique whenever you feel overwhelmed.  ,T,Next Steps
+"Yes, please. I think it could really help.  ",P,Next Steps
+Excellent! Let’s also set a goal for you to practice this exercise at least a few times this week.  ,T,Next Steps
+I can do that.  ,P,Next Steps
+"Fantastic! Before we wrap up, is there anything else on your mind that you’d like to discuss today?  ",T,Insignificant
+Just the usual worries about my daughters.  ,P,History of Present Illness (HPI)
+Would you like to talk about those worries?  ,T,History of Present Illness (HPI)
+I just hope they’re doing okay. Sometimes I feel like I can’t be there for them.  ,P,History of Present Illness (HPI)
+It’s natural to worry about your loved ones. Have you been able to communicate with them about how you feel?  ,T,History of Present Illness (HPI)
+I haven’t really opened up about my worries.  ,P,History of Present Illness (HPI)
+Would you be comfortable sharing your feelings with them?  ,T,Next Steps
+I think I should. It might help both of us.  ,P,Next Steps
+That sounds like a great step toward connection. How about we set that as a goal for this week too?  ,T,Next Steps
+"Yes, I’ll try to talk to them.  ",P,Next Steps
+Wonderful! You’re making great progress. I’m proud of you.  ,T,Insignificant
+"Thank you, Ellie.  ",P,Insignificant
+"Let’s check in on these goals next session. Take care, and I look forward to hearing about your experiences!  ",T,Next Steps
+I will. Thank you!  ,P,Insignificant
+Goodbye for now!  ,T,Insignificant
+Goodbye!,P,Insignificant

@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hi! I've been okay, just the usual stuff, you know?",P,Insignificant
+"That’s good to hear! Last time, we talked a bit about your temper and some of the things you'd like to change about yourself, like being more outgoing. Have you thought about that since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, I have actually. I’ve been trying to be a bit more social lately. I went to a small gathering with friends.",P,History of Present Illness (HPI)
+That’s a great step! How did that go for you?,T,Insignificant
+"It was fun! I talked to a few new people, but I still felt a bit shy at times.",P,History of Present Illness (HPI)
+"That’s completely normal. It sounds like you’re making progress, though. What do you think made you feel shy?",T,Insignificant
+I think it’s just my nature. I worry about saying the wrong thing or not being interesting enough.,P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you tried any techniques to help manage those feelings?,T,Insignificant
+I’ve been trying to remind myself that it’s okay to be myself and that not every conversation has to be perfect.,P,Therapeutic Interventions
+That’s a great mindset! Practicing self-acceptance can really help. Have you noticed any specific situations where you felt more comfortable being yourself?,T,Insignificant
+"Yeah, when I was talking to a friend about our favorite shows, I felt really relaxed.",P,Current Functional Status
+That’s wonderful! It sounds like finding common interests helps you feel more at ease. How about your temper? Have there been any situations where you felt you handled your feelings differently?,T,Insignificant
+"Actually, yes! I had a small argument with my sister again, but I took a moment to breathe before responding, and it helped a lot.",P,History of Present Illness (HPI)
+That’s an excellent strategy. Taking a moment to breathe can really change the way we react in the moment. How did your sister respond?,T,Insignificant
+She seemed surprised but appreciated that I was calm. We ended up talking it out instead of arguing.,P,Current Functional Status
+That’s a positive outcome! It sounds like you’re developing some solid coping strategies. Are there any other areas in your life where you’d like to see improvement?,T,Insignificant
+"I guess I’d like to work on being more confident in my decisions, especially at work.",P,Presenting Problem / Chief Complaint
+Confidence can be a big challenge for many people. What specifically makes you feel less confident at work?,T,Insignificant
+Sometimes I doubt my ideas or worry that they won’t be well-received.,P,History of Present Illness (HPI)
+"It’s common to feel that way, especially in a competitive environment. Have you thought about ways to build your confidence in sharing your ideas?",T,Insignificant
+"I’ve been thinking about speaking up more in meetings, even if it’s just to share a small thought.",P,Therapeutic Interventions
+That’s a fantastic idea! Starting small can help build your confidence over time. How do you feel about taking that step?,T,Insignificant
+"I feel a bit nervous, but I think it’s worth a try.",P,History of Present Illness (HPI)
+"It definitely is! Remember, every small step counts. How about we set a goal for you to share at least one idea in your next meeting?",T,Next Steps
+That sounds good! I’ll definitely try to do that.,P,Next Steps
+"Great! And if you feel comfortable, we can discuss how that goes in our next session. Is there anything else you’d like to explore today?",T,Insignificant
+I think that covers most of it. I really appreciate the support!,P,Insignificant
+"Of course! It’s my pleasure. Remember, it’s all about progress, not perfection. I look forward to hearing about your experiences next time!",T,Insignificant
+Thanks! Me too. ,P,Insignificant
+"Take care, and see you soon!",T,Insignificant
+Bye!,P,Insignificant

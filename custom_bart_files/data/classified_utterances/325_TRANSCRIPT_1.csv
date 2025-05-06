@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been okay, I guess. Still trying to figure things out after graduating. ",P,History of Present Illness (HPI)
+That makes sense. Transitioning from school to the next phase can be challenging. Have you made any progress in finding a job in marine biology?,T,Insignificant
+"A little. I applied to a couple of internships, but I haven’t heard back yet. It’s just frustrating because I feel like I’m not doing enough.",P,History of Present Illness (HPI)
+"It’s understandable to feel that way, especially after such a big change. How do you cope with those feelings of frustration?",T,Insignificant
+"I try to keep myself busy. I go hiking or spend time with friends, but sometimes it just feels overwhelming.",P,History of Present Illness (HPI)
+"That’s a good strategy, staying active. Have you noticed any patterns in your mood when you’re busy versus when you’re not?",T,Insignificant
+"I think when I’m busy, I’m definitely happier. But when I have too much free time, my mind starts racing, and I get anxious.",P,History of Present Illness (HPI):Mental Health Observations
+It sounds like routine and structure are important for you. Would it help to create a daily schedule to keep yourself engaged?,T,Insignificant
+"Yeah, I think that could help. I just don’t know where to start.",P,Insignificant
+We can work on that together. Let’s think about what a balanced schedule might look like for you. What activities would you want to include?,T,Insignificant
+"Definitely job searching, maybe some volunteer work, and then I’d like to set aside time for reading and hiking.",P,Current Functional Status
+That sounds like a great mix! How about we set a goal for you to apply to at least one job or internship each week? ,T,Next Steps
+"That sounds doable, yeah. I think I could manage that.",P,Next Steps
+Great! And what about your self-care activities? How can we make sure you’re prioritizing those too?,T,Insignificant
+I could schedule in some time for meditation and maybe a few hikes each week.,P,Next Steps
+Perfect. It’s important to balance productivity with self-care. How have you been sleeping lately?,T,Mental Health Observations
+"Not great, honestly. I still struggle to fall asleep and stay asleep.",P,Physiological Observations
+Have you been consistent with your trazodone?,T,Medical and Psychiatric History
+"I have, but I think my mind is just too busy at night.",P,History of Present Illness (HPI)
+"That’s a common struggle. Have you tried any relaxation techniques before bed, like mindfulness or deep breathing exercises?",T,Insignificant
+"I’ve tried some deep breathing, but I often forget to do it when I’m feeling anxious.",P,History of Present Illness (HPI)
+How about we set a reminder for that? Maybe you could also create a calming bedtime routine to help signal to your body that it’s time to wind down.,T,Next Steps
+That could work. I’ll try to set a reminder on my phone.,P,Next Steps
+"Excellent! Let’s check in on that next session. In the meantime, are there any specific thoughts or feelings that have come up since we last spoke that you want to discuss?",T,Insignificant
+"I’ve been feeling a bit down about my future. I thought graduating would feel like a big achievement, but now I just feel lost.",P,History of Present Illness (HPI)
+"It’s completely normal to feel that way after such a significant transition. Sometimes, the pressure of expectations can lead to feelings of uncertainty. ",T,Insignificant
+"Yeah, I guess I didn’t expect it to hit me like this.",P,History of Present Illness (HPI)
+"It’s okay to take time to adjust. Remember, it’s a journey, and it’s okay to not have everything figured out right away. ",T,Insignificant
+That’s true. I just wish I had a clearer path.,P,History of Present Illness (HPI)
+We can explore that together. What are some of your dreams or aspirations in marine biology? ,T,Insignificant
+"I’d love to work in conservation or research, but I’m not sure how to get there.",P,History of Present Illness (HPI)
+Let’s brainstorm some steps you could take to move toward those goals. What skills or experiences do you think would enhance your chances in those fields?,T,Insignificant
+I think gaining more hands-on experience would help. Maybe volunteering at an aquarium or with a conservation group.,P,Next Steps
+That sounds like a great plan! Would you like to research some local organizations that align with your interests?,T,Next Steps
+"Yes, I’d like that. ",P,Insignificant
+Wonderful! Let’s make that another goal for this week. Research at least two organizations and see how you can get involved.,T,Next Steps
+"Okay, I can do that.",P,Next Steps
+"Great! I’m proud of you for taking these steps. Remember, it’s all about progress, not perfection. ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+Of course! I’m here for you. Let’s wrap up for today. I look forward to hearing about your progress next time!,T,Insignificant
+Me too! Bye!,P,Insignificant
+Goodbye!,T,Insignificant

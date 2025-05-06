@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay, I guess. A bit overwhelmed still, but managing.",P,History of Present Illness (HPI)
+That’s understandable. You mentioned feeling trapped and helpless last time. Have those feelings changed at all?,T,History of Present Illness (HPI)
+"A little bit. I’ve been trying to focus on what I can control, but it’s still tough.",P,History of Present Illness (HPI)
+That’s a positive step. What specific things have you been focusing on?,T,Insignificant
+"I’ve been trying to set small goals for myself each day, like going for a walk or reading a chapter of a book. It helps to feel a sense of accomplishment.",P,Current Functional Status
+That sounds like a great strategy! How do you feel after accomplishing those small goals?,T,Insignificant
+"It feels good! Even if it’s just a small thing, it gives me a little boost. But then I still have those moments where I feel overwhelmed by everything else.",P,History of Present Illness (HPI)
+It’s completely normal to have mixed feelings. The small victories can help counterbalance the larger stressors. Have you noticed any patterns in your feelings of overwhelm?,T,Insignificant
+"Well, I think it mostly comes from my living situation. It’s hard to be around someone who’s constantly negative.",P,Psychosocial History
+That sounds really draining. Have you thought about ways to create some emotional distance from that negativity?,T,Insignificant
+"I’ve tried to spend more time outside or in other spaces, but it’s not always easy. I feel guilty for wanting to escape.",P,History of Present Illness (HPI):Risk Assessment
+"Guilt can be a heavy burden. Remember, taking care of yourself isn’t selfish; it’s necessary. How do you usually cope with guilt?",T,Insignificant
+"I tend to push it down and just keep going, but I know that’s not healthy.",P,History of Present Illness (HPI)
+Acknowledging that is a great first step. What if you allowed yourself to feel that guilt without judgment? What might that look like?,T,Insignificant
+I guess I’d just sit with it for a bit and recognize that it’s okay to feel that way.,P,Insignificant
+"Exactly. Sometimes, just allowing ourselves to feel our emotions can lessen their hold on us. Have you tried any mindfulness techniques?",T,Insignificant
+"I’ve done some meditation in the past, but I haven’t really kept up with it.",P,History of Present Illness (HPI)
+Would you be open to incorporating mindfulness practices into your routine? It could help with managing those overwhelming feelings.,T,Therapeutic Interventions
+"Yeah, I think that could be helpful. I just need to find a way to make time for it.",P,Insignificant
+Perhaps you could start with just a few minutes each day? Even five minutes can be beneficial.,T,Therapeutic Interventions
+That sounds doable. I can try to set a reminder for myself.,P,Next Steps
+Great! Let’s check in on that next session. How about we also explore your dreams a bit more? You mentioned having anxiety-ridden dreams. ,T,Insignificant
+"Yeah, they’ve been pretty intense lately. I wake up feeling anxious.",P,History of Present Illness (HPI)
+That’s tough. Sometimes our dreams can reflect our subconscious worries. Have you noticed any themes in those dreams?,T,Insignificant
+A lot of them are about feeling unprepared or out of control. Like I’m in a situation where I can’t find my way.,P,History of Present Illness (HPI)
+That sounds distressing. It might be worth exploring what those feelings of unpreparedness mean for you in your waking life.,T,Insignificant
+"I think it relates to my job situation. I feel like I'm not where I want to be, and it’s frustrating.",P,History of Present Illness (HPI):Psychosocial History
+"It’s understandable to feel that way, especially during transitions. What steps can you take to feel more prepared in your career?",T,Insignificant
+I could look into some online courses or networking events. I’ve been avoiding those because I’m not sure where to start.,P,Next Steps
+That’s a great idea! Taking small steps towards your goals can help alleviate that feeling of being unprepared. Would you like to set a specific goal around that for the next week?,T,Next Steps
+Sure! I’ll aim to sign up for one online course by our next session.,P,Next Steps
+"That sounds like a solid plan. Remember, it’s all about progress, not perfection. Is there anything else on your mind today?",T,Insignificant
+I guess I’m just worried about the future. It feels uncertain.,P,History of Present Illness (HPI)
+"It’s common to feel anxious about the future, especially when things are in flux. What helps you when you start to feel that way?",T,Insignificant
+"I try to remind myself to take things one day at a time, but sometimes that doesn’t work.",P,History of Present Illness (HPI)
+"That’s a good approach, but it’s also okay to seek support when those feelings become overwhelming. Have you thought about reaching out to others for support?",T,Insignificant
+I haven’t really. I guess I don’t want to burden anyone.,P,Risk Assessment
+It’s important to remember that friends and family often want to support you. Sharing your feelings might help lighten the load. Would you consider reaching out to someone this week?,T,Next Steps
+"Yeah, I think I could do that. I’ll try to talk to a friend.",P,Next Steps
+"That’s wonderful! Let’s check in on that next time too. You’re making progress, and it’s okay to lean on others.",T,Insignificant
+"Thanks, Ellie. I appreciate that.",P,Insignificant
+Of course! I’m here to support you. Let’s plan to explore your feelings about the future more in our next session. ,T,Next Steps
+Sounds good!,P,Insignificant
+Great! I’ll see you next time. Take care!,T,Insignificant
+Bye!,P,Insignificant

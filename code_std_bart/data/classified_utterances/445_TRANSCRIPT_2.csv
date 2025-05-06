@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh> ,P,Insignificant
+Hi! It’s good to see you again. How did the songwriting go? ,T,Insignificant
+"I wrote a little something, but it’s not finished. ",P,Insignificant
+That’s okay! Would you like to share what you have so far? ,T,Insignificant
+"Sure, it’s about feeling lost but finding light in small things. ",P,History of Present Illness (HPI)
+That sounds beautiful. How did writing it make you feel? ,T,Insignificant
+It felt therapeutic. I was able to express some of my frustrations. ,P,History of Present Illness (HPI)
+That’s wonderful to hear. Writing can be a powerful outlet. Do you think you’ll continue writing? ,T,Insignificant
+"Yes, I want to keep it as a regular practice. ",P,Next Steps
+That’s a great idea! How has your week been otherwise? ,T,Insignificant
+It’s been a mix of ups and downs. ,P,History of Present Illness (HPI)
+Would you like to elaborate on that? ,T,Insignificant
+"Well, I had a good day at work, but I also had a frustrating argument with my girlfriend. ",P,History of Present Illness (HPI)
+I’m sorry to hear that. What was the argument about? ,T,Insignificant
+It was about how we manage our finances. I felt like she was criticizing me. ,P,History of Present Illness (HPI)
+That sounds tough. How did you respond to her? ,T,Insignificant
+"I tried to stay calm, but I ended up raising my voice. ",P,History of Present Illness (HPI)
+It’s understandable to feel defensive. How did you feel afterward? ,T,Insignificant
+I felt guilty. I don’t want to be that way around her. ,P,History of Present Illness (HPI)
+That’s a good realization. What do you think could help you manage those feelings in the moment? ,T,Insignificant
+Maybe taking a break before responding would help. ,P,Therapeutic Interventions
+That’s a great strategy. Have you tried that yet? ,T,Insignificant
+"Not yet, but I plan to. ",P,Next Steps
+It’s a good step toward managing your reactions. How have you been feeling overall? ,T,Insignificant
+"I’ve been okay, but the financial stress is still there. ",P,History of Present Illness (HPI)
+Have you found any new ways to cope with that stress? ,T,Insignificant
+I’ve been budgeting more carefully and cutting back on unnecessary expenses. ,P,Therapeutic Interventions
+That’s a positive approach. How does it feel to take control of your finances? ,T,Insignificant
+"It feels empowering, but it’s also stressful. ",P,History of Present Illness (HPI)
+It’s understandable to feel both. Have you talked to your girlfriend about your financial stress? ,T,Insignificant
+"Not really, I didn’t want to burden her. ",P,History of Present Illness (HPI)
+It’s important to share your feelings with her. She might want to support you. ,T,Insignificant
+You’re right. I’ll try to open up to her. ,P,Next Steps
+"That would be a good step. Remember, communication is key in relationships. ",T,Insignificant
+I’ll keep that in mind. ,P,Insignificant
+How do you feel about your emotional responses lately? ,T,Insignificant
+I think I’m getting better at recognizing them before they escalate. ,P,History of Present Illness (HPI)
+That’s a significant improvement! Have there been any specific situations where you noticed this? ,T,Insignificant
+"Yes, during a disagreement at work, I felt my frustration rising, but I took a moment to breathe. ",P,History of Present Illness (HPI)
+That’s excellent! It sounds like you’re applying what we’ve discussed. ,T,Insignificant
+I am trying to. ,P,Insignificant
+That’s all we can ask for. What would you like to focus on in our next session? ,T,Insignificant
+I’d like to explore more about managing stress and maybe some mindfulness techniques. ,P,Next Steps
+Absolutely! We can work on mindfulness exercises together. ,T,Therapeutic Interventions
+That sounds good to me. ,P,Insignificant
+Great! I’m looking forward to it. Remember to keep writing and expressing yourself. ,T,Next Steps
+I will! ,P,Insignificant
+Wonderful. I’ll see you next time! ,T,Insignificant
+Bye! ,P,Insignificant
+Bye!,T,Insignificant

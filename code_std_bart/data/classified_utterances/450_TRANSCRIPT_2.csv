@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie! ",P,Insignificant
+Hi there! It’s good to see you again. How have you been since our last session? ,T,Insignificant
+"I’ve had some ups and downs, but I’ve been trying to implement some of the strategies we discussed. ",P,Progress Evaluation
+That’s great to hear! Can you share which strategies you’ve found helpful? ,T,Insignificant
+"I’ve been writing more about my feelings, and I tried to be more open with my mom. ",P,Therapeutic Interventions
+That’s a significant step! How did that conversation go with your mom? ,T,Insignificant
+"It went surprisingly well. I told her how I’ve been feeling, and she was really supportive. ",P,History of Present Illness (HPI)
+That’s wonderful! It sounds like you’re building a stronger connection. Did you feel any relief after sharing? ,T,Insignificant
+"Yes, I felt lighter. It was nice to not carry everything alone. ",P,History of Present Illness (HPI)
+I’m so glad to hear that. Sharing our burdens can make a big difference. How about your sleep? Have you noticed any improvements? ,T,Insignificant
+"A little. I’ve been trying to stick to a bedtime routine, and it helps me wind down. ",P,Physiological Observations
+That’s excellent! What does your routine look like now? ,T,Insignificant
+"I usually read for a bit, do some light stretching, and listen to calming music before bed. ",P,Physiological Observations
+That sounds very soothing. Have you noticed any changes in your sleep quality? ,T,Insignificant
+"Yeah, I feel like I’m falling asleep faster, but I still wake up a few times. ",P,Physiological Observations
+"That’s a common experience. It’s good that you’re falling asleep faster, but let’s work on strategies to help you stay asleep longer. Would you be open to that? ",T,Next Steps
+"Yes, definitely. ",P,Insignificant
+One approach is to limit screen time before bed and avoid caffeine in the afternoon. Have you tried that? ,T,Next Steps
+"I’ve cut back on screens a bit, but I still drink coffee in the afternoon. ",P,Substance Use History
+Reducing caffeine can have a significant impact on sleep. Would you consider swapping it for herbal tea? ,T,Next Steps
+I could try that. ,P,Insignificant
+"Great! Now, let’s revisit the topic of regret. Have you had any new insights since our last session? ",T,Insignificant
+"I’ve been reflecting on it more, and I’m starting to see it as a learning experience rather than just a loss. ",P,Progress Evaluation
+That’s a powerful shift in perspective. What have you learned from that experience? ,T,Insignificant
+I’ve learned that I need to trust myself more and not let fear dictate my decisions. ,P,History of Present Illness (HPI)
+That’s a valuable lesson. How do you think you can apply that moving forward? ,T,Insignificant
+I think I need to remind myself of that when I face new challenges. ,P,Next Steps
+Absolutely! Trusting yourself is key. Are there any specific challenges you’re currently facing? ,T,Insignificant
+"I’ve been thinking about starting a small side project, but I’m scared to take the leap. ",P,Presenting Problem / Chief Complaint
+It’s natural to feel scared when starting something new. What’s holding you back? ,T,Insignificant
+"I’m afraid of failing again, like I did with my business. ",P,Risk Assessment
+"That fear is understandable, but remember, every experience is a chance to learn. What if you approached this project as a learning opportunity rather than a potential failure? ",T,Insignificant
+That would take some pressure off. ,P,Insignificant
+"Exactly! You could set small, achievable goals to build your confidence. Would you like to brainstorm some ideas for your project? ",T,Next Steps
+"Yes, I’d like that. ",P,Insignificant
+What’s the project about? ,T,Insignificant
+I’ve been thinking about starting a blog about my hiking and fishing experiences. ,P,Presenting Problem / Chief Complaint
+That sounds fantastic! What would be your first step? ,T,Insignificant
+I guess I could start by writing a few posts and sharing them with friends for feedback. ,P,Next Steps
+That’s a great start! Sharing your passion can be incredibly rewarding. How do you feel about that? ,T,Insignificant
+"I feel excited and a bit nervous, but I think I can do it. ",P,Mental Health Observations
+"That’s a positive mindset! Remember, it’s okay to feel nervous. It shows that you care about what you’re doing. ",T,Insignificant
+True! ,P,Insignificant
+Let’s set a goal for you to write your first post by our next session. How does that sound? ,T,Next Steps
+I can do that! ,P,Insignificant
+"Wonderful. I’m looking forward to hearing about it. Before we wrap up, is there anything else you’d like to discuss today? ",T,Insignificant
+I think we covered a lot. I’m feeling good about what’s ahead. ,P,Progress Evaluation
+I’m glad to hear that! It sounds like you’re making progress. Thank you for sharing today. ,T,Progress Evaluation
+Thank you! ,P,Insignificant
+I’ll see you next time. ,T,Insignificant
+Bye!,P,Insignificant

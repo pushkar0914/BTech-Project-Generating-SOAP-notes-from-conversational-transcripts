@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s nice to see you again. How have you been since our last session?  ,T,Insignificant
+"Hey, Ellie! I’ve been okay. I tried tracking my phone usage, and wow, I was shocked!  ",P,History of Present Illness (HPI)
+That’s interesting! What did you discover?  ,T,Insignificant
+"I was on my phone way more than I thought—like, four hours a day!  ",P,History of Present Illness (HPI)
+That’s quite a bit! How did that realization feel for you?  ,T,Insignificant
+"A bit embarrassing, honestly. I didn’t realize how much it affected my sleep.  ",P,Physiological Observations
+It’s great that you’re recognizing that. Have you made any changes since then?  ,T,Insignificant
+I’ve started setting a timer for an hour before bed to put it down.  ,P,Therapeutic Interventions
+That’s a fantastic step! How has that impacted your sleep?  ,T,Insignificant
+It’s been better! I feel more rested.  ,P,Physiological Observations
+I’m so glad to hear that! Have you been able to incorporate any mindfulness exercises?  ,T,Insignificant
+"Yeah, I’ve been doing the breathing exercise during my breaks at work.  ",P,Therapeutic Interventions
+Wonderful! How has that been for you?  ,T,Insignificant
+It helps a lot. I feel calmer and more focused afterward.  ,P,Physiological Observations
+That’s excellent progress. You’re doing a great job! What else is on your mind today?  ,T,Insignificant
+"I’ve been thinking about my introversion again. I went to a gathering last weekend, and it was overwhelming.  ",P,History of Present Illness (HPI)
+That sounds challenging. How did you handle it?  ,T,Insignificant
+I left early. I just needed to recharge.  ,P,Current Functional Status
+That’s a healthy choice. It’s important to honor your feelings. Did you have any strategies in place for when you felt overwhelmed?  ,T,Insignificant
+Not really. I just kind of left when I felt too drained.  ,P,Current Functional Status
+Would it help to have a plan for those moments in the future?  ,T,Insignificant
+"Yeah, I think so. Maybe I could step outside for fresh air or do a quick breathing exercise.  ",P,Therapeutic Interventions
+Those are excellent strategies! It’s all about finding what works for you.  ,T,Insignificant
+I feel like I’m getting better at recognizing my limits.  ,P,Progress Evaluation
+That’s a significant step! Have you noticed any changes in your mood or energy levels?  ,T,Insignificant
+"I think I’m feeling more balanced, but sometimes I still feel anxious in big crowds.  ",P,History of Present Illness (HPI):Risk Assessment
+It’s normal to feel that way. Would you like to explore some coping strategies for those anxious moments?  ,T,Insignificant
+"Yes, that would be helpful.  ",P,Insignificant
+"One technique is to focus on your breath. When you feel anxious, try counting your breaths.  ",T,Therapeutic Interventions
+That sounds doable.  ,P,Insignificant
+Another strategy is to identify a safe person to talk to when you feel overwhelmed. Do you have someone in mind?  ,T,Insignificant
+I have a close friend I could reach out to.  ,P,Current Functional Status
+That’s great! Having a support system can make a big difference.  ,T,Insignificant
+"Yeah, it helps to know I’m not alone.  ",P,Current Functional Status
+"Absolutely! As we wrap up today, what are your goals for the next week?  ",T,Insignificant
+I want to continue tracking my phone use and practice my breathing exercises.  ,P,Next Steps
+Those are wonderful goals! Let’s check in on them next time.  ,T,Insignificant
+Sounds good!  ,P,Insignificant
+Thank you for sharing today. I’m proud of the progress you’ve made! Goodbye!  ,T,Insignificant
+"Bye, Ellie!",P,Insignificant

@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey, I've been okay, I guess. Just trying to settle in more.",P,History of Present Illness (HPI)
+"That's good to hear. Last time, we talked about your move to L.A. and how you were feeling a bit more depressed being away from friends and family. Have you noticed any changes in those feelings?",T,History of Present Illness (HPI)
+"Yeah, I think it’s gotten a little better. I’ve been trying to connect with some people here, but it’s still tough.",P,History of Present Illness (HPI)
+Building new relationships can take time. What steps have you taken to connect with others?,T,Insignificant
+"Well, I joined a few online gaming communities. It feels a bit like home talking to people who share the same interests.",P,Psychosocial History
+That sounds like a great way to find common ground. Have you met anyone in those communities that you feel you could connect with more personally?,T,Insignificant
+"A couple of people, yeah. We've been chatting a bit outside of the games, so that’s nice.",P,Psychosocial History
+That’s a positive development! How does that make you feel?,T,Insignificant
+It feels good. It's nice to talk to someone who gets my interests. Makes me feel less alone.,P,Mental Health Observations
+That’s wonderful! It sounds like you’re taking proactive steps to combat those feelings of loneliness. Have you been able to share how you feel with them?,T,Insignificant
+Not really. I’m still a bit shy about opening up. I don’t want to scare them off.,P,History of Present Illness (HPI)
+"Understandable. It can be intimidating to share personal feelings, especially with new acquaintances. What do you think holds you back from sharing?",T,Insignificant
+I guess I worry they won’t understand or that they’ll think I’m being dramatic.,P,History of Present Illness (HPI)
+It’s common to have those worries. What if we explored some ways to express yourself that feel comfortable for you?,T,Insignificant
+"Sure, that sounds helpful.",P,Insignificant
+One approach could be to start small—sharing lighter feelings or experiences before diving into deeper topics. How does that sound?,T,Therapeutic Interventions
+"Yeah, I could try that. Maybe just talking about how I’m adjusting to L.A. would be a good start.",P,Therapeutic Interventions
+Exactly! It’s a great way to ease into deeper conversations. Have you had any experiences in L.A. recently that you could share with them?,T,Insignificant
+"Actually, I went to a local gaming café last week. It was fun to be around people who love games too.",P,Current Functional Status
+That’s fantastic! How did that experience feel for you?,T,Insignificant
+"It felt really good. I was nervous at first, but once I got talking about games, it was like I found my groove.",P,Mental Health Observations
+That’s a great example of how you can connect with others through shared interests. What do you think you could do to replicate that feeling?,T,Insignificant
+I guess I could try going to more events like that. Maybe even invite some of the people I’ve met online to join me.,P,Therapeutic Interventions
+That’s a brilliant idea! It could help strengthen those connections. Would you like to set a goal for the next week to try that?,T,Next Steps
+"Yeah, I think I’ll look up some events. Maybe even a game night.",P,Next Steps
+Perfect! Setting that goal can help you take a step forward. How do you feel about the idea of reaching out to invite someone?,T,Insignificant
+"A bit anxious, but I think I can do it. ",P,Mental Health Observations
+"That’s completely normal. Remember, it’s okay to feel anxious. You can also practice what you might say if that helps ease your nerves.",T,Therapeutic Interventions
+Good idea. I’ll write it down. ,P,Therapeutic Interventions
+Great! Writing it down can help clarify your thoughts. Is there anything else on your mind that you want to talk about today?,T,Insignificant
+"Well, I’ve been thinking about my family a lot lately. I miss them.",P,History of Present Illness (HPI)
+That’s understandable. Being away from family can be really tough. How do you cope with those feelings?,T,Insignificant
+"I try to call them when I can. It helps, but it’s not the same as being there.",P,Current Functional Status
+"It’s definitely not the same, but it’s great that you’re making an effort to stay connected. What do you enjoy talking about with them?",T,Insignificant
+Mostly just catching up on life. I tell them about my job hunt and they share what’s going on back home.,P,Psychosocial History
+"It sounds like those conversations are meaningful for you. Have you considered scheduling regular calls, like a weekly check-in?",T,Next Steps
+"Yeah, I think I’ll do that. It would give me something to look forward to.",P,Next Steps
+That’s a wonderful idea! It can help maintain that connection and lessen feelings of loneliness. ,T,Insignificant
+"Thanks, Ellie. I appreciate the suggestions.",P,Insignificant
+"Of course! I’m here to support you. Before we wrap up, is there anything else you’d like to discuss or any questions you have?",T,Insignificant
+"No, I think I’m good. I feel like I have some things to work on now.",P,Insignificant
+"I’m glad to hear that! Remember, progress takes time, and you’re doing great. Let’s meet again next week to check in on how things are going.",T,Next Steps
+Sounds good! See you then.,P,Insignificant
+"Take care, and I look forward to hearing about your week.",T,Insignificant
+Bye!,P,Insignificant

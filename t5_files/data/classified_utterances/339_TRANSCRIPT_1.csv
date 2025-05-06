@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back today. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I’ve been okay, I guess. A bit up and down.",P,Insignificant
+I understand. Can you tell me more about what’s been making you feel that way?,T,Insignificant
+"Well, I found a few job openings that I applied for, but I haven't heard back yet. It’s been a bit stressful.",P,History of Present Illness (HPI)
+That sounds challenging. How are you coping with the stress of waiting for responses?,T,Insignificant
+"I try to keep busy, but sometimes I just feel anxious and start overthinking everything.",P,History of Present Illness (HPI)
+Overthinking can be exhausting. What thoughts tend to come up for you during those times?,T,Insignificant
+"I worry about my future and if I’ll ever find a stable job. I also think about how long it’s been since I graduated, and I feel like I'm falling behind.",P,History of Present Illness (HPI)
+Those feelings of pressure can be tough. It seems like you have high expectations for yourself. How do you feel about those expectations?,T,Insignificant
+"I think they’re valid, but they can be overwhelming. Sometimes I feel like I’m not doing enough.",P,History of Present Illness (HPI)
+"It’s common to feel that way, especially in a competitive environment. Have you found any strategies that help you manage those feelings?",T,Insignificant
+"I’ve been trying to practice mindfulness and focus on the present, but I still struggle with it.",P,Therapeutic Interventions
+Mindfulness can be a great tool. Would you like to explore some specific mindfulness exercises together?,T,Therapeutic Interventions
+"Yes, I’d like that.",P,Insignificant
+"Great! One simple exercise is focusing on your breath. When you feel anxious, you can take a few deep breaths and count to four as you inhale and exhale. Would you like to try it now?",T,Therapeutic Interventions
+"Sure, let’s do it.",P,Insignificant
+"Alright, let’s take a deep breath in… 1, 2, 3, 4… and out… 1, 2, 3, 4. How did that feel for you?",T,Therapeutic Interventions
+It felt calming. I can see how it helps to just focus on my breath.,P,Therapeutic Interventions
+I’m glad to hear that. You can practice this whenever you feel overwhelmed. What are some other coping strategies you’ve used in the past?,T,Insignificant
+I sometimes listen to music or talk to my sister about how I’m feeling.,P,Current Functional Status
+Those sound like effective ways to cope. Music can be very therapeutic. What kind of music do you enjoy?,T,Insignificant
+I love R&B and pop. They really lift my mood.,P,Current Functional Status
+That’s wonderful! Music can be a great way to express emotions. Have you tried singing as a way to release tension?,T,Insignificant
+I haven’t really thought about that. I usually just sing in the shower.,P,Current Functional Status
+Singing can be a powerful emotional release. Maybe you could set aside some time to sing when you’re feeling anxious. How does that sound?,T,Insignificant
+That sounds fun! I’ll definitely give it a try.,P,Insignificant
+"Fantastic! I’d love to hear how it goes next time we meet. Speaking of our next session, what would you like to focus on then?",T,Insignificant
+"I’d like to talk more about managing my anxiety, especially with job searching.",P,Next Steps
+That’s a great goal. We can explore more coping strategies and perhaps role-play some job interview scenarios. How does that sound?,T,Next Steps
+That sounds really helpful. I’m looking forward to it.,P,Insignificant
+"I am too! Before we wrap up today, is there anything else you’d like to discuss?",T,Insignificant
+"No, I think we covered a lot today. Thank you!",P,Insignificant
+"You’re welcome! I’m glad you found it helpful. Remember to practice those breathing exercises and enjoy your music. Take care, and I’ll see you next time!",T,Insignificant
+"Bye, Ellie!",P,Insignificant

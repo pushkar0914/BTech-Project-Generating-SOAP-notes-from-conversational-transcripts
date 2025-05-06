@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+"Hi, it's Ellie again. I'm glad to see you back today. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. A mix of ups and downs, like I mentioned last time.",P,History of Present Illness (HPI)
+That sounds familiar. Have there been any particular moments that stood out to you in the past week?,T,Insignificant
+"Yeah, actually. I had a really good day with friends, but then I also had a rough day where I felt really low.",P,History of Present Illness (HPI)
+I'm sorry to hear that. Can you tell me more about the low day?,T,Insignificant
+"Um, I just felt really unmotivated. I didn't want to do anything, and I ended up just sitting around all day.",P,History of Present Illness (HPI)
+What do you think triggered that feeling?,T,Insignificant
+I think it was just a lot of pressure from school and feeling like I'm not doing enough.,P,History of Present Illness (HPI)
+That sounds tough. How do you usually cope with that kind of pressure?,T,Insignificant
+"I try to write or play music, but sometimes I just end up shutting down.",P,History of Present Illness (HPI)
+"It makes sense that when you're feeling overwhelmed, it can be hard to engage in those activities that usually help. Have you tried any specific strategies when you feel that way?",T,Insignificant
+Not really. I just kind of let it pass.,P,History of Present Illness (HPI)
+That’s understandable. Would you be open to exploring some coping techniques together today?,T,Insignificant
+"Sure, I’d be interested in that.",P,Insignificant
+Great! One technique we can try is mindfulness. Have you ever practiced mindfulness or meditation before?,T,Insignificant
+"I've heard of it, but I haven't really tried it.",P,Insignificant
+Mindfulness can help you stay grounded and manage those overwhelming feelings. Would you like to try a short exercise with me now?,T,Insignificant
+"Okay, I’m willing to give it a shot.",P,Insignificant
+Awesome. Let’s start by taking a deep breath in together... and out. Focus on the sensation of your breath. What do you notice?,T,Insignificant
+"I feel a little more relaxed, actually.",P,Mental Health Observations
+That’s great to hear! The goal is to bring your attention back to your breath whenever your mind starts to wander. How do you feel about practicing this a few times a week?,T,Insignificant
+I think I could try that.,P,Next Steps
+"Perfect. It can be a simple five-minute exercise. Now, thinking about your feelings of pressure, can you identify any specific areas where you feel you’re not doing enough?",T,Insignificant
+Mostly in school. I feel like I should be getting better grades or doing more extracurricular activities.,P,History of Present Illness (HPI)
+It sounds like you have high expectations for yourself. What do you think drives those expectations?,T,Insignificant
+I guess I just want to prove to myself and my family that I can succeed.,P,Psychosocial History
+That’s understandable. Do you feel like those expectations are realistic?,T,Insignificant
+"Sometimes I feel like they’re too high, but then I also feel guilty for not meeting them.",P,Risk Assessment
+It's common to feel that way. It might be helpful to reframe those expectations. What would it look like to set more achievable goals for yourself?,T,Insignificant
+Maybe just focusing on one assignment at a time instead of trying to do everything at once.,P,Next Steps
+That sounds like a constructive approach. How would you feel about setting a specific goal for this week related to your studies?,T,Insignificant
+I could aim to finish my essay by the end of the week instead of stressing about all my assignments.,P,Next Steps
+That sounds like a solid plan. How can you hold yourself accountable for that goal?,T,Insignificant
+"I could tell my friends about it, so they can check in on me.",P,Next Steps
+That’s a great idea! Sharing your goals with others can provide additional motivation. How do you feel about your relationships with your friends?,T,Insignificant
+"They’re pretty good. They understand me, and I can talk to them about stuff.",P,Psychosocial History
+That's wonderful. It sounds like you have a supportive network. Have you talked to them about how you’ve been feeling lately?,T,Insignificant
+Not really. I tend to keep that stuff to myself.,P,Psychosocial History
+Would you feel comfortable sharing your feelings with a close friend?,T,Insignificant
+I think I could try. It might help to talk about it.,P,Next Steps
+Absolutely. Opening up can often lighten the burden. What else do you think might help you navigate these ups and downs?,T,Insignificant
+Maybe just being kinder to myself when I feel low instead of pushing myself to be okay.,P,History of Present Illness (HPI)
+That’s a powerful insight. Self-compassion can be a game changer. How can you practice that self-kindness this week?,T,Insignificant
+I could remind myself that it’s okay to have bad days and that I don’t have to be perfect.,P,Next Steps
+Exactly. It’s all part of being human. I’m really proud of you for recognizing that. Let’s check in on this in our next session. Does that sound good?,T,Insignificant
+"Yeah, that sounds great. Thank you, Ellie.",P,Insignificant
+You’re welcome! I look forward to hearing how it goes. Take care!,T,Insignificant

@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. I'm glad to see you back today. How have you been since our last session?  ",T,Insignificant
+"Hi! I've been doing pretty well, actually. The job is going well, and I've been feeling more positive.  ",P,History of Present Illness (HPI)
+"That's great to hear! Last time, you mentioned feeling a lot of pressure when you were unemployed. How has that changed for you?  ",T,History of Present Illness (HPI)
+It’s like a weight has been lifted off my shoulders. I feel more motivated now. I actually enjoy going to work every day.  ,P,History of Present Illness (HPI)
+That’s wonderful! Have you noticed any changes in your mood or energy levels since starting the job?  ,T,Physiological Observations
+"Yes, definitely! I feel more energetic and engaged. I think having a routine helps a lot.  ",P,Physiological Observations
+Routines can be very beneficial. Have you been able to maintain any self-care practices in your routine?  ,T,Insignificant
+"I try to make time for reading and going to the beach, which I find really calming.  ",P,Medical and Psychiatric History
+That sounds lovely. What kind of things do you read?  ,T,Insignificant
+"Mostly fiction, but I also enjoy psychology-related books. They help me understand myself better.  ",P,Medical and Psychiatric History
+That’s insightful. You mentioned in our last session that you believe you struggle with depression. Have you had any thoughts about that recently?  ,T,History of Present Illness (HPI)
+"I have. I still think about it, but I feel like I'm managing it better now. The job has really helped.  ",P,History of Present Illness (HPI)
+That’s a positive shift. Have you noticed any triggers that might still affect your mood?  ,T,History of Present Illness (HPI)
+"Sometimes when I’m alone for too long, I start to feel down again. It's like I need to be around people to stay positive.  ",P,History of Present Illness (HPI)
+That’s a valuable insight. Have you been able to connect with friends or colleagues since starting your job?  ,T,Current Functional Status
+"Yes! I’ve been trying to make plans with co-workers after work, and it helps a lot.  ",P,Current Functional Status
+That’s fantastic! Social connections can be very grounding. Have you felt any anxiety about making those connections?  ,T,Risk Assessment
+"A little, but I remind myself that everyone is just trying to get to know each other. It helps me relax.  ",P,Risk Assessment
+That’s a great strategy! It seems like you’re applying some of the coping techniques we discussed last time.  ,T,Progress Evaluation
+"Yeah, I think so! I’ve been trying to be more mindful about my feelings and not let them overwhelm me.  ",P,Therapeutic Interventions
+Mindfulness is a powerful tool. Have you practiced any specific mindfulness exercises?  ,T,Therapeutic Interventions
+"I’ve been doing some breathing exercises when I feel anxious, and it really helps me focus.  ",P,Therapeutic Interventions
+Excellent! Breathing exercises can be very effective. How do you feel after practicing them?  ,T,Physiological Observations
+I feel calmer and more centered. It’s like I can think more clearly.  ,P,Physiological Observations
+That’s wonderful progress. Have you noticed any changes in how you react to stressors at work?  ,T,Progress Evaluation
+I’ve been handling stress better. I try to take a step back and breathe before reacting.  ,P,Progress Evaluation
+That’s a significant improvement! It sounds like you’re developing a healthier response to stress.  ,T,Progress Evaluation
+I think so! I feel more in control of my emotions now.  ,P,Progress Evaluation
+That’s a great feeling to have. Is there anything specific you would like to work on in our next session?  ,T,Next Steps
+"I think I’d like to explore how to maintain this positivity, even when I face challenges.  ",P,Next Steps
+"Absolutely, that sounds like a good goal. We can also discuss ways to strengthen your social connections.  ",T,Next Steps
+"Yes, that would be helpful! I want to keep building those relationships.  ",P,Next Steps
+Great! I look forward to exploring that with you. Is there anything else you’d like to share before we wrap up today?  ,T,Insignificant
+Just that I appreciate this space to talk about everything. It really helps!  ,P,Insignificant
+I’m glad to hear that! Thank you for being open today. I look forward to our next session.  ,T,Insignificant
+"Me too! Thank you, Ellie.  ",P,Insignificant
+Goodbye for now!  ,T,Insignificant
+Bye!  ,P,Insignificant

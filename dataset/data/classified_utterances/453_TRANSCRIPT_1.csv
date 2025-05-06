@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I've been okay, a bit anxious, but I'm managing.",P,History of Present Illness (HPI)
+"It’s good to hear you’re managing. Last time, you mentioned feeling anxious and having dreams that felt very real. Have those dreams continued?",T,History of Present Illness (HPI)
+"Yes, they have. I had another one last night about fighting again. It’s like I can’t escape it.",P,History of Present Illness (HPI)
+That sounds really challenging. Can you tell me more about what happened in that dream?,T,Insignificant
+"I was in the ring, and I was supposed to be coaching someone, but then I ended up fighting myself. It felt so intense, like I was really there.",P,History of Present Illness (HPI)
+It sounds like a very vivid experience. How did you feel when you woke up from that?,T,Insignificant
+"I felt exhausted, like I had actually fought. And there was this nagging feeling of failure because I didn't finish the fight.",P,Physiological Observations: History of Present Illness (HPI)
+Those feelings of exhaustion and failure can be really tough to deal with. Have you noticed any patterns in your waking life that might be contributing to these dreams?,T,Insignificant
+I think stress from work and trying to balance everything is affecting me. I feel like I’m always in fight-or-flight mode.,P,History of Present Illness (HPI)
+That makes sense. It sounds like you're carrying a lot of tension. Have you tried any techniques to help manage that stress?,T,Insignificant
+"I’ve been painting more, which helps a little. But when I’m busy, I forget to take those breaks.",P,Current Functional Status
+Painting sounds like a wonderful outlet. How does it feel when you’re immersed in that process?,T,Insignificant
+"It feels freeing. I get lost in the colors and the strokes, and it takes my mind off everything else.",P,Current Functional Status
+That’s great to hear. Maybe we can look at incorporating more scheduled painting time into your week to help you unwind. How does that sound?,T,Next Steps
+I like that idea! I need to prioritize it more.,P,Next Steps
+Wonderful! You mentioned feeling anxious lately. Can you describe what those anxious moments feel like for you?,T,History of Present Illness (HPI)
+"It’s like my heart races, and I can't focus. Sometimes I feel like I’m on edge, waiting for something bad to happen.",P,History of Present Illness (HPI)
+"That sounds really uncomfortable. When you feel that way, what do you usually do to cope?",T,Insignificant
+I try to breathe deeply or go for a walk. But sometimes it just lingers.,P,Therapeutic Interventions
+Walking and deep breathing are excellent strategies. Have you ever tried grounding techniques to help when anxiety strikes?,T,Insignificant
+"I’ve heard of them, but I haven’t really practiced them.",P,Insignificant
+Grounding techniques can be very helpful. They focus on bringing you back to the present moment. Would you like to try one together now?,T,Therapeutic Interventions
+"Sure, I’m open to it.",P,Insignificant
+Great! Let’s try a simple one. Look around the room and name five things you can see.,T,Therapeutic Interventions
+"Okay, um... the chair, the window, the plant, the lamp, and the clock.",P,Insignificant
+"Excellent! Now, let’s move to four things you can touch.",T,Therapeutic Interventions
+"The chair, my hands, the fabric of my shirt, and the table.",P,Insignificant
+Perfect! Now three things you can hear.,T,Therapeutic Interventions
+"The clock ticking, my breathing, and... is that a car outside?",P,Insignificant
+"Yes, it is! And now, two things you can smell.",T,Therapeutic Interventions
+I can smell the fresh paint from the art supplies I brought and... I think some coffee from the break room.,P,Insignificant
+"Great job! And finally, one thing you can taste.",T,Therapeutic Interventions
+"Just the remnants of my breakfast, I guess. ",P,Insignificant
+How do you feel after doing that exercise?,T,Insignificant
+A little more centered. It helps to focus on the present instead of getting lost in my thoughts.,P,Current Functional Status
+I’m glad to hear that. Grounding exercises can be a great tool to use when anxiety arises. Do you think you could practice this technique at home?,T,Next Steps
+"Yes, I think I can give it a try.",P,Next Steps
+Awesome! Let’s also revisit your sleep issues. You mentioned having trouble sleeping. Have you made any changes since we last spoke?,T,History of Present Illness (HPI)
+"I’ve been trying to limit my screen time before bed, but it’s hard.",P,Current Functional Status
+"That’s a great step. Sometimes, creating a calming bedtime routine can also help. Have you thought about what you might include in that routine?",T,Insignificant
+Maybe some light reading or listening to soft music?,P,Next Steps
+Those sound like wonderful ideas. How about we set a goal for you to try that for a week and see how it affects your sleep?,T,Next Steps
+I can do that. I’ll try to read a little before bed.,P,Next Steps
+Perfect! We’ll check in on that next session. Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+I’ve been thinking about my family a lot. It’s hard to connect with them.,P,Psychosocial History
+Family dynamics can be complicated. What specifically has been on your mind?,T,Insignificant
+I feel like I’m missing out on a lot because we’re all so scattered. It makes me sad.,P,Psychosocial History
+"It’s understandable to feel that way. Have you thought about ways to reconnect with them, even from a distance?",T,Insignificant
+"I’ve thought about organizing a family call or something, but I’m not sure how to approach it.",P,Psychosocial History
+That sounds like a great idea! Maybe you could start by reaching out to one family member to gauge interest. Would you like to set that as a goal for this week?,T,Next Steps
+"Yes, I think I’ll try that.",P,Next Steps
+Wonderful! I’m proud of you for wanting to reconnect. It can be really rewarding. ,T,Insignificant
+"Thanks, Ellie.",P,Insignificant
+"You’re welcome! Remember, it’s all about taking small steps. I look forward to hearing how it goes next time. ",T,Insignificant
+Me too. Thanks for today!,P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant

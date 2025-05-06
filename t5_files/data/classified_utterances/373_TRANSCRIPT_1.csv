@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It's good to see you. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I've been okay, just keeping busy with work and trying to manage my anxiety.",P,History of Present Illness (HPI)
+That's great to hear you're staying busy. Have you had any projects come up since we last spoke?,T,Insignificant
+"Yeah, I actually landed a new project that I’m really excited about. It’s a documentary about local artists in L.A.",P,History of Present Illness (HPI)
+That sounds fascinating! How did you feel when you got that project?,T,Insignificant
+"Honestly, it felt like a huge relief. I was so anxious about not having anything lined up. When I got the call, it felt like a weight lifted off my shoulders.",P,History of Present Illness (HPI)
+That’s wonderful! It sounds like it’s a good fit for you. How do you think this project will affect your anxiety moving forward?,T,Insignificant
+"I think it helps a lot. Just having something to focus on takes my mind off the worry of what’s next. But I still have those moments of doubt, you know?",P,History of Present Illness (HPI)
+"Absolutely, it’s normal to have those doubts. What kind of thoughts come up for you during those moments?",T,Insignificant
+I start thinking about whether I’ll be able to deliver quality work or if I’ll run out of ideas. It’s like this nagging voice telling me I’m not good enough.,P,History of Present Illness (HPI)
+That sounds really tough. It’s common for creative individuals to experience self-doubt. Have you found any strategies that help you counter those thoughts?,T,Insignificant
+"I’ve tried reminding myself of past successes, like the last documentary I did. But sometimes it feels like it’s not enough to quiet that voice.",P,History of Present Illness (HPI)
+It’s a good start to remind yourself of your accomplishments. Would you be open to trying some cognitive-behavioral techniques to challenge those negative thoughts?,T,Therapeutic Interventions
+"Yeah, I’m open to that. What do you have in mind?",P,Insignificant
+"One technique is to identify a specific negative thought and then challenge it with evidence. For example, if you think, “I won’t be able to deliver quality work,” you could ask yourself, “What evidence do I have that supports this thought?”",T,Therapeutic Interventions
+That makes sense. I could list out the positive feedback I’ve received in the past. ,P,Therapeutic Interventions
+Exactly! And then you can also consider what you would tell a friend who had that same thought. ,T,Therapeutic Interventions
+I’d probably tell them they’re being too hard on themselves and remind them of their strengths.,P,Therapeutic Interventions
+Perfect! You can apply that same kindness to yourself. Would you like to practice this technique together?,T,Therapeutic Interventions
+"Sure, let’s do it.",P,Insignificant
+Great! What’s a specific negative thought you’ve had recently about this new project?,T,Therapeutic Interventions
+"I’ve been thinking, “What if the artists don’t like what I create?”",P,History of Present Illness (HPI)
+Let’s challenge that thought. What evidence do you have that supports this fear?,T,Therapeutic Interventions
+"Well, I guess I don’t have any concrete evidence. I’ve always received positive feedback in the past.",P,History of Present Illness (HPI)
+"Excellent! Now, what evidence contradicts that thought?",T,Therapeutic Interventions
+"I’ve had successful projects before, and I’ve built good relationships with artists. They’ve always appreciated my work.",P,History of Present Illness (HPI)
+That’s a strong counter-argument! How does that make you feel about the original thought?,T,Insignificant
+It definitely softens it. I feel more confident knowing I have a track record of success.,P,History of Present Illness (HPI)
+"That’s wonderful! By practicing this technique regularly, it can help reduce the power of those negative thoughts. How do you feel about incorporating this into your routine?",T,Therapeutic Interventions
+I think it could be really helpful. I’ll try to remember to challenge myself when those thoughts come up.,P,Next Steps
+That’s a great plan. How about we check in on your progress with this technique in our next session?,T,Next Steps
+Sounds good to me. ,P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+"Just that I’ve been feeling a bit more anxious at night, especially when I’m trying to sleep.",P,History of Present Illness (HPI)
+I see. Have you noticed any patterns or triggers that contribute to this nighttime anxiety?,T,Insignificant
+I think it’s when I start thinking about work and what I need to do the next day. My mind just races.,P,History of Present Illness (HPI)
+That’s very common. Would you be interested in exploring some relaxation techniques to help you wind down at night?,T,Therapeutic Interventions
+"Yes, please! ",P,Insignificant
+One technique is mindfulness meditation. It can help you focus on the present moment and quiet your mind. Would you like to try a brief exercise now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+"Okay, let’s take a moment to focus on your breath. Breathe in deeply through your nose, hold for a moment, and then exhale slowly through your mouth. ",T,Therapeutic Interventions
+<deep breath> ,P,Insignificant
+"Great. As you breathe, I want you to visualize any tension leaving your body with each exhale. ",T,Therapeutic Interventions
+<exhales slowly> ,P,Insignificant
+How does that feel?,T,Insignificant
+It feels nice. I can feel my body relaxing a bit.,P,Mental Health Observations
+Wonderful! You could try this technique at night before bed. It may help ease your mind and prepare you for sleep.,T,Therapeutic Interventions
+"I’ll definitely give it a shot. Thanks, Ellie.",P,Insignificant
+You’re welcome! I’m glad we could explore these techniques today. I look forward to hearing how they work for you in our next session.,T,Insignificant
+Me too! See you next time!,P,Insignificant
+Goodbye!,T,Insignificant
+Bye!,P,Insignificant

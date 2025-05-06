@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. How have you been since our last session?",T,Insignificant
+"Hi! I've been okay, you know, just trying to keep my spirits up despite everything.",P,Psychosocial History
+That’s good to hear. Last time we talked about your stroke and how it’s affected your life. Have you noticed any changes since then?,T,Insignificant
+"Well, I’ve been trying to focus on the positive aspects, but the nerve damage in my hand is still a challenge. It can get frustrating, especially when I’m trying to work.",P,History of Present Illness (HPI)
+I can imagine how difficult that must be. Have you been able to incorporate any new coping strategies since we last spoke?,T,Insignificant
+"I’ve been trying to meditate more regularly. It helps, but some days are harder than others.",P,History of Present Illness (HPI)
+That’s a great step. Meditation can really help with managing stress. Have you found any particular techniques that work better for you?,T,Insignificant
+"I’ve been following the guided meditations from Deepak Chopra. I find his voice calming, and it helps me focus.",P,Therapeutic Interventions
+That’s wonderful! How do you feel after meditating?,T,Insignificant
+"I feel more centered and relaxed, but sometimes I struggle to quiet my mind. It’s like my thoughts just keep racing.",P,History of Present Illness (HPI)
+That’s a common experience. It might help to acknowledge those thoughts without judgment and gently bring your focus back to your breath. ,T,Insignificant
+"Yes, I’ve tried that. It does help a bit. I just have to remind myself it’s okay to have those thoughts.",P,Therapeutic Interventions
+Exactly! How about your photography? Have you had any opportunities to shoot recently?,T,Insignificant
+"I’ve had a few small gigs, but nothing major. It’s tough finding paid work right now.",P,Psychosocial History
+I understand. What do you think is holding you back from getting more jobs?,T,Insignificant
+"I think it’s a combination of things—my health issues, and the competition in the industry. Sometimes I feel like I’m not good enough.",P,Psychosocial History
+"It’s normal to feel that way, especially in a competitive field. Have you considered reaching out to past clients or networking in any way?",T,Insignificant
+I haven’t done much networking lately. I guess I’ve been feeling a bit isolated since the stroke.,P,Psychosocial History
+Isolation can be tough. Maybe we can set a goal for you to reach out to at least one person this week? ,T,Insignificant
+That sounds doable. I can start with an old client I enjoyed working with.,P,Next Steps
+That’s a great idea! It might help to rekindle those connections. How do you feel about that?,T,Insignificant
+"I feel a little nervous, but also excited. It’s been a while since I’ve reached out to someone in the industry.",P,Psychosocial History
+That’s completely understandable. It’s a good step towards rebuilding your professional network. ,T,Insignificant
+"Yes, I think it will help me feel more connected again.",P,Psychosocial History
+"Speaking of connection, how’s your relationship with your daughters been lately?",T,Insignificant
+"It’s been good, but I think I need to give them a bit more space. Sometimes I feel like I’m relying on them too much.",P,Psychosocial History
+It’s great that you recognize that. How do you think you can create more independence for both you and them?,T,Insignificant
+I could start by planning some activities for myself—maybe join a class or a group.,P,Next Steps
+That sounds like a wonderful idea! What kind of activities interest you?,T,Insignificant
+I’ve always wanted to try painting again. It could be a nice way to express myself.,P,Psychosocial History
+That could be very therapeutic! Would you consider looking into local art classes?,T,Insignificant
+"Yes, I think I will! It might help me meet new people too.",P,Next Steps
+Absolutely! It can be a great way to connect with others who share your interests. ,T,Insignificant
+I’m feeling more hopeful just thinking about it.,P,Psychosocial History
+"That’s fantastic to hear! Remember, it’s all about taking one step at a time. ",T,Insignificant
+"Yes, I’m learning that. ",P,Insignificant
+Is there anything else you’d like to explore today?,T,Insignificant
+I guess I’m just worried about my upcoming disability hearing. It’s been weighing on my mind.,P,Presenting Problem / Chief Complaint
+That’s understandable. The waiting can be stressful. How have you been coping with that anxiety?,T,Insignificant
+"I’ve been trying to stay busy, but it’s hard not to think about it.",P,History of Present Illness (HPI)
+Have you thought about any specific ways to manage that anxiety as the date approaches?,T,Insignificant
+Maybe I could write down my feelings or talk to someone about it. ,P,Therapeutic Interventions
+Journaling can be a great outlet! Would you like to set a goal to write down your thoughts this week?,T,Insignificant
+"Yes, I think that would help me process everything.",P,Next Steps
+Great! It sounds like you have some good strategies to work on. ,T,Insignificant
+"Thank you for your support, Ellie. ",P,Insignificant
+Of course! I’m here for you. Let’s check in next week to see how it all goes. ,T,Insignificant
+Sounds good! I’m looking forward to it.,P,Insignificant
+Me too! Take care until then.,T,Insignificant
+Bye!,P,Insignificant

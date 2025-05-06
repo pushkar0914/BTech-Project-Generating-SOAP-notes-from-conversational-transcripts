@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's good to see you. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I've been okay, I guess. Some days are better than others.  ",P,Insignificant
+I understand. Can you tell me more about what has been better or worse?  ,T,Insignificant
+"Well, I had a few good days where I felt more motivated. But then I had a couple of rough days where I felt really low.  ",P,History of Present Illness (HPI)
+That sounds challenging. What do you think triggered those rough days?  ,T,Insignificant
+I think it was just a mix of stress from work and feeling overwhelmed with everything going on in my life.  ,P,History of Present Illness (HPI)
+That makes sense. Have you been able to use any coping strategies we discussed last time?  ,T,Insignificant
+"A little bit. I've been journaling more, and it does help sometimes.  ",P,Therapeutic Interventions
+That's great to hear! What have you been writing about?  ,T,Insignificant
+Mostly my feelings and some of the things that have been bothering me. It helps to get it out of my head.  ,P,Therapeutic Interventions
+"Absolutely, expressing your thoughts can be very therapeutic. Have you noticed any patterns in your writing?  ",T,Insignificant
+"Yeah, I noticed that I often write about feeling inadequate or comparing myself to others.  ",P,History of Present Illness (HPI)
+That’s an important insight. Can you tell me more about those feelings of inadequacy?  ,T,Insignificant
+"I guess I just feel like I should be doing more with my life. Sometimes I see friends achieving things, and I feel stuck.  ",P,History of Present Illness (HPI)
+"It’s common to feel that way, especially when comparing ourselves to others. How do you usually respond to those feelings?  ",T,Insignificant
+I tend to withdraw and isolate myself when I feel that way.  ,P,History of Present Illness (HPI)
+"That’s understandable. Isolation can feel like a safe option, but it can also make things harder. Have you tried reaching out to anyone during those times?  ",T,Insignificant
+Not really. I usually just keep it to myself.  ,P,History of Present Illness (HPI)
+Would you be open to trying to reach out to someone next time you feel that way?  ,T,Insignificant
+I could try that. Maybe talking to someone would help.  ,P,Next Steps
+That sounds like a positive step. Who do you think you might reach out to?  ,T,Insignificant
+Probably my aunt. She’s always been supportive.  ,P,Psychosocial History
+That’s a great choice! It sounds like you have a strong connection with her.  ,T,Insignificant
+"Yes, I do. She always knows how to make me feel better.  ",P,Psychosocial History
+Have you had a chance to talk to her recently?  ,T,Insignificant
+Not in a while. I’ve been so busy with work and everything.  ,P,History of Present Illness (HPI)
+How about setting a goal to have a chat with her this week?  ,T,Next Steps
+That would be nice. I’ll try to make time for that.  ,P,Next Steps
+Wonderful! Let’s also talk about your sleep. Have there been any changes since we last spoke?  ,T,Insignificant
+Not really. I still struggle with falling asleep and staying asleep.  ,P,Physiological Observations
+I see. Have you tried any new techniques to help with your sleep?  ,T,Insignificant
+"I’ve been trying to meditate before bed, but sometimes my mind just races.  ",P,Therapeutic Interventions
+"Meditation can be tricky, especially if your mind is busy. Would you be interested in exploring some guided meditation resources?  ",T,Next Steps
+"Yes, that could be helpful.  ",P,Next Steps
+Great! I can share some links with you after our session. Have you noticed any particular thoughts that keep you up at night?  ,T,Insignificant
+Mostly just worries about work and my future.  ,P,History of Present Illness (HPI)
+That’s understandable. It can be hard not to think about those things. Have you tried writing down your worries before bed?  ,T,Insignificant
+"No, I haven’t thought about that.  ",P,Insignificant
+It might help to get those thoughts out on paper. You could even write a short list of things you can address tomorrow.  ,T,Next Steps
+That sounds like a good idea. I’ll give it a try.  ,P,Next Steps
+Excellent! How have you been feeling about your work situation?  ,T,Insignificant
+It’s been tough. I feel like I’m not making the impact I want to.  ,P,History of Present Illness (HPI)
+What do you feel is holding you back from making that impact?  ,T,Insignificant
+I think it’s a mix of my own self-doubt and the limitations of the tutoring job.  ,P,History of Present Illness (HPI)
+That’s understandable. What changes would you like to see in your work?  ,T,Insignificant
+I’d love to get back into teaching full-time. I miss it.  ,P,Next Steps
+That’s a great goal! What steps do you think you could take to move closer to that?  ,T,Insignificant
+I could start looking for teaching positions and maybe take some workshops to improve my skills.  ,P,Next Steps
+Those sound like actionable steps! Would you like to set a timeline for that?  ,T,Next Steps
+"Yes, I think I could aim to start looking by next month.  ",P,Next Steps
+That sounds like a solid plan. Let’s check in on that next session.  ,T,Next Steps
+Sure!  ,P,Insignificant
+"Before we wrap up, is there anything else on your mind that you’d like to discuss?  ",T,Insignificant
+Not really. I feel like we covered a lot today.  ,P,Insignificant
+I agree! You’ve made some great insights today. I look forward to hearing about your progress next time.  ,T,Insignificant
+"Thank you, Ellie! I appreciate your help.  ",P,Insignificant
+"You’re welcome! Take care, and I’ll see you soon.  ",T,Insignificant
+Bye!  ,P,Insignificant

@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I’ve been doing well, thank you. Just keeping busy with work and life.",P,Insignificant
+"That’s good to hear! Last time, we talked about your experiences traveling and your family. Have you had any thoughts about those topics since then?",T,Insignificant
+"Yes, actually. I’ve been thinking about how much I miss traveling, especially after hearing about my friend’s trip to Japan. It made me want to plan something soon.",P,History of Present Illness (HPI)
+That sounds exciting! What kind of trip are you considering?,T,Insignificant
+I’m not sure yet. Maybe a weekend getaway somewhere nearby or even a longer trip to Europe again.,P,Insignificant
+That could be a great way to recharge. How does the idea of planning a trip make you feel?,T,Insignificant
+It makes me feel happy and a bit anxious at the same time. I want to make sure everything goes smoothly.,P,History of Present Illness (HPI)
+It’s understandable to feel a mix of emotions about travel. What do you think contributes to your anxiety about it?,T,History of Present Illness (HPI)
+"I think it’s the logistics. Planning flights, accommodations, and making sure I don’t miss anything important.",P,History of Present Illness (HPI)
+Have you found any strategies that help you manage that anxiety when planning?,T,Insignificant
+I try to make lists and break everything down into smaller tasks. It helps me feel more organized.,P,Therapeutic Interventions
+That’s a great approach! Breaking tasks down can make them feel more manageable. Have you had a chance to meditate since our last session?,T,Insignificant
+"Yes, I’ve been trying to stick to my routine. It really helps clear my mind, especially when I’m feeling overwhelmed.",P,Therapeutic Interventions
+That’s wonderful! How does meditation affect your daily life?,T,Insignificant
+It helps me stay grounded and focused. I feel more in control of my thoughts and emotions.,P,Current Functional Status
+That’s a valuable skill. Have you noticed any changes in your emotions or thoughts since you’ve been meditating regularly?,T,Insignificant
+I feel less stressed overall. I’m able to handle small frustrations better than before.,P,Progress Evaluation
+That’s a significant improvement! Are there specific situations where you’ve noticed this change?,T,Insignificant
+"Yes, like when I’m stuck in traffic. Instead of getting upset, I remind myself to breathe and stay calm.",P,Current Functional Status
+That’s an excellent example of applying mindfulness. Is there a particular situation you’d like to work on in our sessions to help you further?,T,Insignificant
+I think I’d like to explore my feelings of anxiety when it comes to work. Sometimes I feel overwhelmed by my responsibilities.,P,Presenting Problem / Chief Complaint
+That’s a great goal. Can you tell me more about what specifically causes that anxiety at work?,T,Insignificant
+"It’s mainly deadlines and the pressure to perform well. I want to succeed, but sometimes it feels like too much.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you discussed these feelings with anyone at work?,T,Insignificant
+Not really. I don’t want to seem weak or incapable.,P,Risk Assessment
+"It’s common to worry about that, but sharing your feelings can sometimes lead to support or understanding from others. Would you be open to trying that?",T,Insignificant
+I think I could try talking to my manager about workload. It might help.,P,Next Steps
+That sounds like a positive step. Would you like to role-play how that conversation might go?,T,Insignificant
+"Sure, that could be helpful!",P,Insignificant
+Great! Let’s say you’re approaching your manager. How would you start the conversation?,T,Insignificant
+"I might say something like, “Hey, I wanted to talk about my current projects and deadlines. I’m feeling a bit overwhelmed and want to make sure I’m meeting expectations.”",P,Next Steps
+That’s a good start! It’s direct and expresses your feelings. How do you think your manager might respond?,T,Insignificant
+I hope they would be understanding and maybe suggest some adjustments.,P,Insignificant
+That’s a realistic expectation. How would you feel if they offered to help you prioritize your tasks?,T,Insignificant
+I’d feel relieved. It would show that they care about my well-being.,P,Current Functional Status
+"Absolutely! It’s important to remember that asking for help is a sign of strength, not weakness. How do you feel about this approach?",T,Insignificant
+I feel more confident about it now. Thank you for helping me practice.,P,Insignificant
+"You’re welcome! It’s great to see you taking proactive steps. As we wrap up today, what’s one thing you’d like to focus on before our next session?",T,Insignificant
+I’d like to work on that conversation with my manager and continue my meditation practice.,P,Next Steps
+Sounds like a solid plan. I look forward to hearing how it goes next time. Take care!,T,Insignificant
+"Thank you, Ellie! See you next time!",P,Insignificant

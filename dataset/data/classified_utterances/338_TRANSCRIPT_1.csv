@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. Just trying to keep busy.",P,Insignificant
+That's good to hear. You mentioned starting an exercise program last time. How has that been going for you?,T,Insignificant
+It's been alright. I try to go for a bike ride a few times a week. It helps clear my mind.,P,History of Present Illness (HPI): Current Functional Status
+That sounds like a positive outlet. Have you noticed any changes in your mood since you began exercising?,T,Insignificant
+"Yeah, I think it helps a bit. I feel a little less heavy, if that makes sense.",P,History of Present Illness (HPI)
+It does make sense. Physical activity can really impact our mental state. Are there any other coping strategies you've been using?,T,Insignificant
+"I’ve been trying to meditate a little. It’s hard to quiet my mind, but I’m working on it.",P,History of Present Illness (HPI)
+"Meditation can be challenging at first, but it’s great that you’re giving it a try. What’s been the hardest part for you?",T,Insignificant
+I think just sitting still and not letting my thoughts race. I’ve always been someone who thinks a lot.,P,History of Present Illness (HPI)
+That’s understandable. It’s common for people to struggle with stillness. Perhaps we can explore some techniques to help with that. Would you be open to trying some guided meditations together?,T,Therapeutic Interventions
+"Sure, I’d be willing to try that.",P,Therapeutic Interventions
+"Wonderful! We can also talk about any thoughts or feelings that come up during your meditation practice. Speaking of which, have any challenging thoughts surfaced for you lately?",T,Insignificant
+"I’ve been feeling a bit down again. I think about my mom a lot, especially when I’m alone.",P,History of Present Illness (HPI)
+"It’s completely natural to miss her, especially during quiet moments. Would you like to share more about what those thoughts look like?",T,Insignificant
+I just feel this emptiness. Sometimes I think about what she would say to me if she were here.,P,History of Present Illness (HPI)
+That’s a profound way to connect with her memory. What do you think she would say to you right now?,T,Insignificant
+"I think she’d tell me to keep pushing through, to not let sadness take over. She always believed in me.",P,History of Present Illness (HPI)
+That’s a beautiful sentiment. It sounds like her influence is still very strong in your life. How do you feel when you think about her encouragement?,T,Insignificant
+"It makes me feel warm, but also sad. I miss her so much.",P,History of Present Illness (HPI)
+"That’s a valid feeling. Grief can be complex, filled with both love and sadness. Have you thought about ways to honor her memory?",T,Insignificant
+"I’ve considered doing something in her name, like volunteering or something.",P,History of Present Illness (HPI)
+That sounds like a meaningful way to honor her. What kind of volunteering do you think you’d like to do?,T,Insignificant
+"Maybe something with kids, like tutoring or mentoring. She loved teaching.",P,History of Present Illness (HPI)
+That aligns beautifully with her legacy. It could also provide you with a sense of connection and purpose. Would you like to set a goal to explore volunteering in the next week?,T,Next Steps
+"Yeah, I think that would be good for me.",P,Next Steps
+"Great! We can check in on that next session. In the meantime, how do you feel about your progress with meditation and exercise?",T,Insignificant
+"I feel like I’m on the right path, but I still have a long way to go.",P,Progress Evaluation
+"It’s important to acknowledge that progress takes time. Celebrate the small victories, like your commitment to exercise and trying meditation. Is there anything else you’d like to discuss today?",T,Insignificant
+I guess I’m just worried about feeling this way forever. ,P,History of Present Illness (HPI): Risk Assessment
+"That’s a common fear. It’s important to remind yourself that feelings are temporary, and with time and effort, they can change. Would you like to explore some techniques to help manage those worries?",T,Therapeutic Interventions
+"Sure, that would be helpful.",P,Therapeutic Interventions
+Let’s practice some grounding techniques that can bring you back to the present moment when those worries arise. Would you like to try one now?,T,Therapeutic Interventions
+"Yes, I’d like that.",P,Therapeutic Interventions
+"Okay, let’s take a deep breath together. Inhale slowly... and exhale. Focus on the sensations of your breath. ",T,Therapeutic Interventions
+"Okay, I’m doing it.",P,Insignificant
+Great! Notice how your body feels as you breathe. This can be a helpful tool when anxiety strikes. How does it feel to focus on your breath?,T,Insignificant
+It feels calming. I like this.,P,Current Functional Status
+I’m glad to hear that! You can use this technique anytime you feel overwhelmed. Let’s make it a goal for you to practice this daily. How does that sound?,T,Next Steps
+Sounds good to me.,P,Next Steps
+Excellent! I think we’ve covered quite a bit today. Remember to reflect on our discussion and practice the techniques we talked about. I look forward to hearing how everything goes in our next session.,T,Insignificant
+"Thank you, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! Take care and see you next time.,T,Insignificant

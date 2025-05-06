@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi there! It’s nice to see you again. How have things been since our last session?,T,Insignificant
+"Hey! I’ve been doing pretty well. I researched a few animal care courses, and I even signed up for one!",P,Presenting Problem / Chief Complaint
+That’s fantastic! How did that feel?,T,Insignificant
+It felt empowering. I’m excited but also a bit nervous about starting.,P,History of Present Illness (HPI)
+It’s completely normal to feel nervous when trying something new. What are you most looking forward to in the course?,T,Insignificant
+I’m looking forward to learning more about animal behavior and how to care for them properly. I think it’ll help me feel more confident.,P,History of Present Illness (HPI)
+That’s a great focus. Gaining knowledge can definitely boost your confidence. Have you experienced any challenges while preparing for the course?,T,Insignificant
+"I had a moment of doubt where I questioned if I was making the right decision, but I pushed through it.",P,History of Present Illness (HPI)
+That’s an important moment of self-awareness. How did you manage to push through those doubts?,T,Insignificant
+I reminded myself of how much I love being around animals and why I wanted to pursue this in the first place.,P,History of Present Illness (HPI)
+That’s a strong motivator. It sounds like you’re developing a better understanding of your passions. How else have you been nurturing those feelings?,T,Insignificant
+"I’ve been spending more time at the animal shelter, and I even helped organize a small adoption event.",P,Current Functional Status
+That’s incredible! How did the event go?,T,Insignificant
+"It went really well! We had a good turnout, and a few animals found homes.",P,Current Functional Status
+That’s wonderful to hear! It must have felt fulfilling to be a part of that. How did it impact your mood?,T,Insignificant
+It made me feel really happy and connected. I realized how much I want to help animals in need.,P,Mental Health Observations
+That’s a powerful realization. Have you thought about how you can incorporate this passion into your life moving forward?,T,Insignificant
+I’m considering volunteering more regularly and possibly exploring career options in animal care.,P,Next Steps
+"That sounds like a solid plan. You’re aligning your actions with your values, which is key to finding fulfillment. How do you feel about balancing this with your current responsibilities?",T,Insignificant
+"I think I can manage it. I’ve been more organized with my time lately, which helps.",P,Current Functional Status
+That’s excellent! Time management can make a big difference. Are there any specific strategies you’ve been using?,T,Insignificant
+"I’ve started using a planner to schedule my days, which helps me prioritize my commitments.",P,Current Functional Status
+That’s a great tool! It sounds like you’re becoming more intentional about how you spend your time. Have you noticed any changes in your stress levels?,T,Insignificant
+"Yes, I feel less overwhelmed. I’m learning to say no to things that don’t serve me.",P,Mental Health Observations
+That’s an important skill to develop. Setting boundaries is essential for your well-being. How has that impacted your relationships?,T,Insignificant
+I think it’s improved them. I’m more present when I engage with others because I’m not overcommitting.,P,Mental Health Observations
+That’s a positive change! How do you feel about your overall mental health right now?,T,Insignificant
+"I feel more balanced. I still have my moments, but I’m learning to cope better.",P,Mental Health Observations
+That’s a significant improvement. It’s great to hear you’re recognizing your progress. Are there any lingering challenges you want to address?,T,Insignificant
+"I still struggle with self-doubt occasionally, especially when I think about my future.",P,History of Present Illness (HPI)
+"It’s normal to have those feelings, especially when making big changes. Have you considered any techniques to combat those doubts?",T,Insignificant
+I’ve been trying to practice positive affirmations and remind myself of my accomplishments.,P,Therapeutic Interventions
+That’s a wonderful approach. Affirmations can help reshape your internal dialogue. Would you like to set a specific affirmation to focus on for the next week?,T,Insignificant
+"Yes, I’d like to use “I am capable of creating the life I want.”",P,Therapeutic Interventions
+That’s a powerful affirmation. I encourage you to repeat it daily. How does that feel to commit to?,T,Insignificant
+It feels empowering! I’m excited to see how it affects my mindset.,P,Mental Health Observations
+"That’s a great attitude. Remember, progress takes time, and it’s okay to have ups and downs. Is there anything else on your mind today?",T,Insignificant
+"No, I think we covered everything. Thank you for your guidance!",P,Insignificant
+You’re welcome! I’m really proud of the steps you’re taking. I look forward to hearing how your course goes next time. Take care!,T,Insignificant

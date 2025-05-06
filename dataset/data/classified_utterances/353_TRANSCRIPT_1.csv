@@ -1,0 +1,57 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, a little up and down, but managing.",P,History of Present Illness (HPI)
+That's understandable. Can you tell me more about what's been up and down for you?,T,Insignificant
+"Well, I’ve been trying to go out more, but some days it feels tougher than others. ",P,History of Present Illness (HPI)
+What do you think influences those tougher days?,T,Insignificant
+"I think it depends on how I’m feeling emotionally. If I’m more anxious, I really struggle to leave the house.",P,History of Present Illness (HPI)
+That makes sense. Have you noticed any patterns in your anxiety when you’re out?,T,Insignificant
+"Yeah, sometimes it hits me when I’m in crowded places or if I feel trapped. ",P,History of Present Illness (HPI)
+"Have you been able to practice any of the coping strategies we talked about, like deep breathing?",T,Insignificant
+"I have! I try to remind myself that my thoughts aren’t reality, but it’s hard when I’m in the moment.",P,Therapeutic Interventions
+It sounds like you’re doing a great job trying to apply those techniques. What do you think might help you feel more confident when you’re out?,T,Insignificant
+"Maybe if I had a plan or a specific route to take, it would help. ",P,Next Steps
+That’s a good idea. Having a plan can create a sense of control. Would you like to work on a specific plan together?,T,Insignificant
+"Yes, that sounds helpful.",P,Insignificant
+Great! Let’s start with a location that feels manageable for you. Is there a place you feel comfortable going to?,T,Insignificant
+There’s a small park nearby that I like. ,P,Next Steps
+Perfect! How about we create a step-by-step plan for visiting that park?,T,Insignificant
+"Sure, I could start by just walking around my block first before heading to the park.",P,Next Steps
+That sounds like a solid first step. How about setting a goal to walk around your block a few times this week?,T,Next Steps
+I think I can do that. I’ll try to go out in the mornings when it’s quieter.,P,Next Steps
+That’s a great idea. How will you celebrate that accomplishment?,T,Insignificant
+Maybe I could treat myself to a nice coffee afterward.,P,Next Steps
+I love that! Positive reinforcement can be very motivating. How do you feel about this plan?,T,Insignificant
+I feel good about it. It feels achievable.,P,Next Steps
+Excellent. Let’s talk about your sleep. You mentioned it’s been better lately. How has that been for you?,T,Insignificant
+"I’m sleeping through the night now, which is a relief. I think the yoga and meditation help.",P,Physiological Observations
+That’s wonderful to hear! Have you been able to maintain your yoga and meditation practice?,T,Insignificant
+"Yes, I’ve been consistent. I try to do it every morning.",P,Physiological Observations
+That’s fantastic! How does that routine affect your day?,T,Insignificant
+"It helps me feel centered, but if I miss it, my day feels off.",P,Physiological Observations
+It sounds like it’s become an important part of your self-care. How do you feel when you miss a session?,T,Insignificant
+I feel more anxious and irritable. ,P,Physiological Observations
+That’s understandable. Would you like to set a goal to ensure you’re prioritizing that practice?,T,Insignificant
+"Yes, I want to make it a non-negotiable part of my mornings.",P,Next Steps
+Great! How about we set a specific time each day for your yoga and meditation?,T,Insignificant
+I usually do it around 7 a.m. so I could keep that time.,P,Next Steps
+Perfect. Let’s commit to that time. Is there anything else you want to focus on today?,T,Insignificant
+I’ve been thinking about how to manage my feelings of paranoia when I’m out.,P,Presenting Problem / Chief Complaint
+That’s a significant topic. Can you share more about those feelings?,T,Insignificant
+"Sometimes I feel like people are watching me or judging me, especially in stores.",P,Presenting Problem / Chief Complaint
+That sounds really challenging. Have you noticed any specific triggers for these feelings?,T,Insignificant
+"It tends to happen when I’m in unfamiliar places, or if I’m feeling vulnerable.",P,History of Present Illness (HPI)
+That’s insightful. Would it help to remind yourself of the reality of the situation when those thoughts arise?,T,Insignificant
+"Yeah, I think so. I just need to remember that those thoughts aren’t true.",P,Therapeutic Interventions
+Exactly. Would you like to practice some affirmations together that you can use when those feelings arise?,T,Insignificant
+"Yes, that could be helpful.",P,Insignificant
+"Let’s try this: “I am safe, and I am in control of my surroundings.” How does that resonate with you?",T,Insignificant
+That feels good. I can see myself using that.,P,Insignificant
+Excellent! You can write it down and keep it with you for those moments. ,T,Insignificant
+I will do that.,P,Insignificant
+"Before we wrap up, what’s one thing you want to focus on for our next session?",T,Insignificant
+I’d like to talk about my progress with going out and how it’s affecting my anxiety levels.,P,Next Steps
+That sounds like a great plan. I look forward to hearing about your experiences. Thank you for sharing today!,T,Insignificant
+"Thank you, Ellie. I appreciate your help.",P,Insignificant
+"Goodbye for now, and take care!",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,36 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I actually got a call back for an interview!",P,Presenting Problem / Chief Complaint
+That’s amazing! Congratulations! How do you feel about it?,T,Insignificant
+I’m excited but also really nervous. It’s been a while since I’ve interviewed.,P,History of Present Illness (HPI)
+It’s completely normal to feel nervous. How are you preparing for the interview?,T,Insignificant
+I’ve been reviewing common questions and practicing my answers. I want to make a good impression.,P,Current Functional Status
+That’s a smart approach. Would you like to do a quick run-through of any specific questions you’re worried about?,T,Insignificant
+"Yes, I’m worried about the “What’s your biggest weakness?” question.",P,History of Present Illness (HPI)
+That’s a tricky one! A good strategy is to mention a real weakness but follow it up with how you’re working to improve it. Do you have a weakness in mind?,T,Insignificant
+"I think my biggest weakness is sometimes being too detail-oriented, which can slow me down.",P,History of Present Illness (HPI)
+That’s a great example! You can explain how you’ve been working on balancing attention to detail with efficiency. ,T,Insignificant
+I like that! It shows I’m self-aware and proactive.,P,Insignificant
+Exactly! How do you feel about your overall preparation for the interview?,T,Insignificant
+"I feel more confident, especially with your help. I think I’m ready.",P,Current Functional Status
+That’s wonderful! And how’s the housing search going? Have you found any new listings?,T,Insignificant
+"Yes! I visited a couple of places, and one of them felt really good. It had a nice vibe.",P,Current Functional Status
+That’s exciting! What made it feel like a good fit for you?,T,Insignificant
+"The neighborhood seemed friendly, and it had a lot of natural light. I could really see myself living there.",P,Current Functional Status
+That’s a great sign! Have you considered applying for it?,T,Insignificant
+I’m thinking about it. I just want to make sure I can afford it first.,P,Current Functional Status
+That’s wise. Have you had a chance to work on your budget yet?,T,Insignificant
+"Yes, I did! It helped me see that I could manage it if I get the job.",P,Current Functional Status
+That’s fantastic! It sounds like you’re taking proactive steps towards your goals. How does it feel to have a clearer picture?,T,Insignificant
+It feels empowering. I feel like I’m finally making progress.,P,Current Functional Status
+That’s wonderful to hear! It’s important to celebrate those small victories. Is there anything else on your mind today?,T,Insignificant
+I guess I’m just worried about how I’ll feel if I don’t get the job.,P,Risk Assessment
+"It’s normal to have those worries. Remember, each interview is a learning experience. You’re gaining skills that will help you in the future, regardless of the outcome.",T,Insignificant
+That’s a good point. I need to keep reminding myself of that.,P,Insignificant
+Absolutely! And remember to be kind to yourself during this process. You’re doing your best.,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+You’re very welcome! I’m here to help. Let’s check in again after your interview and see how it went.,T,Next Steps
+Sounds good! I’ll keep you posted.,P,Next Steps
+"I look forward to hearing all about it. Take care, and see you next time!",T,Insignificant
+Goodbye!,P,Insignificant
+Goodbye!,T,Insignificant

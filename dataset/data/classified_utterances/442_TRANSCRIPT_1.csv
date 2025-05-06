@@ -1,0 +1,55 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! I’m glad to see you back. How have you been since our last session?,T,Insignificant
+"Hey Ellie, I've been okay. Just the usual ups and downs, I guess.",P,Insignificant
+"I understand. Last time, we talked about your feelings of anxiety and how you’ve been managing your depression. Have you noticed any changes in your emotions or thoughts recently?",T,History of Present Illness (HPI)
+"Well, I’ve been feeling a bit more anxious lately, especially with work. I feel like there’s so much to do, and I’m not making enough progress.",P,History of Present Illness (HPI)
+That sounds tough. Can you tell me more about what’s been contributing to that anxiety?,T,History of Present Illness (HPI)
+"I think it’s just the pressure to succeed. I feel like I’m falling behind, and I have this constant nagging feeling that I'm not doing enough.",P,History of Present Illness (HPI)
+It’s common to feel overwhelmed when there’s a lot on your plate. Have you been able to implement any coping strategies we discussed last time?,T,History of Present Illness (HPI)
+"I’ve tried meditating a bit more, but it’s hard to stay focused. My mind tends to wander.",P,History of Present Illness (HPI)
+That’s completely normal. Meditation takes practice. Would you like to explore some additional techniques that might help with your focus?,T,Therapeutic Interventions
+"Sure, I’m open to that.",P,Insignificant
+Great! One technique is called grounding. It helps you reconnect with the present moment. Would you like to try a brief grounding exercise now?,T,Therapeutic Interventions
+"Okay, let’s do it.",P,Insignificant
+"Perfect. Take a deep breath in... and let it out slowly. Now, I want you to focus on your five senses. What are five things you can see around you?",T,Therapeutic Interventions
+"I see the walls, the chair, the window, my phone, and the clock.",P,Therapeutic Interventions
+"Good. Now, what are four things you can feel?",T,Therapeutic Interventions
+"I feel the chair against my back, my feet on the floor, my hands resting on my lap, and the air on my skin.",P,Therapeutic Interventions
+"Excellent. Now, three things you can hear?",T,Therapeutic Interventions
+"I can hear your voice, the sound of traffic outside, and my own breathing.",P,Therapeutic Interventions
+"Wonderful! Now, two things you can smell?",T,Therapeutic Interventions
+I can smell my cologne and a hint of coffee.,P,Therapeutic Interventions
+"And finally, one thing you can taste?",T,Therapeutic Interventions
+I can taste the mint from my gum.,P,Therapeutic Interventions
+How do you feel after that exercise?,T,Therapeutic Interventions
+"A little more relaxed, actually. It’s nice to focus on the present.",P,History of Present Illness (HPI)
+I’m glad to hear that. Grounding techniques can be really helpful when anxiety strikes. Have you noticed any specific triggers for your anxiety lately?,T,History of Present Illness (HPI)
+Mostly work-related deadlines. I feel like I’m always racing against the clock.,P,History of Present Illness (HPI)
+"That’s understandable. It can be helpful to break tasks into smaller, manageable steps. Have you tried setting smaller goals for yourself?",T,Therapeutic Interventions
+Not really. I usually just look at the big picture and get overwhelmed.,P,History of Present Illness (HPI)
+That’s a common challenge. Let’s try to set a small goal for the week. What’s one task you can break down into smaller steps?,T,Therapeutic Interventions
+I have a project that’s due next week. I could break it down into sections.,P,Therapeutic Interventions
+That sounds like a great plan. What’s the first step you can take today?,T,Therapeutic Interventions
+I guess I can outline what needs to be done.,P,Therapeutic Interventions
+Perfect! That’s a manageable first step. How does that make you feel?,T,Insignificant
+"It makes me feel a bit more in control, I think.",P,History of Present Illness (HPI)
+"That’s a positive shift! Remember, it’s okay to take things one step at a time. Now, let’s revisit your relationship with your family. You mentioned it was sketchy. How have you been feeling about that?",T,History of Present Illness (HPI)
+"It’s still the same. I talk to them occasionally, but I miss having them close.",P,History of Present Illness (HPI)
+"That’s understandable. Maintaining connections can be tough, especially from a distance. Would you like to explore ways to strengthen those connections?",T,Therapeutic Interventions
+"Yeah, I think that could help.",P,Insignificant
+One idea is to schedule regular video calls or even send them updates about your life. Would that be something you’d consider?,T,Therapeutic Interventions
+Definitely. I think they’d appreciate that.,P,Insignificant
+"That’s a great start! It can help you feel more connected. Now, let's talk about your past relationships. You mentioned your breakup a few weeks ago. How have you been coping with that?",T,History of Present Illness (HPI)
+"It’s been hard. I miss the companionship, but I know it was for the best.",P,History of Present Illness (HPI)
+It sounds like you’re processing your feelings well. Have you had moments of reflection on what you want in future relationships?,T,History of Present Illness (HPI)
+I think I want someone who understands my background and my struggles. Communication is key for me.,P,History of Present Illness (HPI)
+That’s a valuable insight. Knowing what you want can guide you in future relationships. Have you thought about what you might do to meet new people?,T,History of Present Illness (HPI)
+I haven’t really put much thought into it. I guess I could try some social events or clubs.,P,Therapeutic Interventions
+That sounds like a good idea! Engaging in activities you enjoy can help you meet like-minded individuals. What interests you?,T,Insignificant
+I enjoy music and art. Maybe I could check out some local events.,P,Therapeutic Interventions
+"That sounds promising! Engaging in your interests can create opportunities for connection. As we wrap up today’s session, what’s one takeaway you’d like to focus on until we meet again?",T,Next Steps
+I think I’ll focus on breaking down my project into smaller tasks and reaching out to my family more.,P,Next Steps
+That’s a solid plan. I look forward to hearing about your progress next time. Remember to be kind to yourself in the process. ,T,Next Steps
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

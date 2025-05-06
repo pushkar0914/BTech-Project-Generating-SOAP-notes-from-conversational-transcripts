@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have things been since our last session?,T,Insignificant
+"Hi Ellie! Things have been pretty busy, but I managed to take my daughter to the park like we talked about.",P,Current Functional Status
+That’s fantastic! How did it go?,T,Insignificant
+"It was really nice. We had a picnic, and we talked a lot. I think she really appreciated it.",P,Current Functional Status
+That’s wonderful to hear! How did you feel during your time together?,T,Insignificant
+I felt happy. It was nice to just relax and connect without any distractions.,P,History of Present Illness (HPI)
+That’s a great outcome! Did you notice any changes in how she responded to you during your conversations?,T,Insignificant
+"Yes, she opened up more. I think she liked that I was listening instead of just giving advice.",P,Progress Evaluation
+That’s a significant breakthrough! It sounds like you’re both making progress in your relationship. Is there anything you’d like to continue doing together?,T,Insignificant
+I’d like to keep having those outings. Maybe we can do something different next time.,P,Next Steps
+That’s a great idea! Exploring new activities can keep things exciting. What are some things you’d like to try?,T,Insignificant
+Maybe a movie night or going to a museum. She loves learning new things.,P,Next Steps
+"Those sound like fun options! It’s great that you’re fostering her curiosity. Now, how have you been feeling about your classes at Metro?",T,Insignificant
+"They’re going well! I’m learning a lot, but it can be overwhelming with everything else.",P,History of Present Illness (HPI)
+It’s good to hear you’re enjoying the classes. Have you found any strategies to manage the workload?,T,Insignificant
+"I’ve been trying to set aside specific times for studying, but sometimes I get sidetracked.",P,Current Functional Status
+That’s understandable. Perhaps you could create a study schedule that includes breaks to help you stay focused. How does that sound?,T,Insignificant
+That could help. I’ll try to be more structured with my time.,P,Next Steps
+"Excellent! And remember, it’s okay to ask for help if you need it. Have you considered reaching out to classmates or instructors?",T,Insignificant
+I haven’t thought about that. I guess I could connect with some of them.,P,Next Steps
+"Building a support network can be beneficial. It might help alleviate some of the pressure you’re feeling. Now, how has your sleep been since we last spoke?",T,Insignificant
+I’ve been trying to stick to a routine like we discussed. It’s been better!,P,Physiological Observations
+That’s great news! What changes have you noticed?,T,Insignificant
+"I feel more rested, and I’m not as irritable during the day.",P,Physiological Observations
+That’s a positive shift! It seems like establishing a routine is really working for you. Is there anything you’d like to adjust in your bedtime routine?,T,Insignificant
+I think I might add some light stretching or breathing exercises before bed.,P,Next Steps
+That sounds like a wonderful addition! It can help signal to your body that it’s time to wind down. How do you feel about incorporating that?,T,Insignificant
+I’m excited to try it. I think it could help me relax even more.,P,Next Steps
+"Fantastic! Let’s check in on that next time. Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I’ve been thinking about my relationship with my son. I want to make sure I’m being a good role model for him too.,P,Psychosocial History
+That’s a thoughtful consideration. What are some qualities you’d like to model for him?,T,Insignificant
+I want to show him the importance of hard work and kindness. I don’t want him to feel the pressure I sometimes do.,P,Next Steps
+That’s a valuable goal. How do you think you can demonstrate those qualities in your everyday interactions with him?,T,Insignificant
+I guess by showing him how I handle challenges and encouraging him to be kind to others.,P,Next Steps
+That’s a great approach! Children often learn by example. How do you feel about setting specific moments to reinforce those lessons?,T,Insignificant
+I think that’s a good idea. I’ll look for opportunities to talk to him about it.,P,Next Steps
+"Wonderful! I’m excited to hear how that goes. Thank you for sharing today, and I look forward to our next session.",T,Insignificant
+"Thank you, Ellie. I appreciate all your help.",P,Insignificant
+"You’re very welcome! Take care, and see you soon.",T,Insignificant
+Bye!,P,Insignificant

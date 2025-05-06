@@ -1,0 +1,34 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How has your week been since our last session?,T,Insignificant
+"Hi, Ellie! It’s been pretty good. I’ve been keeping up with my walks and practicing deep breathing.",P,Physiological Observations
+That’s wonderful to hear! How has the deep breathing practice been for you?,T,Insignificant
+"It’s been really helpful. I set reminders on my phone, and it’s made a difference when I start to feel stressed.",P,History of Present Illness (HPI)
+I’m so glad to hear that! It sounds like you’re finding effective ways to manage your stress. Have there been any specific situations where you used deep breathing?,T,Insignificant
+"Yeah, I had a big assignment due, and I felt really overwhelmed. I took a few minutes to breathe, and it helped me focus.",P,History of Present Illness (HPI)
+That’s fantastic! It’s great that you’re applying those techniques in real situations. How did you feel after you completed the assignment?,T,Insignificant
+I felt relieved! And I was proud of myself for not letting the stress take over.,P,History of Present Illness (HPI)
+That’s a significant accomplishment! It sounds like you’re developing a healthier relationship with stress. Have you noticed any changes in your overall mood?,T,Insignificant
+Definitely! I feel more balanced and less anxious about school and work.,P,History of Present Illness (HPI)
+That’s excellent progress! You mentioned being interested in counseling techniques. Have you had any opportunities to explore that further?,T,Insignificant
+I’ve been looking into workshops on counseling skills. I think it would be a good way to learn more.,P,Current Functional Status
+That sounds like a great idea! Workshops can provide valuable hands-on experience. Have you found any specific workshops that interest you?,T,Insignificant
+There’s one coming up on active listening and empathy. I think it would be really beneficial.,P,Current Functional Status
+That sounds perfect for you! Would you like to set a goal to attend that workshop?,T,Next Steps
+"Yes, I’d love to! I’ll sign up for it this week.",P,Next Steps
+Great! I can’t wait to hear about your experience. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m still feeling a little uncertain about my future career path. I’m worried about making the wrong choice.,P,History of Present Illness (HPI)
+"It’s completely normal to feel uncertain, especially when there are so many options. What specifically worries you about making the wrong choice?",T,Insignificant
+I just don’t want to end up in a job I don’t enjoy or that doesn’t fulfill me.,P,History of Present Illness (HPI)
+That’s a valid concern. Have you thought about what fulfillment means to you in a career?,T,Insignificant
+I think it means helping others and feeling like I’m making a difference.,P,History of Present Illness (HPI)
+That’s a meaningful definition! It might be helpful to reflect on the experiences you’ve had that brought you fulfillment. Can you think of any moments that stand out?,T,Insignificant
+Volunteering at the community center has been fulfilling. I like seeing people improve and feel supported.,P,History of Present Illness (HPI)
+That’s a great insight! It sounds like working directly with people is important to you. How can you incorporate that into your future career decisions?,T,Insignificant
+"I guess I could focus on roles that involve direct support, like counseling or teaching.",P,Next Steps
+That sounds like a solid plan! Exploring those areas further could help you feel more confident about your choices. Would you like to set a goal to research more about those roles this week?,T,Next Steps
+"Yes, I can do that. I’ll look into what qualifications I need and what the job market looks like.",P,Next Steps
+That’s a proactive approach! I’m excited for you to explore these options. Is there anything else you want to cover today?,T,Insignificant
+"I think that’s all for now. Thank you for your help, Ellie!",P,Insignificant
+"You’re very welcome! I’m proud of the progress you’re making. Take care, and I look forward to our next session!",T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Goodbye!,T,Insignificant

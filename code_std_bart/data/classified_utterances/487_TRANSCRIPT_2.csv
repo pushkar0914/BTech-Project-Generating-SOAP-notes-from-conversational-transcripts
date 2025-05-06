@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! Welcome back. How have things been since our last session?,T,Insignificant
+"Hi, Ellie! Things have been going well. I actually started my self-care Sundays!",P,History of Present Illness (HPI)
+That’s fantastic! How did your first self-care Sunday go?,T,Insignificant
+It was amazing! I went hiking and spent some time reading. I felt so refreshed afterward.,P,History of Present Illness (HPI)
+That’s wonderful to hear! It sounds like it made a positive impact. Did you notice any changes in your mood throughout the week?,T,History of Present Illness (HPI)
+"Yes, I felt more balanced and less stressed. I think taking that time for myself really helped.",P,History of Present Illness (HPI)
+That’s great! It’s important to prioritize your mental health. Have you been able to maintain that routine?,T,Insignificant
+I have! I’m committed to it now. It’s become something I look forward to each week.,P,Current Functional Status
+That’s excellent progress! Have you found any new activities or hobbies that you enjoy during your self-care time?,T,Insignificant
+I’ve started trying out some new recipes. Cooking has been a fun way to unwind.,P,Current Functional Status
+That sounds delightful! Cooking can be very therapeutic. How do you feel when you’re in the kitchen?,T,Insignificant
+I feel creative and relaxed. It’s a nice escape from work.,P,Mental Health Observations
+That’s a wonderful outlet for you. Have you shared any of your new dishes with family or friends?,T,Insignificant
+"Yes, I made dinner for my siblings last week, and they loved it!",P,Current Functional Status
+That’s fantastic! Sharing your creations can strengthen those bonds even more. How did it feel to host them?,T,Insignificant
+It felt really good. It was nice to have everyone together and enjoy a meal.,P,Mental Health Observations
+That’s a great way to connect. Have you noticed any changes in your relationships with them since you’ve been more engaged?,T,Insignificant
+"Definitely. We’ve been spending more time together, and it feels more meaningful.",P,History of Present Illness (HPI)
+That’s wonderful! Building those connections can bring a lot of joy. Is there anything else you want to work on today?,T,Insignificant
+I think I’d like to explore my feelings about my past a bit more. ,P,Presenting Problem / Chief Complaint
+Sure! Is there a specific event or memory that’s been on your mind?,T,Insignificant
+I’ve been thinking about my childhood and the domestic issues we faced. I want to understand how it affects me now.,P,Trauma History
+That’s an important topic to explore. How do you feel when you reflect on those experiences?,T,Insignificant
+It’s a mix of sadness and resilience. I want to acknowledge the pain but also recognize how it shaped me.,P,Trauma History
+That’s a healthy perspective. Acknowledging both sides can be empowering. Have you found any coping strategies that help you process those feelings?,T,Insignificant
+I’ve been journaling about my thoughts. It helps me release some of the emotions.,P,Therapeutic Interventions
+That’s a great strategy! Journaling can provide clarity and a sense of relief. Have you noticed any patterns in your writing?,T,Insignificant
+"Yes, I often write about feeling like I need to be strong for others, which can be exhausting.",P,History of Present Illness (HPI)
+"It’s understandable to feel that way, especially coming from a challenging background. Have you considered how you can balance that strength with vulnerability?",T,Insignificant
+I haven’t really thought about it. I guess I’m not used to showing vulnerability.,P,History of Present Illness (HPI)
+"It can be difficult, especially if you’ve learned to prioritize strength. What would it look like for you to show vulnerability?",T,Insignificant
+Maybe sharing more of my feelings with my family or friends instead of just being the strong one.,P,Therapeutic Interventions
+That’s a valuable step. It can help others relate to you and foster deeper connections. How do you feel about trying that?,T,Insignificant
+I think I’d like to give it a shot. I want to be more authentic in my relationships.,P,Therapeutic Interventions
+"That’s a brave decision! Remember, it’s okay to be vulnerable. It can lead to growth and healing. ",T,Insignificant
+Thank you for that encouragement. I feel ready to try.,P,Insignificant
+I’m glad to hear that! Let’s check in on your progress next session. Is there anything else you want to discuss today?,T,Insignificant
+I think that’s all for now. Thank you for the support!,P,Insignificant
+"You’re welcome! I’m proud of the progress you’re making. Have a great week, and I look forward to hearing about your journey.",T,Insignificant
+Thank you! Bye for now!,P,Insignificant
+Bye!,T,Insignificant

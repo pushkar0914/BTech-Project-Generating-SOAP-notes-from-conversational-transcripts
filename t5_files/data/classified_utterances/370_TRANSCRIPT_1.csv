@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! It’s nice to see you again. How have you been since our last session?",T,Insignificant
+"I’ve been pretty good, thanks! Just busy with work and planning the wedding.",P,Insignificant
+That sounds exciting! How’s the wedding planning going?,T,Insignificant
+"It’s a bit overwhelming, honestly. There’s so much to think about, but we’re making progress.",P,History of Present Illness (HPI)
+I can imagine! Have you found any moments of joy in the planning process?,T,Insignificant
+"Yeah, definitely. Picking out the venue was really fun, and we’ve been able to taste some of the food options, which was nice.",P,Insignificant
+That sounds wonderful! Food tasting must have been a highlight. How have you been feeling about the upcoming wedding overall?,T,Insignificant
+"I’m excited but also a little anxious. I want everything to go perfectly, but I know that’s unrealistic.",P,History of Present Illness (HPI)
+It’s completely normal to feel that way. What specifically are you anxious about?,T,Insignificant
+I guess I worry about how everyone will get along and if there will be any drama. My family can be a bit… complicated.,P,History of Present Illness (HPI):Psychosocial History
+That’s understandable. Family dynamics can add stress to any event. Have you thought about how you might manage those feelings on the day?,T,Insignificant
+"I’ve tried to remind myself that it’s about me and my partner, not everyone else. But I still can’t help but worry.",P,History of Present Illness (HPI)
+That’s a healthy perspective. Focusing on what matters most can help ground you. Would it be helpful to think about some coping strategies for that day?,T,Insignificant
+"Yeah, that might be good. I think I’ll need a plan to stay calm.",P,Next Steps
+How about creating a small self-care routine for the day? Maybe a few moments of deep breathing or stepping away to gather your thoughts?,T,Therapeutic Interventions
+I like that idea. I could find a quiet spot to take a breather if I start feeling overwhelmed.,P,Next Steps
+Exactly! You could even practice that technique here. Want to try a quick breathing exercise now?,T,Therapeutic Interventions
+"Sure, that sounds good.",P,Insignificant
+Great! Let’s take a deep breath in together… and out. In… and out. How does that feel?,T,Insignificant
+"It feels nice, actually. I can see how that would help.",P,Insignificant
+Wonderful! You can use that technique anytime you feel anxious. It’s a great tool to have. Is there anything else you’d like to discuss today?,T,Insignificant
+"Well, I’ve been thinking more about my feelings of guilt regarding my potential. It’s been on my mind a lot.",P,History of Present Illness (HPI)
+That’s an important topic. What specifically about your potential is weighing on you?,T,Insignificant
+"I just feel like I could be doing more with my life, especially with starting a PhD program soon. I want to make sure I’m taking full advantage of the opportunity.",P,History of Present Illness (HPI):Medical and Psychiatric History
+It’s commendable that you want to make the most of it. What does “doing more” look like for you?,T,Insignificant
+I guess I want to be productive and also find a way to contribute meaningfully to my field.,P,Insignificant
+How might you measure that productivity? What steps could you take to feel fulfilled in this new journey?,T,Insignificant
+"I think setting small, achievable goals would help. Like focusing on my coursework and networking with others in the program.",P,Next Steps
+Those sound like excellent steps. Would you like to outline some specific goals for the next few weeks?,T,Insignificant
+"Sure! I want to read a couple of articles each week, reach out to a few professors, and maybe even attend some seminars.",P,Next Steps
+Those are fantastic goals! Setting a timeline for each could keep you accountable. How does that sound?,T,Insignificant
+That sounds great! I feel more motivated just thinking about it.,P,Insignificant
+"I’m glad to hear that! Remember, it’s about progress, not perfection. How do you feel now about your upcoming PhD program?",T,Insignificant
+I feel a bit more excited and less anxious. I think having a plan helps.,P,History of Present Illness (HPI)
+That’s great to hear! I’m proud of you for taking these steps. Is there anything else you’d like to cover today?,T,Insignificant
+I think that’s about it for now. I’m feeling good about our conversation.,P,Insignificant
+"I am too! Let’s keep working on those goals, and I look forward to hearing about your progress next time. Have a great week!",T,Insignificant
+"Thanks, Ellie! You too.",P,Insignificant
+Goodbye!,T,Insignificant
+Goodbye!,P,Insignificant

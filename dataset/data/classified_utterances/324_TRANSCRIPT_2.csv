@@ -1,0 +1,34 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last meeting?,T,Insignificant
+"Hey, I’ve been okay. I did some research on training programs.",P,Insignificant
+That’s fantastic! What did you find?,T,Insignificant
+"I found a couple of management courses that look interesting. They’re online, so I can do them at my own pace.",P,Insignificant
+That sounds like a flexible option. How do you feel about starting one of those courses?,T,Insignificant
+I feel good about it. I think it’ll help me feel more confident at work.,P,History of Present Illness (HPI)
+Confidence can make a big difference. Have you had any opportunities to apply what you learned in our last session regarding anger management?,T,Insignificant
+"Yeah, actually. I had another situation at work where I felt annoyed, but I tried to reframe my thoughts.",P,History of Present Illness (HPI)
+How did that go for you?,T,Insignificant
+It went pretty well! I was able to let it go instead of getting worked up.,P,Progress Evaluation
+That’s amazing! It shows you’re making real progress. What did you tell yourself in that moment?,T,Insignificant
+"I thought about how my coworker might be stressed, and it helped me not take it personally.",P,History of Present Illness (HPI)
+That’s a great insight! It sounds like you’re developing a more compassionate perspective. Have you noticed any changes in your mood swings since we last spoke?,T,Insignificant
+"They’ve been a bit better. I’m still having them, but they’re not as intense.",P,History of Present Illness (HPI)
+That’s a positive step! It’s important to celebrate those small victories. Is there anything specific that has helped you manage those mood swings?,T,Insignificant
+I’ve been trying to keep a journal to track my feelings. It helps me see patterns.,P,Current Functional Status
+Journaling can be a powerful tool for self-reflection. What have you learned from it so far?,T,Insignificant
+I noticed that my mood swings often happen when I’m stressed about work or personal stuff.,P,History of Present Illness (HPI)
+That’s a valuable insight. Recognizing the triggers is the first step in managing them. Would you like to explore stress management techniques?,T,Insignificant
+"Yes, please! I think that would be helpful.",P,Insignificant
+One technique we can try is mindfulness meditation. It can help you stay present and reduce stress. Would you be open to trying that?,T,Therapeutic Interventions
+"Yeah, I’d like to give it a shot.",P,Insignificant
+Great! I can guide you through a simple exercise. We can practice it together now if you’d like.,T,Insignificant
+"Sure, let’s do it!",P,Insignificant
+"Okay, let’s start by finding a comfortable seated position. Close your eyes and take a deep breath in… and out. Focus on your breath. Inhale… and exhale. ",T,Insignificant
+How do you feel after that exercise?,T,Insignificant
+"I feel a bit more relaxed, actually. That was nice.",P,Mental Health Observations
+I’m glad to hear that! Mindfulness can be a great tool for managing stress and emotions. Would you like to incorporate that into your daily routine?,T,Insignificant
+"Yes, I think I’ll try to do it every morning.",P,Next Steps
+That sounds like a wonderful plan. Let’s check in on that next time. Is there anything else you’d like to address today?,T,Insignificant
+"No, I think we covered a lot. Thanks, Ellie!",P,Insignificant
+Thank you for being open and sharing. I’m looking forward to hearing about your progress next time!,T,Insignificant
+Me too! See you later!,P,Insignificant

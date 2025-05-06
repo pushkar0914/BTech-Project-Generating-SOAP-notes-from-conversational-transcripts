@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I tried to implement some of the strategies we discussed.",P,Progress Evaluation:Therapeutic Interventions
+That’s fantastic to hear! Which strategies did you find helpful?,T,Insignificant
+"I did a bit of meditation each day, and I reached out to a friend to talk about how I was feeling.",P,Therapeutic Interventions
+That’s wonderful progress! How did your friend respond?,T,Insignificant
+She was really supportive. It felt good to share what I’ve been going through. ,P,Psychosocial History
+That’s great! Connecting with others can be really healing. How did it feel to open up to her?,T,Insignificant
+"It was a relief, honestly. I felt lighter afterward.",P,Mental Health Observations
+That’s a powerful feeling. Have you noticed any changes in your anxiety or feelings of overwhelm since implementing those strategies?,T,History of Present Illness (HPI)
+"A little. I still have moments of anxiety, but they don’t feel as overwhelming as before.",P,History of Present Illness (HPI)
+That’s a positive shift! It sounds like you’re beginning to build resilience. Are there any new challenges you’ve encountered since we last spoke?,T,Insignificant
+"Well, I’m still dealing with the stress of my living situation. It’s hard to manage that negativity.",P,History of Present Illness (HPI):Psychosocial History
+It can be tough to maintain your own emotional well-being in a challenging environment. Have you been able to create any boundaries?,T,Insignificant
+"I’ve tried to spend more time outside and not engage too much in her negative talk, but it’s hard to avoid it completely.",P,Current Functional Status
+"Setting boundaries can be difficult, especially when living with someone. What do you think would help you maintain those boundaries more effectively?",T,Insignificant
+I think I need to be more assertive. I sometimes feel bad saying no.,P,History of Present Illness (HPI)
+"It’s understandable to feel that way. Remember, being assertive is about respecting both your needs and the other person’s. Would you like to practice some assertive communication techniques together?",T,Therapeutic Interventions
+That would be helpful!,P,Insignificant
+Great! Let’s say your housemate is complaining about something. How might you respond assertively while still being compassionate?,T,Insignificant
+"Maybe I could say something like, “I understand you’re frustrated, but I need to focus on my own well-being right now.”",P,Therapeutic Interventions
+That’s a good start! It acknowledges her feelings while also prioritizing your needs. How does that feel to say?,T,Insignificant
+It feels empowering! I like that I can still be kind but also stand up for myself.,P,Mental Health Observations
+"Absolutely! Empowerment is key. As you practice this, it may become easier to set those boundaries. Have you been able to incorporate any mindfulness techniques into your routine?",T,Insignificant
+"Yes, I’ve been doing five minutes of mindfulness each morning. It really helps ground me.",P,Therapeutic Interventions
+That’s excellent! Starting your day with mindfulness can set a positive tone. Have you noticed any changes in your mood or mindset since starting this practice?,T,Insignificant
+I feel a bit more centered. It helps me approach the day with a clearer head.,P,Mental Health Observations
+That’s wonderful to hear. Mindfulness can be a powerful tool for managing anxiety. Is there anything else on your mind today?,T,Insignificant
+I still worry about my career and what direction I want to go in.,P,History of Present Illness (HPI)
+"It’s natural to have concerns about your career, especially during transitions. Have you made any progress on the online course you wanted to take?",T,Insignificant
+I signed up for a course on digital marketing! I’m excited to start.,P,Current Functional Status
+That’s fantastic! Learning new skills can be a great way to feel more prepared for your career. What do you hope to gain from this course?,T,Insignificant
+I hope to gain more confidence in my skills and maybe open up new job opportunities.,P,History of Present Illness (HPI)
+"That’s a great goal! Remember, it’s about progress and growth. Have you thought about how you’ll balance this course with your other responsibilities?",T,Insignificant
+I plan to dedicate a couple of evenings each week to it. I think I can manage that.,P,Current Functional Status
+That sounds like a reasonable plan. Just remember to be kind to yourself if things don’t go perfectly. You’re doing a lot of important work right now.,T,Insignificant
+"Thanks, Ellie. I really appreciate your support.",P,Insignificant
+Of course! I’m here to help. Let’s continue to check in on your progress and feelings in our next session. ,T,Insignificant
+Sounds good! I’m looking forward to it.,P,Insignificant
+Me too! Take care until then. ,T,Insignificant
+Bye!,P,Insignificant
+Goodbye!,T,Insignificant

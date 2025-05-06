@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been doing well, thank you. Just keeping busy with work and family.",P,Insignificant
+That’s great to hear! Last time we talked about your family dynamics and how supportive they are. Have you had any memorable moments with them recently?,T,Insignificant
+Yes! We had a family barbecue over the weekend. It was nice to catch up with everyone and just enjoy each other's company.,P,Psychosocial History
+That sounds lovely! What was the highlight of the barbecue for you?,T,Insignificant
+"Just seeing everyone laughing and enjoying the food. My granddaughter was running around playing with her cousins, and it brought back such good memories from my childhood.",P,Psychosocial History
+It sounds like a joyful experience. You mentioned feeling a bit worried about your children’s safety in today’s world. Have you found ways to cope with those worries since we last spoke?,T,History of Present Illness (HPI)
+I’ve been trying to focus more on the positive aspects of their lives and the choices they’re making. It helps me feel less anxious.,P,History of Present Illness (HPI)
+That’s a good approach. Shifting focus can be very helpful. Are there specific strategies you’ve been using to manage those thoughts?,T,Insignificant
+I’ve been practicing mindfulness a bit more. Just taking a few moments to breathe and remind myself that they are capable adults.,P,Therapeutic Interventions
+Mindfulness can be powerful. How has that practice been for you?,T,Insignificant
+It’s been good. I feel more centered when I remember to do it. But sometimes I struggle to keep it consistent.,P,Current Functional Status
+Consistency can be a challenge. Would you like to set a goal for how often you practice mindfulness this week?,T,Next Steps
+"Sure, I think I could aim for at least three times a week.",P,Next Steps
+That sounds manageable! We can check in about that next time. You also mentioned wanting to be more focused on your art projects. How has that been progressing?,T,Insignificant
+"I’ve started sketching more regularly. It feels good to get back into it, but I still find myself easily distracted.",P,Current Functional Status
+It’s great that you’re sketching more! What distractions tend to pull you away from your art?,T,Insignificant
+I think it’s mostly my phone and social media. I find myself scrolling instead of creating.,P,Current Functional Status
+That’s a common challenge. Would you be open to setting some boundaries around your phone use during your creative time?,T,Next Steps
+"Yes, I think that could help. Maybe I can put my phone in another room while I work.",P,Next Steps
+That’s a solid plan. How about we aim for a specific time frame each day where you dedicate yourself to art without distractions?,T,Next Steps
+I could try for an hour each evening after dinner. That sounds doable.,P,Next Steps
+Perfect! Let’s see how that goes. You also mentioned feeling guilty about not being more aware when you were younger. Have you had any reflections on that since our last session?,T,History of Present Illness (HPI)
+"I have. I realize now that I can’t change the past, but I can be more present for my children and granddaughter now.",P,History of Present Illness (HPI)
+That’s a powerful insight. Being present can make a significant difference. How do you feel about your role as a parent now?,T,Insignificant
+"I feel more confident. I try to communicate openly with my children, and I think it’s helping our relationships.",P,Current Functional Status
+That’s wonderful to hear! Open communication is key. Is there anything specific you’d like to work on related to your parenting in our sessions?,T,Insignificant
+I think I’d like to explore ways to balance my time between my art and family without feeling guilty.,P,Presenting Problem / Chief Complaint
+That’s an excellent goal. It’s important to find that balance. We can brainstorm some strategies together. How do you currently prioritize your time?,T,Insignificant
+"I usually just go with the flow, but I think I need to be more intentional about scheduling time for both.",P,Current Functional Status
+Scheduling can be very effective. Would you like to create a weekly plan together that includes time for your art and family?,T,Next Steps
+"Yes, I’d love that! I think having a visual plan could help me stick to it.",P,Next Steps
+Great! Let’s outline a basic structure for your week. How many hours do you think you’d like to dedicate to your art?,T,Next Steps
+I’d like to aim for at least five hours throughout the week.,P,Next Steps
+That’s a good start. We can break that down into smaller chunks. How about one hour on weekdays and two hours on the weekend?,T,Next Steps
+That sounds perfect. I can manage that.,P,Next Steps
+"Excellent! Now, let’s think about how to fit in family time. Are there specific activities you enjoy doing together?",T,Insignificant
+We love going for walks and having movie nights. Those are always fun.,P,Psychosocial History
+Those sound like great bonding activities. How about scheduling a family walk on the weekends and a movie night during the week?,T,Next Steps
+Yes! I think that would work well.,P,Next Steps
+"Fantastic! It sounds like you’re setting yourself up for a fulfilling week ahead. Before we wrap up, is there anything else on your mind that you’d like to discuss?",T,Insignificant
+I think I’m good for now. I feel like we’ve covered a lot today.,P,Insignificant
+"I agree! You’ve made some great strides in our session. I look forward to hearing how your week goes, especially with the mindfulness practice and your art schedule.",T,Insignificant
+Me too! Thank you for your help.,P,Insignificant
+You’re welcome! Take care until next time.,T,Insignificant
+Bye!,P,Insignificant

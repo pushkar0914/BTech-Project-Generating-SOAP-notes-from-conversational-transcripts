@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have things been since our last session?,T,Insignificant
+"Hi, Ellie! They’ve been pretty good. I did some research on business programs and even reached out to a couple of people.",P,History of Present Illness (HPI)
+That’s fantastic! How did that feel for you?,T,Insignificant
+"It felt empowering, like I’m finally taking steps toward my goals. I got some good feedback about the programs too.",P,History of Present Illness (HPI)
+That’s wonderful! What kind of feedback did you receive?,T,Insignificant
+The people I talked to emphasized the importance of networking and getting involved in clubs. They said it really helps in the business field.,P,History of Present Illness (HPI)
+That’s valuable advice! Networking can open many doors. Do you think you might participate in any clubs or groups?,T,Insignificant
+I’m considering it. I think it could help me build confidence and meet new people.,P,History of Present Illness (HPI)
+Absolutely! It sounds like a great opportunity for personal and professional growth. Have you thought about what kind of clubs you might be interested in?,T,Insignificant
+I’m thinking about joining a marketing or entrepreneurship club. Those seem aligned with my interests.,P,History of Present Illness (HPI)
+"Those sound like excellent choices! Engaging in activities that resonate with you can enhance your experience. Speaking of interests, how have you been feeling about your assertiveness with your family since our last session?",T,Insignificant
+"I actually tried using the ""I"" statements during our family gathering, and it went better than I expected!",P,History of Present Illness (HPI)
+That’s fantastic! How did they respond?,T,Insignificant
+"They seemed surprised at first, but they listened. I felt heard, which was a relief.",P,History of Present Illness (HPI)
+That’s a significant breakthrough! It’s great that you took that step. What did you learn from that experience?,T,Insignificant
+"I learned that it’s okay to express myself. I don’t have to avoid conflict all the time; sometimes, it can lead to understanding.",P,History of Present Illness (HPI)
+Exactly! That’s a powerful realization. How can you build on that experience moving forward?,T,Insignificant
+I want to keep practicing my communication skills. Maybe I can set aside time each week to reflect on my interactions.,P,Next Steps
+That’s a great idea! Reflecting can help you identify areas for improvement and celebrate your successes. Is there anything else you’d like to explore today?,T,Insignificant
+"I’ve been feeling a bit overwhelmed with everything I’m trying to juggle, like work, family, and school.",P,History of Present Illness (HPI)
+It’s understandable to feel overwhelmed with so many changes happening at once. What strategies have you been using to manage that overwhelm?,T,Insignificant
+"I’ve been trying to prioritize my tasks, but I still find myself feeling anxious about everything.",P,History of Present Illness (HPI)
+Prioritizing is a good start. Have you considered incorporating mindfulness or relaxation techniques into your routine?,T,Insignificant
+I haven’t really tried that. What do you suggest?,P,Insignificant
+Simple practices like deep breathing or guided meditation can be quite helpful. They can create a moment of calm amidst the chaos. Would you like to try a brief breathing exercise together?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+Great! Let’s take a deep breath in... hold it for a moment... and now exhale slowly. Let’s do that a few more times. Inhale... hold... and exhale. ,T,Insignificant
+<breathes> That feels nice.,P,Insignificant
+I’m glad to hear that! Incorporating moments like this throughout your day can help you manage stress. How do you feel about trying this technique regularly?,T,Insignificant
+I think I could make time for that. It seems beneficial.,P,Next Steps
+"That’s a positive step forward! We can check in on how it’s working for you next session. Before we conclude today, is there anything else you’d like to discuss?",T,Insignificant
+"No, I think we covered a lot today. Thank you for the support!",P,Insignificant
+You’re very welcome! I’m proud of the progress you’re making. I look forward to hearing about your experiences next time. Take care!,T,Insignificant
+"Bye, Ellie! See you soon!",P,Insignificant

@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have things been since our last session?  ,T,Insignificant
+"Hi! I’ve been okay, a bit busy, but I did ask for help from my colleague like we talked about.  ",P,History of Present Illness (HPI)
+That’s fantastic! How did that go for you?  ,T,Insignificant
+"It went really well! They were more than happy to help, and it took a lot of pressure off me.  ",P,History of Present Illness (HPI)
+I’m so glad to hear that! How did it feel to reach out for support?  ,T,Insignificant
+"It felt liberating, honestly. I realized I don’t have to do everything alone.  ",P,History of Present Illness (HPI)
+That’s a powerful realization. It sounds like you’re building your confidence in asking for help. Have you noticed any changes in your stress levels since then?  ,T,History of Present Illness (HPI)
+Definitely! I feel less overwhelmed and more capable of managing my workload.  ,P,History of Present Illness (HPI)
+That’s wonderful progress! Are there any other areas in your life where you feel you could use support?  ,T,Insignificant
+I think I could use some support with setting boundaries. I sometimes say yes to too many things.  ,P,History of Present Illness (HPI)
+Setting boundaries is essential for maintaining balance. What situations do you find yourself saying yes when you’d prefer to say no?  ,T,Insignificant
+Usually when friends ask me to hang out or when clients want extra sessions.  ,P,History of Present Illness (HPI)
+It’s important to evaluate your priorities. How do you feel when you overcommit yourself?  ,T,Insignificant
+"I feel drained and sometimes resentful, which isn’t fair to anyone.  ",P,History of Present Illness (HPI)
+Absolutely. It’s important to honor your own needs. Let’s discuss how you can communicate your boundaries effectively.  ,T,Insignificant
+That sounds good.  ,P,Insignificant
+One approach could be to practice saying no in low-stakes situations first. Can you think of a recent scenario where you could have said no?  ,T,Insignificant
+"Yes! A friend asked me to join an event I wasn’t really interested in, but I felt guilty saying no.  ",P,History of Present Illness (HPI)
+That’s a perfect example. How might you respond in the future?  ,T,Insignificant
+"I could say something like, “Thanks for the invite, but I need some time for myself.”  ",P,Therapeutic Interventions
+That’s an excellent response! It’s honest and respects your needs. Would you like to set a goal to practice this in the upcoming week?  ,T,Next Steps
+"Yes, I’d like to try that!  ",P,Next Steps
+Great! Let’s check in on your progress next session. Is there anything else you’d like to work on today?  ,T,Insignificant
+I’ve also been thinking about my meditation practice. I want to deepen it.  ,P,History of Present Illness (HPI)
+That’s a wonderful intention. What aspects of your practice would you like to explore further?  ,T,Insignificant
+Maybe trying different techniques or styles. I’ve mostly stuck to the same routine.  ,P,History of Present Illness (HPI)
+Exploring new techniques can bring fresh energy to your practice. Would you like to set a goal to try a new meditation style this week?  ,T,Next Steps
+"Yes, I’d love that!  ",P,Next Steps
+Fantastic! Let’s plan to discuss how that goes next time. Thank you for sharing your journey with me today.  ,T,Insignificant
+Thank you! I appreciate your guidance.  ,P,Insignificant
+I’m excited to see your progress next session. Take care until then!  ,T,Insignificant
+Goodbye!  ,P,Insignificant

@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+I’ve been pretty good! I managed to have those conversations with my sons.,P,History of Present Illness (HPI)
+That’s wonderful! How did they go?,T,Insignificant
+"They went better than I expected. I shared some of my own challenges, and they opened up about their struggles.",P,History of Present Illness (HPI)
+That’s fantastic to hear! What were some of the topics you discussed?,T,Insignificant
+My older son talked about work stress and balancing family life. My younger son shared his feelings about relationships.,P,History of Present Illness (HPI)
+It sounds like you created a safe space for them. How did it feel for you to share your experiences?,T,Insignificant
+It felt liberating. I think it helped them see me as more relatable.,P,History of Present Illness (HPI)
+That’s a significant breakthrough! Have you noticed any changes in your relationship with them since those conversations?,T,Insignificant
+"Yes, I feel closer to both of them. They seem more willing to reach out when they need to talk.",P,History of Present Illness (HPI)
+That’s excellent progress. How does that make you feel as a parent?,T,Insignificant
+It makes me feel proud. I want them to know they can always come to me.,P,History of Present Illness (HPI)
+"You’re doing a great job fostering that connection. Now, let’s revisit your personal goals. How has your walking plan been going?",T,Insignificant
+I’ve been walking at least once a week in different parks. It’s been refreshing!,P,Current Functional Status
+That’s great to hear! Have you noticed any changes in your mood or energy levels since you started?,T,Insignificant
+"Yes, I feel more energized and less stressed. Being outdoors really helps.",P,Mental Health Observations:Physiological Observations
+Nature can be incredibly therapeutic. Have you thought about incorporating any other forms of exercise?,T,Insignificant
+I’ve considered trying yoga. I think it might help with relaxation.,P,Therapeutic Interventions
+Yoga can be a wonderful addition. Would you like to try a class or follow an online session?,T,Insignificant
+I think I’ll start with online sessions. I’m a bit shy about joining a class just yet.,P,Therapeutic Interventions
+That’s perfectly fine! Starting at your own pace is important. How do you feel about setting a goal to practice yoga a couple of times a week?,T,Next Steps
+I can definitely commit to that! I think it will help with my stress levels.,P,Next Steps
+"Excellent! Now, let’s talk about your weight management journey. How has that been going since our last session?",T,Insignificant
+"I’ve been tracking my meals more consistently using an app, and it’s helped me stay mindful.",P,Current Functional Status
+That’s fantastic! Have you noticed any patterns in your eating habits?,T,Insignificant
+"Yes, I tend to snack when I’m bored or stressed, so I’ve been trying to find healthier alternatives.",P,History of Present Illness (HPI)
+That’s a great insight. What are some healthier snacks you’ve tried?,T,Insignificant
+I’ve been enjoying fruits and nuts instead of chips or sweets.,P,Current Functional Status
+That’s a positive change! How do you feel about your progress in managing your weight?,T,Insignificant
+"I feel optimistic. I’m not expecting perfection, but I’m making better choices.",P,Progress Evaluation
+"That’s the right mindset! Remember, it’s about progress, not perfection. How has your emotional well-being been during this time?",T,Insignificant
+"I’ve been feeling more balanced, but I still have moments of anxiety, especially about the future.",P,History of Present Illness (HPI)
+"That’s understandable, especially given the uncertainties we face. What coping strategies have you been using when those anxious feelings arise?",T,Insignificant
+I’ve been practicing deep breathing exercises and going for walks to clear my mind.,P,Therapeutic Interventions
+Those are effective strategies. Have you considered incorporating mindfulness or meditation into your routine?,T,Insignificant
+"I haven’t, but I’m open to it. I think it could help me manage my anxiety better.",P,Therapeutic Interventions
+Mindfulness can be a great tool. Would you like to set a goal to try a short daily meditation practice?,T,Next Steps
+"Yes, I’d like to try that! Even just a few minutes a day could help.",P,Next Steps
+That sounds like a solid plan. How do you feel about exploring some guided meditation options?,T,Insignificant
+I’d love that! I’ll look for some apps or videos to help me get started.,P,Next Steps
+"That’s a great step forward. As we wrap up today, is there anything else you’d like to discuss or any concerns you have?",T,Insignificant
+I think I’m good for now. I feel like I have a plan moving forward.,P,Insignificant
+"That’s wonderful to hear! Remember, it’s all about taking small steps. I’m looking forward to hearing about your progress in our next session.",T,Insignificant
+Me too! Thank you for your support.,P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

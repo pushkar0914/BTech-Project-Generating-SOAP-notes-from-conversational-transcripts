@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been okay, a bit stressed, but I did reach out to my dad like we discussed.",P,History of Present Illness (HPI)
+That’s wonderful! How did that go?,T,Insignificant
+"It was a bit awkward at first, but we ended up having a nice conversation. I shared about school, and he seemed genuinely interested.",P,History of Present Illness (HPI)
+That’s great to hear! It sounds like you took a brave step. How did it feel to reconnect with him?,T,Insignificant
+"It felt good! I was nervous, but I’m glad I did it. It made me realize I miss talking to him.",P,History of Present Illness (HPI)
+That’s a valuable insight. Do you think you’ll continue to reach out to him more regularly?,T,Insignificant
+I hope so! I want to keep the lines of communication open.,P,History of Present Illness (HPI)
+That’s a positive goal. Is there anything else on your mind related to family or relationships?,T,Insignificant
+I’ve been thinking about my friendships too. I feel like I’m not as close to some of my friends as I used to be.,P,History of Present Illness (HPI)
+"That’s a common experience, especially during busy times. What do you think is contributing to that distance?",T,Insignificant
+I think it’s just life getting in the way. Everyone is so busy with their own stuff.,P,History of Present Illness (HPI)
+"That makes sense. Have you considered reaching out to them, similar to what you did with your dad?",T,Insignificant
+I haven’t thought of that. I guess I could try!,P,History of Present Illness (HPI)
+It might be worth it! You could suggest a casual hangout or even just check in with a message.,T,Insignificant
+"Yeah, I could invite them to grab coffee or something.",P,History of Present Illness (HPI)
+That sounds like a great idea! How do you feel about taking that step?,T,Insignificant
+"A little nervous, but I think it would be nice to reconnect.",P,History of Present Illness (HPI)
+"It’s normal to feel nervous, but it can also be rewarding. How do you think your friends would respond?",T,Insignificant
+I think they’d be happy to hear from me. ,P,History of Present Illness (HPI)
+"That’s a positive outlook! It’s important to nurture those connections. Now, shifting gears a bit, how have your coping strategies been holding up with your stress?",T,Insignificant
+"They’ve been helpful, but I still struggle sometimes. ",P,History of Present Illness (HPI)
+That’s okay. It’s a journey. Are there specific situations where you feel your coping strategies aren’t working as well?,T,Insignificant
+"When I have a lot of assignments due at once, I tend to feel overwhelmed and anxious.",P,History of Present Illness (HPI)
+"That’s understandable. In those moments, would it help to break tasks down into smaller, manageable steps?",T,Insignificant
+"I’ve heard that advice before, but I often forget to do it when I’m stressed.",P,History of Present Illness (HPI)
+It can be tough to remember when we’re in the thick of it. Would it help to set reminders for yourself?,T,Insignificant
+That might work! I could set reminders on my phone to take breaks and reassess my tasks.,P,Next Steps
+That’s a great idea! It can also help to schedule those breaks so you have something to look forward to.,T,Insignificant
+I like that! I’ll try to plan short breaks in between my study sessions.,P,Next Steps
+Excellent! Let’s also explore how you can incorporate mindfulness during those breaks. What do you think?,T,Insignificant
+I think that could help me recharge. ,P,Therapeutic Interventions
+You could try a quick meditation or even a few minutes of deep breathing to reset your mind.,T,Therapeutic Interventions
+That sounds good! I’ll give it a shot.,P,Therapeutic Interventions
+"Wonderful! As we wrap up today, how are you feeling about the progress you’ve made since we started?",T,Insignificant
+"I feel like I’ve made some good strides, especially with my family and coping strategies.",P,Progress Evaluation
+"I’m proud of you for taking those steps. Remember, it’s about progress, not perfection. ",T,Insignificant
+Absolutely. Thanks for your support!,P,Insignificant
+You’re very welcome! I look forward to hearing about your experiences in our next session. Take care!,T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

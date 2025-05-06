@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s nice to see you again. How have things been since our last session?,T,Insignificant
+"Hi, Ellie. I’ve been okay. I did talk to my son about my goals, and it went well.",P,Psychosocial History
+That’s wonderful! How did that conversation go?,T,Insignificant
+He was really supportive. He even helped me look at some listings together.,P,Psychosocial History
+That’s fantastic! It sounds like you’re making progress. How do you feel about the listings you looked at?,T,Insignificant
+"There are a couple that seem promising, but I’m still nervous about the whole moving process.",P,History of Present Illness (HPI)
+It’s completely natural to feel nervous about such a big change. What specifically makes you feel nervous?,T,Insignificant
+I guess it’s the uncertainty. I worry about affording rent and if I’ll like the new place.,P,History of Present Illness (HPI)
+Those are valid concerns. Have you thought about creating a budget to help ease your worries?,T,Insignificant
+"I haven’t yet, but that sounds like a good idea.",P,Insignificant
+Creating a budget can provide clarity and help you feel more in control. Would you like to set a goal to work on that this week?,T,Next Steps
+"Yes, I think I can do that. It would help to see everything laid out.",P,Next Steps
+Great! And how about your job applications? Have you made any progress there?,T,Insignificant
+"I updated my resume, and I applied to a couple of jobs. I’m still waiting to hear back.",P,Current Functional Status
+That’s a great step forward! How did you feel updating your resume?,T,Insignificant
+"It felt good to reflect on my experiences, but I still worry if it’s good enough.",P,History of Present Illness (HPI)
+"It’s common to feel that way. Remember, your resume is just a tool to showcase your skills. You bring a lot of value that can’t be captured on paper.",T,Insignificant
+That’s true. I need to remind myself of that.,P,Insignificant
+Absolutely! And how about our mock interview? Are you ready to give it a try today?,T,Insignificant
+"Yes, I think I’m ready. I’m a little nervous, but I want to practice.",P,History of Present Illness (HPI)
+That’s completely normal. Let’s start with a common question: “Tell me about yourself.”,T,Insignificant
+"Okay, um… I have a background in liberal arts and have been working on my skills in personal assisting. I’m very organized and enjoy helping others.",P,Current Functional Status
+"That’s a great start! You mentioned your experience and strengths. How about adding a personal touch, like a hobby or interest?",T,Insignificant
+"Oh, right! I enjoy writing and watching home improvement shows, which helps me think creatively.",P,Current Functional Status
+Excellent! That adds depth to your response. How do you feel about your answer?,T,Insignificant
+I feel more confident about it now.,P,Mental Health Observations
+That’s great to hear! Let’s try another question. “What are your greatest strengths?”,T,Insignificant
+"I’d say my ability to listen and empathize with others, and my organizational skills.",P,Current Functional Status
+"Those are strong strengths, especially for personal assisting roles. Can you give an example of how you’ve used those strengths?",T,Insignificant
+"Sure! In my previous volunteer role, I helped organize events and made sure everyone felt included.",P,Current Functional Status
+That’s a wonderful example! It illustrates your skills well. How do you feel about your interview skills now?,T,Insignificant
+I feel a lot better. Practicing really helps.,P,Mental Health Observations
+"I’m glad to hear that! Remember, the more you practice, the more comfortable you’ll become. Anything else you’d like to work on today?",T,Insignificant
+I think I’m good for now. I feel more prepared for interviews.,P,Mental Health Observations
+That’s fantastic! I look forward to hearing about your progress next time. Remember to keep me updated on your job applications and housing search.,T,Next Steps
+"I will. Thank you for your help, Ellie!",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Goodbye!,P,Insignificant
+Goodbye!,T,Insignificant

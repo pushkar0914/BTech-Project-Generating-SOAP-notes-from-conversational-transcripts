@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. Still dealing with some of the same stuff.",P,History of Present Illness (HPI)
+"That’s understandable. Last time, we talked about your feelings of isolation and the difficulty you have in trusting people. Have you had any experiences related to that since we last spoke?",T,History of Present Illness (HPI)
+"Well, I did try to reach out to a couple of people online, but it didn’t go as well as I hoped. ",P,History of Present Illness (HPI)
+Can you tell me more about that?,T,Insignificant
+"I joined a forum about filmmaking, thinking I might connect with some like-minded people, but it felt awkward. I ended up just lurking instead of participating.",P,History of Present Illness (HPI)
+That sounds frustrating. What do you think held you back from participating?,T,Insignificant
+I guess I just felt like I wouldn’t fit in. It’s like I’m always worried that people won’t like me.,P,History of Present Illness (HPI)
+That’s a common fear. What do you think would help you feel more comfortable in those situations?,T,Insignificant
+"Maybe if I had a friend to go with me or someone to talk to before I jump in, I might feel better about it.",P,History of Present Illness (HPI)
+That’s a great insight. Having a support system can make a big difference. Have you thought about reaching out to someone you trust for that support?,T,History of Present Illness (HPI)
+"I don’t really have anyone like that right now. I mean, the people I play games with online don’t really know me.",P,Psychosocial History
+"It sounds like you’re feeling quite alone in this. Would you be open to exploring ways to build connections with others, even if it’s a slow process?",T,Insignificant
+"Yeah, I guess I could try. But I’m just not sure how to start.",P,Insignificant
+"We could work on some strategies together. One idea is to set small, achievable goals. For example, maybe you could aim to post a comment on that forum next week. How does that sound?",T,Therapeutic Interventions
+That sounds doable. I could try that.,P,Next Steps
+"Great! And remember, it’s okay to take your time. Building connections can be a gradual process. Let’s talk about how you can manage any anxiety you might feel when trying to engage with others.",T,Insignificant
+I usually just freeze up and don’t know what to say.,P,History of Present Illness (HPI)
+That’s a common reaction. One technique we can try is grounding exercises. These can help you stay present and calm your mind when you feel anxious. Would you like to try one?,T,Therapeutic Interventions
+"Sure, I’m open to that.",P,Insignificant
+"Okay, let’s take a deep breath together. Inhale slowly… and exhale. Now, focus on your surroundings. Can you name three things you can see?",T,Insignificant
+"I see the wall, the chair, and my phone.",P,Insignificant
+"Great! Now, let’s name two things you can feel.",T,Insignificant
+I can feel the chair under me and my hands resting on my knees.,P,Insignificant
+Perfect. And one thing you can hear?,T,Insignificant
+I can hear the air conditioning.,P,Insignificant
+Excellent! This exercise can help anchor you when you feel overwhelmed. How did that feel for you?,T,Insignificant
+It felt nice. I think I could use that when I start feeling anxious.,P,Therapeutic Interventions
+I’m glad to hear that. You can practice this whenever you need to. Do you think you could incorporate this into your week?,T,Next Steps
+"Yeah, I’ll give it a shot.",P,Insignificant
+Wonderful. Let’s also talk about your sleep. You mentioned it’s been difficult for you. Have you noticed any changes since our last session?,T,History of Present Illness (HPI)
+"I’ve been sleeping a little better, but I still have those nightmares.",P,Physiological Observations
+I’m glad to hear there’s been some improvement. Have you tried any new techniques to help with your sleep?,T,Insignificant
+I’ve been listening to music before bed like you suggested.,P,Current Functional Status
+That’s a good step. Music can be very soothing. How has it affected your sleep?,T,Insignificant
+"It helps me relax a bit, but I still wake up in the middle of the night sometimes.",P,Physiological Observations
+"That’s challenging. If you wake up, what do you usually do?",T,Insignificant
+"I just lay there and try to go back to sleep, but my mind starts racing.",P,Physiological Observations
+"It might be helpful to have a plan for those moments. If you wake up and can’t get back to sleep, you could try getting out of bed and doing a calming activity until you feel sleepy again. How does that sound?",T,Therapeutic Interventions
+I think that could work. I’ll try that.,P,Next Steps
+"Great! It’s all about finding what works for you. As we wrap up today, what’s one takeaway you’d like to focus on until our next session?",T,Insignificant
+I think I want to try participating in that forum and practice the grounding exercise when I feel anxious.,P,Next Steps
+"Those sound like excellent goals. I look forward to hearing how it goes next time. Remember, it’s okay to take small steps. You’re doing great.",T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant

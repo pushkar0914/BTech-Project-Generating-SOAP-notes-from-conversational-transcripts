@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. It's good to see you today. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. Just trying to keep busy.",P,Insignificant
+"That’s good to hear. Last time, we talked about your feelings of hopelessness and how you cope by biking. Have you been able to keep up with that?",T,History of Present Illness (HPI)
+"Yeah, I’ve been trying to ride my bike regularly. It helps clear my mind a bit.",P,History of Present Illness (HPI)
+That’s great! Physical activity can be very beneficial for mental health. Have you noticed any changes in your mood during or after your rides?,T,History of Present Illness (HPI)
+"Sometimes, yes. I feel a bit lighter, but it doesn’t last long. ",P,History of Present Illness (HPI)
+It’s normal for those feelings to fluctuate. You mentioned feeling depressed about not having a job. Have there been any new developments in that area?,T,History of Present Illness (HPI)
+"Not really. I still haven’t found anything. I’ve been applying, but it’s tough at my age.",P,History of Present Illness (HPI)
+I understand. Job searching can be a challenging process. How do you feel when you apply for jobs?,T,History of Present Illness (HPI)
+Frustrated mostly. I feel like I’m just wasting my time sometimes.,P,History of Present Illness (HPI)
+That’s understandable. It can be disheartening. Have you considered any strategies to make the process feel less overwhelming?,T,History of Present Illness (HPI)
+"I guess I could set small goals for myself, like applying to a few jobs a week.",P,Next Steps
+That sounds like a solid plan. Setting achievable goals can help reduce that feeling of being overwhelmed. Is there anything else you might want to try?,T,Next Steps
+Maybe I could reach out to some old colleagues for networking. ,P,Next Steps
+That’s a great idea! Networking can often lead to opportunities. How do you feel about reconnecting with them?,T,Next Steps
+"A bit nervous, honestly. I haven’t spoken to them in years.",P,History of Present Illness (HPI)
+It’s completely normal to feel that way. Perhaps you could start with a simple message. What do you think?,T,Next Steps
+"Yeah, I could do that. Just keep it casual.",P,Next Steps
+Exactly! You don’t have to put too much pressure on yourself. Let’s shift gears a bit. You mentioned feeling like the black sheep of your family. How has that affected you lately?,T,History of Present Illness (HPI)
+"It still bothers me. I wish things were different, but I feel like I can’t change it.",P,History of Present Illness (HPI)
+It can be tough to navigate family dynamics. Have you thought about what a healthier relationship with your family might look like?,T,History of Present Illness (HPI)
+I guess I’d want more understanding and support from them.,P,History of Present Illness (HPI)
+That’s a valid desire. What steps do you think you could take to foster that understanding?,T,Next Steps
+Maybe I could try to communicate more openly with them.,P,Next Steps
+That sounds like a good approach. Open communication can pave the way for better relationships. Are there specific topics you’d like to discuss with them?,T,Next Steps
+I’d like to talk about my job situation and how it’s affecting me.,P,History of Present Illness (HPI)
+That’s a great start. Expressing your feelings can help them understand your perspective better. How do you feel about initiating that conversation?,T,Next Steps
+"I’m a bit anxious, but I know I need to do it.",P,History of Present Illness (HPI): Risk Assessment
+It’s completely normal to feel anxious. Perhaps you could write down your thoughts beforehand to help you articulate them better.,T,Therapeutic Interventions
+That could help. I might try that.,P,Next Steps
+Wonderful! Let’s talk about your self-esteem. You mentioned feeling proud of your degree. Are there other accomplishments you’d like to acknowledge?,T,History of Present Illness (HPI)
+"I guess I’ve always been good at learning new things, even if I haven’t been motivated.",P,History of Present Illness (HPI)
+That’s an important skill! Acknowledging your strengths can help build your self-esteem. How do you feel about that realization?,T,History of Present Illness (HPI)
+"It makes me feel a bit better, actually.",P,History of Present Illness (HPI)
+"That’s great to hear! Building on your strengths can be empowering. As we wrap up today, what goals would you like to set for our next session?",T,Next Steps
+I’d like to work on reaching out to my old colleagues and maybe drafting a message to my family.,P,Next Steps
+Those sound like excellent goals. I believe in your ability to take those steps. We can discuss how that went in our next session.,T,Next Steps
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! I look forward to hearing about your progress. Take care, and see you next time.",T,Insignificant
+"Bye, Ellie!",P,Insignificant

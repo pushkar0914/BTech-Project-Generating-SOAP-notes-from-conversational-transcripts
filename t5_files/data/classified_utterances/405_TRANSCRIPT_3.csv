@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing better. I had my chat with the event planning company, and it went really well!",P,History of Present Illness (HPI)
+That’s fantastic news! What was the experience like for you?,T,Insignificant
+"It was nerve-wracking at first, but once we started talking, it felt more like a friendly conversation. I think I made a good impression.",P,History of Present Illness (HPI)
+That’s great to hear! What feedback did they give you?,T,Insignificant
+They said they appreciated my enthusiasm and that they’d be in touch about potential opportunities.,P,Insignificant
+That’s a positive sign! How do you feel about waiting to hear back?,T,Insignificant
+"I’m trying to stay optimistic, but I can’t help but feel anxious about it.",P,History of Present Illness (HPI):Risk Assessment
+"It’s completely natural to feel that way, especially when you’re waiting for news. Have you tried any of the coping strategies we discussed previously?",T,Insignificant
+"Yes, I’ve been practicing deep breathing exercises, and they help a lot when I start to feel overwhelmed.",P,Therapeutic Interventions
+That’s wonderful! Deep breathing can be very grounding. Have you found any other techniques that work for you?,T,Insignificant
+I started journaling a bit. It helps me sort through my thoughts.,P,Therapeutic Interventions
+Journaling is a great way to process emotions and reflect on your experiences. What have you been writing about?,T,Insignificant
+Mostly about my feelings regarding the divorce and the changes in my life. It feels good to get it all out.,P,Trauma History:Psychosocial History
+That’s a healthy outlet. Writing can provide clarity and relief. Would you like to explore more coping strategies together?,T,Insignificant
+"Yes, I’d love that.",P,Insignificant
+How about we discuss mindfulness techniques? Have you ever tried mindfulness meditation?,T,Insignificant
+I’ve heard of it but never really tried it.,P,Insignificant
+Mindfulness meditation can help you stay present and reduce anxiety. Would you like to try a short guided meditation together?,T,Therapeutic Interventions
+"Sure, that sounds interesting.",P,Insignificant
+"Okay, let’s take a moment to find a comfortable position. Close your eyes if you feel comfortable. Take a deep breath in... and out. ",T,Insignificant
+*breathes deeply*,P,Insignificant
+"Focus on your breath. Notice the sensation of the air entering and leaving your body. If your mind wanders, gently bring it back to your breath.",T,Insignificant
+*breathes deeply* ,P,Insignificant
+Great job! Let’s do this for a few more moments. ,T,Insignificant
+*continues breathing*,P,Insignificant
+"Now, slowly open your eyes when you’re ready. How did that feel?",T,Insignificant
+It was calming. I feel more centered now.,P,Mental Health Observations
+I’m glad to hear that! Practicing mindfulness regularly can help you manage stress and anxiety. Would you like to set a goal to try it a few times this week?,T,Next Steps
+"Yes, I think I can commit to that.",P,Next Steps
+Excellent! We can check in on how it goes next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I think I’m good for now. I feel like I have some strategies to work with.,P,Insignificant
+"That’s great! Remember, it’s all about progress, not perfection. I’m proud of you for taking these steps.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+You’re welcome! I look forward to hearing how everything unfolds. Take care until next time!,T,Insignificant
+Bye!,P,Insignificant

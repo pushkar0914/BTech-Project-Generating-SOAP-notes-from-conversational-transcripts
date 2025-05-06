@@ -1,0 +1,38 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! It’s good to see you again. How have things been since we last spoke?,T,Insignificant
+"Hi, Ellie! Things have been a little up and down, but I’m hanging in there.",P,Insignificant
+"I’m glad to hear you’re hanging in there. Last time, we talked about your yoga practice and your dinner invitation to your son. How did that go?",T,Insignificant
+"I actually did invite him over! He came, and we had a nice dinner together. It felt good to reconnect.",P,History of Present Illness (HPI)
+That’s fantastic! How did the conversation flow during dinner?,T,Insignificant
+"It was surprisingly easy. We talked about his job and some of his interests, and I felt like I got to know him a bit better.",P,History of Present Illness (HPI)
+That’s wonderful! It sounds like a great step forward. How did you feel afterward?,T,Insignificant
+"I felt relieved and happy. It reminded me that he’s still the same person, just navigating life in his own way.",P,History of Present Illness (HPI)
+"That’s a beautiful realization. It’s important to remember that even when they pull away, they still value the connection with you.",T,Insignificant
+"Yes, exactly! I just need to keep being patient.",P,Insignificant
+Patience is key. How has your daughter been since our last session?,T,Insignificant
+We’ve had a couple of good talks. I’m trying to be more present and listen to her without jumping to conclusions.,P,History of Present Illness (HPI)
+That’s a great approach! What have you learned from those conversations?,T,Insignificant
+"I’ve learned that she has a lot on her mind, just like I do. Sometimes, she just needs to vent without me trying to solve her problems.",P,History of Present Illness (HPI)
+That’s a valuable insight. It shows how much you’re growing in your parenting approach.,T,Insignificant
+"Thank you! I feel like I’m getting better at this, even if it’s a work in progress.",P,Insignificant
+"It’s definitely a journey. Speaking of journeys, how has your self-care been since we last spoke?",T,Insignificant
+I’ve been sticking to my yoga goal! I’ve made it to three sessions a week.,P,Current Functional Status
+That’s amazing! How has that impacted your mood or stress levels?,T,Insignificant
+I feel more balanced and less overwhelmed. It’s become a nice escape for me.,P,Mental Health Observations
+I’m so glad to hear that! It sounds like you’re really prioritizing your well-being. Have you considered trying any new self-care activities?,T,Insignificant
+I’ve thought about incorporating meditation. I hear it complements yoga well.,P,Next Steps
+That’s a great idea! Meditation can help deepen your sense of calm. Would you like to set a goal for trying that out?,T,Insignificant
+Sure! Maybe I could start with five minutes a day.,P,Next Steps
+That sounds like a manageable goal. How do you feel about checking in on that next session as well?,T,Insignificant
+I’d like that. ,P,Insignificant
+Great! Is there anything else on your mind today?,T,Insignificant
+I guess I’m just wondering if I’m doing enough as a parent. Sometimes I doubt myself.,P,History of Present Illness (HPI)
+"It’s completely normal to have those doubts. Parenting is challenging, and it’s a learning process. What do you think is the most important aspect of being a parent?",T,Insignificant
+"I think just being there for them and showing them I care, no matter what. ",P,Insignificant
+"That’s a wonderful perspective. As long as they know you’re there and that you love them, you’re doing a great job.",T,Insignificant
+"Thank you, Ellie. That means a lot.",P,Insignificant
+"You’re welcome! Remember, it’s about progress and connection, not perfection. ",T,Insignificant
+I’ll keep that in mind.,P,Insignificant
+I look forward to hearing about your experiences next time. Take care!,T,Insignificant
+Bye!,P,Insignificant

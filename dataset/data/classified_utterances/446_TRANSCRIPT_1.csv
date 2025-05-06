@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I've been doing pretty well, thank you. Just trying to keep up with everything.",P,Insignificant
+"That’s good to hear. Last time, you mentioned feeling great overall but faced some frustration from the argument with your husband. How has that been since then?",T,History of Present Illness (HPI)
+"It’s been better. We talked it out a bit more, and I think we both understand each other a little better now.",P,History of Present Illness (HPI)
+That’s a positive step. Communication can really help in resolving conflicts. What strategies did you use to approach that conversation?,T,Insignificant
+I really just tried to express my feelings without being defensive. I focused on “I” statements to explain how I felt when he reacted aggressively.,P,Therapeutic Interventions
+That sounds like a healthy approach. How did he respond to that?,T,Insignificant
+"He was receptive, actually. It helped that I was calm when I brought it up. We both agreed to work on our communication style.",P,History of Present Illness (HPI)
+Excellent! It sounds like you’re making progress. Have you noticed any changes in how you both communicate since that conversation?,T,Insignificant
+"Yes, we’ve been trying to be more mindful of our tone and body language. It feels a lot better.",P,Current Functional Status
+That’s wonderful. It seems like you’re finding ways to create a supportive environment for each other. Have you had any other challenges come up recently?,T,Insignificant
+"Well, I’ve been a bit stressed about going back to school. I’m excited but also nervous about balancing everything.",P,History of Present Illness (HPI)
+That’s understandable. Going back to school is a big transition. What specifically makes you nervous about it?,T,Insignificant
+"I guess I worry about managing my time between work, family, and studying. I don’t want to let anyone down.",P,History of Present Illness (HPI)
+It sounds like you’re feeling a lot of pressure to maintain your responsibilities. Have you thought about any strategies to help manage your time effectively?,T,Insignificant
+I’ve been considering creating a schedule to balance everything out. I think it might help me feel more organized.,P,Next Steps
+That sounds like a great idea! A schedule can provide structure and help you prioritize your tasks. Would you like to explore how to create that schedule together?,T,Insignificant
+"Yes, that would be really helpful.",P,Insignificant
+Great! Let’s start by identifying the main areas you want to include in your schedule. What do you think should be your top priorities?,T,Insignificant
+"Definitely work, school, and family time. I also want to make sure I have time for myself.",P,Next Steps
+"Self-care is essential, so it’s great that you want to include that. How much time do you think you can realistically dedicate to each area?",T,Insignificant
+"I think I can manage about 40 hours for work, 15 hours for school, and a couple of evenings for family. I want to set aside at least one day for myself too.",P,Next Steps
+That sounds like a solid plan. How do you feel about dedicating specific time blocks for self-care?,T,Insignificant
+"I think that’s important. I’ve realized that when I take care of myself, I’m better for everyone else.",P,Next Steps
+Absolutely! What activities do you enjoy for self-care?,T,Insignificant
+"I love meditating, reading, and sometimes just taking a long walk.",P,Next Steps
+Those are wonderful ways to recharge. Would you like to set specific times for those activities in your schedule?,T,Insignificant
+"Yes, I’d like to aim for at least three times a week for meditation and reading.",P,Next Steps
+Perfect! Let’s write that down. How about walks? Do you want to incorporate those too?,T,Insignificant
+"I could do that on weekends, maybe Saturday mornings.",P,Next Steps
+"Sounds like a plan! Now, how do you feel about the idea of having a flexible schedule? Sometimes things don’t go as planned, and that’s okay.",T,Insignificant
+I think that’s a good point. I’ll try to be flexible and adjust as needed.,P,Next Steps
+That’s a healthy mindset. Being adaptable can reduce stress when unexpected things come up. How do you think this new schedule will impact your overall well-being?,T,Insignificant
+I believe it’ll help me feel more in control and less overwhelmed. I’m excited to try it out!,P,Current Functional Status
+That’s fantastic! I’m looking forward to hearing how it works for you in our next session. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we covered everything important for now. Thank you for your help!",P,Insignificant
+You’re welcome! I’m glad to support you. See you next time!,T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Bye!,T,Insignificant

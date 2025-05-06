@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I’ve been doing better, actually. I started journaling like we talked about.",P,Progress Evaluation
+That’s wonderful! How has that experience been for you?,T,Insignificant
+It’s been really helpful. Writing down my thoughts has cleared my head a lot. I didn’t realize how much I was holding in.,P,History of Present Illness (HPI)
+That’s great to hear! Did you notice any recurring themes in your entries?,T,Insignificant
+"Yeah, I keep writing about my fears regarding my music and my future. It’s like I can’t escape those thoughts.",P,History of Present Illness (HPI)
+It’s understandable. Those fears can be persistent. Have you been able to challenge any of those fears through your journaling?,T,Insignificant
+A little bit. I wrote about how I’ve faced challenges before and come out okay. It made me feel stronger.,P,History of Present Illness (HPI)
+That’s an excellent insight! Recognizing your resilience is very important. How does that change your perspective on your current fears?,T,Insignificant
+"It makes me realize that I’ve overcome obstacles before, so I can handle this too. I just need to keep reminding myself.",P,History of Present Illness (HPI)
+Absolutely! Self-affirmation can be a powerful tool. Have you tried any affirmations?,T,Insignificant
+"Not really, but I’m open to it. What do you suggest?",P,Insignificant
+"You could start with something simple, like “I am capable of achieving my dreams.” You can write it down or say it out loud to yourself.",T,Therapeutic Interventions
+I like that! I’ll give it a try.,P,Insignificant
+"Great! Now, how has your music been going? Any new projects?",T,Insignificant
+"I started working on a new song. I’m feeling more inspired lately, which is nice.",P,Progress Evaluation
+That’s fantastic! What’s the song about?,T,Insignificant
+It’s about my journey and the struggles I’ve faced. I think it’s a way to process everything.,P,History of Present Illness (HPI)
+That sounds powerful! Creating art from your experiences can be very healing. How does working on this song make you feel?,T,Insignificant
+It feels liberating. I’m finally putting my emotions into something tangible.,P,History of Present Illness (HPI)
+That’s a beautiful way to express yourself. Have you shared it with anyone yet?,T,Insignificant
+Not yet. I’m a bit nervous about what they’ll think.,P,Risk Assessment
+It’s normal to feel vulnerable when sharing your art. Would you consider sharing it with someone you trust?,T,Insignificant
+I think I could share it with my girlfriend. She’s always supportive.,P,Insignificant
+That sounds like a good idea. Having a support system can help ease those fears. How do you think she would react?,T,Insignificant
+"I think she’d love it. She always encourages me, so I should just go for it.",P,Insignificant
+"Exactly! Sometimes, taking that leap can lead to unexpected positive feedback. Is there anything else you’d like to work on today?",T,Insignificant
+I guess I’m still struggling with sleep. It hasn’t improved much.,P,History of Present Illness (HPI)
+I’m sorry to hear that. Have you been able to try any techniques we discussed?,T,Insignificant
+"I’ve been trying to meditate before bed, but my mind still races.",P,History of Present Illness (HPI)
+That can be tough. How about we explore some relaxation techniques specifically for bedtime?,T,Insignificant
+"Sure, I’m open to that.",P,Insignificant
+One technique is progressive muscle relaxation. It involves tensing and then relaxing each muscle group. Would you like to try it now?,T,Therapeutic Interventions
+"Yeah, let’s do it.",P,Insignificant
+"Great! Start by taking a deep breath in... hold it... and now exhale. Now, let’s tense your feet for a few seconds... and relax. How does that feel?",T,Insignificant
+It feels nice. I can feel the tension leave a little.,P,Mental Health Observations
+"Perfect! You can do this with each muscle group, working your way up to your head. It can help signal to your body that it’s time to unwind.",T,Therapeutic Interventions
+I’ll definitely try that tonight.,P,Insignificant
+I’m glad to hear that! Let’s check in on your progress with sleep next time. Anything else on your mind today?,T,Insignificant
+"No, I think we covered everything. I feel good about the journaling and the music.",P,Progress Evaluation
+"That’s wonderful! I’m proud of you for taking those steps. Keep up the great work, and I look forward to hearing about your progress next session.",T,Insignificant
+"Thanks, Ellie. I appreciate your support!",P,Insignificant
+"You’re welcome! Take care, and see you soon.",T,Insignificant
+Bye!,P,Insignificant

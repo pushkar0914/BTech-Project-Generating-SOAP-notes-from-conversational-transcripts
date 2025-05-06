@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?",T,Insignificant
+"Oh, hi! I've been okay, I guess. Still dealing with the thyroid issue, but I’m trying to manage it.",P,Medical and Psychiatric History
+That sounds challenging. Have you been able to see a doctor about it?,T,Insignificant
+"Yes, I had an appointment last week. They adjusted my medication, so I’m hoping that helps.",P,Medical and Psychiatric History
+I hope so too. How has your energy been since then?,T,Insignificant
+"It’s been a bit better, but still not where I want it to be. I think the weather is still affecting me too.",P,History of Present Illness (HPI)
+That makes sense. You mentioned the grey weather impacting your mood. Have you tried any strategies to cope with that?,T,Insignificant
+I’ve been trying to get outside more when the sun does come out. Even just for a short walk helps.,P,Therapeutic Interventions
+That’s a great start! How does being outside make you feel?,T,Insignificant
+It definitely lifts my spirits a bit. I feel more energized and less sluggish.,P,Mental Health Observations
+That’s wonderful to hear! Have you been able to keep up with your walking routine?,T,Insignificant
+Not as much as I’d like. I’ve been a bit lazy since the weather's been so dreary.,P,Current Functional Status
+It’s understandable. Sometimes it can be hard to stay motivated. What do you think might help you get back into that routine?,T,Insignificant
+Maybe setting a specific time each day to walk could help. I need to make it a priority.,P,Next Steps
+That sounds like a good plan. How about we set a small goal for this week? Perhaps aim for walking at least three times?,T,Next Steps
+"Yes, that sounds manageable. I think I can do that!",P,Next Steps
+Great! And how about your sleep? Have you noticed any changes since our last session?,T,Insignificant
+"A little. I’m still waking up at night, but I’ve been trying to relax more before bed.",P,History of Present Illness (HPI)
+That’s a positive step. Have you tried any specific relaxation techniques?,T,Insignificant
+I’ve been listening to calming music and doing some light reading before bed.,P,Therapeutic Interventions
+Those are excellent strategies. Have you noticed any improvement in your sleep quality?,T,Insignificant
+"A little bit, but I still feel tired during the day.",P,Physiological Observations
+It might take some time to adjust. Have you thought about keeping a sleep diary to track your patterns?,T,Next Steps
+"I haven’t, but that could be helpful to see if there are any patterns.",P,Next Steps
+"Yes, it could provide insight into what might be affecting your sleep. Would you like to try that?",T,Next Steps
+"Sure, I can start that this week.",P,Next Steps
+"Perfect! Now, let's shift gears a bit. You mentioned wanting to lose weight last time. Have you thought about any steps you can take toward that goal?",T,Insignificant
+"I’ve thought about it, but it’s hard to resist temptation, especially with all the food options around.",P,History of Present Illness (HPI)
+It can be tough. What do you think might help you make healthier choices?,T,Insignificant
+"Maybe meal prepping could be a good idea. That way, I have healthy options ready.",P,Next Steps
+Meal prepping is a fantastic strategy! It can save time and help you stick to your goals. Would you like to set a goal for that as well?,T,Next Steps
+"Yes, I’d like to try that! Maybe I can start with prepping for two days a week.",P,Next Steps
+That sounds realistic. How do you feel about the idea of incorporating more fruits and vegetables into your meals?,T,Insignificant
+"I love fruits! Vegetables, on the other hand, I struggle with a bit.",P,History of Present Illness (HPI)
+That’s completely normal. How about trying to incorporate one new vegetable each week?,T,Next Steps
+I could do that! It might help me discover some new favorites.,P,Next Steps
+Exactly! It’s all about exploring and finding what you enjoy. Let’s check in on that next time.,T,Insignificant
+Sounds good!,P,Insignificant
+"Before we wrap up, how has your relationship with your family been lately?",T,Insignificant
+It’s been okay. I’ve been trying to reach out more to my brother. We had a nice chat last week.,P,Psychosocial History
+That’s great to hear! Strengthening those connections can be really beneficial for your mood.,T,Insignificant
+"Yes, it felt good to catch up. I miss those conversations.",P,Psychosocial History
+Building those relationships can provide support. Are there any other family members you’d like to reconnect with?,T,Insignificant
+I think I might reach out to my sister too. We haven’t talked in a while.,P,Psychosocial History
+That sounds like a wonderful idea. It could help you feel more connected. ,T,Insignificant
+I’ll definitely try to do that.,P,Next Steps
+"Excellent! So, to recap, your goals for this week are to walk three times, keep a sleep diary, and meal prep for two days. How does that sound?",T,Insignificant
+That sounds manageable and I’m excited to try it all!,P,Insignificant
+I’m glad to hear that! I look forward to hearing how it goes in our next session. Take care!,T,Insignificant
+Thank you! I’ll see you next time. ,P,Insignificant
+Goodbye!,T,Insignificant

@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. I'm glad to see you back today. How have you been since our last session?",T,Insignificant
+"Hey, Ellie. I've been okay, I guess. Still dealing with the breakup, but I’ve tried to keep myself busy.",P,Presenting Problem / Chief Complaint
+That sounds like a good strategy. Have you found any particular activities helpful in managing those feelings?,T,Insignificant
+"Yeah, I’ve been playing a lot of poker and hanging out with friends more. It helps me distract myself, but sometimes I still feel down.",P,History of Present Illness (HPI)
+"It’s completely normal to feel that way, especially after a breakup. Have you had any moments where you felt the sadness more intensely?",T,Insignificant
+"Definitely. There are moments when I see something that reminds me of her, and it hits me hard. Like, I was watching a movie we used to enjoy together, and I just felt really empty.",P,History of Present Illness (HPI)
+It’s understandable to have those triggers. Allowing yourself to feel those emotions can be part of the healing process. Have you been able to talk to anyone about how you’re feeling?,T,Insignificant
+"I’ve talked to a couple of friends, but I don’t want to burden them too much. I feel like I should be over it by now.",P,Psychosocial History
+"It’s important to remember that healing isn’t linear. It’s okay to still feel sad, and sharing your feelings can be beneficial. Maybe we can explore some coping strategies together. What do you think?",T,Insignificant
+"Yeah, that sounds good. I’m open to it.",P,Insignificant
+Great! One strategy that might help is journaling your feelings. Have you ever tried writing down your thoughts?,T,Insignificant
+"I haven’t really, but I’ve heard it can help. I guess I just never thought about doing it.",P,Insignificant
+It can be a powerful tool. Writing can help you process your emotions and gain clarity. Would you be willing to give it a try this week?,T,Therapeutic Interventions
+"Sure, I can try that. It might be nice to get everything out on paper.",P,Therapeutic Interventions
+"Awesome. And if you feel comfortable, we can discuss what you write during our next session. Another thing we could explore is mindfulness or meditation. Have you ever practiced that?",T,Insignificant
+"I’ve tried meditation a couple of times, but I found it hard to focus.",P,History of Present Illness (HPI)
+That’s common! It’s all about practice. We can start with just a few minutes of mindfulness exercises together. Would you like to try that now?,T,Therapeutic Interventions
+"Sure, why not?",P,Insignificant
+"Okay, let’s take a moment to breathe deeply. Close your eyes if that feels comfortable. Inhale slowly through your nose… hold it for a moment… and exhale gently through your mouth. ",T,Insignificant
+*breathes* ,P,Insignificant
+"Great. Just focus on your breath. If your mind wanders, that’s okay. Just gently bring your attention back to your breathing.",T,Insignificant
+*pauses* This feels nice. ,P,Insignificant
+I’m glad to hear that. Practicing this for just a few minutes a day can help ground you when you’re feeling overwhelmed. ,T,Therapeutic Interventions
+I can see how that would be helpful. ,P,Insignificant
+Let’s make it a goal for you to practice this daily. How does that sound?,T,Next Steps
+Sounds good! I’ll give it a shot. ,P,Next Steps
+"Perfect! Now, let’s talk about your aspirations in filmmaking. You mentioned wanting to pursue that alongside your optician studies. How are you feeling about that right now?",T,Insignificant
+"Well, I still want to do it, but sometimes it feels like a distant dream. I’m focused on school and work, and I don’t have much time.",P,Presenting Problem / Chief Complaint
+"It’s understandable to feel that way. Maybe we can set some smaller, achievable goals related to filmmaking. For instance, watching a film and analyzing it, or even working on a short project. What do you think?",T,Next Steps
+I like that idea. I could try to make a short film or something. ,P,Next Steps
+That sounds like a fantastic plan! It could reignite your passion and provide a creative outlet. ,T,Insignificant
+"Yeah, I think I need that. ",P,Insignificant
+Wonderful! We can check in on your progress next time. Is there anything else you’d like to discuss today?,T,Insignificant
+Not really. I feel like we covered a lot.,P,Insignificant
+"I’m glad to hear that. Remember, it’s okay to take things one step at a time. I look forward to hearing about your experiences next session. ",T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! Take care and see you next time.,T,Insignificant
+Bye!,P,Insignificant

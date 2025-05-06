@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey, I've been okay, just the usual ups and downs.",P,Insignificant
+"That's understandable. Last time, we talked a bit about your feelings of motivation and how you sometimes feel you settle for less. Have you had any thoughts about that since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, I’ve been thinking about it a lot. I guess I just feel stuck sometimes. Like, I want to do more, but I don't know where to start.",P,History of Present Illness (HPI)
+It’s great that you’re reflecting on that. What do you think is holding you back from starting?,T,History of Present Illness (HPI)
+I think it’s a mix of fear and just feeling overwhelmed. Sometimes I don’t even know what I want to do.,P,History of Present Illness (HPI)
+"That makes sense. It can be really daunting to figure out what you want, especially when there are so many options. Have you considered trying to set smaller goals to help clarify what you want?",T,Next Steps
+I haven’t really thought about that. I usually just think of the big picture.,P,Insignificant
+"Focusing on smaller, achievable goals can help create a sense of accomplishment. What’s one small step you think you could take toward figuring things out?",T,Next Steps
+Maybe just making a list of things I’m interested in? That seems manageable.,P,Next Steps
+That’s a great idea! Writing things down can often help clarify your thoughts. Would you be willing to share that list in our next session?,T,Next Steps
+"Sure, I can do that.",P,Next Steps
+"Excellent! I’d love to hear what you come up with. Last time, we also talked about your relationship with your ex-girlfriend. How have you been feeling about that situation since we last spoke?",T,History of Present Illness (HPI)
+"It’s been okay. I still think about her sometimes, but I’m trying to move on.",P,History of Present Illness (HPI)
+That’s a positive step. Have you found any coping strategies that help you when you think about her?,T,Therapeutic Interventions
+I’ve been trying to distract myself with movies and hanging out with friends. That helps a bit.,P,Therapeutic Interventions
+That’s a good approach. Staying connected with friends can provide support. Have you had any conversations with them about how you’re feeling?,T,Therapeutic Interventions
+"A little. I don’t want to burden them, though.",P,Insignificant
+"It’s understandable to feel that way, but friends often appreciate being let in. Sharing can strengthen those relationships. Would you be open to discussing your feelings with them more?",T,Therapeutic Interventions
+"Yeah, I think I could try that.",P,Therapeutic Interventions
+"Great! It might help you feel less isolated. Speaking of feelings, how have you been sleeping lately?",T,Physiological Observations
+"Pretty well, actually. I’ve been trying to keep a regular schedule.",P,Physiological Observations
+That’s wonderful to hear! A regular sleep schedule can really impact your mood and energy levels. Have you noticed any changes in your mood with better sleep?,T,Physiological Observations
+"Yeah, I feel more focused during the day. It’s nice not to feel so groggy.",P,Physiological Observations
+That’s a significant improvement! It sounds like you’re making some positive changes. How do you feel about your progress so far?,T,Progress Evaluation
+"I feel okay about it. I still wish I could do more, but I guess it’s a start.",P,Progress Evaluation
+"Absolutely, every small step counts. It’s all about progress, not perfection. What do you think you’ll focus on this week as we prepare for our next session?",T,Next Steps
+I’ll work on that list of interests and maybe talk to a friend about how I’ve been feeling.,P,Next Steps
+That sounds like a solid plan. Remember to be gentle with yourself as you navigate these feelings. It’s okay to take your time.,T,Next Steps
+"Thanks, Ellie. I appreciate that.",P,Insignificant
+Of course! I’m looking forward to hearing about your experiences next time. Have a great week!,T,Insignificant
+You too! See you next time.,P,Insignificant

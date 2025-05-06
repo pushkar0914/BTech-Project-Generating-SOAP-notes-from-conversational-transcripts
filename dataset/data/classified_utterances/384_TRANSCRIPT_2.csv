@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s nice to see you again. How did things go with your goals from last week?,T,Insignificant
+"Hey! I actually posted a comment on the forum. It felt a little scary, but I did it.",P,Current Functional Status
+That’s fantastic! How did it feel to take that step?,T,Insignificant
+"It was nerve-wracking, but I felt proud after. I even got a couple of replies.",P,Current Functional Status
+That’s wonderful! Engaging with others can be a big step forward. Did you feel any anxiety while waiting for the replies?,T,History of Present Illness (HPI)
+A little bit. I kept checking my phone.,P,History of Present Illness (HPI)
+That’s completely normal. It shows you care about connecting with others. How did you manage that anxiety?,T,Insignificant
+I used the grounding exercise you taught me. It helped me calm down a bit.,P,Therapeutic Interventions
+I’m really glad to hear that! It sounds like you’re starting to find ways to cope. Did anything else come up for you this week?,T,Insignificant
+I had a rough night where I kept waking up again. The nightmares were back.,P,History of Present Illness (HPI)
+I’m sorry to hear that. It can be discouraging when you take steps forward and then feel setbacks. Can you tell me more about the nightmares?,T,Insignificant
+"They’re mostly about my childhood. Sometimes they feel so real, and I wake up feeling scared.",P,History of Present Illness (HPI): Trauma History
+That sounds really distressing. Have you found anything that helps you cope after having those nightmares?,T,Insignificant
+Not really. I just try to distract myself with games or TV.,P,Therapeutic Interventions
+"That’s a common coping mechanism. It’s okay to use distractions, but we might also explore some strategies to help process those feelings. Would you be open to that?",T,Insignificant
+"Sure, I’m willing to try anything.",P,Insignificant
+One technique we can use is journaling. Writing about your feelings and experiences can sometimes help you process them. What do you think about writing down your thoughts after a nightmare?,T,Therapeutic Interventions
+I’ve never really thought about that. I usually just try to forget about it.,P,Insignificant
+"That’s understandable, but sometimes confronting those feelings can lead to healing. You could start by writing just a few sentences about how you felt during the nightmare. Would you be willing to give it a try?",T,Therapeutic Interventions
+I guess I could try that. It might help.,P,Insignificant
+Great! You can also use the grounding exercise before bed to help set a calm mindset. How do you feel about incorporating that into your routine?,T,Therapeutic Interventions
+I think that could help. I’ll try to remember to do that.,P,Insignificant
+Excellent! It’s all about creating a routine that supports your well-being. Is there anything else you want to discuss today?,T,Insignificant
+"I’ve been thinking about my family a lot lately. I don’t know why, but it’s been on my mind.",P,Psychosocial History
+Family dynamics can be complex and often bring up a lot of emotions. What specifically has been coming up for you?,T,Insignificant
+Just memories from when I was younger. I sometimes wonder if things could have been different.,P,Trauma History
+"It’s natural to reflect on the past, especially when you’re feeling vulnerable. Would you like to explore those memories further?",T,Insignificant
+I think so. It might help to talk about it.,P,Insignificant
+"Okay, let’s take our time with this. What’s a memory that stands out to you right now?",T,Insignificant
+I remember feeling really alone during family gatherings. I always felt like an outsider.,P,Trauma History
+That sounds painful. Feeling disconnected from family can leave lasting impressions. How did those feelings affect you at the time?,T,Insignificant
+"I think it made me more withdrawn. I didn’t want to be around them, so I just stayed quiet.",P,Current Functional Status
+It’s understandable to retreat when you feel that way. Have you noticed those feelings affecting your current relationships?,T,Insignificant
+"Yeah, I think I push people away because I’m afraid of getting hurt.",P,History of Present Illness (HPI)
+That’s a common defense mechanism. It’s a way to protect yourself from potential pain. But it can also keep you from forming meaningful connections. What do you think could help you take small steps toward opening up to others?,T,Insignificant
+Maybe I could try to let someone in little by little instead of pushing them away right away.,P,Next Steps
+"That’s a great approach. Building trust takes time, and it’s okay to take small steps. Is there someone in your life you feel comfortable practicing this with?",T,Insignificant
+"There’s a guy I play games with online. He seems nice, but I’m not sure how to start.",P,Current Functional Status
+That’s a good opportunity. You could start by sharing a bit about yourself or asking him about his interests. How does that sound?,T,Insignificant
+"Yeah, I could try that. ",P,Insignificant
+"Perfect! You’re making progress, and I’m proud of you for being open to these changes. As we wrap up today, what’s one thing you want to focus on until our next session?",T,Insignificant
+I want to work on letting someone in and trying the journaling exercise.,P,Next Steps
+"Those are excellent goals. I’m looking forward to hearing how it goes. Remember, you’re not alone in this journey.",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant

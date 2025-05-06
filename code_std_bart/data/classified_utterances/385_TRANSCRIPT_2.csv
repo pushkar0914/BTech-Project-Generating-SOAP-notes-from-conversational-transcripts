@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How have things been since our last session?,T,Insignificant
+"It’s been okay. I reached out to my friends, but we haven’t made plans yet.",P,History of Present Illness (HPI)
+That’s a good step! Just reaching out is progress in itself. How did it feel to take that step?,T,Insignificant
+"It felt a bit weird, but okay. ",P,History of Present Illness (HPI)
+That’s completely normal. It can feel strange to reconnect. Have you had any thoughts about what you’d like to do when you do get together?,T,Insignificant
+I think I want to play basketball.,P,Psychosocial History
+That sounds like a lot of fun! Do you feel excited about the possibility of playing?,T,Insignificant
+A little. I hope they want to.,P,History of Present Illness (HPI)
+"It’s great to have hope! If they don’t want to play, what’s another option you might suggest?",T,Insignificant
+Maybe just hanging out somewhere?,P,Psychosocial History
+Absolutely! It’s all about finding what works for everyone. Let’s talk about how you can approach that conversation. How would you feel about suggesting a few options?,T,Insignificant
+I can do that.,P,Insignificant
+"Fantastic! Now, shifting gears a bit, have you noticed any changes in your mood or energy levels since we last spoke?",T,Physiological Observations
+I think I feel a bit better. ,P,History of Present Illness (HPI)
+That’s wonderful to hear! What do you think contributed to that improvement?,T,Insignificant
+Maybe just talking about things? ,P,History of Present Illness (HPI)
+Definitely! Talking things out can be very therapeutic. Have you had any new experiences or reflections that helped?,T,Insignificant
+I’ve been trying to focus on what makes me happy.,P,History of Present Illness (HPI)
+That’s a great strategy! Can you share some of those things that bring you happiness?,T,Insignificant
+I guess playing basketball and hanging out with friends.,P,Psychosocial History
+Those are excellent sources of joy! It sounds like social connections and physical activity are important for your well-being. How can you incorporate more of those into your routine?,T,Insignificant
+I could try to play basketball more often.,P,Next Steps
+That sounds like a great plan! How often do you think you could realistically play?,T,Insignificant
+Maybe once a week?,P,Next Steps
+"That’s a solid goal! Setting that intention can help create a positive routine. Now, let’s talk about those feelings of frustration you mentioned last time. Have you encountered any situations that triggered those feelings again?",T,Insignificant
+"Yeah, I saw someone being rude in public.",P,History of Present Illness (HPI)
+That’s definitely frustrating. How did you handle that situation?,T,Insignificant
+I just ignored it.,P,History of Present Illness (HPI)
+"Ignoring it can be a way to cope. But sometimes, it can also help to express those feelings. What would you say to that person if you could?",T,Insignificant
+I’d tell them to be nicer.,P,History of Present Illness (HPI)
+That’s a strong response. It shows you value kindness. Would you feel comfortable expressing that in a constructive way in the future?,T,Insignificant
+Maybe. I don’t want to confront anyone.,P,History of Present Illness (HPI)
+That’s understandable. Confrontation can be difficult. Perhaps you could practice self-assertiveness in smaller situations first. Would that feel more comfortable?,T,Insignificant
+"Yeah, that might work.",P,Therapeutic Interventions
+"Great! We can work on some techniques for that. As we wrap up today, let’s set a focus for the week. You’ll aim to play basketball once a week and practice expressing your feelings in smaller situations. How does that sound?",T,Next Steps
+Sounds good.,P,Insignificant
+I’m proud of the progress you’re making! I look forward to hearing how it goes next time. Take care!,T,Insignificant
+You too. Bye!,P,Insignificant

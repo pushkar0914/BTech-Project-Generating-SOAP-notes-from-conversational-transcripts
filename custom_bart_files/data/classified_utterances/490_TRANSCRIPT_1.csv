@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+"<sigh> hey, it's good to be back. ",P,Insignificant
+Hi! I'm glad to see you again. How have you been since our last session?,T,Insignificant
+"I've been okay, I guess. Trying to keep up with the changes I mentioned.",P,History of Present Illness (HPI)
+That’s great to hear! You mentioned feeling more empowered recently. Can you tell me more about that?,T,Insignificant
+"Yeah, I’ve been eating better, and I’ve started exercising a little. It feels good, but some days are harder than others.",P,History of Present Illness (HPI): Physiological Observations
+It’s definitely a process. What do you find challenging on those harder days?,T,Insignificant
+"I think when I’m tired or stressed, I tend to fall back into old habits. Like, I’ll skip exercising or grab something unhealthy to eat.",P,History of Present Illness (HPI)
+That’s understandable. It’s common for people to revert to old habits when under stress. Have you found any strategies that help you stay on track during those times?,T,Insignificant
+"I’ve tried to plan my meals ahead of time, but it doesn’t always work out.",P,History of Present Illness (HPI)
+Meal planning can be a great tool. What about your exercise routine? How do you feel about that?,T,Insignificant
+I’ve been trying to go for walks with my kids. It’s nice to spend time with them and get some exercise.,P,Current Functional Status: Physiological Observations
+That sounds lovely! How do your kids respond to those walks?,T,Insignificant
+"They love it. They get to run around and explore, and I get to keep up with them.",P,Current Functional Status
+It sounds like a win-win! Have you noticed any changes in your mood since you started exercising more?,T,Insignificant
+"Yeah, I definitely feel less irritable. I think it helps me manage my stress better.",P,Mental Health Observations
+That’s fantastic! Managing stress is so important. Have you had any moments where you felt overwhelmed lately?,T,Insignificant
+"A few, especially when work gets busy. I just have to remind myself to breathe.",P,History of Present Illness (HPI)
+Breathing techniques can be really helpful. Would you like to practice one together now?,T,Insignificant
+"Sure, I’d like that.",P,Insignificant
+"Great! Let’s try a simple technique. Inhale deeply through your nose for four seconds, hold for four seconds, and exhale slowly through your mouth for six seconds. Ready?",T,Insignificant
+"Okay, let’s do it.",P,Insignificant
+"Inhale… 1, 2, 3, 4. Hold… 1, 2, 3, 4. Exhale… 1, 2, 3, 4, 5, 6. How did that feel?",T,Insignificant
+It felt good. I needed that.,P,Mental Health Observations
+I’m glad! You can use that technique anytime you’re feeling overwhelmed. Have you had any discussions with your wife about your feelings or the changes you’re making?,T,Insignificant
+"A little. I think she appreciates that I’m trying to be healthier, but sometimes I feel like I don’t want to burden her with my stress.",P,Psychosocial History
+"It’s understandable to feel that way, but sharing your feelings can strengthen your relationship. Have you tried expressing how you feel?",T,Insignificant
+Not really. I guess I’m just worried about adding to her stress.,P,Psychosocial History
+It sounds like you care a lot about her feelings. Perhaps you could frame it as sharing your journey toward better health together. ,T,Insignificant
+That’s a good idea. I think she’d be supportive.,P,Insignificant
+Absolutely! Communication can be a powerful tool. What do you think your next steps will be in this process?,T,Insignificant
+I think I’ll try to talk to her more openly. And keep up with the meal planning and exercise.,P,Next Steps
+Those sound like solid goals. How about we set a small goal for you to work on before our next session?,T,Insignificant
+"Sure, what do you have in mind?",P,Insignificant
+How about aiming to share one thing about your feelings with your wife this week? It doesn’t have to be anything huge—just something that’s on your mind.,T,Next Steps
+I can do that. ,P,Insignificant
+"That’s wonderful! Remember, it’s about progress, not perfection. Is there anything else you’d like to discuss today?",T,Insignificant
+I think that covers it for now.,P,Insignificant
+Great! I’m looking forward to hearing how it goes. Remember to be kind to yourself during this process. ,T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! See you next time!,T,Insignificant

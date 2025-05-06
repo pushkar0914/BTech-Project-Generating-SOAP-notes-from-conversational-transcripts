@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing better. I practiced the mindfulness a few times.",P,Progress Evaluation: History of Present Illness (HPI)
+That’s fantastic! How did it go for you?,T,Insignificant
+It really helped me relax before bed. I’ve been sleeping a bit better.,P,Physiological Observations
+That’s wonderful to hear! It sounds like incorporating mindfulness is making a positive difference. Have you noticed any changes in your mood during the day?,T,Insignificant
+"Yeah, I feel less anxious. I’ve also been trying to socialize more.",P,History of Present Illness (HPI)
+That’s great progress! What activities have you been engaging in?,T,Insignificant
+I went to a couple of meetups and even made a few new friends.,P,Current Functional Status
+That’s excellent! Making connections can be so beneficial. How do you feel about these new relationships?,T,Insignificant
+I feel good about them. It’s nice to have people to hang out with.,P,Current Functional Status
+"I’m glad to hear that. As you build these connections, how are you feeling about your work situation?",T,Insignificant
+"It’s still tough with my boss, but I’m trying to focus on the positive aspects of my job.",P,History of Present Illness (HPI)
+That’s a healthy approach. Have you thought more about setting boundaries or addressing your feelings with him?,T,Insignificant
+I haven’t yet. I’m still a bit hesitant.,P,History of Present Illness (HPI)
+That’s understandable. It might help to role-play some scenarios here. Would you like to try that?,T,Insignificant
+"Sure, I think that could be useful.",P,Insignificant
+Great! Let’s say your boss makes a belittling comment. How would you like to respond?,T,Insignificant
+"I would want to say something like, “I don’t appreciate that comment. I’m working hard too.”",P,Therapeutic Interventions
+That’s a strong response. Practicing that can help you feel more confident. Would you be willing to try this in a real situation?,T,Insignificant
+"Yes, I think I could try.",P,Insignificant
+"Wonderful! Remember, it’s about expressing your feelings assertively. Now, you mentioned honoring your parents' memory last time. Have you had a chance to do that?",T,Insignificant
+"Yes, I wrote them letters. It felt really good to express my feelings.",P,History of Present Illness (HPI)
+That’s beautiful. Writing can be a powerful tool for processing emotions. How did it feel to reflect on your memories with them?,T,Insignificant
+It was emotional but also healing. I felt a sense of closure.,P,History of Present Illness (HPI)
+"I’m glad to hear that. It’s important to allow yourself to feel those emotions. As we move forward, let’s continue to explore your feelings and coping strategies. Are there any new challenges you’ve encountered?",T,Insignificant
+"I’ve been feeling a bit overwhelmed with work lately, especially with deadlines.",P,History of Present Illness (HPI)
+That’s understandable. It can be stressful to manage multiple responsibilities. Have you considered time management techniques to help alleviate some of that pressure?,T,Insignificant
+I haven’t really thought about that. What do you suggest?,P,Insignificant
+"One approach is to prioritize your tasks and break them down into smaller, manageable steps. Would you like to try creating a plan together?",T,Therapeutic Interventions
+"Yes, I think that could help me feel more organized.",P,Insignificant
+Great! Let’s list your tasks and categorize them by priority. This can help you focus on what needs immediate attention.,T,Therapeutic Interventions
+"Okay, I have a few deadlines coming up.",P,Current Functional Status
+"Perfect. Once we outline them, we can also plan breaks to recharge. It’s important to take care of yourself during busy times.",T,Therapeutic Interventions
+That makes sense. I often forget to take breaks.,P,Insignificant
+"Many people do! Remember, self-care is essential for maintaining your well-being. As we wrap up, what goals would you like to set for our next session?",T,Insignificant
+I want to work on being more assertive at work and managing my time better.,P,Next Steps
+Those are excellent goals! We can focus on assertiveness techniques and time management strategies. Does that sound good?,T,Insignificant
+"Yes, I’m looking forward to it.",P,Insignificant
+"Great! Keep practicing your mindfulness, and remember to take those breaks. I’m proud of the progress you’re making.",T,Progress Evaluation
+"Thank you, Ellie. I appreciate it.",P,Insignificant
+"You’re welcome! Have a great week, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

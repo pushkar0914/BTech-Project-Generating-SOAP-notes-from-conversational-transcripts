@@ -1,0 +1,56 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi Tatiana, welcome back! How was your trip to Hawaii?  ",T,Insignificant
+"Oh my gosh, it was amazing! Just what I needed. The beaches, the food, everything was just perfect.  ",P,Insignificant
+That sounds wonderful! Did you find it relaxing?  ,T,Insignificant
+Totally! I really got to disconnect from everything. I even tried surfing!  ,P,Insignificant
+"Wow, that’s impressive! How did that go?  ",T,Insignificant
+"It was challenging but fun! I fell a lot, but I think I got the hang of it by the end of the trip.  ",P,Insignificant
+That’s great to hear! Trying new things can be so rewarding. Did you feel any different when you returned?  ,T,Insignificant
+"Yeah, I felt lighter, you know? Like I could breathe again. But now that I’m back, reality is hitting me hard.  ",P,History of Present Illness (HPI)
+What do you mean by reality?  ,T,Insignificant
+"Just the job search and feeling stuck again. It’s like, I was so free there, and now I’m back to stressing about money and work.  ",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Do you have any strategies to cope with that stress?  ,T,Insignificant
+"I’ve been trying to keep up with my workouts and photography, but it’s hard when I feel overwhelmed.  ",P,History of Present Illness (HPI)
+That makes sense. How do you feel about incorporating more of those activities into your routine?  ,T,Insignificant
+I think I need to make it a priority. It just gets hard to motivate myself when I feel down.  ,P,History of Present Illness (HPI)
+"Perhaps we can set some small, achievable goals for you to help with that?  ",T,Insignificant
+"Yeah, I’d like that.  ",P,Insignificant
+Great! How about setting a goal to take a photo every day or go for a short walk?  ,T,Therapeutic Interventions
+That sounds doable! I could definitely manage that.  ,P,Therapeutic Interventions
+Awesome! It might help you reconnect with your creative side and provide a little joy in your day.  ,T,Insignificant
+"Yeah, I think so too.  ",P,Insignificant
+How about your roommates? Have you had a chance to reconnect with them since your last session?  ,T,Insignificant
+Not really. I’ve been so busy with work and trying to get back into a routine that I haven’t made an effort.  ,P,Psychosocial History
+Would it be helpful to reach out to them? Maybe suggest a fun activity?  ,T,Insignificant
+"Yeah, I think I should. It would be nice to break the ice again.  ",P,Insignificant
+What kind of activity do you think would work?  ,T,Insignificant
+Maybe a movie night or a game night? Something low-key.  ,P,Insignificant
+That sounds perfect! It could help you all reconnect and lighten the mood.  ,T,Insignificant
+I’ll try to set that up soon.  ,P,Insignificant
+Excellent! How have you been feeling about your job search?  ,T,Insignificant
+"Honestly, it’s been frustrating. I apply to jobs but don’t hear back, and it just makes me feel like I’m not good enough.  ",P,History of Present Illness (HPI)
+"It’s tough out there, and it’s easy to internalize those rejections. Have you thought about what you want from your next job?  ",T,Insignificant
+"Yeah, definitely something more creative and engaging. I want to feel like I’m making a difference, not just sitting at a desk.  ",P,History of Present Illness (HPI)
+That’s a good insight. Maybe we can brainstorm some job options that align with those values?  ,T,Insignificant
+I’d like that.  ,P,Insignificant
+Great! What about photography? Have you thought about pursuing it more seriously?  ,T,Insignificant
+"I have, but it feels so daunting. Like, I don’t know where to start.  ",P,History of Present Illness (HPI)
+What if we break it down into smaller steps?  ,T,Insignificant
+"Okay, like what?  ",P,Insignificant
+Maybe start by creating a portfolio of your best work or reaching out to local photographers for advice?  ,T,Therapeutic Interventions
+That could work! I’ll feel more confident if I have something to show.  ,P,Insignificant
+Exactly! And it could open up new opportunities for you.  ,T,Insignificant
+"Yeah, I like that idea.  ",P,Insignificant
+How’s your relationship with your boyfriend? Have things improved since we last talked?  ,T,Insignificant
+"A little. We had a good conversation after I got back, but we still have our moments.  ",P,Psychosocial History
+Communication is key. Have you both been able to express your feelings openly?  ,T,Insignificant
+"Yeah, we’ve been trying. It’s just hard sometimes when we get caught up in our own frustrations.  ",P,History of Present Illness (HPI)
+"That’s completely normal. It might help to schedule regular check-ins, just to talk about how you’re both feeling.  ",T,Therapeutic Interventions
+That’s a good idea! I think it would help us stay connected.  ,P,Insignificant
+"I’m glad you think so! Remember, it’s okay to lean on each other during tough times.  ",T,Insignificant
+"I will. Thanks, Ellie.  ",P,Insignificant
+"Of course! So, let’s summarize today’s session. You’ll aim to take a photo every day, reach out to your roommates, and consider taking more steps towards photography. Does that sound good?  ",T,Next Steps
+"Yes, I feel good about that!  ",P,Insignificant
+Wonderful! I look forward to hearing how it goes in our next session.  ,T,Insignificant
+Me too! See you next time!  ,P,Insignificant
+"Bye, Tatiana!  ",T,Insignificant

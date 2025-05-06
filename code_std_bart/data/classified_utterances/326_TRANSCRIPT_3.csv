@@ -1,0 +1,38 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since we last spoke?  ,T,Insignificant
+"Hi, Ellie! I’ve been doing well, thanks! I’ve been practicing my breathing exercises.  ",P,History of Present Illness (HPI)
+That’s wonderful! How has that impacted your stress levels?  ,T,History of Present Illness (HPI)
+"I feel more in control, especially at work.  ",P,History of Present Illness (HPI)
+That’s fantastic to hear! Have you noticed any specific situations where it helped?  ,T,History of Present Illness (HPI)
+"Yes, during a big meeting last week. I felt anxious, but I used the breathing technique.  ",P,History of Present Illness (HPI)
+That’s a great application of what we’ve discussed. How did it feel to manage your anxiety in that moment?  ,T,History of Present Illness (HPI)
+Empowering! I felt like I was in charge.  ,P,History of Present Illness (HPI)
+That’s an incredible feeling! Have you shared this experience with your girlfriend?  ,T,Insignificant
+I did! She was really impressed.  ,P,Insignificant
+That’s great! It sounds like you’re building a supportive environment. Is there anything else you’d like to work on today?  ,T,Insignificant
+I think I want to dive deeper into my feelings about work.  ,P,Presenting Problem / Chief Complaint
+Absolutely! What specific feelings or challenges are you experiencing?  ,T,Insignificant
+"I sometimes feel unappreciated, like my efforts go unnoticed.  ",P,History of Present Illness (HPI)
+That sounds tough. Do you think that impacts your motivation?  ,T,Insignificant
+"Yeah, it does. I sometimes feel like why bother if no one notices.  ",P,History of Present Illness (HPI)
+That’s completely understandable. Have you thought about ways to communicate your contributions to your team?  ,T,Insignificant
+Not really. I guess I’ve been waiting for recognition.  ,P,History of Present Illness (HPI)
+It’s common to want acknowledgment. What if you took the initiative to share your accomplishments?  ,T,Therapeutic Interventions
+I could do that. I just worry about coming off as bragging.  ,P,History of Present Illness (HPI)
+That’s a valid concern. It’s all about framing it positively. You can share your achievements as part of team progress.  ,T,Therapeutic Interventions
+That makes sense.  ,P,Insignificant
+Would you feel comfortable drafting a message or talking to your manager about it?  ,T,Therapeutic Interventions
+I think I could try that.  ,P,Insignificant
+Great! Let’s set a goal for you to have that conversation this week.  ,T,Next Steps
+"Okay, I’ll aim for that.  ",P,Insignificant
+Awesome! Is there anything else you’d like to discuss today?  ,T,Insignificant
+Just how to keep this momentum going.  ,P,Presenting Problem / Chief Complaint
+That’s a good focus. Consistency is key. How about we set up a weekly check-in for your goals?  ,T,Next Steps
+I’d like that.  ,P,Insignificant
+Perfect! We can touch base on your progress and any new challenges you face.  ,T,Next Steps
+Sounds good to me!  ,P,Insignificant
+I’m excited to see how you continue to grow. Thank you for sharing today!  ,T,Insignificant
+"Thank you, Ellie!  ",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.  ",T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

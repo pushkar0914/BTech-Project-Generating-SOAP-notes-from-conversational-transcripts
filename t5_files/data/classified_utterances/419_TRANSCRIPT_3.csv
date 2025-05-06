@@ -1,0 +1,25 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s nice to see you again. How have you been doing since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing pretty well. I tried to practice my patience with my family, and it went better than I expected.",P,History of Present Illness (HPI)
+That’s fantastic! Can you tell me about a specific instance where you felt you managed your patience well?,T,Insignificant
+"Sure! Last weekend, my dad started asking me about my job again, and instead of snapping, I took a deep breath and explained things calmly.",P,History of Present Illness (HPI)
+That’s a great example of putting your strategies into practice! How did that make you feel afterward?,T,Insignificant
+I felt proud of myself. It was nice to have a calm conversation instead of an argument.,P,History of Present Illness (HPI)
+That’s a significant achievement! How about your social interactions? Have you had the chance to meet any new people?,T,Insignificant
+"Yes, I went to a new class, and I made an effort to introduce myself to a couple of people. It was nerve-wracking, but I did it!",P,Current Functional Status
+That’s amazing! How did that experience go for you?,T,Insignificant
+"It was actually fun! I felt a little anxious at first, but once I started talking, it got easier.",P,History of Present Illness (HPI)
+That’s a wonderful outcome! It sounds like you’re becoming more comfortable in those situations. Are there any lingering fears or anxieties you still want to address?,T,Insignificant
+"I still worry about being judged or not fitting in, especially in new settings.",P,History of Present Illness (HPI):Risk Assessment
+"Those feelings are quite common. We can work on cognitive restructuring to challenge those thoughts. For example, when you think, “They won’t like me,” we can reframe it to, “I’m open to making connections, and not everyone has to like me.”",T,Therapeutic Interventions
+That sounds helpful. I definitely need to work on changing those negative thoughts.,P,Therapeutic Interventions
+Absolutely! Let’s also touch on your sleep. How has your bedtime routine been since we last spoke?,T,Insignificant
+"I’ve kept it up, but I still wake up a couple of times. I think my mind races a lot.",P,Physiological Observations
+It’s great that you’ve maintained the routine! We can also explore some guided imagery techniques to help calm your mind before sleep. Would you like to try that?,T,Therapeutic Interventions
+"Yes, I think that could help.",P,Therapeutic Interventions
+"Wonderful! As we wrap up today, let’s set a goal for the coming week. You could aim to practice the cognitive restructuring technique and the guided imagery before bed.",T,Next Steps
+I can do that! ,P,Next Steps
+"Excellent! I look forward to hearing how those strategies work for you. Remember, progress takes time, and you’re doing great.",T,Insignificant
+"Thank you so much, Ellie. I appreciate your support.",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant

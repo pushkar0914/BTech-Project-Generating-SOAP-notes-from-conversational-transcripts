@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+Hi Ellie! I’ve been good. I actually reached out to three potential clients like I said I would!,P,Presenting Problem / Chief Complaint
+That’s fantastic! How did that go for you?,T,Insignificant
+"It was nerve-wracking, but I did it! I even got a couple of positive responses.",P,History of Present Illness (HPI)
+That’s amazing! It sounds like that goal really helped you take action. How did it feel to get those responses?,T,Insignificant
+It felt really validating. I was excited and relieved that I put myself out there.,P,History of Present Illness (HPI)
+That’s wonderful! It’s great to see your efforts paying off. Did you notice any self-doubt creeping in during this process?,T,Insignificant
+"A little, but I reminded myself of our conversation about reframing fear. It helped a lot.",P,History of Present Illness (HPI)
+I’m glad to hear that! It sounds like you’re building resilience. What’s next on your agenda with these clients?,T,Current Functional Status
+I’m scheduling meetings with them to discuss their needs and how I can help.,P,Insignificant
+That’s a great step! How do you feel about these upcoming meetings?,T,History of Present Illness (HPI)
+"I’m a bit nervous, but also excited. I want to make a good impression.",P,Insignificant
+That’s completely normal. Have you thought about how you’ll prepare for these meetings?,T,Next Steps
+I plan to review their needs and come up with ideas beforehand. I want to be ready.,P,Insignificant
+Preparation is key! It sounds like you’re taking this seriously. How will you manage any nerves on the day of the meetings?,T,Therapeutic Interventions
+I think I’ll practice some deep breathing and remind myself that I’m capable.,P,Insignificant
+Excellent strategy! Deep breathing can really help calm those nerves. Are there any other techniques you’ve found helpful lately?,T,Therapeutic Interventions
+I’ve been using my journal more to jot down my thoughts before bed. It helps clear my mind.,P,Insignificant
+That’s great to hear! Journaling can be a powerful tool. Have you noticed any specific patterns or insights in your entries lately?,T,History of Present Illness (HPI)
+I’ve been writing more about my aspirations and how I can overcome obstacles. It feels good to focus on the positive.,P,Insignificant
+That’s a wonderful shift in perspective! It’s important to celebrate your aspirations. Is there a specific aspiration you’d like to share?,T,Presenting Problem / Chief Complaint
+I really want to establish my own event planning brand and be recognized for my work.,P,Insignificant
+That’s an exciting goal! What steps do you think you need to take to get there?,T,Next Steps
+"I think I need to build a portfolio, network more, and keep honing my skills.",P,Insignificant
+Those are all excellent steps. Networking can be especially valuable. Have you thought about how to expand your network?,T,Next Steps
+I’ve considered attending more industry events and connecting with people on social media.,P,Insignificant
+That’s a proactive approach! Building connections can lead to new opportunities. Is there a specific event you have in mind?,T,Next Steps
+There’s a local event planning conference coming up next month. I’m thinking about attending.,P,Insignificant
+That sounds like a perfect opportunity! How do you feel about attending that conference?,T,History of Present Illness (HPI)
+I’m excited but also a bit intimidated. It’s a big event with many professionals.,P,Insignificant
+"It’s understandable to feel that way. Remember, everyone there was once in your shoes. What’s one way you could make it feel less intimidating?",T,Next Steps
+"I could set small goals for myself, like talking to at least two new people.",P,Insignificant
+"That’s a great idea! Setting small, achievable goals can help ease the pressure. How do you think you could approach those conversations?",T,Next Steps
+I could start by asking about their work and sharing my interests. Just keeping it casual.,P,Insignificant
+"Perfect! That sounds like a natural way to connect. As we wrap up today, what’s one takeaway you’d like to focus on until our next session?",T,Next Steps
+I want to focus on building my network and feeling confident in my abilities.,P,Insignificant
+That’s a fantastic takeaway! I’m excited to hear about your progress next time. ,T,Insignificant
+"Thanks, Ellie! I appreciate all your support.",P,Insignificant
+"You’re doing great work. Take care, and I’ll see you soon!",T,Insignificant
+See you next week!,P,Insignificant

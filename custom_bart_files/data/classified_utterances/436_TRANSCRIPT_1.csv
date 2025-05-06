@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"I've been okay, just trying to keep busy, you know?",P,Insignificant
+"That's good to hear. Last time, we talked about your goals for getting back to school and working on your graphic design. How has that been going?",T,Insignificant
+"Well, I enrolled in a few online courses, so that’s a step forward.",P,History of Present Illness (HPI)
+That’s fantastic! How are you finding the courses so far?,T,Insignificant
+"They’re challenging, but I’m enjoying it. It feels good to learn again.",P,History of Present Illness (HPI)
+That’s great to hear! What’s been the most enjoyable part of the courses for you?,T,Insignificant
+I really like the creative projects. It gives me a chance to express myself.,P,History of Present Illness (HPI)
+That’s wonderful. Do you feel like this is helping you manage your stress?,T,Insignificant
+"Yeah, I think so. It keeps my mind occupied, which is nice.",P,History of Present Illness (HPI)
+I remember you mentioned feeling more at peace when you go back to Mexico. Have you had a chance to think about how you can bring some of that peace into your daily life here?,T,Insignificant
+I’ve been trying to incorporate more music and relaxation time into my routine.,P,Current Functional Status
+That sounds like a great idea. Music can be very soothing. What kind of music do you enjoy?,T,Insignificant
+"Mostly Latin music, but I also like some chill playlists. They help me unwind.",P,Current Functional Status
+Have you tried any mindfulness or relaxation exercises along with the music?,T,Insignificant
+"I haven’t really, but I’m open to it. What do you suggest?",P,Insignificant
+We could start with some simple breathing exercises. They can help ground you when you’re feeling overwhelmed. Would you like to try that now?,T,Therapeutic Interventions
+"Sure, that sounds good.",P,Insignificant
+Great! Let’s take a deep breath in through your nose… and out through your mouth. Let’s do that a few times together. ,T,Therapeutic Interventions
+*breathes in and out* ,P,Insignificant
+How do you feel after that?,T,Insignificant
+"A bit more relaxed, actually. ",P,Mental Health Observations
+That’s wonderful! Incorporating that into your daily routine could help you manage stress better. How do you think you could fit that in?,T,Insignificant
+Maybe in the mornings before I start my day or in the evenings to wind down.,P,Current Functional Status
+That sounds like a solid plan. You mentioned that you want to work on your temper as well. Have you noticed any situations where it has been a challenge recently?,T,Insignificant
+"Yeah, I had a small argument with my girlfriend last week over something silly. I felt my temper rising.",P,History of Present Illness (HPI)
+It’s great that you’re aware of that. What do you think triggered that reaction?,T,Insignificant
+I think it was just a combination of stress and feeling overwhelmed with everything I’m trying to manage.,P,History of Present Illness (HPI)
+That’s understandable. How did you handle it in the moment?,T,Insignificant
+I took a step back and told her I needed a moment to cool off. ,P,Current Functional Status
+That’s a great technique! Recognizing when you need space is an important step. How did she respond?,T,Insignificant
+"She was understanding, which helped a lot. ",P,Current Functional Status
+That’s wonderful to hear. Communication is key in relationships. Have you thought about ways to communicate your feelings before they escalate?,T,Insignificant
+I think I could try to express when I’m feeling overwhelmed before it gets to that point.,P,Progress Evaluation
+That’s a great insight. It’s all about being proactive. How do you think you could practice that?,T,Insignificant
+Maybe I could set aside some time to talk with her about how I’m feeling.,P,Next Steps
+Absolutely! Open dialogue can really strengthen your relationship. What else would you like to work on in our sessions moving forward?,T,Insignificant
+I want to continue focusing on my goals for school and managing my emotions better. ,P,Next Steps
+Those sound like solid goals. We can also explore more coping strategies for stress management. How does that sound?,T,Insignificant
+That sounds perfect. ,P,Insignificant
+"Great! I’m looking forward to our next session. Keep practicing those breathing exercises, and let’s check in on how they’re helping next time. ",T,Next Steps
+Will do! Thanks for your help today.,P,Insignificant
+"You’re welcome! Take care, and I’ll see you soon.",T,Insignificant
+Bye! ,P,Insignificant

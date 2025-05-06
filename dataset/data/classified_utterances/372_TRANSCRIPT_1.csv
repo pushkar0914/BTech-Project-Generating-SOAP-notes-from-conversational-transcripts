@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's good to see you. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I've been okay, I guess. It's been a bit of a rollercoaster, but I'm hanging in there.",P,Insignificant
+I'm glad to hear you're hanging in there. What has been the most significant thing on your mind lately?,T,Insignificant
+"Well, I've been thinking a lot about my son and the custody situation. It's just so stressful.",P,Presenting Problem / Chief Complaint
+That sounds really tough. Have you had any updates on the custody case since we last spoke?,T,Insignificant
+"Not really. Just the same tension with my family. They keep pushing their views on me, and I feel overwhelmed.",P,History of Present Illness (HPI)
+It sounds like you're feeling a lot of pressure from your family. How are you coping with that pressure?,T,Insignificant
+"I try to remind myself that I know what's best for my son, but it's hard when everyone else is so vocal about their opinions.",P,History of Present Illness (HPI)
+That's understandable. It’s important to trust your instincts as a parent. Have you found any specific strategies that help you manage that pressure?,T,Insignificant
+"I’ve been trying to journal more about my feelings, but sometimes I just end up crying instead.",P,Therapeutic Interventions
+"Journaling can be a powerful tool, even if it leads to tears. What do you usually write about when you're journaling?",T,Insignificant
+"Mostly about my worries, like how I’m going to prove I’m a good mom. I write about my hopes for my son too.",P,Therapeutic Interventions
+That’s a great approach. It can help clarify your thoughts and feelings. Have you noticed any patterns in what you write about?,T,Insignificant
+"Yeah, I tend to focus on the negative things, like my fears about losing him. I don’t write enough about the positive moments.",P,Therapeutic Interventions
+Recognizing that pattern is a good first step. How might you incorporate more positive reflections into your journaling?,T,Insignificant
+"Maybe I could start each entry with something good that happened that day, no matter how small.",P,Therapeutic Interventions
+That sounds like a wonderful idea! Focusing on the positives can help shift your mindset. How do you feel about trying that in your next journal entry?,T,Insignificant
+I feel good about it! I think it could help me see things differently.,P,Insignificant
+Great! Let's check in on your mood. How have you been feeling overall in the past week?,T,Insignificant
+"Honestly, I've had some ups and downs. Some days I feel okay, but others I just feel really down like I can't get out of bed.",P,History of Present Illness (HPI)
+I'm sorry to hear that. It sounds like you're experiencing some fluctuations in your mood. Have you noticed any triggers for those down days?,T,Insignificant
+I think it’s mostly when I think about my son. The missing him just hits me hard sometimes.,P,History of Present Illness (HPI)
+That makes sense. It’s natural to feel that way. Have you considered any coping strategies for those particularly tough days?,T,Insignificant
+"I’ve tried to distract myself by watching shows or reading, but sometimes it just doesn’t work.",P,History of Present Illness (HPI)
+"Distraction can be helpful, but it’s also important to sit with those feelings sometimes. Have you tried any mindfulness or grounding techniques?",T,Insignificant
+"I haven’t really, but I think I should. I’ve heard they can help.",P,Insignificant
+Mindfulness can be very beneficial. Would you like to explore a simple grounding technique together?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+"Okay, let’s try a quick exercise. Take a deep breath in… and slowly let it out. Now, focus on your surroundings. Can you name three things you can see right now?",T,Insignificant
+"Um, I see my couch, a picture of my son, and my coffee mug.",P,Insignificant
+"Great! Now, can you name two things you can hear?",T,Insignificant
+I hear the clock ticking and some birds outside.,P,Insignificant
+"Perfect. And finally, can you name one thing you can feel right now?",T,Insignificant
+I can feel the cushion of the couch under me.,P,Insignificant
+Excellent! This exercise can help bring you back to the present moment when you’re feeling overwhelmed. How do you feel after trying that?,T,Insignificant
+I feel a little calmer. It was nice to focus on something other than my worries for a moment.,P,Mental Health Observations
+I’m glad to hear that! Integrating these techniques into your routine can help you manage those tough moments. Would you be willing to practice this grounding exercise at home?,T,Insignificant
+"Yes, I think I can do that. It feels manageable.",P,Insignificant
+"Wonderful! As we wrap up today, what’s one goal you’d like to focus on before our next session?",T,Insignificant
+I’d like to try to write more positively in my journal and practice the grounding exercise when I feel anxious.,P,Next Steps
+"Those sound like excellent goals! I’m looking forward to hearing how it goes next time. Remember, it’s okay to take things one step at a time.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

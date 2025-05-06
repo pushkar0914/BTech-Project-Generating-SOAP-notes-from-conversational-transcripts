@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi again! It's good to see you back. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I've been okay, I guess. Just trying to keep busy.",P,Insignificant
+"That's good to hear. Last time, we talked about your writing and how it helps you relax. Have you had a chance to write more since we last spoke?",T,Insignificant
+"Yeah, I actually have. I managed to write a few more chapters of my novel. It's been a bit therapeutic.",P,History of Present Illness (HPI)
+That’s great! What have you been exploring in those chapters?,T,Insignificant
+I've been diving deeper into the main character’s backstory. It's interesting to see how his past shapes his decisions.,P,Insignificant
+It sounds like you're really connecting with your character. How does that feel for you?,T,Insignificant
+"It feels good, but sometimes it gets heavy. I find myself reflecting on my own past while writing.",P,History of Present Illness (HPI)
+That makes sense. Writing can be a powerful way to process emotions. Have you noticed any particular memories or feelings coming up?,T,Insignificant
+"Yeah, definitely. I’ve been thinking a lot about my family and how things have changed since I moved. It’s bittersweet.",P,History of Present Illness (HPI):Psychosocial History
+That’s understandable. It sounds like there’s a lot of unresolved feelings there. How do you cope with those feelings when they arise?,T,Insignificant
+"I try to channel them into my writing, but sometimes it just makes me feel more down.",P,History of Present Illness (HPI)
+It’s important to acknowledge those feelings too. Are there any coping strategies you’ve found helpful when writing becomes overwhelming?,T,Insignificant
+I’ve been trying to take breaks and do some mindfulness exercises. It helps a bit to ground myself.,P,History of Present Illness (HPI):Therapeutic Interventions
+That’s a positive step. Mindfulness can be really effective. What kind of exercises are you doing?,T,Insignificant
+Mostly breathing exercises and some guided meditations. I’ve found a few apps that help.,P,Therapeutic Interventions
+That’s wonderful! Have you noticed any changes in how you feel after practicing mindfulness?,T,Insignificant
+"A little, yeah. It helps me feel less anxious, but it’s still a struggle to keep my mind from wandering.",P,Physiological Observations:History of Present Illness (HPI)
+"It’s a process, and it’s great that you’re making an effort. You mentioned your family last time. Have you thought more about reaching out to them?",T,Insignificant
+"I have, but it’s hard. I feel like I’d just be opening old wounds.",P,History of Present Illness (HPI):Psychosocial History
+"That’s completely valid. Sometimes, taking small steps can help. Maybe starting with a text or an email could feel less daunting.",T,Insignificant
+"Yeah, that could work. I just worry about how they’ll react.",P,History of Present Illness (HPI)
+It’s normal to feel apprehensive. What do you think might be the worst-case scenario?,T,Insignificant
+I guess they might not respond or they might be upset with me.,P,Risk Assessment
+And how would you feel if that happened?,T,Insignificant
+"I’d feel really rejected, like I’ve failed again.",P,Risk Assessment
+"It’s understandable to feel that way. But remember, reaching out is a step towards healing, regardless of the outcome.",T,Insignificant
+That’s true. I just need to remind myself of that.,P,Insignificant
+"Absolutely! You’re taking control of your narrative, and that’s empowering. What do you think would be a good first step for you?",T,Insignificant
+Maybe drafting a message and sitting on it for a few days before sending it.,P,Next Steps
+That sounds like a solid plan. Giving yourself time to reflect can help ease some pressure. ,T,Insignificant
+"Yeah, I think I can manage that.",P,Insignificant
+Great! Let’s also talk about your job search. How has that been going?,T,Insignificant
+Not great. I’m still applying but getting little to no responses. ,P,History of Present Illness (HPI):Current Functional Status
+That sounds frustrating. Have you found any new strategies to improve your chances?,T,Insignificant
+"I’ve been trying to tailor my resume more, but it feels like a shot in the dark sometimes.",P,History of Present Illness (HPI)
+Tailoring your resume is a smart move. Have you considered networking or reaching out to former colleagues?,T,Insignificant
+I haven’t really thought about that. I guess I’m just nervous about it.,P,History of Present Illness (HPI)
+"That’s understandable. Networking can feel intimidating, but it can also open doors. You might be surprised by how willing people are to help.",T,Insignificant
+Maybe I should give it a shot. ,P,Next Steps
+I think that’s a great idea! Even just reconnecting with a few people could help you feel more supported during this time.,T,Insignificant
+"Yeah, I’ll think about it. ",P,Insignificant
+"Good! Remember, you’re not alone in this. Is there anything else on your mind that you’d like to discuss today?",T,Insignificant
+I think that’s it for now. I just need to keep working through things.,P,Insignificant
+That’s a healthy mindset. Just remember to be kind to yourself through this process. ,T,Insignificant
+"Thanks, Ellie. I appreciate that.",P,Insignificant
+You’re welcome! I’m looking forward to hearing about your progress next time. Take care until then!,T,Insignificant
+"You too, bye!",P,Insignificant

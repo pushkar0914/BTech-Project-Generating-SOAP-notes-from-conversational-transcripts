@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. I'm glad to see you back today. How have you been since our last session?  ",T,Insignificant
+"I've been doing pretty well, thanks.  ",P,Insignificant
+"That's great to hear! Last time, you mentioned feeling a lot better since you started going to church. Have you continued with that?  ",T,History of Present Illness (HPI)
+"Yeah, I've been going regularly. It really helps me feel grounded.  ",P,History of Present Illness (HPI)
+I'm glad to hear that. What do you enjoy most about going to church?  ,T,Insignificant
+I like the sense of community and the messages. They give me hope and encouragement.  ,P,Psychosocial History
+That sounds wonderful. Have you made any new connections there?  ,T,Insignificant
+"A few, yeah. I’ve met some nice people who share similar values.  ",P,Psychosocial History
+That's fantastic! Building connections can be really beneficial. How do you feel about those new friendships?  ,T,Insignificant
+I feel good about them. It's nice to be around people who understand what I'm going through.  ,P,Psychosocial History
+That’s important. You mentioned last time that you enjoy cooking. Have you had a chance to experiment with any new recipes?  ,T,Insignificant
+"Actually, yes! I tried making a new dish for my family last week.  ",P,Insignificant
+What did you make?  ,T,Insignificant
+I made a homemade lasagna. It turned out pretty good!  ,P,Insignificant
+That sounds delicious! How did it feel to cook for your family?  ,T,Insignificant
+It felt great. I love seeing them enjoy what I cook.  ,P,Insignificant
+Cooking can be such a nurturing act. Do you find it relaxing as well?  ,T,Insignificant
+Definitely. It’s like therapy for me.  ,P,History of Present Illness (HPI)
+"That’s a wonderful outlet! Have you thought about incorporating cooking into your routine more, maybe as a way to unwind?  ",T,Insignificant
+"Yeah, I think I will. It helps me focus and forget about other worries.  ",P,History of Present Illness (HPI)
+That’s a great strategy. You also mentioned feeling anxious about the world and your children’s future. How has that been for you lately?  ,T,History of Present Illness (HPI)
+"It still weighs on my mind sometimes, but I’m trying to stay positive.  ",P,History of Present Illness (HPI)
+That’s understandable. It’s a tough world out there. Have you found any techniques that help you manage those feelings?  ,T,Insignificant
+I try to pray and meditate when I feel overwhelmed.  ,P,History of Present Illness (HPI)
+Those are excellent coping strategies. How has that worked for you?  ,T,Insignificant
+It helps me calm down and focus on the present.  ,P,History of Present Illness (HPI)
+That’s wonderful. Mindfulness can be very powerful. Have you considered incorporating mindfulness exercises into your daily routine?  ,T,Insignificant
+"I haven’t really thought about it, but I’m open to it.  ",P,Insignificant
+Perhaps we could explore some mindfulness practices together next time. Would you be interested in that?  ,T,Insignificant
+"Yeah, that sounds good.  ",P,Insignificant
+Great! Is there anything specific you’d like to work on in our sessions moving forward?  ,T,Insignificant
+I guess just finding ways to manage stress better.  ,P,Presenting Problem / Chief Complaint
+That’s a good goal. We can definitely focus on that. I’d also like to explore your feelings about parenting a bit more. How do you feel about your role as a father?  ,T,Insignificant
+"I feel proud, but sometimes I worry if I’m doing enough.  ",P,History of Present Illness (HPI)
+It’s natural to have those concerns. What do you think makes a good parent?  ,T,Insignificant
+I think being there for your kids and teaching them right from wrong is important.  ,P,History of Present Illness (HPI)
+Absolutely. You seem to have a strong sense of responsibility. Do you feel supported in your parenting journey?  ,T,Insignificant
+"Sometimes, but I think I could use more help.  ",P,History of Present Illness (HPI)
+What kind of support do you think would be helpful?  ,T,Insignificant
+Maybe just talking to other parents or finding a group to join.  ,P,History of Present Illness (HPI)
+That sounds like a great idea! Connecting with other parents can provide valuable insights and support.  ,T,Insignificant
+"Yeah, I think it would help me feel less alone in it.  ",P,History of Present Illness (HPI)
+Definitely. We can look into resources for that as well. Is there anything else you’d like to discuss today?  ,T,Insignificant
+"No, I think that covers it for now.  ",P,Insignificant
+"Alright, thank you for sharing today. I’m looking forward to our next session and exploring mindfulness techniques together.  ",T,Insignificant
+"Me too! Thanks, Ellie.  ",P,Insignificant
+"You’re welcome! Take care, and see you next time.  ",T,Insignificant
+Bye!,P,Insignificant

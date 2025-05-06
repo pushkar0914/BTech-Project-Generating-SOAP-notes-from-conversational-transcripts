@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s good to see you again. How have you been since our last session?",T,Insignificant
+"I've been alright, just trying to keep myself busy.",P,Insignificant
+"That’s good to hear. Last time, we talked about some of your interests and your family. Have there been any changes or new experiences in those areas?",T,Insignificant
+"Not really, just the usual. Still working on my car, and spending time with my wife and kids.",P,Psychosocial History
+That sounds nice. How has working on your car been for you? ,T,Insignificant
+"It’s been therapeutic, honestly. I get to focus on something I love, and it helps me clear my mind.",P,History of Present Illness (HPI)
+I’m glad to hear that. You mentioned that you sometimes feel guilty about past wrongdoings. Have you had any thoughts about that since we last spoke?,T,History of Present Illness (HPI)
+"Yeah, I’ve been thinking about it. I guess I just wish I could go back and fix some things.",P,History of Present Illness (HPI)
+That’s understandable. It’s common to feel that way. What do you think you would change if you could?,T,Insignificant
+Maybe I wouldn’t have gotten into trouble with traffic violations. I feel like it affected my life a lot.,P,History of Present Illness (HPI)
+It sounds like those experiences still weigh on you. How do you feel when you think about those moments?,T,Insignificant
+"I feel frustrated and a bit ashamed, like I let myself down.",P,History of Present Illness (HPI)
+It’s important to acknowledge those feelings. Have you found any coping strategies to deal with that frustration?,T,Insignificant
+"I try to distract myself by working on my car or spending time with family, but sometimes it creeps back in.",P,History of Present Illness (HPI)
+That makes sense. We can explore more effective coping strategies together. Would you be open to trying some mindfulness techniques?,T,Therapeutic Interventions
+"Sure, I’m willing to try anything that might help.",P,Insignificant
+Great! Mindfulness can help ground you in the present and reduce feelings of guilt. Let’s start with a simple breathing exercise. ,T,Therapeutic Interventions
+"Okay, I’m listening.",P,Insignificant
+"Take a deep breath in through your nose, hold it for a moment, and then slowly exhale through your mouth. Let’s do this together a few times.",T,Therapeutic Interventions
+*breathes in and out* ,P,Insignificant
+How does that feel?,T,Insignificant
+It feels nice. I can feel my body relaxing a bit.,P,Mental Health Observations
+That’s wonderful. Practicing this regularly can help bring you back to a calmer state when you feel overwhelmed. Would you be willing to try this at home?,T,Next Steps
+"Yeah, I can do that.",P,Insignificant
+Perfect. Let’s also talk about your relationship with your wife. You mentioned some disagreements last time. How has that been lately?,T,Psychosocial History
+"We’ve had a couple of arguments about small things, but nothing major.",P,Psychosocial History
+That’s good to hear. How do you usually handle those disagreements?,T,Insignificant
+"I try to stay calm, but sometimes I just want to raise my voice and get my point across.",P,History of Present Illness (HPI)
+It’s normal to feel that way in the heat of the moment. Have you thought about any strategies to communicate your feelings without raising your voice?,T,Insignificant
+I guess I could try to express my feelings before it escalates.,P,Next Steps
+"That’s a great idea. Maybe you could use “I” statements to express how you feel instead of focusing on what she’s doing wrong. For example, saying “I feel frustrated when…” instead of “You never…”",T,Therapeutic Interventions
+That makes sense. I can give that a shot.,P,Insignificant
+"Excellent! It takes practice, but it can lead to more productive conversations. Is there anything else on your mind that you’d like to discuss today?",T,Insignificant
+"I’ve been thinking about my future and my dreams, like owning my own shop. ",P,History of Present Illness (HPI)
+That’s an exciting goal! What steps do you think you could take to work towards that dream?,T,Insignificant
+I guess I could start saving money and maybe look into some business classes.,P,Next Steps
+"Those are great first steps! Setting small, achievable goals can help you feel more motivated. How about we set a goal for you to research a local business class by our next session?",T,Next Steps
+"Yeah, I can do that.",P,Insignificant
+"Wonderful! I’m looking forward to hearing about it. Before we wrap up, do you have any questions or anything else you’d like to share?",T,Insignificant
+"No, I think I’m good for now.",P,Insignificant
+"Alright, thank you for sharing today. Remember to practice the breathing exercise and think about how you can communicate with your wife. I’ll see you next time!",T,Insignificant
+"Thank you, Ellie. See you!",P,Insignificant

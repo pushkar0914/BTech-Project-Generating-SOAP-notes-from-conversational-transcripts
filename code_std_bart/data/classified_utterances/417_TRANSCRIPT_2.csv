@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi there! Welcome back. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been okay. I’ve been trying to practice mindfulness, like we talked about.",P,History of Present Illness (HPI)
+That’s fantastic! How has it been going for you?,T,Insignificant
+"I’ve been doing it most mornings, and it helps set a better tone for my day.",P,History of Present Illness (HPI)
+That’s great to hear! Have you noticed any changes in your anxiety levels since starting this practice?,T,History of Present Illness (HPI)
+I think so. I feel a bit more grounded and less reactive to stress.,P,History of Present Illness (HPI)
+That’s wonderful progress! What situations have you noticed it helping you with the most?,T,History of Present Illness (HPI)
+Mostly when I’m feeling overwhelmed at work or when I’m out in public.,P,History of Present Illness (HPI)
+Those are significant triggers. It sounds like you’re really using the tools we’ve discussed. Have you had any challenges with the practice?,T,History of Present Illness (HPI)
+"Sometimes I forget to do it, especially on busy days. ",P,History of Present Illness (HPI)
+That’s completely normal. Would setting a reminder help you remember?,T,Insignificant
+"Yeah, I could set an alarm on my phone.",P,Next Steps
+"That’s a great idea! Consistency can really help reinforce the habit. Now, how about your goal of exploring sex education? Have you made any progress?",T,Insignificant
+"I found a couple of workshops that I’m interested in, but I haven’t signed up yet.",P,Next Steps
+That’s a good step! What’s holding you back from signing up?,T,Insignificant
+I guess I’m still feeling unsure about whether it’s the right fit for me.,P,History of Present Illness (HPI)
+It’s okay to feel uncertain. What can you do to explore that uncertainty further?,T,Insignificant
+Maybe I could reach out to the organizers and ask questions about what to expect.,P,Next Steps
+That sounds like a proactive approach! Gathering information can help you feel more confident in your decision. ,T,Insignificant
+I think I’ll do that. ,P,Next Steps
+Great! Let’s set a timeline for that. How about aiming to reach out by the end of this week?,T,Next Steps
+That works for me. ,P,Next Steps
+"Excellent! Let’s check in on that in our next session. Now, how have things been with your boyfriend since our last talk?",T,Insignificant
+"We’ve been doing well! We’ve been more open with each other, and it feels good.",P,History of Present Illness (HPI)
+That’s wonderful! What specific changes have you noticed in your conversations?,T,Insignificant
+We’re not just talking about problems; we’re also sharing positive things and making plans together.,P,History of Present Illness (HPI)
+That’s a healthy balance! It sounds like you’re both fostering a deeper connection. How does that make you feel?,T,Insignificant
+It makes me feel really happy and secure in our relationship.,P,History of Present Illness (HPI)
+That’s fantastic! Building that security is so important. Have you discussed any future plans or goals as a couple?,T,Insignificant
+"We talked about going on a trip together, which we’re both excited about.",P,History of Present Illness (HPI)
+That sounds like a great opportunity to bond! What kind of trip are you planning?,T,Insignificant
+We’re thinking about a weekend getaway to the beach.,P,History of Present Illness (HPI)
+That sounds lovely! Have you both discussed how you want to spend your time there?,T,Insignificant
+"We want to relax, maybe do some hiking, and just enjoy each other’s company.",P,History of Present Illness (HPI)
+That sounds perfect! It’s important to have that time together. How do you feel about planning this trip?,T,Insignificant
+I’m excited! It’ll be nice to take a break from everything.,P,History of Present Illness (HPI)
+Absolutely! Taking time for yourselves can recharge your relationship. Have you thought about any activities you’d like to do while there?,T,Insignificant
+I’d love to go for a sunset walk on the beach and maybe try some local food.,P,History of Present Illness (HPI)
+"Those sound like wonderful ideas! It’s great to plan enjoyable experiences together. Now, is there anything else on your mind today?",T,Insignificant
+I think we’ve covered everything. I feel good about my goals and the progress I’m making.,P,Progress Evaluation
+I’m so glad to hear that! Remember to be gentle with yourself as you navigate these changes. Let’s touch base again next week and see how everything is going.,T,Next Steps
+Sounds good! Thank you for your support.,P,Insignificant
+"You’re welcome! Take care, and I look forward to our next session.",T,Insignificant
+Bye!,P,Insignificant

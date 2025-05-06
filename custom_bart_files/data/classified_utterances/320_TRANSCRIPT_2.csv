@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+[syncing]  ,P,Insignificant
+Hi! Welcome back. It’s nice to see you again. How have you been since our last session?  ,T,Insignificant
+"I’ve been trying out the journaling, and it’s been helpful.  ",P,Progress Evaluation
+That’s wonderful to hear! What have you been writing about?  ,T,Insignificant
+Mostly about my nightmares and how I felt after them.  ,P,History of Present Illness (HPI)
+That sounds like a great way to process those emotions. Have you noticed any patterns in your writing?  ,T,Insignificant
+"Yeah, I noticed that I often write about feeling trapped or scared.  ",P,History of Present Illness (HPI)
+That’s an important observation. It reflects how your trauma is affecting your emotions. How do you feel after writing those entries?  ,T,Insignificant
+It feels like I’m releasing some of the pressure.  ,P,History of Present Illness (HPI)
+That’s a positive step. Have you found any particular writing prompts that resonate with you?  ,T,Insignificant
+I’ve been writing about my feelings during the day and how they relate to my nightmares.  ,P,History of Present Illness (HPI)
+That’s a great approach. It can help connect the dots between your daily experiences and your dreams.  ,T,Insignificant
+I think it’s helping me understand myself better.  ,P,Progress Evaluation
+I’m glad to hear that! Have you had any nightmares since we last spoke?  ,T,Insignificant
+"Yes, but I felt a bit more prepared for them.  ",P,Progress Evaluation
+That’s progress! How did you cope when you woke up from the nightmares this time?  ,T,Insignificant
+"I used my breathing exercises right away, and it helped me calm down.  ",P,Therapeutic Interventions
+Fantastic! It’s great to see you applying what we’ve talked about. How about your relationship with your son? Have you had a chance to share anything with him?  ,T,Insignificant
+"I did! I told him I’ve been feeling a bit off lately, and he was really understanding.  ",P,Current Functional Status
+That’s wonderful! How did that conversation feel for you?  ,T,Insignificant
+"It felt good. I was nervous at first, but I’m glad I did it.  ",P,Current Functional Status
+That’s a huge step forward. It’s important to communicate your feelings. Are there any other areas in your life where you’d like to improve communication?  ,T,Insignificant
+I think I need to reach out to my family more. I’ve been isolating myself.  ,P,History of Present Illness (HPI)
+"That’s a common reaction, especially after trauma. What do you think is holding you back from reaching out?  ",T,Insignificant
+I guess I’m just afraid they won’t understand.  ,P,History of Present Illness (HPI)
+That’s a valid concern. Would it help to start with a text or a call instead of a face-to-face conversation?  ,T,Insignificant
+"Yes, I could do that.  ",P,Next Steps
+Great! It might feel less intimidating. What would you want to share with them?  ,T,Insignificant
+Just that I’m trying to work through some things and could use their support.  ,P,Current Functional Status
+"That sounds like a good approach. Remember, it’s okay to set boundaries around what you share.  ",T,Insignificant
+I’ll keep that in mind.  ,P,Insignificant
+Is there anything else you’d like to explore today?  ,T,Insignificant
+"I’m still struggling with anger sometimes, especially when I think about what happened to me.  ",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Would you like to discuss some strategies for processing that anger?  ,T,Insignificant
+"Yes, I think that would be helpful.  ",P,Insignificant
+One technique is to identify specific triggers for your anger and then explore healthier ways to express it.  ,T,Insignificant
+Like what?  ,P,Insignificant
+"For instance, physical activities like running or even using art to express your feelings can be effective.  ",T,Therapeutic Interventions
+I like the idea of using art. I haven’t done that in a while.  ,P,Insignificant
+That could be a great outlet for you. Would you be open to trying to create something when you feel that anger rising?  ,T,Insignificant
+"Yes, I’ll try that.  ",P,Next Steps
+Perfect! Let’s check in on how that goes in our next session. Thank you for being so open today.  ,T,Insignificant
+Thank you for your help!  ,P,Insignificant
+"Take care, and I look forward to seeing you next time!  ",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you back today. How have you been since our last session?,T,Insignificant
+"Hi! I've been alright, just the usual stuff, you know.",P,Insignificant
+"That's good to hear. Last time, we talked about your feelings towards your living situation and your family. Have you had any thoughts about that since we spoke?",T,History of Present Illness (HPI)
+"Yeah, I have. I think I might want to move out eventually, but I'm not sure if I'm ready yet.",P,History of Present Illness (HPI)
+That’s a big step. What do you think is holding you back from moving out?,T,History of Present Illness (HPI)
+"I guess it's just the comfort of being around family. Plus, I’m not sure if I can afford it.",P,History of Present Illness (HPI)
+That makes sense. It’s a significant change. Have you thought about what it would take for you to feel ready to move out?,T,History of Present Illness (HPI)
+Maybe saving up some money or finding a job that pays better.,P,History of Present Illness (HPI)
+Those sound like practical steps. Are there any specific jobs you’re considering that might help with that?,T,History of Present Illness (HPI)
+I’ve been looking at some management positions. They pay better and align with my degree.,P,History of Present Illness (HPI)
+That sounds promising! Have you applied to any positions yet?,T,History of Present Illness (HPI)
+Not yet. I’m still trying to polish my resume.,P,Current Functional Status
+That’s a good idea. Would you like to set a goal for applying to a certain number of jobs this week?,T,Next Steps
+"Sure, I think applying to two or three would be good.",P,Next Steps
+Great! We can check in on that next time. How do you feel about that goal?,T,Next Steps
+I feel good about it. It seems manageable.,P,Next Steps
+Wonderful! Last time you mentioned that you enjoy reading and cooking. Have you found time for those activities recently?,T,Insignificant
+"A little, but I’ve been so busy with schoolwork.",P,Current Functional Status
+Balancing school and personal interests can be challenging. What do you think you can do to make time for yourself?,T,Insignificant
+Maybe I could set aside an hour a week just for reading or cooking.,P,Next Steps
+That sounds like a great plan! What book or recipe do you have in mind?,T,Insignificant
+I’ve been wanting to try a new pasta recipe I found online.,P,Insignificant
+That sounds delicious! Cooking can be a great way to relax. How do you feel when you cook?,T,Insignificant
+"It’s therapeutic, honestly. I forget about everything else.",P,History of Present Illness (HPI)
+That’s wonderful to hear. It sounds like cooking is a good coping mechanism for you. Are there other activities that help you unwind?,T,Insignificant
+I like exercising too. It helps clear my mind.,P,History of Present Illness (HPI)
+Exercise can be a fantastic way to reduce stress. What type of exercise do you enjoy most?,T,Insignificant
+I like running and sometimes hitting the gym.,P,History of Present Illness (HPI)
+Have you been able to keep up with your exercise routine lately?,T,Current Functional Status
+Not as much as I’d like. I’ve been too busy.,P,Current Functional Status
+It’s understandable. Would you like to set a small goal for your exercise routine as well?,T,Next Steps
+"Yeah, maybe I could aim for two runs this week.",P,Next Steps
+That sounds achievable! Let’s check in on that next time too. How do you feel about setting these goals for yourself?,T,Next Steps
+I feel good! It gives me something to work towards.,P,Next Steps
+"That’s the spirit! Now, let’s talk about your feelings when you get annoyed. You mentioned shutting down. How do you usually handle those moments now?",T,History of Present Illness (HPI)
+"I try to talk it out, but sometimes I just need space.",P,History of Present Illness (HPI)
+It’s important to recognize what you need in those moments. Have you found any specific techniques that help you express your feelings when you’re annoyed?,T,History of Present Illness (HPI)
+I’ve been trying to write things down before I talk to someone.,P,History of Present Illness (HPI)
+Writing can be a powerful tool for processing emotions. Would you like to explore that further?,T,Next Steps
+"Yeah, I think that could help me articulate my feelings better.",P,Next Steps
+Great! Perhaps we can start with a journaling exercise for the next week. You could write about any moments of annoyance and how you felt.,T,Therapeutic Interventions
+That sounds good. I’ll give it a try.,P,Next Steps
+Fantastic! I’m excited to hear how that goes. Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+"Not really, I think we covered a lot.",P,Insignificant
+I agree! You’ve set some solid goals for yourself. I look forward to hearing about your progress next time. ,T,Insignificant
+Me too! Thanks for the help.,P,Insignificant
+"You’re welcome! Have a great week, and I’ll see you soon.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

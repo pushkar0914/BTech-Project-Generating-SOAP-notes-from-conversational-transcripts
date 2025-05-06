@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+<deep breath>  ,P,Insignificant
+Welcome back! How have you been since our last session?  ,T,Insignificant
+"I've been okay, I guess. Still getting used to everything in L.A.  ",P,History of Present Illness (HPI)
+That’s understandable. Adjusting to a new city can take time. Have you noticed any specific challenges?  ,T,Insignificant
+"Yeah, definitely. Meeting new people is tough. I still feel a bit isolated.  ",P,History of Present Illness (HPI)
+Have you had any opportunities to meet new people since we last spoke?  ,T,Insignificant
+"A couple, but it’s hard to break the ice. I feel shy, and I don’t want to come off as awkward.  ",P,History of Present Illness (HPI)
+That’s a common feeling. We can explore some strategies to help you feel more comfortable. Would you like to discuss that?  ,T,Insignificant
+"Yeah, that would be helpful.  ",P,Insignificant
+One approach is to practice small talk. It can be as simple as commenting on the weather or asking about someone’s interests. Do you think you could try that?  ,T,Therapeutic Interventions
+"I could try, but I worry I’ll just freeze up.  ",P,History of Present Illness (HPI)
+"It’s completely normal to feel that way. What if you set a small goal, like initiating one conversation a week?  ",T,Next Steps
+I think I could manage that.  ,P,Insignificant
+"Great! And remember, it’s okay if it doesn’t go perfectly. Each attempt is a step forward.  ",T,Insignificant
+That makes sense. I’ll give it a shot.  ,P,Insignificant
+How about your living situation? Have you made any updates on moving?  ,T,Insignificant
+"Yes, I found a new place! It’s much nicer, and I think it’ll help my mood.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear! A comfortable living space can make a big difference.  ,T,Insignificant
+I hope so. I feel like I might be able to breathe a little easier there.  ,P,History of Present Illness (HPI)
+Absolutely. It’s essential to have a space that feels like home. How are you feeling about your job search?  ,T,Insignificant
+"It’s still tough. I’ve applied to a few places, but I haven’t heard back from anyone yet.  ",P,History of Present Illness (HPI)
+That can be frustrating. Have you considered networking with people in your field?  ,T,Insignificant
+I haven’t really thought about that.  ,P,Insignificant
+Networking can be a great way to find opportunities. Maybe you can attend some local film events or workshops?  ,T,Therapeutic Interventions
+That sounds like a good idea. I’ll look into it.  ,P,Next Steps
+Excellent! It can also help you connect with others who share your interests.  ,T,Insignificant
+"True, I’d like to meet more people in the industry.  ",P,Insignificant
+Let’s shift gears a bit. You mentioned feeling shy. Can you tell me more about that experience?  ,T,Insignificant
+I just feel like I can’t express myself well in social situations.  ,P,History of Present Illness (HPI)
+What do you think holds you back?  ,T,Insignificant
+Probably fear of judgment. I worry about what people will think of me.  ,P,History of Present Illness (HPI)
+That’s a common concern. One way to challenge that fear is to remind yourself that everyone has insecurities.  ,T,Therapeutic Interventions
+"Yeah, I guess that’s true.  ",P,Insignificant
+Have you ever experienced a moment when you felt confident in a social setting?  ,T,Insignificant
+"Actually, yes! At a film festival last year, I felt really engaged.  ",P,History of Present Illness (HPI)
+That’s great! What do you think contributed to that feeling?  ,T,Insignificant
+"I was surrounded by people who shared my passion, and it felt like a safe space.  ",P,History of Present Illness (HPI)
+That’s a key insight. Seeking out environments where you feel comfortable can help reduce anxiety.  ,T,Therapeutic Interventions
+I’ll try to remember that.  ,P,Insignificant
+How about we set a goal for this week? Perhaps you can look for a local film event to attend?  ,T,Next Steps
+I can do that.  ,P,Insignificant
+"Wonderful! Before we wrap up, let’s reflect on the progress you’ve made. You’re actively seeking new connections and working on your confidence.  ",T,Progress Evaluation
+"Thanks, Ellie. I appreciate that.  ",P,Insignificant
+"You’re welcome! Remember, it’s all about taking small steps. I look forward to hearing about your experiences next time.  ",T,Insignificant
+Me too!  ,P,Insignificant
+Have a great week ahead!  ,T,Insignificant
+"You too, bye!  ",P,Insignificant
+Goodbye!,T,Insignificant

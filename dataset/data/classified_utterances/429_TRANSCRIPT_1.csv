@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi there! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"I've been okay, just busy with work and life, you know?  ",P,Insignificant
+I understand. You mentioned feeling good after spending time with friends last weekend. Did you have any similar experiences recently?  ,T,Insignificant
+"Yeah, I actually had dinner with some friends last week. It was nice to catch up.  ",P,Psychosocial History
+That sounds lovely! How did that make you feel?  ,T,Insignificant
+It felt great. I really enjoy those deep conversations.  ,P,Psychosocial History
+That's wonderful to hear. You mentioned before that you like talking with informed and open-minded people. Have you had any discussions that stood out to you?  ,T,Insignificant
+"Well, we talked about our writing projects, and I got some really good feedback. It was encouraging.  ",P,Psychosocial History
+That’s fantastic! Feedback can be so valuable. Did it inspire you to work on your writing more?  ,T,Insignificant
+Definitely. I’ve been more motivated to write since then.  ,P,History of Present Illness (HPI)
+That’s great progress! How has your writing been going?  ,T,Insignificant
+"It’s been slow, but I’m trying to set aside time each week to focus on it.  ",P,Current Functional Status
+That’s a good strategy. Have you noticed any challenges while trying to write?  ,T,Insignificant
+Sometimes I get stuck on ideas or feel overwhelmed by the pressure to create something good.  ,P,History of Present Illness (HPI)
+I see. It’s common for writers to feel that way. Have you tried any techniques to help with that pressure?  ,T,Insignificant
+"I’ve tried free-writing before, which helps, but I don’t always remember to do it.  ",P,Therapeutic Interventions
+Free-writing can be a great tool! Would you like to set a goal to incorporate that into your routine?  ,T,Next Steps
+"Sure, that sounds like a good idea. Maybe I can do it for ten minutes a day?  ",P,Next Steps
+That’s a reasonable goal! How do you feel about committing to that?  ,T,Insignificant
+I think I can manage that.  ,P,Next Steps
+Excellent! Let’s check in on that next time. How about your swimming? Have you been able to swim recently?  ,T,Insignificant
+I swam again last weekend. It felt refreshing.  ,P,Physiological Observations
+That’s great to hear! Swimming can be such a good way to relieve stress. Do you find it helps with your overall mood?  ,T,Insignificant
+Absolutely. It clears my mind and helps me focus better afterward.  ,P,Physiological Observations
+That’s wonderful. It sounds like you have some effective coping strategies. Have you faced any stressors lately?  ,T,Insignificant
+"Just the usual work stress, but I’m managing it.  ",P,History of Present Illness (HPI)
+"That’s good to hear. It’s important to acknowledge stress, but also to recognize how you’re handling it.  ",T,Insignificant
+"Yeah, I try to keep things in perspective.  ",P,Insignificant
+That’s a healthy approach. You mentioned feeling remorseful about past interactions before. Have any memories come up since we last spoke?  ,T,Insignificant
+"A few, but I’ve been trying to let them go.  ",P,History of Present Illness (HPI)
+That’s a positive mindset. Letting go can be challenging. What strategies do you use to help with that?  ,T,Insignificant
+I try to remind myself that I can’t change the past and focus on the present instead.  ,P,Psychosocial History
+That’s a powerful realization. Mindfulness can be so beneficial. Have you practiced any mindfulness techniques?  ,T,Insignificant
+"I’ve done some breathing exercises, but I’m not consistent.  ",P,Therapeutic Interventions
+Would you be open to setting a goal to practice mindfulness a few times a week?  ,T,Next Steps
+"Yes, I think that would help. Maybe I could do it a couple of times a week.  ",P,Next Steps
+That sounds like a good plan! How about we aim for two sessions a week to start?  ,T,Next Steps
+"Okay, I can do that.  ",P,Next Steps
+Great! Let’s discuss how that goes next time. Is there anything else on your mind today?  ,T,Insignificant
+"Not really, just trying to stay focused on my writing and life.  ",P,Insignificant
+"That’s a healthy focus. Remember, it’s okay to seek support when needed, especially with writing, which can be quite personal.  ",T,Insignificant
+"Yeah, I’ll keep that in mind.  ",P,Insignificant
+I’m glad to hear that. I think we’ve covered a lot today. Let’s recap: you’ll work on free-writing for ten minutes a day and practice mindfulness twice a week.  ,T,Next Steps
+Sounds good to me!  ,P,Insignificant
+Wonderful! I’m looking forward to hearing about your progress in our next session.  ,T,Insignificant
+Me too!  ,P,Insignificant
+"Take care, and see you soon!  ",T,Insignificant
+Bye!  ,P,Insignificant

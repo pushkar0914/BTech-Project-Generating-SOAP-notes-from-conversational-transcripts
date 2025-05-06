@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you back. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I've been okay, just keeping busy with work and the little one.",P,Insignificant
+That's good to hear. You mentioned feeling like you have a wealth of queries and potential just out of reach. Have you had any thoughts on what that connection might be?,T,Insignificant
+"Yeah, I’ve been thinking about it. I feel like I need to set clearer goals for myself, but I’m not sure where to start.",P,History of Present Illness (HPI)
+Setting goals can definitely be a helpful way to create that connection. What kind of goals are you considering?,T,Insignificant
+I want to focus on my career and maybe take a few classes to improve my skills with computers. I think that would help me feel more accomplished.,P,History of Present Illness (HPI)
+That sounds like a solid plan. What skills do you want to work on specifically?,T,Insignificant
+I’d like to get better at coding and maybe learn more about cybersecurity. It’s something that really interests me.,P,History of Present Illness (HPI)
+Those are great areas to explore! Have you looked into any classes or resources yet?,T,Insignificant
+"I found a few online courses, but I haven't signed up for anything yet.",P,History of Present Illness (HPI)
+Would it be helpful to set a goal for when you want to enroll in one of those courses?,T,Insignificant
+"Yeah, I think that would help. Maybe by the end of this month?",P,Next Steps
+That sounds very achievable. It could be a good motivation to get you started. How does that feel to commit to that timeline?,T,Insignificant
+It feels good. I think having a deadline will push me to take action.,P,Next Steps
+"Excellent! As you work on these goals, how do you plan to balance that with your responsibilities at home?",T,Insignificant
+"That’s where it gets tricky. I want to spend time with my daughter, but I also need to find time for myself.",P,History of Present Illness (HPI)
+Finding that balance can be challenging. What do you think would be a good way to carve out some time for yourself?,T,Insignificant
+Maybe I could set aside an hour or two in the evenings after she goes to bed. I could use that time to study.,P,Next Steps
+That sounds like a reasonable plan. Have you discussed this with your wife? ,T,Insignificant
+"Not yet. I think she might be supportive, but I’m worried she’ll feel like I’m neglecting family time.",P,History of Present Illness (HPI)
+That’s understandable. Open communication is key. How do you think you could approach that conversation?,T,Insignificant
+I could explain my goals and how it would ultimately benefit our family if I’m more fulfilled in my career.,P,Next Steps
+That’s a great angle to take. It shows that you’re thinking about the bigger picture. Would you like to role-play that conversation here?,T,Insignificant
+"Sure, that could help me prepare.",P,Insignificant
+"Okay, let’s imagine you’re talking to your wife. Start with how you would greet her.",T,Insignificant
+"Hey, babe. Do you have a minute to talk?",P,Insignificant
+Great start! What would you say next?,T,Insignificant
+I’ve been thinking a lot about my career and how I want to improve my skills.,P,Insignificant
+Nice. How would you express your feelings about that?,T,Insignificant
+"I feel like I have a lot of potential, but I need to take steps to reach it. I want to take some online courses.",P,History of Present Illness (HPI)
+That sounds good. How would you reassure her about spending time together?,T,Insignificant
+"I would tell her that I’ll still make time for us and our daughter. This is important to me, but family comes first.",P,Next Steps
+That’s a thoughtful approach. How do you feel about practicing that conversation?,T,Insignificant
+I feel more confident about it now. It’s nice to have a structure.,P,Next Steps
+I’m glad to hear that! We can check in on how that conversation goes in our next session. Is there anything else on your mind today?,T,Insignificant
+Just the usual worries about being a good parent. I want to make sure I’m doing everything right.,P,History of Present Illness (HPI)
+That’s a common concern among parents. What makes you feel like you’re not doing enough?,T,Insignificant
+"I guess I compare myself to other parents. I see them doing all these activities with their kids, and I worry.",P,History of Present Illness (HPI)
+It’s easy to fall into that comparison trap. What activities do you enjoy doing with your daughter?,T,Insignificant
+We go to the park and play together. She loves that.,P,Current Functional Status
+That sounds wonderful! Focusing on those moments can help you feel more confident in your parenting. ,T,Insignificant
+"Yeah, I should remind myself that those moments matter.",P,Insignificant
+"Absolutely! You’re doing your best, and that’s what counts. Let’s continue to explore these feelings in our next session. ",T,Insignificant
+"Sounds good. Thanks, Ellie.",P,Insignificant
+"You’re welcome! Take care, and I look forward to hearing how everything goes.",T,Insignificant
+Bye!,P,Insignificant
+Goodbye!,T,Insignificant

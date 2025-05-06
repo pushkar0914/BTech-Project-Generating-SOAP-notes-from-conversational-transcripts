@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+"<sigh> hi, Ellie.",P,Insignificant
+Hi! It's great to see you again. How have you been since our last session?,T,Insignificant
+"I've been okay, a bit up and down, but overall not too bad.",P,History of Present Illness (HPI)
+That's good to hear. You mentioned feeling more focused on your career. How has that been going for you?,T,Insignificant
+"It's been a mixed bag, honestly. Some days I'm really productive, and other days I just feel stuck.",P,History of Present Illness (HPI)
+I understand that. What do you think contributes to those feelings of being stuck?,T,Insignificant
+"I think it’s partly fear of failure. I put a lot of pressure on myself to succeed, and when I don't, it really gets to me.",P,History of Present Illness (HPI)
+That sounds challenging. Can you tell me more about what success looks like for you?,T,Insignificant
+"Success for me means getting my writing out there, maybe getting published, or landing a role that I really connect with. Just feeling like I'm making progress.",P,Presenting Problem / Chief Complaint
+Those are great goals. What steps have you been taking towards achieving them?,T,Insignificant
+"Well, I’ve been trying to write every day, but some days I just can’t find the motivation. ",P,History of Present Illness (HPI)
+It sounds like you have a routine in place. What do you think gets in the way of that motivation?,T,Insignificant
+I think it’s a mix of self-doubt and distractions. Sometimes I just scroll mindlessly on my phone instead of writing.,P,History of Present Illness (HPI)
+That’s very common. Have you tried any strategies to manage those distractions?,T,Insignificant
+"I’ve tried setting timers for writing sessions, but I struggle to stick to it when I’m not feeling inspired.",P,History of Present Illness (HPI)
+Inspiration can be fickle. What do you do when you feel inspired?,T,Insignificant
+"When I feel inspired, I can write for hours. It’s like everything just flows out of me.",P,History of Present Illness (HPI)
+That sounds wonderful! What do you think triggers that inspiration for you?,T,Insignificant
+"I think being around other creative people helps, or sometimes just getting out of the house and experiencing new things.",P,History of Present Illness (HPI)
+That’s a great insight. Have you had any opportunities to do that recently?,T,Insignificant
+"Not really. I’ve been a bit reclusive lately, just stuck in my routine.",P,History of Present Illness (HPI)
+It might be helpful to plan some outings or creative meetups. How does that sound?,T,Insignificant
+That sounds good! I think I need that push to get out more.,P,Insignificant
+What’s one place or event you’ve been wanting to check out?,T,Insignificant
+There’s a local writer’s group that meets weekly. I’ve been meaning to join but haven’t yet.,P,History of Present Illness (HPI)
+Joining that group could be a great step towards connecting with others and gaining motivation. What’s holding you back from joining?,T,Insignificant
+I guess I’m just nervous about meeting new people and sharing my work.,P,Risk Assessment
+It’s completely normal to feel that way. What do you think would help you feel more comfortable?,T,Insignificant
+Maybe if I just go to observe first without sharing anything. Just to get a feel for it.,P,Next Steps
+That’s a smart approach. Observing can help ease the pressure. Would you like to set a goal to attend the next meeting?,T,Next Steps
+"Yes, I think I can do that!",P,Next Steps
+Great! Let’s also talk about how you can manage the self-doubt that creeps in. What thoughts do you typically have when you feel that way?,T,Insignificant
+I often think that I’m not good enough or that my work isn’t worth sharing.,P,Risk Assessment
+Those thoughts can be really tough. Have you ever challenged those thoughts?,T,Insignificant
+Not really. I usually just let them linger.,P,Insignificant
+"It might be helpful to practice reframing those thoughts. For example, instead of ""I'm not good enough,"" you could say, ""I am learning and growing as a writer."" How does that sound?",T,Therapeutic Interventions
+That sounds like a good idea. I can try that.,P,Therapeutic Interventions
+"Awesome! Let’s work on that together. If you catch yourself thinking negatively, try to write down the thought and then reframe it.",T,Therapeutic Interventions
+I can do that. I’ll keep a journal for it.,P,Therapeutic Interventions
+Perfect! Journaling can also help you track your progress and reflect on your feelings. How do you feel about that?,T,Therapeutic Interventions
+I think it’s a good idea. It’ll give me a chance to see how I’m improving over time.,P,Therapeutic Interventions
+"Exactly! It can also serve as a reminder of your achievements, no matter how small. ",T,Insignificant
+I like that. I often forget to celebrate the small wins.,P,Insignificant
+Celebrating small wins is essential for building confidence. What’s a small win you’ve had recently?,T,Insignificant
+I finished a short story I’d been working on for weeks. ,P,Progress Evaluation
+That’s fantastic! How did it feel to complete it?,T,Insignificant
+"It felt really good, like I accomplished something.",P,Progress Evaluation
+Hold onto that feeling. It’s a reminder that you are capable of achieving your goals. ,T,Insignificant
+"I will. Thank you, Ellie.",P,Insignificant
+You’re welcome! I’m looking forward to hearing about your experiences in our next session. ,T,Insignificant
+Me too. I’ll see you then!,P,Insignificant
+Bye for now!,T,Insignificant
+Bye!,P,Insignificant

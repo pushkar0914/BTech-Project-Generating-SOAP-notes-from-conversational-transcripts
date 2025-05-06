@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve been okay, I guess. I wrote that letter to my dad, and it felt good to get it out.  ",P,Presenting Problem / Chief Complaint
+That’s wonderful! How did it feel to express your thoughts and feelings in that way?  ,T,Insignificant
+It was really freeing. I felt like I could finally say everything I wanted without worrying about his reaction.  ,P,History of Present Illness (HPI)
+I’m glad to hear that! Did you share the letter with him?  ,T,Insignificant
+"I did! He was really touched, and it opened up a conversation between us.  ",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like it helped strengthen your connection. What did you both talk about?  ,T,Insignificant
+"We talked about his feelings, and he opened up a bit about his fears. It was nice to see him vulnerable.  ",P,History of Present Illness (HPI)
+That’s a significant step forward. How did that make you feel?  ,T,Insignificant
+It made me feel closer to him. I think it helped both of us to be honest.  ,P,History of Present Illness (HPI)
+That’s beautiful. Being open can create a safe space for both of you. Have you noticed any changes in your feelings since then?  ,T,Insignificant
+"I feel a bit lighter, like I’m not carrying as much weight.  ",P,History of Present Illness (HPI)
+That’s wonderful progress! Have you continued with the relaxation techniques we discussed?  ,T,Insignificant
+"Yes, I’ve been doing the muscle relaxation before bed, and it’s been helping me sleep better.  ",P,Physiological Observations
+That’s great to hear! Sleep is so important for your overall well-being. Have you had any stress dreams lately?  ,T,Insignificant
+"Actually, I’ve had a couple, but they weren’t as intense as before.  ",P,Physiological Observations
+That’s a positive sign! It sounds like you’re making progress. How do you feel about your anxiety surrounding your dad’s health?  ,T,Insignificant
+"I still worry, but I think talking about it has helped me find some peace.  ",P,History of Present Illness (HPI)
+"That’s a healthy shift. It’s natural for those worries to linger, but it sounds like you’re managing them better.  ",T,Insignificant
+"Yeah, I think so.  ",P,Insignificant
+Have you found any additional support from friends or family during this time?  ,T,Insignificant
+"I’ve been talking to my friends more, and they’ve been really supportive. It feels good to lean on them.  ",P,Psychosocial History
+That’s excellent! It’s essential to have a support network. Have you noticed any changes in your relationships since you’ve been more open?  ,T,Insignificant
+I think so. I feel like I’m connecting with them on a deeper level.  ,P,Psychosocial History
+That’s wonderful to hear! Vulnerability can strengthen relationships. What about your acting work? How has that been going?  ,T,Insignificant
+"It’s been busy! I’ve had more auditions, which is exciting but also stressful.  ",P,History of Present Illness (HPI)
+That’s a lot to juggle. How do you manage the stress of auditions alongside everything else?  ,T,Insignificant
+I try to keep a routine and remind myself it’s just part of the process.  ,P,Current Functional Status
+That’s a healthy mindset! Have you found any rituals that help you prepare for auditions?  ,T,Insignificant
+I’ve started doing some breathing exercises before I go in. It helps calm my nerves.  ,P,Therapeutic Interventions
+That’s a great technique! It’s important to find what works for you. How do you feel after the auditions?  ,T,Insignificant
+"I feel relieved afterward, no matter the outcome. It’s like a weight is lifted.  ",P,History of Present Illness (HPI)
+That’s a positive perspective. Focusing on the process rather than the outcome can be very beneficial.  ,T,Insignificant
+"Yeah, I’m trying to embrace that mindset.  ",P,Insignificant
+That’s fantastic! Are there any specific goals you’d like to set for your acting career moving forward?  ,T,Insignificant
+I’d like to explore more roles that challenge me and step out of my comfort zone.  ,P,Next Steps
+That sounds like a great goal! Challenging yourself can lead to growth. Are there specific types of roles you’re interested in?  ,T,Insignificant
+"I’d love to try something dramatic. I usually do more comedic roles, so I think it would be a good change.  ",P,Next Steps
+That’s an exciting direction! It could provide a new perspective on your craft. Would you like to set a goal related to pursuing those roles?  ,T,Insignificant
+"Yes, I’d like to take a class focused on dramatic acting in the next month.  ",P,Next Steps
+That’s a fantastic goal! Taking that step can help you grow as an actor.  ,T,Insignificant
+I’m really looking forward to it!  ,P,Insignificant
+"Great! As we wrap up today, what’s one takeaway you’d like to focus on before our next session?  ",T,Insignificant
+I’d like to continue working on my relaxation techniques and start researching classes for dramatic acting.  ,P,Next Steps
+Those sound like excellent goals! I’m excited to hear about your progress next time.  ,T,Insignificant
+"Thanks, Ellie! I appreciate your support.  ",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you soon.  ",T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

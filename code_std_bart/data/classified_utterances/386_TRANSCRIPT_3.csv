@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! Welcome back! How has your week been?,T,Insignificant
+"Hi! It’s been a mixed bag, honestly. I managed to do some of my goals, but not all of them.",P,Current Functional Status
+That’s okay! What went well for you?,T,Insignificant
+"I did put my phone away before bed, and I noticed I fell asleep faster. ",P,History of Present Illness (HPI): Physiological Observations
+That’s a great achievement! How did that impact your sleep quality?,T,Insignificant
+"I think it helped. I felt more rested, even though I still woke up a few times.",P,Physiological Observations
+That’s progress! Have you been able to maintain your walking routine?,T,Insignificant
+"I walked twice this week. The weather was a bit nicer, so that helped.",P,Current Functional Status
+That’s great! Have you noticed any changes in your mood or energy levels with those walks?,T,Insignificant
+"Yes, I felt more positive and energized afterward. ",P,Physiological Observations
+"That’s wonderful! Now, how did your meal prep go this week?",T,Insignificant
+"I didn’t get to it, unfortunately. I felt overwhelmed with work and didn’t make the time.",P,History of Present Illness (HPI)
+It happens! What do you think might help you prioritize meal prep in the future?,T,Insignificant
+I think planning it for a specific day might help. Maybe Sunday afternoons?,P,Next Steps
+That sounds like a good strategy. Would you like to commit to that for next week?,T,Insignificant
+"Yes, I’ll try to set aside time on Sundays.",P,Next Steps
+"Perfect! Now, how was your experience with yoga or meditation?",T,Insignificant
+"I tried a yoga class, and I really enjoyed it! It felt great to stretch and relax.",P,Current Functional Status
+That’s fantastic! How did it make you feel afterward?,T,Insignificant
+I felt more calm and centered. I think I want to keep going to classes.,P,Physiological Observations
+That’s wonderful! Regular practice can be very beneficial for managing stress. ,T,Insignificant
+"Yes, I agree. I want to make it a part of my routine.",P,Next Steps
+That’s a great goal! Have you thought about how often you’d like to attend classes?,T,Insignificant
+Maybe twice a week? I think that would be manageable with my schedule.,P,Next Steps
+That sounds like a solid plan. It’s all about finding what works for you. ,T,Insignificant
+"Yes, I feel motivated to keep it up.",P,Insignificant
+Let’s also revisit your family connections. How did things go with planning a get-together?,T,Insignificant
+"I talked to my siblings, and we’re planning a small family dinner next week.",P,Current Functional Status
+That’s wonderful! How do you feel about that?,T,Insignificant
+I’m excited! It’ll be nice to catch up in person.,P,Insignificant
+That’s great! Spending quality time with family can be very rewarding. ,T,Insignificant
+"Yes, I’m looking forward to it.",P,Insignificant
+"Before we wrap up, is there anything else on your mind today?",T,Insignificant
+I think I’ve shared everything I wanted to talk about.,P,Insignificant
+"Wonderful! To recap, your goals for this week are to meal prep on Sunday, attend yoga classes twice, and enjoy your family dinner. Does that sound good?",T,Insignificant
+"Yes, it does! I feel optimistic about it all.",P,Insignificant
+I’m glad to hear that! I look forward to hearing about your experiences in our next session. Take care!,T,Insignificant
+Thank you! I’ll see you next time. ,P,Insignificant
+Goodbye!,T,Insignificant

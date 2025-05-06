@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How has your week been since we last spoke?,T,Insignificant
+"Hi, Ellie! It’s been a bit hectic, but I managed to have that conversation with my wife.",P,History of Present Illness (HPI)
+That’s great news! How did it go?,T,Insignificant
+It went better than I expected. She was supportive and understood where I was coming from.,P,History of Present Illness (HPI)
+That’s wonderful to hear! What did you discuss specifically about your goals and the online courses?,T,Insignificant
+I explained my desire to improve my skills and how that would help our family. She even encouraged me to sign up for a class.,P,History of Present Illness (HPI)
+That’s fantastic! Have you taken any steps toward enrolling in a course yet?,T,Insignificant
+"Yes, I signed up for one on coding. I’m really excited about it!",P,History of Present Illness (HPI)
+That’s a significant step forward. How does it feel to have made that commitment?,T,Insignificant
+It feels empowering. I’m finally taking action instead of just thinking about it.,P,History of Present Illness (HPI)
+That’s a great mindset to have! Have you started any assignments or projects yet?,T,Insignificant
+"I just started the introductory module. It’s challenging, but I’m enjoying it so far.",P,Current Functional Status
+That’s a positive sign! How do you feel about balancing your studies with family time?,T,Insignificant
+"I’ve been sticking to my plan of studying in the evenings, and it seems to be working out.",P,Current Functional Status
+That’s excellent! Have you noticed any changes in your mood or stress levels since starting the course?,T,Insignificant
+I feel more motivated and less stressed. It’s nice to have something for myself.,P,History of Present Illness (HPI)
+That’s wonderful! It seems like you’re finding a good balance. How has your daughter been adjusting to your study time?,T,Insignificant
+She’s been okay with it. I make sure to spend quality time with her during the day.,P,Current Functional Status
+That’s a great approach. What activities have you been doing together?,T,Insignificant
+"We’ve been going to the park more often, and I try to involve her in simple things at home, like cooking.",P,Current Functional Status
+That sounds lovely! Involving her in activities can create great bonding moments. How does she respond to that?,T,Insignificant
+She loves it! She gets so excited when she feels included.,P,Current Functional Status
+That’s heartwarming to hear. It sounds like you’re nurturing a strong relationship with her. Are there any challenges you’re facing currently?,T,Insignificant
+Sometimes I struggle with guilt when I’m studying and not spending time with her.,P,Risk Assessment
+That’s a common feeling. Have you thought about how you could manage that guilt?,T,Insignificant
+"I try to remind myself that I’m doing this for her future, but it’s still hard.",P,Risk Assessment
+It’s understandable. Perhaps setting specific times for family activities could help you feel more at ease when studying.,T,Insignificant
+"That’s a good idea. If I have planned family time, I can focus on my studies without feeling guilty.",P,Next Steps
+Exactly! Creating that structure can help alleviate some of the guilt. Is there anything else you’d like to discuss today?,T,Insignificant
+I’ve been thinking about my relationship with my parents again. I still feel a bit disconnected.,P,History of Present Illness (HPI)
+That’s an important topic. What specifically has been on your mind regarding your family?,T,Insignificant
+"I just wish I had a better relationship with them, but it feels like there’s a barrier.",P,History of Present Illness (HPI)
+It can be tough when family dynamics are strained. Have you considered reaching out to them?,T,Insignificant
+"I thought about it, but I’m not sure how they would respond.",P,Risk Assessment
+It’s understandable to feel uncertain. What would be your goal in reaching out?,T,Insignificant
+I’d like to reconnect and maybe understand why things are the way they are.,P,History of Present Illness (HPI)
+That’s a meaningful goal. How do you think you could initiate that conversation?,T,Insignificant
+"I could start with a simple text or call, just to check in and see how they’re doing.",P,Next Steps
+That’s a great starting point. It opens the door for communication without too much pressure.,T,Insignificant
+"Yeah, I think I’ll try that. ",P,Next Steps
+I’m glad to hear that! We can follow up on how that goes in our next session. ,T,Insignificant
+"Sounds good. Thanks for the encouragement, Ellie.",P,Insignificant
+You’re doing great! I look forward to hearing about your progress next time. ,T,Insignificant
+Bye!,P,Insignificant
+Goodbye!,T,Insignificant

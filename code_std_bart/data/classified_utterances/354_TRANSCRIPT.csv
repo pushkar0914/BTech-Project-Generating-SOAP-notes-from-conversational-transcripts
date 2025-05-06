@@ -1,0 +1,178 @@
+﻿Utterance,Type,Classified_Subsection
+hi i'm ellie thanks for coming in today,T,Insignificant
+i was created to talk to people in a safe and secure environment,T,Insignificant
+i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started,T,Insignificant
+and please feel free to tell me anything your answers are totally confidential,T,Insignificant
+are you okay with this,T,Insignificant
+yes i'm alright with this,P,Insignificant
+okay,T,Insignificant
+so how are you doing today,T,Insignificant
+doing pretty good little bit tired,P,Physiological Observations
+that's good,T,Insignificant
+where are you from originally,T,Insignificant
+i'm from los angeles,P,Insignificant
+really,T,Insignificant
+what are some things you really like about l_a,T,Insignificant
+the weather and the sports,P,Insignificant
+what are some things you don't really like about l_a,T,Insignificant
+can't find any jobs right now,P,History of Present Illness (HPI)
+i'm sorry,T,Insignificant
+it can be tough to find a good job these days,T,Insignificant
+i know,P,Insignificant
+do you travel a lot,T,Insignificant
+um not really,P,Insignificant
+what'd you study at school,T,Insignificant
+i studied um architecture and chicano studies and a little bit of history ,P,Insignificant
+that sounds interesting,T,Insignificant
+what made you decide to do that,T,Insignificant
+uh,P,Insignificant
+since <si> i was <wa> little <li> since i was little i liked to draw and then i like to learn about history,P,Psychosocial History
+cool,T,Insignificant
+are you still working in that,T,Insignificant
+i'm trying to i'm going i'm working and going to school i'm trying to get my finish gettin' my degree,P,Current Functional Status
+what's your dream job,T,Insignificant
+playing in the n_f_l,P,Insignificant
+awesome,T,Insignificant
+do you consider yourself an introvert,T,Insignificant
+what was that,P,Insignificant
+do you consider yourself and introvert,T,Insignificant
+um i don't know what that is,P,Insignificant
+let's come back to that later,T,Insignificant
+what do you do to relax,T,Insignificant
+eat or sleep,P,Insignificant
+what are some things that make you really mad,T,Insignificant
+people not doing they jobs,P,Insignificant
+what do you do when you're annoyed,T,Insignificant
+walk away,P,Insignificant
+how are you at controlling your temper ,T,Insignificant
+um pretty good,P,Mental Health Observations
+that's good,T,Insignificant
+when was the last time you argued with someone and what was it about ,T,Insignificant
+like three days ago a couple days ago over some family issues,P,History of Present Illness (HPI)
+can you tell me about that,T,Insignificant
+um sure,P,Insignificant
+okay,T,Insignificant
+well um,P,Insignificant
+what are some things you like to do for fun,T,Insignificant
+like to workout play football and ride my bike,P,Current Functional Status
+cool,T,Insignificant
+what's one of your most memorable experiences ,T,Insignificant
+um,P,Insignificant
+walking on that u_c_l_a,P,Insignificant
+how did you feel in that moment,T,Insignificant
+i felt big like i actually was doing something with myself,P,Subjective information
+that's great,T,Insignificant
+who's someone that's been a positive influence in your life ,T,Insignificant
+my parents,P,Insignificant
+tell me more about that,T,Insignificant
+like they struggle <strug> they whenever they struggle they still manage to put through whatever they want,P,Psychosocial History
+mhm,T,Insignificant
+and,P,Insignificant
+how close are you to your family,T,Insignificant
+i'm pretty close real close,P,Psychosocial History
+how would your best friend describe you,T,Insignificant
+uh,P,Insignificant
+quiet,P,Insignificant
+what would you say are some of your best qualities,T,Insignificant
+um my height and strength ,P,Insignificant
+okay,T,Insignificant
+have you ever served in the military ,T,Insignificant
+mm no,P,Insignificant
+have you ever been diagnosed with p_t_s_d ,T,Insignificant
+no,P,Medical and Psychiatric History
+have you been diagnosed with depression,T,Insignificant
+no,P,Medical and Psychiatric History
+how easy is it for you to get a good night's sleep,T,Insignificant
+it's pretty hard,P,Physiological Observations
+why,T,Insignificant
+uh,P,Insignificant
+i i get home late and i'm usually up for like fifteen to like eighteen hours during the day so by the time i get home i'm really not even that tired to go to sleep,P,History of Present Illness (HPI)
+that sucks,T,Insignificant
+yeah,P,Insignificant
+what are you like when you don't sleep well,T,Insignificant
+uh,P,Insignificant
+if i don't sleep well i get i wake up grumpy or like not in the mood to do things ,P,Mental Health Observations
+uh huh,T,Insignificant
+how have you been feeling lately,T,Insignificant
+mm,P,Insignificant
+just like,P,Insignificant
+under pressure a little bit,P,History of Present Illness (HPI)
+how hard is that,T,Insignificant
+not that hard,P,Insignificant
+i just,P,Insignificant
+stress pretty much,P,History of Present Illness (HPI)
+do you feel down,T,Insignificant
+sometimes,P,History of Present Illness (HPI)
+why,T,Insignificant
+just working i really don't like working but i have to so ,P,History of Present Illness (HPI)
+yeah,T,Insignificant
+i see what you mean,T,Insignificant
+have you noticed any changes in your behavior or thoughts lately,T,Insignificant
+um,P,Insignificant
+a little bit,P,History of Present Illness (HPI)
+could you say a little more about that,T,Insignificant
+like,P,Insignificant
+it's not i'm not like a little bit more violent,P,History of Present Illness (HPI)
+but just a side <s> just a side effect from not playing football for a while,P,History of Present Illness (HPI)
+okay,T,Insignificant
+what are some things that usually put you in a good mood,T,Insignificant
+music,P,Insignificant
+eating or and working out,P,Insignificant
+uh huh ,T,Insignificant
+tell me about something you did recently that you really enjoyed,T,Insignificant
+um,P,Insignificant
+i don't know,P,Insignificant
+okay,T,Insignificant
+what are you most proud of in your life,T,Insignificant
+raising my son and while i was still in school in high school,P,Psychosocial History
+wow,T,Insignificant
+do you find it easy to be a parent,T,Insignificant
+no,P,Insignificant
+what's the hardest thing about being a parent,T,Insignificant
+patience,P,Insignificant
+what's the best thing about being a parent,T,Insignificant
+watching your son grow,P,Insignificant
+aw,T,Insignificant
+tell me about your kids,T,Insignificant
+uh i have a five and a half year old boy,P,Insignificant
+i don't only see him on the weekend,P,Insignificant
+how close are you to them,T,Insignificant
+pretty close,P,Psychosocial History
+that's good,T,Insignificant
+what do you think of today's kids,T,Insignificant
+spoiled,P,Insignificant
+<laughter> ,T,Insignificant
+can you tell me about that ,T,Insignificant
+they're,P,Insignificant
+they're so advanced with everything that it makes the,P,Insignificant
+like their grandparents,P,Insignificant
+feel like dinosaurs while they already they just born and they already know how to use everything around their house,P,Insignificant
+mm,T,Insignificant
+can't treat 'em like kids anymore,P,Insignificant
+yeah,T,Insignificant
+uh huh,T,Insignificant
+mm so you pretty much treat 'em like adults sometimes it works some it doesn't do it doesn't really work,P,Insignificant
+yeah,T,Insignificant
+i understand,T,Insignificant
+is there anything you regret,T,Insignificant
+no,P,Insignificant
+what advice would you give yourself ten or twenty years ago,T,Insignificant
+should have just stayed on one path,P,Insignificant
+follow my dreams probably like or just follow what i wanted to do,P,Insignificant
+mhm,T,Insignificant
+and that's about it,P,Insignificant
+okay,T,Insignificant
+when was the last time you felt really happy,T,Insignificant
+a couple months ago,P,History of Present Illness (HPI)
+tell me more about that,T,Insignificant
+um i was i was playing football i was playing for a junior college and,P,Insignificant
+we made it to the championship bowl that was probably the happiest i've been in awhile ,P,Subjective information
+awesome,T,Insignificant
+how did you feel in that moment,T,Insignificant
+good,P,Insignificant
+that's good,T,Insignificant
+okay i think i've asked everything i need to,T,Insignificant
+thanks for sharing your thoughts with me ,T,Insignificant
+thank you,P,Insignificant
+goodbye,T,Insignificant
+bye,P,Insignificant

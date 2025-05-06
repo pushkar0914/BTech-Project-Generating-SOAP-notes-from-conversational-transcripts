@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s nice to see you again. How have you been since our last session?  ,T,Insignificant
+"I’ve been doing okay, a bit better actually. I tried that mindfulness exercise.  ",P,History of Present Illness (HPI)
+That’s great to hear! How did it go for you?  ,T,Insignificant
+"It helped me relax a bit, especially before bed. I think I slept a little better.  ",P,Physiological Observations
+Wonderful! Consistency can make a big difference. Have you been able to integrate it into your routine?  ,T,Insignificant
+"Yes, I try to do it most nights now.  ",P,Current Functional Status
+That’s excellent progress! You also mentioned looking into community events. Were you able to find any?  ,T,Insignificant
+I did! I found a local art class I’m thinking about attending.  ,P,Current Functional Status
+That sounds exciting! How do you feel about participating in that?  ,T,Insignificant
+I’m nervous but also kind of excited. I haven’t done anything like that in a long time.  ,P,Risk Assessment
+It’s completely normal to feel nervous. What do you think might help ease that anxiety?  ,T,Insignificant
+Maybe just reminding myself that it’s okay to be a beginner.  ,P,Insignificant
+Absolutely! Everyone starts somewhere. Focusing on enjoying the process rather than the outcome can also help.  ,T,Insignificant
+"Yeah, I’ll try to keep that in mind.  ",P,Insignificant
+Great! How about your insurance studies? How has that been going?  ,T,Insignificant
+"I’ve been breaking it down into smaller sections like we talked about, and it’s been helpful.  ",P,Current Functional Status
+Fantastic! Have you noticed any improvements in your understanding or retention of the material?  ,T,Insignificant
+"Yes, I feel more confident with the information now.  ",P,Mental Health Observations
+That’s wonderful to hear! Celebrating those small victories is important. Are there any particular topics that you find challenging?  ,T,Insignificant
+Some of the regulations are a bit confusing.  ,P,History of Present Illness (HPI)
+Would it help to seek out additional resources or study groups for those topics?  ,T,Insignificant
+That could be useful. I’ll look into it.  ,P,Insignificant
+Excellent! It’s great that you’re being proactive about your learning. How have you been feeling emotionally lately?  ,T,Insignificant
+"I’ve had some ups and downs, but overall, I feel more motivated.  ",P,Mental Health Observations
+That’s a positive shift! What do you think has contributed to that motivation?  ,T,Insignificant
+I think it’s just having some goals to work towards and feeling like I’m making progress.  ,P,History of Present Illness (HPI)
+That’s a powerful realization. Setting and achieving goals can really boost our mood. Have you thought about any new goals you’d like to set?  ,T,Insignificant
+I’d like to finish my insurance courses by the end of the month.  ,P,Presenting Problem / Chief Complaint
+That’s a great goal! What steps will you take to ensure you meet that deadline?  ,T,Insignificant
+I’ll schedule dedicated study time each day and stick to it.  ,P,Next Steps
+"Sounds like a solid plan! Remember to be flexible with yourself, too. Life can sometimes throw unexpected challenges our way.  ",T,Insignificant
+"True, I’ll keep that in mind.  ",P,Insignificant
+Is there anything else you’d like to discuss today?  ,T,Insignificant
+I’ve been thinking about my mom a lot lately.  ,P,History of Present Illness (HPI)
+I’m glad you brought that up. What thoughts or feelings have come up for you?  ,T,Insignificant
+I just miss her and think about how much she supported me.  ,P,History of Present Illness (HPI)
+"It’s completely natural to miss loved ones, especially during moments of reflection. How do you usually cope with those feelings?  ",T,Insignificant
+I try to remember the good times and talk to her in my head.  ,P,Insignificant
+That’s a lovely way to honor her memory. Have you considered writing down your thoughts or memories about her?  ,T,Insignificant
+"I haven’t, but that sounds like a good idea.  ",P,Insignificant
+Writing can be a therapeutic way to process your feelings. Would you like to set a goal to write about her this week?  ,T,Next Steps
+"Yes, I’d like that.  ",P,Insignificant
+"Great! I look forward to hearing about your experience next time. Remember, it’s okay to feel what you’re feeling.  ",T,Insignificant
+"Thank you, I appreciate that.  ",P,Insignificant
+"You’re welcome! Take care of yourself, and I’ll see you soon.  ",T,Insignificant
+Bye!  ,P,Insignificant

@@ -1,0 +1,32 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It's great to see you again. How have you been since our last session?",T,Insignificant
+"Hi Ellie! I've been doing okay, thank you. Just keeping busy with work and trying to stay active.",P,Insignificant
+"That’s good to hear! Last time, we talked about your experiences with depression and how yoga and meditation have helped you. How have those practices been working for you lately?",T,History of Present Illness (HPI)
+They've been really helpful. I feel more centered and less anxious. I try to meditate every morning now.,P,History of Present Illness (HPI)
+That sounds like a great routine! Have you noticed any changes in your mood or energy levels since you started this practice?,T,Physiological Observations
+"Yes, definitely. I feel more energized and focused throughout the day. There are still some days when I struggle, but overall, it's been positive.",P,Physiological Observations
+It’s wonderful that you’re experiencing those benefits. You mentioned some struggles—can you share more about those days when you find it hard?,T,History of Present Illness (HPI)
+"Well, some days I just feel overwhelmed with work. I sometimes find it hard to concentrate, and I get a bit anxious about deadlines.",P,History of Present Illness (HPI)
+That’s understandable. It sounds like the pressure of work can still weigh heavily on you. How do you usually cope when you start feeling overwhelmed?,T,Insignificant
+"I try to take breaks and go for walks, but sometimes I just end up procrastinating instead.",P,History of Present Illness (HPI)
+Procrastination can be a common response when feeling overwhelmed. Have you thought about any strategies to help manage your time better during those times?,T,Insignificant
+"I’ve been thinking about making a schedule for my tasks, but I haven’t really implemented it yet.",P,Next Steps
+Creating a schedule can be a helpful way to manage your workload. Would you like to set a goal for this week to try that out?,T,Next Steps
+"Yes, that sounds like a good idea. I’ll try to outline my tasks and set specific times for each.",P,Next Steps
+Great! It’ll be interesting to see how that impacts your productivity and stress levels. How do you feel about that?,T,Insignificant
+I feel hopeful. It could help me feel more in control.,P,Insignificant
+That’s a positive mindset! Let’s also touch on your family. You mentioned some disagreements with your brother regarding your parents. Have there been any developments in that area since we last spoke?,T,History of Present Illness (HPI)
+"Not really. We still have different opinions, but I’ve tried to be more understanding of his perspective.",P,History of Present Illness (HPI)
+"That’s a mature approach. Understanding doesn’t mean you have to agree, but it can help ease tensions. How does that make you feel when you practice understanding?",T,Insignificant
+"It makes me feel calmer. I realize that he’s coming from a different place, and it helps me not take things personally.",P,History of Present Illness (HPI)
+That’s a valuable realization. It seems like you’re making progress in your relationships as well. Are there any other relationships you’d like to explore or improve?,T,Insignificant
+I think my relationship with my niece and nephew could be better. I want to connect with them more.,P,History of Present Illness (HPI)
+That’s a lovely intention. What are some ways you think you could strengthen that connection?,T,Insignificant
+Maybe I could spend more time with them or take them out for activities they enjoy.,P,Next Steps
+That sounds like a wonderful plan! Connecting through shared experiences can be very impactful. Would you like to set a goal to do something special with them in the coming weeks?,T,Next Steps
+Yes! I’ll plan a day out with them soon.,P,Next Steps
+"Excellent. It sounds like you have a lot of positive changes in motion. As we wrap up today, is there anything else on your mind that you’d like to discuss?",T,Insignificant
+"Not really, I just feel good about the goals we’ve set.",P,Insignificant
+"I’m glad to hear that! Remember, it’s all about taking small steps. I look forward to hearing about your experiences next time. Take care!",T,Insignificant
+"Thank you, Ellie! I appreciate your help. Bye!",P,Insignificant
+Bye!,T,Insignificant

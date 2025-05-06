@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi! It’s wonderful to see you again. How have you been since we last spoke?,T,Insignificant
+"I’ve been okay. I started that journal about my sister, and it’s been a bit therapeutic.",P,History of Present Illness (HPI)
+That’s fantastic to hear! How has the writing process been for you?,T,Insignificant
+"It’s been emotional, but in a good way. I feel like I’m connecting with her memory.",P,History of Present Illness (HPI)
+That’s a beautiful way to honor her. Have you written down any specific memories that stand out to you?,T,Insignificant
+"Yes, I wrote about our beach trips and how she always made me laugh.",P,History of Present Illness (HPI)
+Those moments sound precious. How do you feel after writing about those experiences?,T,Insignificant
+"I feel a mix of happiness and sadness, but it’s nice to remember her in a positive light.",P,History of Present Illness (HPI)
+It’s completely normal to feel both. Have you found any new coping strategies when those feelings of sadness arise?,T,Insignificant
+"I’ve been trying to use the deep breathing techniques more, especially when I feel overwhelmed.",P,Therapeutic Interventions
+That’s great! Have you noticed any changes in your anxiety levels since implementing those techniques?,T,Insignificant
+"A little bit. I still feel anxious sometimes, but I can manage it better now.",P,Progress Evaluation
+That’s a positive step forward! What do you think has contributed to that improvement?,T,Insignificant
+"I think writing helps, and having those breathing techniques makes me feel more in control.",P,Progress Evaluation
+It sounds like you’re developing a toolkit for managing your emotions. Have there been any recent situations where you felt that anxiety creeping back in?,T,Insignificant
+"Yes, actually. I had a presentation at work, and I felt really nervous leading up to it.",P,History of Present Illness (HPI)
+Presentations can be nerve-wracking! How did you handle that anxiety before the presentation?,T,Insignificant
+I tried to practice deep breathing and remind myself that I was prepared.,P,Therapeutic Interventions
+That’s a great approach. How did the presentation go?,T,Insignificant
+Surprisingly well! I think my preparation paid off.,P,Progress Evaluation
+That’s wonderful to hear! It sounds like you’re building confidence in your abilities. ,T,Insignificant
+"Yeah, it felt good to succeed at something I was worried about.",P,Progress Evaluation
+That’s a significant accomplishment! How did you celebrate that success?,T,Insignificant
+I went out with friends afterward for dinner. It was nice to unwind.,P,Current Functional Status
+That’s a great way to reward yourself. Celebrating small victories is important. Have you noticed any changes in your relationships with friends since our last session?,T,Insignificant
+"I’ve been more open with them about how I’m feeling, and it feels good to share.",P,Psychosocial History
+That’s a big step! How has that openness impacted your friendships?,T,Insignificant
+I feel more connected to them. They’ve been really supportive and understanding.,P,Psychosocial History
+That’s wonderful! Supportive relationships can be incredibly healing. Is there anything specific you’d like to work on today?,T,Insignificant
+I’d like to talk more about my work anxiety. I still feel a bit overwhelmed.,P,Presenting Problem / Chief Complaint
+Absolutely. Let’s explore that further. What aspects of your work are causing the most stress right now?,T,Insignificant
+I think it’s the constant deadlines and the fear of not meeting expectations.,P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you had any conversations with your supervisor since your last email?,T,Insignificant
+"Yes, we had a meeting, and she was really understanding. We talked about prioritizing my tasks better.",P,Progress Evaluation
+That’s excellent! It sounds like you’re making progress in advocating for yourself. How did that conversation make you feel?,T,Insignificant
+It felt reassuring. I didn’t expect her to be so supportive.,P,Progress Evaluation
+That’s wonderful to hear. It’s important to have that support at work. What strategies have you implemented since then to manage your tasks?,T,Insignificant
+I’ve started using a planner to keep track of deadlines and break tasks into smaller steps.,P,Therapeutic Interventions
+That’s a great strategy! How has that impacted your stress levels?,T,Insignificant
+I feel less overwhelmed because I can see everything laid out. It’s easier to manage.,P,Progress Evaluation
+That’s a fantastic insight! Planning can really help in reducing anxiety. How do you feel about continuing this approach?,T,Insignificant
+I think I’ll keep using the planner. It’s been helpful.,P,Next Steps
+That’s great to hear! Let’s set a goal for you to continue using it and check in on your progress next session. Would you also like to explore any additional coping strategies?,T,Insignificant
+"Yes, I’d like to learn more about mindfulness or meditation.",P,Therapeutic Interventions
+Mindfulness can be a powerful tool for managing anxiety. Would you like to try a short mindfulness exercise together?,T,Insignificant
+"Sure, I’d love that.",P,Insignificant
+Great! Let’s take a moment to focus on our breath. Inhale deeply through your nose... and exhale slowly through your mouth. ,T,Insignificant
+*follows along*,P,Insignificant
+"As you breathe, notice any sensations in your body. What do you feel?",T,Insignificant
+"I feel a bit more relaxed, actually.",P,Mental Health Observations
+That’s wonderful! Mindfulness can help ground you in the present moment. Would you like to commit to practicing this mindfulness exercise a few times a week?,T,Insignificant
+"Yes, I think I can do that.",P,Next Steps
+"Excellent! I’m proud of you for taking these steps. Remember, it’s all about progress, not perfection. ",T,Insignificant
+"Thank you, Ellie. This has been really helpful.",P,Insignificant
+"I’m glad to hear that! Let’s plan to meet again next week to check on your progress. Keep practicing those techniques, and don’t hesitate to reach out if you need anything.",T,Next Steps
+Will do! Bye for now.,P,Insignificant
+Bye! Take care!,T,Insignificant

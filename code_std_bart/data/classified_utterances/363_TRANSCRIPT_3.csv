@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"I’ve been well! I had that conversation with my wife, and it went better than I expected.",P,History of Present Illness (HPI)
+That’s fantastic news! What was the outcome of the conversation?,T,Insignificant
+We talked openly about our feelings and what we both need. It felt good to finally communicate.,P,History of Present Illness (HPI)
+That’s a significant step forward! What did you both agree on?,T,Insignificant
+We agreed to check in with each other more often and to set aside time for date nights.,P,History of Present Illness (HPI)
+That sounds like a wonderful plan! How did it feel to express your needs to her?,T,Insignificant
+"It felt really liberating. I was nervous at first, but she was receptive and understanding.",P,History of Present Illness (HPI)
+That’s great to hear! It’s important to feel heard in a relationship. Have you had a chance to implement any of those date nights yet?,T,Insignificant
+"Yes, we went out for dinner last weekend. It was nice to reconnect.",P,Current Functional Status
+That’s lovely! It sounds like you’re making a real effort to strengthen your bond. How did the evening go?,T,Insignificant
+"It was great! We talked and laughed like we used to, and it reminded me of how much I care about her.",P,Current Functional Status
+That’s beautiful! It’s great that you’re rediscovering that connection. How about your health and fitness goals? How have those been progressing?,T,Insignificant
+I’m still going to the gym regularly and walking three days a week. I feel stronger and more energetic.,P,Physiological Observations
+That’s wonderful! Have you noticed any changes in your mood or overall well-being?,T,Insignificant
+"Yes, I think I’m feeling more positive overall. Exercise really helps clear my mind.",P,Physiological Observations
+That’s excellent! Physical activity can have such a positive impact on mental health. Have you continued with your meditation practice?,T,Insignificant
+"Yes, I’ve been consistent. It’s become a part of my daily routine.",P,Current Functional Status
+That’s great! It sounds like you’re really committed to taking care of yourself. Have you faced any challenges lately?,T,Insignificant
+"Not too many. I had a moment of temptation to gamble, but I reminded myself of the progress I’ve made.",P,Risk Assessment
+That’s a significant moment! How did you handle it?,T,Insignificant
+I talked to a friend about it and they helped me refocus on my goals. It felt good to reach out.,P,Current Functional Status
+That’s a great strategy! It’s important to have a support system. Is there anything else you’d like to work on in our sessions?,T,Insignificant
+I think I want to focus on building more social connections. I’ve been isolating a bit.,P,Presenting Problem / Chief Complaint
+That’s a great goal! Have you thought about ways to engage more socially?,T,Insignificant
+I’m considering joining a local club or group that aligns with my interests.,P,Next Steps
+That sounds like a fantastic idea! It could be a great way to meet new people. What kind of groups interest you?,T,Insignificant
+I’m thinking about a hiking group or maybe something related to gardening.,P,Next Steps
+Both sound like excellent options! They align with your interests and would allow you to connect with like-minded individuals.,T,Insignificant
+"Yes, I think I’ll look into it. I want to expand my social circle.",P,Next Steps
+That’s a positive intention! Let’s set that as a goal for the next few weeks. How does that sound?,T,Insignificant
+That sounds perfect! I’ll aim to find a group to join by our next session.,P,Next Steps
+Great! I’m excited to hear about your progress. Is there anything else you’d like to discuss today?,T,Insignificant
+I think we’ve covered a lot. Thank you for your support!,P,Insignificant
+"You’re very welcome! I’m proud of all you’ve accomplished. Take care, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

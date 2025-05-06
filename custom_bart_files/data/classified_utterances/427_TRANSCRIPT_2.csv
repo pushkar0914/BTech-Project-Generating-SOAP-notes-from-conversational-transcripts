@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have things been since our last conversation?,T,Insignificant
+"Hi! Things have been pretty good, actually. I shared an idea in a meeting!",P,Presenting Problem / Chief Complaint
+That’s fantastic! How did it go?,T,Insignificant
+"It went really well! People seemed interested, and I felt good about speaking up.",P,History of Present Illness (HPI)
+That’s a huge accomplishment! How did you feel before and after sharing your idea?,T,Insignificant
+"I was really nervous before, but after, I felt relieved and proud of myself.",P,Mental Health Observations
+That’s wonderful to hear! It sounds like you’re building your confidence. Have you noticed any changes in how you approach meetings since then?,T,Insignificant
+"Yeah, I’m trying to prepare a bit more and remind myself that my ideas are valid.",P,History of Present Illness (HPI)
+That’s a great strategy! Preparation can help alleviate anxiety. Have you had any other opportunities to share your thoughts?,T,Insignificant
+I actually spoke up again in another meeting! It’s becoming a little easier.,P,Progress Evaluation
+That’s excellent progress! It’s great to see you taking those steps. How about your relationship with your sister? Have you had any more discussions since we last spoke?,T,Insignificant
+"Yes, we talked again about our disagreements, and I tried to keep the conversation calm. It went well!",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re developing healthier communication patterns. How did that make you feel?,T,Insignificant
+"I felt closer to her, which was nice. It’s good to talk things out rather than argue.",P,Mental Health Observations
+That’s a significant shift! Building strong relationships is so important. Is there anything else you’d like to work on today?,T,Insignificant
+I’d like to explore my feelings about being more outgoing. Sometimes I still feel hesitant.,P,Presenting Problem / Chief Complaint
+"Absolutely, let’s dive into that. What situations make you feel most hesitant to be outgoing?",T,Insignificant
+"When I’m in larger groups or meeting new people, I tend to hold back.",P,History of Present Illness (HPI)
+That’s understandable. What do you think contributes to that hesitation?,T,Insignificant
+I think I worry about being judged or not fitting in.,P,History of Present Illness (HPI)
+Those feelings are common. Have you considered any strategies to help you feel more comfortable in those situations?,T,Insignificant
+"Maybe I could set a small goal, like introducing myself to one new person at a gathering.",P,Next Steps
+"That sounds like a great plan! Setting small, achievable goals can help ease the pressure. How do you feel about trying that?",T,Insignificant
+I think I can do that! It feels less intimidating when it’s just one person.,P,Next Steps
+"Exactly! And remember, it’s about making connections, not about impressing others. How do you think you would feel after trying that?",T,Insignificant
+"I think I’d feel proud of myself, even if it’s just a small step.",P,Mental Health Observations
+That’s the spirit! Celebrate those small victories. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that’s it for now. I feel good about what we talked about.,P,Progress Evaluation
+I’m glad to hear that! You’re making great progress. I look forward to hearing about your experiences in our next session.,T,Insignificant
+Thanks! I’m looking forward to it too.,P,Insignificant
+"Take care, and see you soon!",T,Insignificant
+Bye!,P,Insignificant

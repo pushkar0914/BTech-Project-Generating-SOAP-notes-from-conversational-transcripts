@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve had some ups and downs, but overall, I think I’m doing better.  ",P,History of Present Illness (HPI)
+That’s encouraging to hear! Can you share more about what has been better?  ,T,Insignificant
+"Well, I did reach out to my aunt like we talked about, and it felt really good to talk to her.  ",P,History of Present Illness (HPI)
+That’s fantastic! How did that conversation go?  ,T,Insignificant
+It was great! She listened and gave me some really good advice about my worries.  ,P,Insignificant
+I’m glad to hear that. What advice did she give you?  ,T,Insignificant
+She reminded me that it’s okay to take things one step at a time and not to rush my goals.  ,P,Insignificant
+That’s valuable advice. It’s important to be kind to yourself during this process.  ,T,Insignificant
+"Yes, definitely. I’ve been trying to practice that more.  ",P,History of Present Illness (HPI)
+How has that been going for you?  ,T,Insignificant
+It’s a work in progress. Some days I’m better at it than others.  ,P,History of Present Illness (HPI)
+That’s perfectly normal. Have you been able to use any of the coping strategies we discussed?  ,T,Insignificant
+"I’ve been journaling and writing down my worries before bed, and it has helped a bit.  ",P,Therapeutic Interventions
+That’s great! Have you noticed any changes in your sleep since implementing that?  ,T,Insignificant
+"A little. I think I’m falling asleep faster, but I still wake up a lot.  ",P,Physiological Observations
+That’s an improvement! It can take time to see significant changes in sleep patterns.  ,T,Insignificant
+"Yeah, I understand.  ",P,Insignificant
+Have you tried any other techniques to help with waking up during the night?  ,T,Insignificant
+"I haven’t, but I’m open to suggestions.  ",P,Insignificant
+"One thing you could try is limiting screen time before bed, as it can interfere with sleep quality.  ",T,Therapeutic Interventions
+I’ve heard that before. I’ll definitely try to reduce it.  ,P,Insignificant
+Excellent! Let’s also revisit your work situation. Have you made any progress on looking for teaching positions?  ,T,Insignificant
+"Yes, I started looking at job listings and even updated my resume.  ",P,Current Functional Status
+That’s wonderful! How does that feel?  ,T,Insignificant
+"It feels good to take steps toward my goal. I’m a little nervous, though.  ",P,History of Present Illness (HPI)
+It’s completely normal to feel nervous when pursuing change. What specifically makes you nervous?  ,T,Insignificant
+I guess I worry I won’t be good enough or that I’ll face rejection.  ,P,Risk Assessment
+Those fears are common. Have you thought about how you might cope with rejection if it happens?  ,T,Insignificant
+I haven’t really thought that far ahead.  ,P,Insignificant
+It might help to remind yourself that rejection is part of the process and doesn’t define your worth or abilities.  ,T,Therapeutic Interventions
+That makes sense. I’ll try to keep that in mind.  ,P,Insignificant
+Great! Would you like to set a goal for applying to a certain number of positions this month?  ,T,Insignificant
+"Yes, I think applying to three positions would be a good start.  ",P,Next Steps
+That sounds like a realistic goal. Let’s check in on that next session.  ,T,Insignificant
+Sure!  ,P,Insignificant
+How have you been feeling about your mental health overall?  ,T,Insignificant
+"I think I’m starting to feel a bit more hopeful, but I still have moments of doubt.  ",P,History of Present Illness (HPI)
+"It’s good to hear you’re feeling hopeful! It’s normal to have doubts, especially during times of change.  ",T,Insignificant
+"Yeah, I guess I just need to be patient with myself.  ",P,Insignificant
+"Absolutely! Remember, progress takes time. Is there anything specific you want to work on for our next session?  ",T,Insignificant
+Maybe we could explore more coping strategies for anxiety?  ,P,Next Steps
+Definitely! We can work on that. I’ll prepare some techniques for you to try.  ,T,Therapeutic Interventions
+Thank you! I appreciate it.  ,P,Insignificant
+"You’re welcome! I’m proud of the steps you’re taking. Keep up the good work, and I’ll see you next time.  ",T,Insignificant
+"Bye, Ellie!  ",P,Insignificant
+Bye! Take care!  ,T,Insignificant

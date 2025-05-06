@@ -1,0 +1,29 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since we last spoke?,T,Insignificant
+"Hi, Ellie. I’ve had some ups and downs, but I tried to implement some of the strategies we discussed.",P,History of Present Illness (HPI)
+That’s wonderful to hear! Can you share how that went for you?,T,Insignificant
+"Well, I practiced mindfulness in the mornings, and I started journaling. It felt good to put my thoughts down on paper.",P,Therapeutic Interventions
+That’s fantastic! How did you feel after journaling?,T,Insignificant
+"It was a bit freeing, I guess. I didn’t realize how much I was holding in until I wrote it all down.",P,History of Present Illness (HPI)
+That’s a significant realization. Did you notice any patterns or recurring themes in your journaling?,T,Insignificant
+"Yes, a lot of my worries revolve around my kids and my own feelings of inadequacy as a parent.",P,History of Present Illness (HPI)
+It’s insightful that you recognized that. Can you elaborate on what feelings of inadequacy you’re experiencing?,T,Insignificant
+"I just feel like I’m not doing enough for them, especially when I see their friends achieving things. I worry I’m holding them back somehow.",P,History of Present Illness (HPI)
+"It’s common for parents to feel that way, especially when comparing themselves to others. Have you talked to your kids about their achievements and how they feel about their paths?",T,Insignificant
+Not really. I guess I’ve been too focused on my own worries.,P,History of Present Illness (HPI)
+"It might be helpful to shift the focus back to them. Celebrating their accomplishments, no matter how small, could help you both. ",T,Insignificant
+That’s a good point. I think I need to be more supportive rather than critical of myself.,P,History of Present Illness (HPI)
+Absolutely! Supporting them can also help alleviate some of your worries. How do you think they would respond to your encouragement?,T,Insignificant
+"I think they’d appreciate it. They’re good kids, and I know they want to make me proud.",P,History of Present Illness (HPI)
+That’s great to hear. Encouraging them can also strengthen your relationship. Have you noticed any changes in your mood since starting your mindfulness practice?,T,Insignificant
+"A little bit. I feel less overwhelmed sometimes, which is nice.",P,History of Present Illness (HPI)
+That’s an excellent improvement! It sounds like you’re starting to find a balance. What about during family gatherings? Were you able to set those boundaries we discussed?,T,Insignificant
+"I did! I took a few breaks during the gathering, which helped a lot.",P,Current Functional Status
+That’s fantastic! It’s great to hear you were able to advocate for your needs. How did your family react to that?,T,Insignificant
+They were understanding. I think they appreciated my honesty.,P,Current Functional Status
+That’s a positive outcome! It sounds like you’re making strides in both your self-care and your relationships. What are your goals for our next session?,T,Insignificant
+I want to continue working on my mindfulness practice and see if I can be more open with my kids about my feelings.,P,Next Steps
+"Those sound like excellent goals. I’m looking forward to hearing how that goes! Remember, it’s a process, and it’s okay to take small steps.",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re doing the hard work, and I’m here to help. Take care of yourself, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's great to see you again. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. Just trying to keep busy.",P,Insignificant
+Keeping busy can be a good way to cope. Have you been able to engage in any activities that you enjoy?,T,Insignificant
+"Yeah, I went hiking last weekend with my kids. It was nice to be outdoors again.",P,Psychosocial History
+That sounds wonderful! How did it feel to spend that time in nature with them?,T,Insignificant
+It felt really refreshing. The fresh air and just being away from everything for a while helped clear my mind.,P,History of Present Illness (HPI)
+I'm glad to hear that. You mentioned feeling run down last time. Have you noticed any changes in your energy levels since then?,T,History of Present Illness (HPI)
+"A little bit. I think being outside helped, but I still struggle with sleep. I just can’t seem to get a good night’s rest.",P,History of Present Illness (HPI): Physiological Observations
+Sleep can be so important for our overall well-being. Have you tried any strategies to improve your sleep since we last spoke?,T,Insignificant
+"I’ve been trying to establish a bedtime routine, but it’s hard to stick to it. I often end up scrolling on my phone or watching TV until late.",P,History of Present Illness (HPI): Current Functional Status
+"It can be tough to disconnect from screens, especially when they’re so engaging. Would you be open to exploring some alternatives to help you wind down at night?",T,Insignificant
+"Sure, I’d be willing to try something new.",P,Insignificant
+Great! Some people find that reading a book or practicing mindfulness can help them relax before bed. Have you ever tried mindfulness or meditation?,T,Insignificant
+"I’ve done a little bit of meditation before, but I never really stuck with it.",P,History of Present Illness (HPI)
+It can be challenging to keep up with new habits. Would you be interested in setting a small goal for yourself to practice mindfulness this week?,T,Insignificant
+"Yes, I could try doing a short meditation before bed.",P,Next Steps
+That sounds like a good plan! How about starting with just five minutes each night? You could use a guided meditation app to help you.,T,Next Steps
+That sounds doable. I’ll give it a try.,P,Next Steps
+"Excellent! I’d love to hear how it goes in our next session. In the meantime, how have you been managing your PTSD symptoms?",T,Insignificant
+"I think I’ve been doing okay. I still have moments where I feel anxious, especially in crowded places, but I try to use the coping techniques I’ve learned.",P,History of Present Illness (HPI): Risk Assessment
+It’s great to hear that you’re applying your coping techniques. Can you share one that you found particularly helpful recently?,T,Insignificant
+Deep breathing has been really helpful when I start feeling overwhelmed. I just take a few minutes to breathe deeply and focus on my breath.,P,History of Present Illness (HPI): Therapeutic Interventions
+Deep breathing is a powerful tool. It can help ground you in the moment. Have you noticed any particular situations that trigger your anxiety?,T,Insignificant
+Mostly when I’m in busy areas or if I feel like someone is watching me. It brings back memories from my past.,P,Trauma History: Risk Assessment
+That makes sense. It’s important to be aware of those triggers. Would you like to explore some more coping strategies for those specific situations?,T,Insignificant
+"Yes, that would be helpful.",P,Insignificant
+"One technique is to create a grounding exercise. This could involve focusing on your surroundings and naming five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. Would you find that useful?",T,Insignificant
+I think that could help. It sounds like a good way to bring me back to the present.,P,Insignificant
+Absolutely! It’s a great way to redirect your focus when you start feeling anxious. We can practice it together if you’d like.,T,Insignificant
+"Sure, let’s try it.",P,Insignificant
+"Alright, let’s imagine you’re in a crowded place. What are five things you can see around you?",T,Insignificant
+"I see a tree, a bench, people walking by, a dog, and a fountain.",P,Insignificant
+"Great! Now, what are four things you can touch?",T,Insignificant
+"I can touch my phone, my backpack, the ground, and my shirt.",P,Insignificant
+"Perfect! Now, what are three things you can hear?",T,Insignificant
+"I hear people talking, birds chirping, and the sound of water from the fountain.",P,Insignificant
+"Excellent! Now, can you name two things you can smell?",T,Insignificant
+I can smell fresh grass and something sweet from a nearby food stand.,P,Insignificant
+"Great job! Lastly, what’s one thing you can taste?",T,Insignificant
+I can taste the coffee I had earlier.,P,Insignificant
+Well done! How did that exercise feel for you?,T,Insignificant
+It was actually really calming. I felt more in control.,P,History of Present Illness (HPI)
+"That’s wonderful to hear! Remember, you can use this exercise anytime you feel overwhelmed. Would you like to set any other goals for this week?",T,Insignificant
+I think focusing on my meditation and using the grounding exercise when needed would be good.,P,Next Steps
+That sounds like a solid plan. I’m proud of you for taking these steps. Let’s check in on your progress next time. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think that covers it for now.",P,Insignificant
+Great! Thank you for sharing with me today. I look forward to hearing about your experiences in our next session. Take care!,T,Insignificant
+Thank you! See you next time.,P,Insignificant

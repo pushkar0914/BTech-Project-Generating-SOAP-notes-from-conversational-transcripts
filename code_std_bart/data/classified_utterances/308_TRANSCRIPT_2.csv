@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I’ve been okay. I actually applied for a couple of jobs like we talked about.",P,Presenting Problem / Chief Complaint
+That’s fantastic! How did that feel for you?,T,Insignificant
+"It felt good to take that step, but I still feel anxious about it.",P,History of Present Illness (HPI)
+"It’s completely normal to feel anxious, especially when you’re putting yourself out there. Did you notice any specific thoughts or feelings that came up while applying?",T,Insignificant
+"I kept thinking, “What if I don’t get a call back?” It’s like a loop in my head.",P,History of Present Illness (HPI)
+That loop can be tough to break. Have you tried any techniques to challenge those thoughts when they arise?,T,Insignificant
+"I’ve been trying to remind myself that I’m doing my best, but it’s hard to believe it sometimes.",P,History of Present Illness (HPI)
+It can be challenging to shift our mindset. One technique is to write down those negative thoughts and then counter them with positive affirmations. Would you like to try that?,T,Therapeutic Interventions
+I could give that a shot. It might help to see it on paper.,P,Therapeutic Interventions
+Great! Sometimes visualizing the contrast can help reinforce the positive. How has your journaling been going since we last spoke?,T,Insignificant
+"I’ve been writing a little, but I still find it hard to get started.",P,History of Present Illness (HPI)
+That’s okay! It’s a process. You might try setting a timer for just two minutes and writing whatever comes to mind. No pressure to make it perfect.,T,Therapeutic Interventions
+That sounds manageable. I can try that.,P,Therapeutic Interventions
+"Excellent! Now, how about your feelings of hopelessness? Have there been any changes there?",T,Insignificant
+"I still have my moments, but I think I’m coping a bit better. I’ve been trying to focus on the small things.",P,Progress Evaluation
+That’s a positive shift! Focusing on small victories can help create a sense of hope. What’s one small victory you’ve had recently?,T,Insignificant
+I went for a hike last weekend. It was nice to be outdoors and disconnect for a bit.,P,History of Present Illness (HPI)
+That’s wonderful! Nature can be very healing. How did you feel during and after the hike?,T,Insignificant
+I felt peaceful while I was out there. It was a nice break from everything.,P,Physiological Observations
+That’s a great reminder of the power of nature. Is that something you’d like to incorporate more regularly?,T,Insignificant
+"Yeah, I think I need to make time for that.",P,Next Steps
+That sounds like a good plan. Let’s set a goal for you to go hiking or spend time outdoors at least once this week. How does that sound?,T,Next Steps
+I can do that!,P,Next Steps
+"Awesome! Now, let’s talk about your family dynamics. You mentioned that your relationship with them is dysfunctional. Have you had any contact with them lately?",T,Insignificant
+"No, I’ve been keeping my distance. It’s just easier that way.",P,Psychosocial History
+That’s understandable. Sometimes distance can provide clarity. How do you feel about that distance?,T,Insignificant
+"It’s a relief, but I also feel guilty sometimes.",P,Psychosocial History
+Those feelings of guilt are common. It’s important to prioritize your well-being. Would you be open to discussing how you might navigate those feelings?,T,Insignificant
+I guess so. I just feel torn between wanting to support them and needing to take care of myself.,P,Psychosocial History
+That’s a tough balance to strike. It’s okay to set boundaries for your mental health. What would it look like for you to maintain those boundaries while still being supportive?,T,Insignificant
+Maybe I could check in once in a while but not get too involved.,P,Next Steps
+That sounds like a healthy approach. Checking in can show you care without overwhelming yourself. Would you like to try that this week?,T,Next Steps
+"Yeah, I think I can manage that.",P,Next Steps
+Great! We can check in on how that goes next time. Is there anything else you’d like to address today?,T,Insignificant
+"No, I think that’s it. Thanks for helping me work through all of this.",P,Insignificant
+"You’re welcome! I’m proud of you for taking these steps. Remember, it’s okay to take things one day at a time. I look forward to our next session.",T,Insignificant
+"Me too. Bye, Ellie.",P,Insignificant
+Goodbye!,T,Insignificant

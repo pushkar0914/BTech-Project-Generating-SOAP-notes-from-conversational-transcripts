@@ -1,0 +1,60 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I've been okay, just the usual ups and downs.",P,Insignificant
+"That's understandable. Last time, we talked about your family and your relationship with your husband. Have there been any developments since then?",T,Insignificant
+"Well, we had a bit of a breakthrough. I decided to sit down with him and talk about the construction issues more calmly.",P,History of Present Illness (HPI)
+That sounds like a positive step. How did that conversation go?,T,Insignificant
+"It went surprisingly well! I expressed my concerns without being accusatory, and he actually listened.",P,History of Present Illness (HPI)
+That's great to hear! What do you think helped you communicate more effectively this time?,T,Insignificant
+I think I approached it from a place of wanting to work together rather than blaming him. I focused on finding solutions instead of just pointing out what went wrong.,P,History of Present Illness (HPI)
+That’s a significant shift. How did he respond to that?,T,Insignificant
+He was receptive. He admitted he should have listened to me and we came up with a plan to fix the issues together.,P,History of Present Illness (HPI)
+Excellent! It sounds like you both are working on strengthening your partnership. How does that make you feel?,T,Insignificant
+"It makes me feel relieved and hopeful. I really want us to be a team, especially as we navigate these home projects together.",P,History of Present Illness (HPI)
+Teamwork is essential in a relationship. Are there other areas in your life where you’d like to improve communication or collaboration?,T,Insignificant
+"Hmm, I think with my sons. Sometimes I feel like they don’t open up to me as much as I’d like.",P,History of Present Illness (HPI)
+That’s a common experience for many parents. What do you think is holding them back from sharing more with you?,T,Insignificant
+I think they’re both busy with their lives and maybe they feel I won’t understand their struggles.,P,History of Present Illness (HPI)
+Have you considered sharing your own experiences to create a more open dialogue?,T,Insignificant
+I haven’t really thought about that. I usually just listen and offer advice when they ask for it.,P,Insignificant
+Sharing your own challenges might help them feel more comfortable opening up. Would you be willing to try that?,T,Insignificant
+"Yes, I think I will. I want them to know I’m here for them, no matter what.",P,Insignificant
+That’s a wonderful intention. How do you feel about setting a goal for yourself regarding this?,T,Insignificant
+I’d like to have at least one meaningful conversation with each of them this month.,P,Next Steps
+That sounds like a great goal! What would you like to talk about with them?,T,Insignificant
+I want to ask them about their dreams and any challenges they’re facing. I want them to feel they can share anything with me.,P,Next Steps
+That’s a lovely approach. How do you plan to initiate those conversations?,T,Insignificant
+I think I’ll invite them for dinner and create a relaxed atmosphere. Maybe I can share a personal story to break the ice.,P,Next Steps
+"That sounds like a solid plan. Remember to be patient, as it might take time for them to open up fully.",T,Insignificant
+"Yes, I understand. I’ll give them the space they need.",P,Insignificant
+"Great! Moving on, how have you been feeling about your own personal goals, like your weight management?",T,Insignificant
+"Ah, the yo-yo dieting. I’ve been trying to be more mindful, but it’s still a struggle.",P,History of Present Illness (HPI)
+Mindfulness can be a powerful tool. Have you practiced any specific techniques to help with that?,T,Insignificant
+"I’ve tried keeping a food diary, but I tend to forget to write things down.",P,History of Present Illness (HPI)
+That’s common. Would you be open to setting reminders or using an app to help track your meals?,T,Insignificant
+"That might work better for me. I’m always on my phone, so it would be easier to do it that way.",P,Next Steps
+"That’s a great idea! Also, how do you feel about incorporating some physical activity that you enjoy?",T,Insignificant
+"I love walking, especially in nature. I’ve been meaning to explore some local parks.",P,Next Steps
+That sounds wonderful! How about setting a goal to walk in a new park once a week?,T,Next Steps
+I like that idea! It’ll give me something to look forward to.,P,Next Steps
+Perfect! You’re making some great commitments today. How do you feel about all these goals we’ve discussed?,T,Insignificant
+I feel motivated. I like having a plan to work towards.,P,Insignificant
+"That’s fantastic! Remember, progress takes time, so celebrate the small victories along the way.",T,Insignificant
+"I will, thank you.",P,Insignificant
+"Before we wrap up, is there anything else on your mind that you’d like to discuss today?",T,Insignificant
+I’ve been thinking about my mom again. It’s been a while since I reflected on her passing.,P,Trauma History
+It’s completely normal to revisit those feelings. Would you like to share what’s been on your mind?,T,Insignificant
+I just think about how she would have loved to see my sons grow up. I wish she could have been here for those moments.,P,Trauma History
+That’s a beautiful sentiment. It sounds like you’re honoring her memory by being a good parent yourself.,T,Insignificant
+"Yes, I try to carry her lessons with me. I just wish she could see how far we’ve come.",P,Trauma History
+It’s clear that you’re continuing her legacy through your own family. How does that make you feel?,T,Insignificant
+It makes me feel proud and connected to her in a way. I want to make her proud.,P,Trauma History
+I’m sure she would be very proud of you. Would it help to create a small ritual to honor her memory during family gatherings?,T,Insignificant
+That’s a lovely idea. Maybe I can light a candle and share a story about her.,P,Next Steps
+That sounds like a beautiful way to keep her spirit alive within your family. Would you like to do that during your next family dinner?,T,Insignificant
+"Yes, I think I will. Thank you for that suggestion.",P,Insignificant
+You’re very welcome! I’m glad you’re finding ways to incorporate her memory into your life. Let’s check in on your progress in our next session.,T,Insignificant
+Sounds good! Thanks for your help today.,P,Insignificant
+"Of course! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

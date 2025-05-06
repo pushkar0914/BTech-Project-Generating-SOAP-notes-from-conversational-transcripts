@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi there! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"Hey, Ellie! I’ve been okay. I tried that wind-down routine you suggested.  ",P,History of Present Illness (HPI)
+That’s wonderful! How did it go for you?  ,T,Insignificant
+"It was good! I read before bed instead of scrolling through my phone, and I think I slept a bit better.  ",P,Physiological Observations
+That’s fantastic to hear! It sounds like a positive change. Did you notice any other changes in your mood or energy levels?  ,T,Insignificant
+"Yeah, I felt a bit less anxious in the mornings. I think it helped to not be on my phone right before bed.  ",P,History of Present Illness (HPI)
+That’s great feedback! It’s amazing how small changes can lead to significant improvements. Have you continued practicing mindfulness as well?  ,T,Insignificant
+I have! I try to do it every morning when I wake up.  ,P,Current Functional Status
+That’s excellent! How does starting your day with mindfulness feel for you?  ,T,Insignificant
+It feels calming. I think it helps set a better tone for the day.  ,P,Physiological Observations
+I’m so glad to hear that. It sounds like you’re making meaningful strides in managing your anxiety. Have you encountered any challenges while implementing these techniques?  ,T,Insignificant
+"Well, there are days when I forget to do them, and I feel guilty about it.  ",P,History of Present Illness (HPI)
+"It’s completely normal to have those moments. Remember, progress isn’t linear. It’s okay to miss a day. What’s important is that you’re trying.  ",T,Insignificant
+That makes sense. I guess I shouldn’t be so hard on myself.  ,P,Insignificant
+"Exactly! Self-compassion is key in this journey. Speaking of challenges, how has your temper been lately?  ",T,Insignificant
+I think it’s improved a bit. I’ve been trying to take a step back when I feel angry.  ,P,History of Present Illness (HPI)
+That’s a great strategy! What techniques have you been using to manage your anger?  ,T,Insignificant
+I’ve been practicing deep breathing and counting to ten before reacting.  ,P,Therapeutic Interventions
+That’s an excellent approach. It gives you a moment to pause and reflect before responding. Have you noticed any specific situations where this has helped?  ,T,Insignificant
+"Yeah, I had a disagreement with a coworker last week, and I used the breathing technique. It helped me stay calm.  ",P,Progress Evaluation
+That’s a significant achievement! It sounds like you’re learning to respond rather than react.  ,T,Insignificant
+"Yeah, it felt good to handle it better than before.  ",P,Progress Evaluation
+I’m proud of you for that progress! Are there any specific triggers that you’re still struggling with?  ,T,Insignificant
+"I think when I feel overwhelmed with tasks, that’s when I’m more likely to get angry.  ",P,History of Present Illness (HPI)
+That’s understandable. Overwhelm can be a significant trigger. Have you thought about ways to manage your workload?  ,T,Insignificant
+I’ve been trying to prioritize tasks and break them down into smaller steps.  ,P,Therapeutic Interventions
+That’s a great strategy! It can make tasks feel more manageable. How has that been working for you?  ,T,Insignificant
+"It’s been helping a bit. I still struggle with procrastination, though.  ",P,History of Present Illness (HPI)
+Procrastination is a common challenge. What do you think leads to that for you?  ,T,Insignificant
+I think it’s a mix of fear of failure and just feeling overwhelmed.  ,P,History of Present Illness (HPI)
+"That’s a valid concern. Sometimes, the fear of not doing something perfectly can hold us back. Would you like to explore ways to tackle that fear?  ",T,Insignificant
+"Yeah, I think that would be helpful.  ",P,Insignificant
+"One technique is to reframe your perspective on failure. Instead of seeing it as a negative, think of it as an opportunity for growth.  ",T,Therapeutic Interventions
+That’s a good way to look at it.  ,P,Insignificant
+"Another approach is to set realistic expectations. Remember, it’s okay to make mistakes. They’re part of the learning process.  ",T,Therapeutic Interventions
+I like that idea. I think I need to remind myself of that more often.  ,P,Insignificant
+Absolutely! Let’s set a goal for you to practice this reframing technique over the next week. How does that sound?  ,T,Next Steps
+Sounds good! I’ll work on it.  ,P,Next Steps
+"Wonderful! As we wrap up today, is there anything else you’d like to discuss?  ",T,Insignificant
+I think I’m good for now. I feel like I have a plan to work on.  ,P,Current Functional Status
+"That’s great to hear! I’m proud of the progress you’re making. Remember, I’m here to support you every step of the way.  ",T,Insignificant
+"Thanks, Ellie. I appreciate everything.  ",P,Insignificant
+You’re very welcome! I look forward to hearing about your experiences next time. Take care!  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

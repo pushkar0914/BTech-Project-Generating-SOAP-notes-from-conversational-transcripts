@@ -1,0 +1,154 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this,T,Insignificant
+yes,P,Insignificant
+okay,T,Insignificant
+so how are you doing today,T,Insignificant
+good,P,Insignificant
+that's good,T,Insignificant
+where are you from originally,T,Insignificant
+new jersey,P,Psychosocial History
+really,T,Insignificant
+when did you move to l_a,T,Insignificant
+five years ago,P,Psychosocial History
+how often do you go back to your hometown,T,Insignificant
+about <bout> once a year,P,Psychosocial History
+that's good,T,Insignificant
+how does it compare to l_a,T,Insignificant
+um there's more to do out here,P,Psychosocial History
+why did you move to l_a,T,Insignificant
+the weather is nice,P,Psychosocial History
+i see what you mean,T,Insignificant
+how easy was it for you to get used to living in l_a,T,Insignificant
+didn't take very long,P,History of Present Illness (HPI)
+what are some things you really like about l_a,T,Insignificant
+and the art scene the music scene there's always something to do out here,P,Psychosocial History
+mhm,T,Insignificant
+what are some things you don't really like about l_a,T,Insignificant
+some of the people <laughter>,P,Psychosocial History
+can you give me an example of that,T,Insignificant
+um some of the people are just kinda superficial,P,Psychosocial History
+i understand,T,Insignificant
+i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot,T,Insignificant
+no,P,Insignificant
+why,T,Insignificant
+i like it out here,P,Psychosocial History
+okay,T,Insignificant
+what did you study at school,T,Insignificant
+art,P,Psychosocial History
+that sounds interesting,T,Insignificant
+how did you decide to do that,T,Insignificant
+um i took a lot of art courses throughout high school,P,Psychosocial History
+are you still working in that,T,Insignificant
+um a little,P,Current Functional Status
+what's your dream job,T,Insignificant
+um,P,Insignificant
+i'd like to create,P,Psychosocial History
+how hard is that,T,Insignificant
+not very hard,P,Insignificant
+do you consider yourself more shy or outgoing,T,Insignificant
+outgoing,P,Insignificant
+why,T,Insignificant
+because all of my friends tell me i'm outgoing,P,Insignificant
+(laughter,T,Insignificant
+sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax,T,Insignificant
+listen to music or read,P,Current Functional Status
+how are you at controlling your temper,T,Insignificant
+pretty good,P,Insignificant
+when was the last time you argued with someone and what was it about,T,Insignificant
+i don't even remember the last time i argued with someone,P,Insignificant
+wow,T,Insignificant
+what's something you feel guilty about,T,Insignificant
+mm,P,Insignificant
+i don't feel guilty about anything,P,Insignificant
+okay,T,Insignificant
+tell me about a situation that you wish you had handled differently,T,Insignificant
+mm,P,Insignificant
+i can't think of a situation i wish i handled differently,P,Insignificant
+hmm,T,Insignificant
+tell me about the hardest decision you've ever had to make,T,Insignificant
+probably moving to l_a,P,History of Present Illness (HPI)
+can you tell me about that,T,Insignificant
+eh just deciding to go away from my family and come out here was kind of a difficult decision,P,History of Present Illness (HPI)
+are you happy you did that,T,Insignificant
+yes,P,Insignificant
+tell me about your relationship with your family,T,Insignificant
+it's very good i still talk to them um,P,Psychosocial History
+like almost every day and i see them sometimes so it works out,P,Psychosocial History
+that's great,T,Insignificant
+who's someone that's been a positive influence in your life,T,Insignificant
+my mom,P,Psychosocial History
+can you tell me about that,T,Insignificant
+um,P,Insignificant
+just kinda taught me to be the person i am today,P,Psychosocial History
+aw,T,Insignificant
+tell me about an event or something that you wish you could erase from your memory,T,Insignificant
+hmm,P,Insignificant
+i can't think of an event i wish i could erase from my memory,P,Insignificant
+okay,T,Insignificant
+how do you like your living situation,T,Insignificant
+i like it,P,Psychosocial History
+do you have roommates,T,Insignificant
+no,P,Psychosocial History
+okay,T,Insignificant
+how easy is it for you to get a good night's sleep,T,Insignificant
+it's very easy,P,Physiological Observations
+what are you like when you don't sleep well,T,Insignificant
+mm i yawn a lot,P,Physiological Observations
+(laughter,T,Insignificant
+how have you been feeling lately,T,Insignificant
+good,P,Insignificant
+have you noticed any changes in your behavior or thoughts lately,T,Insignificant
+no,P,Insignificant
+have you ever been diagnosed with p_t_s_d,T,Insignificant
+no,P,Medical and Psychiatric History
+have you been diagnosed with depression,T,Insignificant
+no,P,Medical and Psychiatric History
+tell me about the last time you felt really happy,T,Insignificant
+um whenever i go to the gym i get happy,P,Current Functional Status
+that's good,T,Insignificant
+when was the last time that happened,T,Insignificant
+yesterday,P,Current Functional Status
+okay,T,Insignificant
+how would your best friend describe you,T,Insignificant
+crazy,P,Insignificant
+why,T,Insignificant
+because i am crazy,P,Insignificant
+<laughter>,P,Insignificant
+(laughter,T,Insignificant
+what are some things you wish you could change about yourself,T,Insignificant
+i like myself the way i am,P,Insignificant
+tell me about a time when someone made you feel really badly about yourself,T,Insignificant
+i can't think of a time someone made me feel bad about myself,P,Insignificant
+is there anything you regret,T,Insignificant
+no,P,Insignificant
+what advice would you give to yourself ten or twenty years ago,T,Insignificant
+i'd just tell myself that everything's gonna be okay,P,Insignificant
+mhm,T,Insignificant
+what's one of your most memorable experiences,T,Insignificant
+um probably family visits,P,Psychosocial History
+can you give me an example of that,T,Insignificant
+every time i go back it's really nice to see all my family and see what they're up to now,P,Psychosocial History
+that's so good to hear,T,Insignificant
+tell me about something you did recently that you really enjoyed,T,Insignificant
+um,P,Insignificant
+i really enjoy karaoke and i did that recently,P,Current Functional Status
+awesome,T,Insignificant
+what are some things that make you really mad,T,Insignificant
+mm when people put down other people,P,Insignificant
+i see what you mean,T,Insignificant
+what are some things that usually put you in a good mood,T,Insignificant
+music um,P,Insignificant
+art exhibits,P,Insignificant
+uh working out,P,Insignificant
+what are you most proud of in your life,T,Insignificant
+my friendships,P,Psychosocial History
+okay,T,Insignificant
+what would you say are some of your best qualities,T,Insignificant
+um i'm a good listener,P,Psychosocial History
+and,P,Insignificant
+really good at giving my opinion on how to help others,P,Psychosocial History
+that's good,T,Insignificant
+okay i think i have asked everything i need to,T,Insignificant
+thanks for sharing your thoughts with me,T,Insignificant
+goodbye,T,Insignificant

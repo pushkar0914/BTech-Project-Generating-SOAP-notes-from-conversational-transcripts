@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I’ve been good. I reached out to a couple of friends, and it felt great!",P,Psychosocial History
+That’s wonderful! How did those conversations go?,T,Insignificant
+"They were really fulfilling. I felt more connected, and it reminded me of the importance of friendship.",P,Psychosocial History
+That’s a great realization. Did you notice any changes in how you felt before and after reaching out?,T,Insignificant
+"Definitely! I felt less lonely, and it made me appreciate my friendships more.",P,History of Present Illness (HPI)
+That’s a positive outcome! Have you continued to practice setting boundaries in your interactions?,T,Insignificant
+"Yes, I have! I feel more confident in expressing my needs, and it’s been liberating.",P,History of Present Illness (HPI)
+That’s fantastic to hear! Have there been any challenges in maintaining those boundaries?,T,Insignificant
+"There was a moment when a friend pushed for details about my personal life, but I reminded myself to stay firm.",P,History of Present Illness (HPI)
+How did you handle that situation?,T,Insignificant
+"I told them I wasn’t comfortable sharing certain things, and they respected that. It felt good to assert myself.",P,History of Present Illness (HPI)
+That’s an excellent example of assertiveness! It’s great to see you applying what we’ve discussed. Have you noticed any changes in your emotional well-being since implementing these practices?,T,Insignificant
+I feel more balanced. I’m not as easily overwhelmed by social situations.,P,History of Present Illness (HPI)
+That’s a significant improvement. Have you explored any new activities or connections since we last met?,T,Insignificant
+I joined a local hiking group! It’s a great way to meet people while enjoying nature.,P,Psychosocial History
+That sounds like a perfect fit for you! How has that experience been so far?,T,Insignificant
+"It’s been wonderful! Everyone is friendly, and I feel like I belong.",P,History of Present Illness (HPI)
+That’s fantastic! How do you feel when you’re in that group setting?,T,Insignificant
+I feel energized and happy. It’s refreshing to be around like-minded people.,P,History of Present Illness (HPI)
+That’s a great way to foster connections. Have you thought about how you can continue to build on that sense of community?,T,Insignificant
+I want to keep attending the hikes and maybe organize a group outing.,P,Next Steps
+That’s a great initiative! Taking the lead can help strengthen your connections. Is there anything else you’d like to focus on today?,T,Insignificant
+I think I want to explore my feelings of loneliness further. I’ve noticed it still creeps in sometimes.,P,History of Present Illness (HPI)
+That’s a valuable topic to explore. When do you find those feelings of loneliness arise most often?,T,Insignificant
+Usually when I’m at home alone after a busy day. It’s like a stark contrast.,P,History of Present Illness (HPI)
+It’s understandable. Have you thought about creating a routine to address those moments?,T,Insignificant
+"I could plan some activities for those evenings, like reading or cooking something new.",P,Next Steps
+That sounds like a great idea! Engaging in activities you enjoy can help fill those moments. Would you like to set a goal around that?,T,Insignificant
+"Yes, I’d like to plan at least two activities for the evenings over the next week.",P,Next Steps
+"That’s a solid plan! Let’s check in on how that goes next time. Remember, it’s all about progress. Is there anything else you’d like to discuss today?",T,Insignificant
+I think we’ve covered a lot. Thank you for your support!,P,Insignificant
+You’re welcome! I’m proud of the progress you’re making. See you next time!,T,Insignificant
+"Bye, Ellie!",P,Insignificant

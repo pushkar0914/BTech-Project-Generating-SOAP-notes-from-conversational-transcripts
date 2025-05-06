@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been okay, I guess. A little up and down, but mostly okay.",P,Insignificant
+"I'm glad to hear that. Last time, we talked about your job search and some feelings of guilt around productivity. Have you made any progress on that front?",T,History of Present Illness (HPI)
+"Yeah, I actually sent out a few more resumes this week. It felt good to take that step, even though I still feel a bit overwhelmed.",P,History of Present Illness (HPI)
+That's a great step! How did it feel to send those resumes out?,T,Insignificant
+It felt relieving but also a little nerve-wracking. I just keep worrying about whether I’ll hear back or if I’ll even get an interview.,P,History of Present Illness (HPI)
+It’s completely normal to feel that way. Let’s explore that a bit more. What specific worries come up for you when you think about hearing back from potential employers?,T,Insignificant
+I guess I worry that I’m not good enough or that I won’t stand out among the other applicants. ,P,History of Present Illness (HPI)
+Those thoughts can be really tough to deal with. Have you noticed any patterns in how you respond to those feelings of inadequacy?,T,Insignificant
+"Yeah, I tend to shut down a bit. I’ll start second-guessing myself and then I don’t want to apply to more jobs.",P,History of Present Illness (HPI)
+That sounds frustrating. What do you think might help you combat those feelings when they arise?,T,Insignificant
+"I think reminding myself of my strengths could help. I mean, I’ve worked hard and have a lot of experience, but sometimes it just feels overshadowed by self-doubt.",P,History of Present Illness (HPI)
+That’s a good realization. Would you be open to creating a list of your strengths and accomplishments to refer back to when those doubts creep in?,T,Therapeutic Interventions
+"Yeah, I think that could be really helpful.",P,Therapeutic Interventions
+Great! We can work on that together. You mentioned feeling overwhelmed—what else has been contributing to that feeling lately?,T,Insignificant
+"Well, I’ve still been having those weird dreams and sleep issues. It’s hard to focus when I’m not well-rested.",P,History of Present Illness (HPI): Physiological Observations
+Sleep can have such a big impact on our mood and clarity. Have you tried any strategies to improve your sleep since we last spoke?,T,Insignificant
+"I’ve tried some deep breathing before bed, but I’m not consistent with it. Some nights I just forget.",P,Current Functional Status: Physiological Observations
+It can be hard to remember to practice self-care when you’re feeling overwhelmed. Would you be willing to set a reminder on your phone for a few minutes of deep breathing before bedtime?,T,Therapeutic Interventions
+That sounds doable. I could try that.,P,Therapeutic Interventions
+"Wonderful! Also, how about your family? You mentioned enjoying your time with them during the holidays. Have you had a chance to connect with them since?",T,Insignificant
+"Yeah, I talked to my mom last week. It was nice to catch up.",P,Insignificant
+That’s great! What did you talk about?,T,Insignificant
+"Just the usual stuff—how things are going with me and how she’s doing. She always asks about my job search, and I think she worries.",P,Psychosocial History
+It sounds like she cares a lot about you. Do you feel supported by her during this time?,T,Insignificant
+"Mostly, yeah. Sometimes I feel like she doesn’t quite understand the industry, but I appreciate her concern.",P,Psychosocial History
+It’s understandable to feel that way. Have you thought about sharing more about your experiences with her to help her understand?,T,Insignificant
+"I haven’t, but that could be a good idea. Maybe if I explain the challenges, she wouldn’t worry so much.",P,Psychosocial History
+That could be very helpful for both of you. It could also strengthen your relationship. ,T,Insignificant
+"Yeah, I think so too.",P,Insignificant
+"As we wrap up today’s session, let’s set some goals for the next week. You mentioned sending out resumes, working on your strengths list, and trying deep breathing. How does that sound?",T,Next Steps
+That sounds good! I’ll try to do all of that.,P,Next Steps
+Excellent! I look forward to hearing how it goes in our next session. Remember to be kind to yourself during this process.,T,Insignificant
+"Thanks, Ellie. I appreciate it!",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant

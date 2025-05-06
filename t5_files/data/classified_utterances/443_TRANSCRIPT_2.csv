@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How have you been since we last spoke?,T,Insignificant
+"Hey, I’ve been okay, I guess. Tried to keep up with the journaling you suggested.",P,History of Present Illness (HPI)
+That’s awesome! How did it go for you?,T,Insignificant
+"It was a little hard at first, but I started writing down some moments where I felt good about myself.",P,History of Present Illness (HPI)
+That’s a great start! What did you notice about those moments?,T,Insignificant
+"Well, I realized there were times I helped someone or did something nice for myself.",P,History of Present Illness (HPI)
+That’s wonderful! Recognizing those moments can really help shift your perspective. Did you find it helpful in challenging your self-doubt?,T,Insignificant
+"Yeah, a bit. It felt good to remember those times.",P,History of Present Illness (HPI)
+"That’s fantastic to hear! As you continue, try to add more details about how you felt during those moments. It can reinforce those positive feelings.",T,Therapeutic Interventions
+I can do that.,P,Insignificant
+"Great! Now, how has your week been overall? Any ups or downs?",T,Insignificant
+I had a couple of rough days. I felt really low.,P,History of Present Illness (HPI)
+I’m sorry to hear that. Can you identify what might have triggered those feelings?,T,Insignificant
+"I saw some old friends hanging out online, and it made me feel lonely.",P,History of Present Illness (HPI)
+That’s completely understandable. Social media can often amplify feelings of loneliness. How did you cope with those feelings?,T,Insignificant
+I turned off my phone and listened to music. It helped a bit.,P,Current Functional Status
+That’s a good strategy! It’s important to find ways to disconnect when you’re feeling overwhelmed. Have you continued with the idea of taking breaks from social media?,T,Insignificant
+I have! It’s been nice not to check it as much.,P,Current Functional Status
+"I’m glad to hear that! It’s a positive step toward protecting your mental health. Now, how about your job search? Any updates?",T,Insignificant
+Still nothing. I’m starting to feel hopeless about it.,P,History of Present Illness (HPI)
+"It’s tough when you’re putting in the effort and not seeing results. Remember, it’s a process. Have you considered reaching out to any contacts or networking?",T,Insignificant
+I haven’t really thought about that.,P,Insignificant
+Networking can often lead to opportunities. Even reaching out to former colleagues or friends can open doors. Would you be willing to try that this week?,T,Next Steps
+"Yeah, I could give that a shot.",P,Next Steps
+"Wonderful! Let’s set that as a goal. Also, have you thought more about taking an art class?",T,Insignificant
+"I looked into a few, but I didn’t sign up yet.",P,History of Present Illness (HPI)
+Exploring those options is a great step. What’s holding you back from signing up?,T,Insignificant
+I guess I’m just nervous about meeting new people.,P,History of Present Illness (HPI)
+That’s a common feeling. It can be intimidating to step outside your comfort zone. What if you approached it as a chance to enjoy something you love rather than focusing on the social aspect?,T,Therapeutic Interventions
+That makes sense. I just need to remind myself it’s about the art.,P,Insignificant
+Exactly! Focusing on the activity can ease the pressure. Would you like to set a goal to sign up for a class this week?,T,Next Steps
+"Yeah, I think I can do that.",P,Next Steps
+"Perfect! You’re making great strides. Before we finish, is there anything else on your mind today?",T,Insignificant
+"No, I think I’m good.",P,Insignificant
+Thank you for sharing your thoughts. You’re doing amazing work in our sessions. I look forward to hearing about your progress next time. Take care!,T,Insignificant
+Bye!,P,Insignificant

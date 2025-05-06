@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it’s good to see you again. How have you been since our last session?  ",T,Insignificant
+"Hey, I’ve been okay. Just the usual, you know.  ",P,Insignificant
+"I understand. Last time, we talked about some of your feelings and experiences. Have you noticed anything different in your mood or thoughts since then?  ",T,History of Present Illness (HPI)
+"Not really, I think I’m still feeling the same.  ",P,History of Present Illness (HPI)
+That’s alright. Sometimes it takes time for things to change. Have you had any moments where you felt particularly down or happy?  ,T,History of Present Illness (HPI)
+"I think I felt a bit down last week. Just a lot on my mind, I guess.  ",P,History of Present Illness (HPI)
+I see. Would you like to share what was on your mind?  ,T,History of Present Illness (HPI)
+Just the usual worries about work and my kids.  ,P,History of Present Illness (HPI)
+Those are significant concerns. Can you tell me more about your worries regarding work?  ,T,History of Present Illness (HPI)
+"Well, I’m still looking for a job, and it’s frustrating. I feel like I’m not making any progress.  ",P,History of Present Illness (HPI)
+That’s understandable. Job searching can be really challenging. Have you been able to apply for any positions?  ,T,History of Present Illness (HPI)
+"A few, but I haven’t heard back from anyone.  ",P,History of Present Illness (HPI)
+That can feel discouraging. How do you cope with that frustration?  ,T,History of Present Illness (HPI)
+"I try to distract myself with music or hanging out with friends, but it doesn’t always help.  ",P,History of Present Illness (HPI)
+It’s good that you have some distractions. Have you thought about any specific coping strategies we could explore together?  ,T,Insignificant
+I’m not sure what you mean.  ,P,Insignificant
+Perhaps we could look into some mindfulness techniques or journaling to help process your feelings. Would you be open to that?  ,T,Therapeutic Interventions
+"Yeah, I guess I could try that.  ",P,Therapeutic Interventions
+Great! Journaling can be a helpful way to express your thoughts and feelings. Would you be willing to write about your experiences with job searching this week?  ,T,Therapeutic Interventions
+"Sure, I can do that.  ",P,Therapeutic Interventions
+Wonderful! And how about mindfulness? Have you ever tried any breathing exercises?  ,T,Therapeutic Interventions
+"No, I haven’t.  ",P,Insignificant
+It’s quite simple. We can practice a short one together now if you’d like.  ,T,Therapeutic Interventions
+"Okay, let’s do it.  ",P,Therapeutic Interventions
+"Alright, let’s take a deep breath in through your nose… and out through your mouth.  ",T,Therapeutic Interventions
+*deep breath*  ,P,Insignificant
+Good. Let’s do that a couple more times. In… and out.  ,T,Therapeutic Interventions
+*deep breath*  ,P,Insignificant
+How did that feel?  ,T,Insignificant
+"It felt nice, actually.  ",P,Mental Health Observations
+I’m glad to hear that. Breathing exercises can be a quick way to reduce stress. Would you be open to incorporating that into your daily routine?  ,T,Therapeutic Interventions
+"Yeah, I think I could do that.  ",P,Therapeutic Interventions
+Fantastic! Let’s also talk about your kids. You mentioned feeling a bit overwhelmed with parenting. How have you been feeling about that recently?  ,T,History of Present Illness (HPI)
+It’s tough. Sometimes I feel like I’m not doing enough for them.  ,P,History of Present Illness (HPI)
+That’s a common feeling among parents. What do you think you could do to feel more connected with them?  ,T,Insignificant
+Maybe spend more time with them or do something fun together.  ,P,History of Present Illness (HPI)
+That sounds like a great idea! What activities do you think you could do together?  ,T,Insignificant
+"I don’t know, maybe go to the park or watch a movie.  ",P,Insignificant
+Those sound like fun options. Would you like to set a goal to plan something with them this week?  ,T,Next Steps
+"Yeah, I can try to do that.  ",P,Next Steps
+Excellent! It’s important to create those connections. Is there anything else on your mind that you’d like to discuss today?  ,T,Insignificant
+"No, I think that’s it for now.  ",P,Insignificant
+"Alright, let’s recap what we’ve discussed. You’ll try journaling about your job search, practice mindfulness exercises, and plan a fun activity with your kids. Does that sound good?  ",T,Next Steps
+"Yes, that sounds good.  ",P,Insignificant
+Great! I look forward to hearing how that goes in our next session. Take care!  ,T,Insignificant
+"Thanks, you too!  ",P,Insignificant
+Goodbye!  ,T,Insignificant
+Bye!,P,Insignificant

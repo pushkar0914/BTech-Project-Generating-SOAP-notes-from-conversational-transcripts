@@ -1,0 +1,31 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's good to see you. How have you been since our last session?",T,Insignificant
+"Hey Ellie! I've been doing well, just trying to keep that nice grey hue going, you know? ",P,Insignificant
+"That’s great to hear. Last time, you mentioned feeling stable and comfortable. Have there been any changes in that feeling?",T,History of Present Illness (HPI)
+"Not really, but I’ve been trying to explore what that grey really means for me. Like, is it just comfort, or is there something deeper?",P,History of Present Illness (HPI)
+That sounds like a valuable exploration. What do you think you might discover?,T,Insignificant
+I think it might lead me to understanding if I’m avoiding something or if I’m genuinely content. Sometimes I worry I’m just coasting through life.,P,History of Present Illness (HPI)
+It's understandable to feel that way. Have you noticed any specific thoughts or emotions that come up when you reflect on that?,T,Insignificant
+"Yeah, I sometimes feel a hint of anxiety when I think about the future. Like, am I doing enough? ",P,History of Present Illness (HPI):Risk Assessment
+That’s a common concern. What do you think “doing enough” looks like for you?,T,Insignificant
+"I guess it’s about making an impact, you know? With my art, my therapy practice… I want to help people feel better.",P,History of Present Illness (HPI)
+It sounds like you have a strong desire to contribute positively. What steps have you taken towards that goal recently?,T,Insignificant
+"Well, I’ve started volunteering at a local community center. It feels good to connect with people and share my art.",P,Current Functional Status
+That’s wonderful! How has that experience been for you?,T,Insignificant
+"It’s been eye-opening. Some people are really struggling, and it makes me appreciate my own stability more. ",P,History of Present Illness (HPI)
+That’s a powerful realization. Have you found any challenges in volunteering?,T,Insignificant
+Definitely. Sometimes I feel overwhelmed by their struggles. It’s hard to know how to help without taking on their pain.,P,Risk Assessment
+That’s a valid concern. It’s important to maintain your own emotional health while supporting others. Have you thought about any coping strategies for that?,T,Insignificant
+"Yeah, I’ve been trying to set boundaries and remind myself that I can’t fix everything. Just being there is enough sometimes.",P,Therapeutic Interventions
+That’s a healthy perspective. How do you feel about your ability to maintain those boundaries?,T,Insignificant
+"I’m still working on it. I sometimes feel guilty for not doing more, but I know I can’t pour from an empty cup.",P,History of Present Illness (HPI)
+That’s a great metaphor. It sounds like you’re gaining insight into your limits. How does that make you feel?,T,Insignificant
+"It feels freeing, honestly. Like, I don’t have to carry the weight of the world on my shoulders.",P,History of Present Illness (HPI)
+Absolutely! It’s important to recognize your limits. What other self-care practices have you been exploring?,T,Insignificant
+"I’ve been biking more, and I started meditating a little. It helps clear my mind.",P,Current Functional Status
+That’s excellent! Meditation can be a powerful tool for grounding yourself. How has that practice been for you?,T,Insignificant
+"It’s been a bit challenging to stay focused, but I feel calmer afterward. I’m definitely a work in progress.",P,Current Functional Status
+It’s great that you’re committed to the process. What would you like to focus on for our next session?,T,Insignificant
+I’d like to dive deeper into this anxiety I feel about the future and maybe explore some techniques to cope with it better.,P,Next Steps
+"That sounds like a solid plan. We can work on some strategies together. Thank you for sharing today, and I look forward to our next session!",T,Insignificant
+"Thanks, Ellie! I’m looking forward to it too.",P,Insignificant

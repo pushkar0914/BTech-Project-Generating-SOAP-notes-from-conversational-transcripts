@@ -1,0 +1,57 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been good, thanks! I started planning my trip to Italy.",P,Psychosocial History
+That’s exciting! How has the planning process been for you?,T,Insignificant
+It’s been fun but a bit overwhelming. I’m trying to keep everything organized.,P,History of Present Illness (HPI)
+It’s understandable to feel that way. What have you done so far?,T,Insignificant
+I booked my flights and found a couple of potential Airbnb places. ,P,History of Present Illness (HPI)
+That’s a great start! How did you feel when you accomplished those tasks?,T,Insignificant
+"I felt relieved, but I still have a lot to figure out, like the itinerary.",P,History of Present Illness (HPI)
+It sounds like you’re making progress! Have you thought about what you want to see while you’re there?,T,Insignificant
+"Yes! I want to see the Colosseum, visit some art museums, and just explore the streets.",P,History of Present Illness (HPI)
+Those are wonderful choices! Exploring the streets can lead to some of the best experiences. How do you feel about the itinerary planning?,T,Insignificant
+"A bit anxious, honestly. I want to make the most of my time but don’t want to over-schedule myself.",P,History of Present Illness (HPI)
+That’s a good insight. Finding that balance is key. Would you like to brainstorm a flexible itinerary that allows for exploration without feeling rushed?,T,Insignificant
+"Yes, I would appreciate that!",P,Insignificant
+Great! Let’s start with your must-see places. How many days do you plan to spend in Italy?,T,Insignificant
+Around ten days.,P,Insignificant
+Perfect! That gives you ample time to explore. What’s your first must-see location?,T,Insignificant
+The Colosseum for sure.,P,Insignificant
+Excellent choice! You might want to consider booking a guided tour to get the most out of the experience. ,T,Insignificant
+That’s a good idea. I hadn’t thought of that.,P,Insignificant
+"After the Colosseum, what’s next on your list?",T,Insignificant
+I think I’d like to visit the Vatican Museums.,P,Insignificant
+That’s an iconic spot as well. You could plan those two visits on the same day since they’re close to each other. ,T,Insignificant
+That makes sense. ,P,Insignificant
+What about some downtime? It’s important to allow yourself time to relax and soak in the atmosphere.,T,Insignificant
+"Yes, I definitely want to do that. Maybe some afternoons just wandering around the city.",P,Insignificant
+Absolutely! A leisurely stroll can lead to unexpected discoveries. How about planning a couple of open afternoons in your itinerary?,T,Insignificant
+I like that idea. ,P,Insignificant
+"Great! Now, let’s switch gears a bit. Last session, we talked about using ""I"" statements to express yourself. Have you had a chance to practice that?",T,Insignificant
+"Yes, I tried it with my bridge partner. I told her, ""I feel frustrated when we don’t agree on strategy."" ",P,History of Present Illness (HPI)
+How did that go?,T,Insignificant
+Surprisingly well! She listened and we found a compromise.,P,Progress Evaluation
+That’s fantastic! It sounds like you’re making strides in communicating your feelings effectively.,T,Insignificant
+"Yes, I feel more confident about it now.",P,Progress Evaluation
+"That’s wonderful to hear! Have you had any other opportunities to use ""I"" statements since then?",T,Insignificant
+I used it with my kids when they were arguing. I told them how their fighting made me feel.,P,History of Present Illness (HPI)
+That’s a great application of the technique! How did they respond?,T,Insignificant
+They were surprised at first but then apologized. It felt good to express myself.,P,Progress Evaluation
+It sounds like you’re creating a more open environment for communication. That’s a valuable skill for any relationship.,T,Insignificant
+"Yes, I think it’s helping.",P,Progress Evaluation
+"Before we wrap up today, is there anything else you’d like to focus on or discuss?",T,Insignificant
+I’d like to talk about managing my anxiety a bit more. ,P,Presenting Problem / Chief Complaint
+Of course! We can explore some relaxation techniques or mindfulness practices that might help. How does that sound?,T,Insignificant
+That sounds perfect.,P,Insignificant
+One effective technique is deep breathing. Would you like to try a quick exercise together?,T,Therapeutic Interventions
+"Yes, I’d love to!",P,Insignificant
+Great! Let’s take a deep breath in for a count of four... hold for four... and now exhale for a count of six. Ready? ,T,Insignificant
+"Okay, let’s do it.",P,Insignificant
+"Inhale... 1, 2, 3, 4... hold... 1, 2, 3, 4... and exhale... 1, 2, 3, 4, 5, 6. ",T,Insignificant
+That was nice. I feel a bit calmer.,P,Physiological Observations
+Excellent! You can use this technique anytime you start to feel anxious. Practicing it regularly can help make it a natural response.,T,Therapeutic Interventions
+I’ll definitely incorporate that into my routine.,P,Insignificant
+Awesome! I’m looking forward to hearing how it goes. ,T,Insignificant
+Thank you so much for your help today!,P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

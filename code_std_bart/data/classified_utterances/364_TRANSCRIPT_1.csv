@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It's good to see you. How have you been since our last session?,T,Insignificant
+"I've been doing well, thank you. I had a nice weekend, did some hiking and spent time with my daughter.",P,Psychosocial History
+That sounds lovely! How was the hike?,T,Insignificant
+"It was great! The weather was perfect, and it felt good to be outdoors. I love being in nature.",P,Insignificant
+That's wonderful to hear. Being in nature can be very grounding. Did you have any moments during the hike that stood out to you?,T,Insignificant
+"Yes, actually. There was a moment when we reached the top of the trail, and the view was breathtaking. It made me feel grateful for my health and the time I get to spend with my daughter.",P,Psychosocial History
+That's a beautiful moment to cherish. Gratitude can be a powerful emotion. Have you been practicing any mindfulness or gratitude exercises since our last session?,T,Insignificant
+I have! I started a gratitude journal. I've been writing down three things I'm grateful for every day.,P,Therapeutic Interventions
+That's a fantastic practice! How has it been for you?,T,Insignificant
+It's been eye-opening. I realized how many small things I often overlook. It helps me shift my focus from stress to appreciation.,P,Progress Evaluation
+That's great progress. Have you noticed any changes in your mood or perspective since starting the journal?,T,Insignificant
+Definitely. I feel lighter and more positive. I think it's helping me manage stress better.,P,Progress Evaluation
+"I'm glad to hear that. Stress management is important, especially with your responsibilities. Have there been any challenges you've faced recently?",T,Insignificant
+"Well, work has been a bit overwhelming. The regulations in California are tough, and I’m feeling the pressure of running the family business.",P,History of Present Illness (HPI)
+That sounds challenging. What specifically has been overwhelming for you?,T,Insignificant
+Just trying to keep up with the changes and making sure we stay compliant while also being competitive. It feels like a lot of pressure.,P,History of Present Illness (HPI)
+That’s understandable. It sounds like you’re juggling a lot. Have you found any coping strategies that help you manage this pressure?,T,Insignificant
+"I’ve been trying to delegate more tasks to my team, but it’s hard to let go sometimes. I worry about things not being done the way I would do them.",P,History of Present Illness (HPI)
+It’s natural to feel that way when you care about your business. Perhaps we can explore some techniques to help with delegation and trust-building in your team?,T,Therapeutic Interventions
+"That would be helpful. I want to empower my team more, but I struggle with it.",P,Insignificant
+One approach could be to start with small tasks and gradually increase their responsibilities as they build trust. How does that sound?,T,Therapeutic Interventions
+That sounds doable. I think I need to let go of the idea that everything has to be perfect.,P,Insignificant
+Perfectionism can be a heavy burden. It's okay to accept that others may do things differently. Would you like to set a goal for delegating a specific task this week?,T,Next Steps
+"Yes, I’ll try to delegate one task to a team member and see how it goes.",P,Next Steps
+"That’s a great plan! Remember to reflect on how it feels afterward. Speaking of reflection, have you thought more about your relationship with your family since our last session?",T,Insignificant
+"Yes, I have. I still wish we were closer, but I’m trying to accept that we are who we are.",P,Psychosocial History
+"Acceptance can be a powerful step. How do you feel about reaching out to them more often, even if it's just to check in?",T,Insignificant
+I think I could do that. Maybe a simple text or call would help. I just worry about how they might respond.,P,Insignificant
+"It’s understandable to feel that way. What if you approached it with curiosity, rather than expectation? Just to see how they’re doing?",T,Insignificant
+That might work. I could frame it as wanting to reconnect without pressure.,P,Insignificant
+Exactly! It opens the door for communication without the weight of expectations. Would you like to set a goal for reaching out this week?,T,Next Steps
+"Yes, I’ll try to reach out to one of my brothers this week.",P,Next Steps
+That sounds like a wonderful goal. I’m proud of you for taking these steps. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my past therapy experiences and how they’ve shaped my views on mental health.,P,Trauma History
+That’s an important topic. What have you been reflecting on?,T,Insignificant
+"I used to think therapy was pointless, but now I see it as a valuable resource. I wish I had been more open to it earlier.",P,Progress Evaluation
+It’s great that you’ve had that shift in perspective. What do you think contributed to that change?,T,Insignificant
+I think life experiences and understanding that everyone has struggles helped. I realize it’s okay to seek help.,P,Progress Evaluation
+That’s a significant realization. It takes courage to acknowledge our need for support. How do you feel about seeking therapy again if you need it in the future?,T,Insignificant
+I feel more open to it now. I think I’d like to have someone to talk to again if I face challenges.,P,Progress Evaluation
+"That’s a healthy mindset. Remember, seeking help is a sign of strength, not weakness. Would you like to explore any specific topics or concerns for our next session?",T,Insignificant
+I’d like to talk more about my work-life balance and how to manage stress better.,P,Presenting Problem / Chief Complaint
+"Absolutely, we can dive deeper into that. It’s crucial to maintain balance, especially with your busy life. Thank you for sharing today. I look forward to our next session!",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"Take care, and see you soon!",T,Insignificant
+Bye!,P,Insignificant

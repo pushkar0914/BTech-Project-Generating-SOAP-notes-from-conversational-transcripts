@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It's great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I’ve been okay. I did call my sister, and it went better than I expected.",P,Psychosocial History
+That’s wonderful news! How did the conversation go?,T,Insignificant
+"We talked about some light things first, and then I brought up our mom. It felt good to share memories together.",P,Psychosocial History
+That sounds like a meaningful connection. How did you feel after the conversation?,T,Insignificant
+"Relieved, honestly. It felt nice to reconnect without any drama.",P,Psychosocial History
+That’s fantastic! It sounds like you took an important step in healing those family ties. Have you had a chance to practice mindfulness since we last spoke?,T,Insignificant
+"Yes, I’ve been doing it every morning for about five minutes. It’s been helpful.",P,History of Present Illness (HPI)
+I’m glad to hear that! How has it impacted your day?,T,Insignificant
+"I feel more centered and less reactive, especially when things get stressful.",P,History of Present Illness (HPI)
+That’s a great benefit. Mindfulness can really help with emotional regulation. Have you encountered any challenges while practicing?,T,Insignificant
+"Sometimes my mind wanders a lot, and I get frustrated.",P,History of Present Illness (HPI)
+That’s completely normal! The key is to gently notice when your mind wanders and bring your focus back to your breath. It’s all part of the practice.,T,Insignificant
+I’ll keep that in mind. ,P,Insignificant
+Is there anything else you’d like to explore today?,T,Insignificant
+I’ve been feeling a bit anxious about my upcoming exams.,P,Presenting Problem / Chief Complaint
+It’s understandable to feel anxious during exam season. What specifically worries you the most?,T,Insignificant
+I’m afraid I won’t perform well or remember everything I studied.,P,History of Present Illness (HPI)
+Those thoughts can be quite overwhelming. Have you tried any study techniques that help you feel more prepared?,T,Insignificant
+"I’ve been using flashcards and study groups, which helps, but I still feel the pressure.",P,Current Functional Status
+Those are great strategies! It sounds like you’re putting in the effort. Would you like to explore some additional techniques to manage your anxiety during exams?,T,Insignificant
+That would be helpful.,P,Insignificant
+"One technique is to practice visualization. Before your exam, imagine yourself in a calm state, recalling everything you studied. Would you like to try that together?",T,Therapeutic Interventions
+"Yes, let’s do it.",P,Insignificant
+"Okay, close your eyes for a moment. Picture yourself sitting at your exam desk, feeling calm and confident. Imagine the questions coming to you easily.",T,Therapeutic Interventions
+*breathes* I can see it.,P,Insignificant
+Great! Hold onto that feeling of confidence and calmness. How does that feel for you?,T,Insignificant
+It feels reassuring. I like this idea.,P,Insignificant
+I’m glad! You can use this visualization technique before your exams to help ease your anxiety. How do you feel about incorporating this into your study routine?,T,Next Steps
+I’ll definitely try it. It seems like a good way to boost my confidence.,P,Next Steps
+Absolutely! Is there anything else you’d like to discuss regarding your studies or anxiety?,T,Insignificant
+I think that covers it. I just want to keep feeling better.,P,Insignificant
+"That’s a great goal! Remember to celebrate the small victories, like reconnecting with your sister and practicing mindfulness. ",T,Next Steps
+I will! Thank you for reminding me.,P,Insignificant
+You’re welcome! I’m proud of the progress you’re making. Is there anything you’d like to set as a goal for our next session?,T,Insignificant
+I’d like to continue focusing on my anxiety and maybe talk more about my family dynamics.,P,Next Steps
+That sounds like a solid plan. We can dive deeper into those topics next time. Thank you for sharing your journey with me today.,T,Insignificant
+"Thank you, Ellie. I really appreciate your support.",P,Insignificant
+It’s my pleasure! Take care until we meet again.,T,Insignificant
+Bye!,P,Insignificant

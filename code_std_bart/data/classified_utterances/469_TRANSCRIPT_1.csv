@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I’ve been okay, a bit of a rollercoaster honestly.",P,History of Present Illness (HPI)
+I understand. Can you tell me more about that?,T,Insignificant
+"Well, I had some moments where I felt really anxious, especially with work and finances.",P,History of Present Illness (HPI)
+That sounds challenging. What specifically triggered those feelings?,T,Insignificant
+"Just the uncertainty of it all, you know? I’m worried about my job security and how to manage my expenses.",P,History of Present Illness (HPI)
+That’s understandable. Have you tried any coping strategies we discussed last time?,T,Insignificant
+"Yeah, I’ve been trying to breathe deeply when I feel overwhelmed, and I went for a walk a couple of times.",P,Therapeutic Interventions
+That’s a great start! How did those walks help you?,T,Insignificant
+"They helped clear my head a little. I noticed some nice things around my neighborhood, which was calming.",P,Mental Health Observations
+That’s wonderful to hear. Nature can be very grounding. Have you found any other activities that help you relax?,T,Insignificant
+I’ve been trying to watch some funny shows. Laughter really helps!,P,Therapeutic Interventions
+Absolutely! Laughter can be a great stress reliever. Can you recall a specific moment where you felt genuinely happy recently?,T,Insignificant
+"Yes! I went to a comedy show with friends last weekend, and it felt so good to just laugh and enjoy the moment.",P,Mental Health Observations
+That sounds like a lot of fun! What did you enjoy most about the experience?,T,Insignificant
+Just being around friends and the energy in the room. It reminded me how important social interactions are for me.,P,Psychosocial History
+Social connections are vital for our well-being. How do you feel about reaching out to friends more often?,T,Insignificant
+"I think I need to do that. Sometimes I hesitate, but I know it would help.",P,History of Present Illness (HPI)
+It’s great that you recognize that. Would you be open to setting a goal for this week around connecting with friends?,T,Next Steps
+Sure! Maybe I can plan to call one friend and invite them out.,P,Next Steps
+That sounds like a solid plan. How does that feel for you?,T,Insignificant
+"A bit nervous, but also excited. I think it’ll be good to reconnect.",P,Mental Health Observations
+"That’s a healthy mix of emotions. Remember, it’s okay to feel nervous. What do you think might help you ease that nervousness?",T,Insignificant
+I could remind myself that they’ll be happy to hear from me. And I can just be myself.,P,Therapeutic Interventions
+Exactly! Focusing on being authentic can help reduce pressure. Let’s talk about your anxiety triggers again. Have you experienced any situations that triggered those feelings recently?,T,Insignificant
+"Yes, actually. I had a confrontation with a rude driver, and I felt that familiar anxiety creeping in.",P,History of Present Illness (HPI)
+How did you handle that situation?,T,Insignificant
+"I took a deep breath and tried to let it go, but it was tough. I felt my heart racing.",P,Mental Health Observations
+"That’s a strong reaction. It sounds like you’re becoming more aware of your triggers though, which is progress. How did you feel after the encounter?",T,Insignificant
+"A bit shaky, but I tried to distract myself afterward with music.",P,Mental Health Observations
+Music can be a great tool for grounding yourself. Do you have a go-to playlist for those moments?,T,Insignificant
+I do! I like upbeat songs that make me feel good.,P,Therapeutic Interventions
+That’s perfect. Music can really shift our mood. Let’s explore your feelings about your past relationships. You mentioned feeling anxious about being single. How has that been for you lately?,T,Insignificant
+"It’s been on my mind more. I’m starting to feel lonely, especially when I see couples around.",P,History of Present Illness (HPI)
+Loneliness can be tough. What do you think you miss most about being in a relationship?,T,Insignificant
+I miss the companionship and having someone to share experiences with.,P,Psychosocial History
+That’s a natural longing. Have you thought about what qualities you’d like in a partner?,T,Insignificant
+"Yeah, someone who’s funny, kind, and adventurous, like me!",P,History of Present Illness (HPI)
+Those are great qualities to look for. What steps can you take to open yourself up to meeting new people?,T,Insignificant
+I could try joining some local clubs or groups that align with my interests.,P,Next Steps
+That sounds like a fantastic idea! Engaging in activities you enjoy can naturally lead to meeting like-minded individuals. How does that make you feel?,T,Insignificant
+I feel a bit more hopeful about it. It’s nice to think about possibilities.,P,Mental Health Observations
+Hope is powerful. Let’s set a goal for you to explore one new activity this week. What do you think?,T,Next Steps
+"Yes, I’d like that! I’ll look for a local hiking group.",P,Next Steps
+That sounds perfect! Hiking is a great way to meet new people and enjoy nature. How do you feel about taking that step?,T,Insignificant
+"Excited and a little nervous, but I think it’ll be good for me.",P,Mental Health Observations
+"That’s a healthy combination of feelings. Remember, it’s okay to feel nervous. You’re taking positive action toward your goals. Is there anything else you’d like to discuss today?",T,Insignificant
+"I think that covers everything for now. I appreciate your help, Ellie.",P,Insignificant
+I’m glad to hear that! I’m looking forward to hearing about your experiences in our next session. Take care!,T,Insignificant
+You too! Bye!,P,Insignificant

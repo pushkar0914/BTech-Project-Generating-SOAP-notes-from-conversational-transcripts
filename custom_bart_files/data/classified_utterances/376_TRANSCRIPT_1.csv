@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. I'm glad to see you back today. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've had a rough few days, to be honest. Just feeling overwhelmed with everything.",P,History of Present Illness (HPI)
+I'm sorry to hear that. Can you tell me a bit more about what's been overwhelming for you?,T,Insignificant
+"Well, work has been really stressful lately. I feel like I'm juggling too many responsibilities and it's just wearing me down.",P,History of Present Illness (HPI)
+That sounds tough. Are there specific aspects of your work that are contributing to this stress?,T,Insignificant
+"Yeah, I have a project that's behind schedule, and my boss is breathing down my neck about it. I feel like I'm constantly being watched.",P,History of Present Illness (HPI)
+It sounds like you're feeling a lot of pressure. How do you usually cope with stress at work?,T,Insignificant
+"I try to take breaks when I can, but sometimes I just end up working through them. I guess I feel guilty if I take time off.",P,History of Present Illness (HPI):Psychosocial History
+Guilt can be a heavy burden to carry. Have you had a chance to talk to anyone at work about how you're feeling?,T,Insignificant
+Not really. I don't want to seem weak or like I can't handle my job.,P,Psychosocial History
+"I understand that concern. It can be hard to open up, especially in a work environment. But sometimes sharing your feelings can help lighten the load. ",T,Insignificant
+"Yeah, I guess so. But I worry about what they might think of me.",P,Psychosocial History
+That’s a common fear. What if we explored some ways to express your feelings without feeling vulnerable? ,T,Insignificant
+"Okay, that could be helpful.",P,Insignificant
+Great! One option could be to write down your thoughts. Journaling can help you process your feelings without the pressure of immediate feedback. Have you ever tried that?,T,Therapeutic Interventions
+"I used to journal a lot when I was younger, but I haven't in years. ",P,History of Present Illness (HPI)
+It could be a good way to reconnect with your feelings. Maybe start with just a few minutes each day? ,T,Therapeutic Interventions
+"Yeah, I could give that a shot. ",P,Insignificant
+Awesome! How about your sleep? You mentioned having trouble staying asleep. Has that improved at all?,T,Physiological Observations
+"Not really. I still wake up a lot, usually thinking about work or my mom.",P,Physiological Observations
+That sounds really challenging. Have you tried any techniques to help with your sleep?,T,Insignificant
+"I've tried some breathing exercises, but they don’t always work. ",P,Physiological Observations
+Breathing exercises can be helpful. Would you be open to trying a guided meditation before bed? ,T,Therapeutic Interventions
+I think I could try that. ,P,Insignificant
+Great! I can help you find some resources for that. It might help calm your mind before sleep. ,T,Therapeutic Interventions
+"That sounds good, thanks.",P,Insignificant
+You mentioned that your eating habits have changed since your mom passed. How are you feeling about that now?,T,History of Present Illness (HPI)
+"I’m still struggling with it. I eat when I’m stressed, and then I feel guilty afterward.",P,History of Present Illness (HPI):Psychosocial History
+It’s understandable to seek comfort in food during tough times. What if we explored some alternative coping strategies together?,T,Insignificant
+Like what?,P,Insignificant
+"For instance, physical activity can be a great way to relieve stress. Have you considered incorporating more movement into your routine?",T,Therapeutic Interventions
+"I used to love hiking, but I haven’t gone in a while.",P,History of Present Illness (HPI)
+Hiking could be a wonderful way to reconnect with something you love. Would you be willing to set a small goal to go hiking this week?,T,Next Steps
+"Yeah, I think I could do that. ",P,Insignificant
+Fantastic! Setting a specific day and time can help make it happen. ,T,Next Steps
+I’ll try to go on Saturday morning.,P,Next Steps
+That sounds perfect! And how do you feel about the idea of sharing your feelings with your partner? ,T,Insignificant
+I haven't really talked to them about how I'm feeling lately. ,P,History of Present Illness (HPI):Psychosocial History
+It might be helpful to let them in on what you're going through. You don’t have to carry this alone. ,T,Insignificant
+"Yeah, I think I’ll try to talk to them tonight.",P,Next Steps
+"That’s a great step forward! Remember, it's okay to ask for support. ",T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"Of course! I’m here for you. So, to recap, we’ll work on journaling, try guided meditation, plan that hike, and talk to your partner. ",T,Next Steps
+Sounds like a plan.,P,Insignificant
+"I’m looking forward to hearing how it goes next time. Take care, and see you soon!",T,Insignificant
+"Bye, Ellie.",P,Insignificant

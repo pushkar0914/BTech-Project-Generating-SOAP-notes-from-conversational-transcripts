@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi! Welcome back! How have you been since our last session?  ,T,Insignificant
+I’ve been okay. I actually went to that art class we talked about!  ,P,Current Functional Status
+That’s fantastic! How was it?  ,T,Insignificant
+"It was really nice. I met a couple of people, and we talked a bit.  ",P,Current Functional Status
+That’s wonderful to hear! Did you feel nervous before going?  ,T,Insignificant
+"Yeah, I was really anxious, but once I got there, it was fine.  ",P,History of Present Illness (HPI)
+It sounds like you faced your fear and it paid off! What did you enjoy most about the class?  ,T,Insignificant
+"I loved just being in a creative space again, and the instructor was super nice.  ",P,Current Functional Status
+That’s great! Did you feel like you connected with anyone in particular?  ,T,Insignificant
+"Yeah, there was one person who seemed really friendly. We talked about our favorite artists.  ",P,Current Functional Status
+That’s a great start. Have you thought about reaching out to them outside of class?  ,T,Insignificant
+I haven’t yet. I’m not sure how to go about it.  ,P,Current Functional Status
+How about starting with a simple message? You could mention that you enjoyed talking with them.  ,T,Insignificant
+That sounds doable. I’ll think about it.  ,P,Insignificant
+Excellent! Building connections takes time and effort. How did you feel after the class?  ,T,Insignificant
+I felt really accomplished. Like I did something good for myself.  ,P,History of Present Illness (HPI)
+That’s a great feeling! It sounds like you’re taking steps towards building your social circle.  ,T,Insignificant
+"Yeah, I think so.  ",P,Insignificant
+Let’s talk about your feelings of uncertainty regarding your future. Have you had any new insights about that?  ,T,Insignificant
+I’ve been thinking more about what I want. Maybe I should explore environmental programs?  ,P,History of Present Illness (HPI)
+That sounds like a productive direction! Have you found any specific programs that interest you?  ,T,Insignificant
+I found a few volunteer opportunities with local conservation groups.  ,P,Current Functional Status
+That’s awesome! Have you considered applying?  ,T,Insignificant
+I’m still a bit hesitant. What if it doesn’t work out?  ,P,Risk Assessment
+"It’s natural to feel that way. Remember, each experience is a chance to learn more about yourself and your interests.  ",T,Insignificant
+That’s true. I guess I just need to take that leap.  ,P,Insignificant
+Exactly! You’re already making progress by exploring these options.  ,T,Insignificant
+I’ll try to keep that in mind.  ,P,Insignificant
+Is there anything else you’ve been reflecting on?  ,T,Insignificant
+I’ve been thinking about my family a lot lately.  ,P,History of Present Illness (HPI)
+What’s been on your mind about them?  ,T,Insignificant
+"I don’t really feel close to them, and sometimes I wonder if I should try to connect more.  ",P,Psychosocial History
+That’s a meaningful thought. What would connecting look like for you?  ,T,Insignificant
+"I guess just reaching out more often, maybe having conversations.  ",P,Next Steps
+That could be a positive step. What’s stopping you from doing that?  ,T,Insignificant
+I don’t know. It’s just hard to open up.  ,P,Risk Assessment
+It can be challenging. Would you feel comfortable starting with small updates about your life?  ,T,Insignificant
+"Yeah, I think I could do that. Just something casual to start.  ",P,Next Steps
+That sounds like a great plan! How do you feel about that idea?  ,T,Insignificant
+It feels manageable.  ,P,Insignificant
+Good! Let’s set that as a goal for our next session. How about trying to reach out to them?  ,T,Next Steps
+I’ll try!  ,P,Insignificant
+Wonderful! Is there anything else you’d like to discuss today?  ,T,Insignificant
+"No, I think I’m good.  ",P,Insignificant
+Alright! I’m proud of the steps you’re taking. Remember to celebrate your progress!  ,T,Insignificant
+Thanks! I appreciate your support.  ,P,Insignificant
+You’re welcome! Looking forward to our next session.  ,T,Insignificant
+Me too! Bye!  ,P,Insignificant
+Bye!,T,Insignificant

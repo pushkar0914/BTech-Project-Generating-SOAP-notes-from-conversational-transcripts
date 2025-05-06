@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+hi,P,Insignificant
+hi! Welcome back. How have you been since our last session?,T,Insignificant
+"hey! I’ve been good, just trying to keep up with everything.",P,Insignificant
+"That’s great to hear. Last time, we talked about setting goals and practicing mindfulness. How did that go for you?",T,Insignificant
+I tried the breathing exercises a few times. It helped me feel calmer.,P,History of Present Illness (HPI)
+I’m glad to hear that! How did you feel before and after practicing?,T,History of Present Illness (HPI)
+"Before, I felt a bit anxious about school. After, I felt more focused and ready to tackle my work.",P,History of Present Illness (HPI)
+That’s a significant improvement! Have you noticed any changes in your interactions with your girlfriend since practicing active listening?,T,History of Present Illness (HPI)
+"Yeah, I think it helped. We’ve been communicating better. ",P,History of Present Illness (HPI)
+That’s wonderful! Effective communication can strengthen relationships. Have you had any disagreements recently?,T,Insignificant
+"Just the usual stuff, but we handled it better.",P,Insignificant
+That’s a positive sign. It sounds like you’re making progress. Are there any challenges you’ve faced while trying to implement these techniques?,T,Insignificant
+Sometimes I forget to practice mindfulness when I’m busy.,P,History of Present Illness (HPI)
+That’s understandable. It can be hard to remember new habits. Would setting reminders help?,T,Insignificant
+"Yeah, I could set a reminder on my phone.",P,Insignificant
+That’s a good idea! Incorporating mindfulness into your daily routine can make it easier. What else has been on your mind lately?,T,Insignificant
+I’ve been feeling a bit overwhelmed with school assignments.,P,History of Present Illness (HPI)
+It’s common to feel overwhelmed. How are you managing your workload?,T,Insignificant
+"I try to prioritize tasks, but sometimes it feels like too much.",P,Current Functional Status
+Prioritizing is a great strategy. Have you considered breaking tasks into smaller steps?,T,Insignificant
+I haven’t really thought of that. It sounds helpful.,P,Insignificant
+Breaking tasks down can make them feel more manageable. Would you like to apply that to your current assignments?,T,Insignificant
+"Yeah, I can try that.",P,Insignificant
+Great! It can help reduce anxiety and give you a sense of accomplishment as you complete each step. How do you feel about discussing your music and school together?,T,Insignificant
+"Sure, they’re kind of interconnected for me.",P,Insignificant
+Absolutely! Music can be a great way to relieve stress from school. Have you been able to balance both?,T,Insignificant
+"It’s tough, but I try to make time for music even when I’m busy.",P,Current Functional Status
+That’s important. How do you feel when you’re able to engage in both activities?,T,Insignificant
+I feel accomplished and happy. It’s like a win-win.,P,Current Functional Status
+That’s a great mindset! Have you had any opportunities to share your music with others?,T,Insignificant
+"Not yet, but I want to play it for my friends soon.",P,Insignificant
+That’s exciting! Sharing your creations can be a great confidence booster. How do you think you’ll feel when you share your music?,T,Insignificant
+"I’ll probably be nervous, but also proud.",P,History of Present Illness (HPI)
+"It’s natural to feel nervous, but remember that your friends will likely support you. How can we work on building your confidence for that moment?",T,Insignificant
+Maybe practicing in front of a mirror or recording myself first.,P,Therapeutic Interventions
+Those are excellent strategies! Practicing in a comfortable setting can help ease nerves. Would you like to set a goal for when you want to share your music?,T,Next Steps
+"Yeah, I’d like to do it within the next month.",P,Next Steps
+That sounds like a realistic goal. We can check in on your progress next session. Is there anything else you want to explore today?,T,Insignificant
+"No, I think we covered a lot. Thanks for your help!",P,Insignificant
+You’re welcome! I’m proud of the progress you’re making. See you next time!,T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?  ",T,Insignificant
+"Hey, Ellie. I've been okay, I guess. A little up and down, but that's usual for me.  ",P,History of Present Illness (HPI)
+I appreciate your honesty. Last time we talked about your feelings of irritability and moodiness. Have you noticed any changes in those feelings?  ,T,Insignificant
+"Yeah, I’ve had some moments where I felt a bit lighter, but then there are days where everything feels heavy again.  ",P,History of Present Illness (HPI)
+That’s understandable. It sounds like you’re experiencing some fluctuations in your mood. What do you think triggers those heavier days?  ,T,Insignificant
+"I think it’s mostly stress. Sometimes it’s work-related, or just life in general.  ",P,History of Present Illness (HPI)
+Stress can definitely weigh heavily on us. Have you tried any coping strategies since we last spoke?  ,T,Insignificant
+"I’ve been trying to take breaks more often, but it’s hard to disconnect sometimes.  ",P,History of Present Illness (HPI)
+Taking breaks is a good step. What do you do during those breaks?  ,T,Insignificant
+I usually just scroll through my phone or watch some YouTube clips.  ,P,History of Present Illness (HPI)
+Those can be good distractions. Have you thought about incorporating any mindfulness or relaxation techniques into your breaks?  ,T,Insignificant
+I haven't really tried that. I guess I always thought it wouldn’t work for me.  ,P,Therapeutic Interventions
+It’s worth experimenting with! Mindfulness can help ground you when you're feeling overwhelmed. Would you be open to trying a simple breathing exercise together?  ,T,Insignificant
+"Sure, I can give it a shot.  ",P,Therapeutic Interventions
+Great! Let’s take a deep breath in through your nose… and out through your mouth. Let’s do that a few times together.  ,T,Insignificant
+"*[takes deep breaths]* Okay, that feels a bit calming.  ",P,Physiological Observations
+How do you feel after that?  ,T,Insignificant
+"A little more relaxed, actually.  ",P,Physiological Observations
+That’s wonderful to hear! You can use that technique anytime you feel stress creeping in. Do you think you could try it out this week?  ,T,Insignificant
+"Yeah, I think I can do that.  ",P,Next Steps
+Fantastic! You mentioned that you’ve been feeling tired lately. Have you been able to improve your sleep at all?  ,T,Insignificant
+Not really. I still have those nights where I just can’t fall asleep.  ,P,Physiological Observations
+Sleep issues can be really challenging. Have you noticed any patterns or habits that might be contributing to that?  ,T,Insignificant
+"I tend to stay up late, especially if I’m playing poker online.  ",P,History of Present Illness (HPI)
+That makes sense. It can be easy to lose track of time. Would you be willing to set a bedtime for yourself this week?  ,T,Insignificant
+I could try that. I usually go to bed around 2 AM. Maybe I can aim for midnight instead.  ,P,Next Steps
+That’s a great goal! Setting a consistent bedtime can help improve your sleep quality. How do you feel about that?  ,T,Insignificant
+I’m willing to give it a shot.  ,P,Next Steps
+"Excellent! Now, you mentioned last time that you have a difficult relationship with your parents. How has that been for you lately?  ",T,Insignificant
+"It’s still pretty strained. I try not to think about it too much, but sometimes it just comes up.  ",P,Psychosocial History
+It’s understandable that those feelings would resurface. Have you found any ways to cope with those feelings when they do come up?  ,T,Insignificant
+I vent to my sisters sometimes. They get it.  ,P,Psychosocial History
+That’s a healthy outlet. It’s important to have people to talk to who understand your experiences. Do you feel like you’re able to express your feelings to them openly?  ,T,Insignificant
+"Yeah, I think so. They know what I’ve been through.  ",P,Psychosocial History
+That’s great! Support from family can be really beneficial. Have you thought about setting any boundaries with your parents to protect your emotional well-being?  ,T,Insignificant
+I haven’t really thought about it. I guess I just avoid them.  ,P,Psychosocial History
+"Avoidance can be a natural response, but sometimes it can lead to unresolved feelings. Would you be open to exploring what boundaries might look like for you?  ",T,Insignificant
+I guess I could think about it.  ,P,Next Steps
+"That’s a good start! You don’t have to make any decisions right away, but reflecting on what you need could be helpful.  ",T,Insignificant
+"Yeah, I’ll think about it.  ",P,Next Steps
+"Wonderful! Before we wrap up, is there anything else on your mind that you’d like to discuss today?  ",T,Insignificant
+Not really. I feel like we covered a lot.  ,P,Insignificant
+"I’m glad to hear that! So to recap, you’ll try the breathing exercise, aim for a midnight bedtime, and reflect on boundaries with your parents. How does that sound?  ",T,Insignificant
+Sounds good to me.  ,P,Insignificant
+Great! I look forward to hearing how it goes next time. Take care until then!  ,T,Insignificant
+"Thanks, Ellie. Bye!  ",P,Insignificant
+Bye!,T,Insignificant

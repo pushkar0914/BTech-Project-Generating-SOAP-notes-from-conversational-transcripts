@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay, a bit stressed with work, but managing it.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Did you get a chance to reach out to your brother as we discussed?,T,Insignificant
+"Yes, I did! I sent him a text, and we ended up having a nice conversation.",P,History of Present Illness (HPI)
+That’s wonderful! How did it feel to reconnect?,T,Insignificant
+"It felt good. We talked about some family memories, and it made me realize how much I miss those connections.",P,Psychosocial History
+That’s a significant insight. It sounds like it brought some warmth back into your relationship. Do you think you’ll continue reaching out to your family?,T,Insignificant
+I think so. I want to make an effort to stay in touch more regularly.,P,Psychosocial History
+"That’s a great goal. Building those connections can be very rewarding. Now, how has work been since we last spoke?",T,Insignificant
+"It’s been hectic. I tried to delegate that task like we talked about, but I still struggled with it.",P,History of Present Illness (HPI)
+"It’s a process, and it’s okay to find it challenging. What specifically made it difficult for you?",T,Insignificant
+I ended up taking it back because I wasn’t confident it would be done right. I need to work on trusting my team more.,P,History of Present Illness (HPI)
+Trust can take time to build. Perhaps we can explore some strategies to help you feel more comfortable with delegation?,T,Insignificant
+"Yes, I’d like that. I think I need to set clearer expectations when I delegate.",P,Therapeutic Interventions
+That’s a good start. Clear communication can help your team understand what you’re looking for. Would you like to practice how to communicate those expectations together?,T,Insignificant
+"Sure, that would be helpful.",P,Insignificant
+Great! Let’s say you want to delegate a project. What would you typically say to your team member?,T,Insignificant
+"I usually just say, “Can you handle this for me?” but I realize that’s not very clear.",P,Current Functional Status
+"Right, let’s try to frame it differently. You could say, “I’d like you to take on this project. Here’s what I need from you: [specific tasks]. Can we set a deadline for this?”",T,Insignificant
+That sounds much better. It gives them a clear understanding of what I expect.,P,Current Functional Status
+Exactly! It opens up a dialogue for questions as well. How do you feel about trying this approach?,T,Insignificant
+I feel more confident about it. I’ll give it a shot and see how it goes.,P,Current Functional Status
+"Wonderful! Remember, it’s a learning experience for both you and your team. Now, let’s talk about your work-life balance. How has that been lately?",T,Insignificant
+It’s been tough. I find myself working late and then feeling guilty for not spending enough time with my daughter.,P,History of Present Illness (HPI):Psychosocial History
+Balancing work and family can be challenging. Have you considered setting boundaries around your work hours?,T,Insignificant
+"I’ve thought about it, but it’s hard to stick to them.",P,History of Present Illness (HPI)
+"It can be tough, especially when work demands are high. What if you set specific times for work and family, and communicated those to your team?",T,Insignificant
+"That could work. If they know when I’m unavailable, it might help me stick to it.",P,Current Functional Status
+Absolutely! It’s about creating a structure that works for you. Would you like to set a goal for establishing those boundaries this week?,T,Insignificant
+"Yes, I’ll try to set a specific end time for my workday and stick to it.",P,Next Steps
+"That’s a great goal! Remember to communicate this to your team, so they’re aware. How do you plan to spend that extra time with your daughter?",T,Insignificant
+I want to take her out for ice cream or maybe a movie. Just some quality time together.,P,Psychosocial History
+That sounds lovely! Quality time can strengthen your bond. Is there anything else you’d like to focus on today?,T,Insignificant
+I’ve been thinking about my health and fitness lately. I want to make sure I’m taking care of myself.,P,History of Present Illness (HPI)
+That’s an important topic. How have you been feeling about your health and fitness?,T,Insignificant
+"I’ve been exercising regularly, but I sometimes struggle with my diet, especially when I’m busy.",P,History of Present Illness (HPI)
+It’s easy to let nutrition slip when life gets hectic. Would you like to explore some meal planning strategies?,T,Therapeutic Interventions
+"Yes, that would be helpful. I want to make healthier choices.",P,Next Steps
+Great! One approach could be to plan your meals for the week ahead. You could prepare some meals in advance to save time during busy days. How does that sound?,T,Therapeutic Interventions
+That sounds doable. I could set aside a few hours on the weekend to prep.,P,Next Steps
+Exactly! It can help you stay on track with your nutrition. Would you like to set a goal for meal prepping this week?,T,Next Steps
+"Yes, I’ll aim to prep at least two meals for the week.",P,Next Steps
+That’s a solid goal! I’m excited to hear how it goes. Remember to be kind to yourself during this process. Change takes time.,T,Insignificant
+"Thank you, Ellie. I appreciate your support and guidance.",P,Insignificant
+You’re doing great! I look forward to hearing about your progress in our next session. Is there anything else you’d like to discuss before we wrap up?,T,Insignificant
+"No, I think we covered a lot today. Thank you!",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

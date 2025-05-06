@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?",T,Insignificant
+"Hi Ellie! I’ve been okay, just trying to keep up with everything. The kids keep me busy.",P,Psychosocial History
+"I can imagine! Last time, we talked about your goals with your job at Metro and your plans for the supervisory classes. How did that go?",T,Insignificant
+"I actually started the classes last week! It’s been a bit overwhelming, but I think it’s good for me.",P,History of Present Illness (HPI)
+That’s wonderful to hear! What has been the most challenging part so far?,T,Insignificant
+"Just balancing everything, you know? Between work, the kids, and school, I feel like I’m juggling a lot.",P,History of Present Illness (HPI)
+That sounds like a lot. How are you managing to cope with that stress?,T,Insignificant
+"I’ve been trying to meditate more, and I make sure to take those long walks when I can. It helps clear my head.",P,Therapeutic Interventions
+That’s great! Mindfulness can really help with stress. Have you noticed any changes in how you feel when you practice meditation or go for those walks?,T,Insignificant
+"Yeah, I feel a bit more relaxed afterward. It’s like a reset for me.",P,Progress Evaluation
+That’s a positive outcome! Are there any specific situations where you feel the stress more intensely?,T,Insignificant
+"Definitely when I’m trying to help my daughter. It’s like I want to support her, but she doesn’t always listen.",P,History of Present Illness (HPI)
+That must be tough. How do you usually handle those conversations?,T,Insignificant
+"I try to be patient, but sometimes I end up getting frustrated when she doesn’t take my advice.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you thought about how you could approach those conversations differently?,T,Insignificant
+Maybe I could listen more instead of just giving advice. I guess she needs to feel heard too.,P,Progress Evaluation
+That sounds like a valuable insight. Listening can really create a more open dialogue. How do you think your daughter would respond to that?,T,Insignificant
+"I think she’d appreciate it. Sometimes she just wants to vent, and I jump in with solutions before she’s done talking.",P,History of Present Illness (HPI)
+That’s a common tendency. Practicing active listening could help strengthen your relationship. Would you like to try some techniques for that?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+"Great! One technique is to reflect back what she says. For example, if she expresses frustration, you could say, “It sounds like you’re feeling really overwhelmed.” How does that sound to you?",T,Therapeutic Interventions
+I think that could work. It might help her feel understood.,P,Progress Evaluation
+Exactly! And it can open the door for her to share more. What else do you think might help in your relationship with her?,T,Insignificant
+"I think spending more quality time together could help. Maybe we could do something fun together, just the two of us.",P,History of Present Illness (HPI)
+That’s a wonderful idea! What activities do you think she’d enjoy?,T,Insignificant
+She loves going to the park. Maybe we could have a picnic or something.,P,History of Present Illness (HPI)
+That sounds lovely! Making those memories can strengthen your bond. How do you feel about setting that as a goal for this week?,T,Next Steps
+I’d like that. I’ll try to plan something for us.,P,Next Steps
+"Fantastic! Now, shifting gears a bit, how have you been sleeping lately?",T,Insignificant
+"It’s been hit or miss. Some nights I sleep well, others not so much.",P,Physiological Observations
+What do you think contributes to those sleepless nights?,T,Insignificant
+I think it’s my mind racing with everything I have to do. Sometimes I just can’t turn it off.,P,History of Present Illness (HPI)
+That’s a common struggle. Have you tried any techniques to help calm your mind before bed?,T,Insignificant
+"I usually just read or listen to music, but I haven’t been consistent.",P,Current Functional Status
+Consistency can really help. Would you be open to establishing a calming bedtime routine?,T,Next Steps
+"Yeah, I think that could help.",P,Insignificant
+"Great! Perhaps you could set a specific time to start winding down, like an hour before bed. You could read or do some gentle stretching. How does that sound?",T,Next Steps
+That sounds doable. I’ll give it a try.,P,Next Steps
+"Wonderful! Let’s check in on that next time. Before we wrap up, is there anything else on your mind today?",T,Insignificant
+"Not really, just trying to stay positive.",P,Insignificant
+"That’s a great mindset to have. Remember, it’s okay to have tough days too. I look forward to hearing how your week goes!",T,Insignificant
+"Thank you, Ellie. I appreciate the support.",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

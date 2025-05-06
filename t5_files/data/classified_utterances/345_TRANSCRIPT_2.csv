@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I tried some of the grounding exercises during my walks.",P,History of Present Illness (HPI)
+That’s wonderful! How did it go?,T,Insignificant
+"It really helped. I was able to focus on my surroundings, and it made me feel less anxious.",P,History of Present Illness (HPI)
+That’s fantastic to hear! It sounds like you’re making great progress. Have you had any challenging moments since we last spoke?,T,Insignificant
+"Yeah, I had a tough day where I felt really overwhelmed. I tried to use the techniques, but it was hard.",P,History of Present Illness (HPI)
+It’s completely normal to have tough days. What do you think made that day particularly overwhelming?,T,Insignificant
+I had a lot of things on my mind. I felt stressed about finding a new therapist and some family stuff.,P,History of Present Illness (HPI)
+That makes sense. It can be tough to juggle multiple stressors at once. Did you have a chance to practice active listening with your family?,T,Insignificant
+"I did! I tried to listen more during our conversations, but my sister still got upset.",P,History of Present Illness (HPI)
+"It’s great that you made the effort to listen. Sometimes, even when we try, others may still react strongly. How did you handle it?",T,Insignificant
+I just stayed calm and didn’t argue back. I think it helped diffuse the situation a bit.,P,History of Present Illness (HPI)
+That’s a great technique! Staying calm can really help in heated moments. Have you noticed any changes in how your family responds to you since you’ve been practicing these skills?,T,Insignificant
+A little bit. My mom said she appreciated that I was trying to communicate better.,P,Progress Evaluation
+That’s a positive sign! It shows that your efforts are being recognized. Let’s talk about your search for a new therapist. Have you made any progress on that front?,T,Insignificant
+"Yes, I found a couple of options, but I’m still nervous about reaching out.",P,History of Present Illness (HPI)
+It’s completely understandable to feel nervous. Would it help to role-play how you might start that conversation?,T,Insignificant
+"Yeah, that might help.",P,Insignificant
+"Okay, let’s imagine you’re on the phone or in an email. You could start with something like, “Hi, my name is [Your Name], and I’m looking for a therapist who specializes in PTSD and anxiety.” ",T,Insignificant
+"Okay, I can do that.",P,Insignificant
+Great! Then you might say something about what you’re hoping to achieve in therapy. Would you like to try that out?,T,Insignificant
+Sure. “I’m hoping to manage my PTSD symptoms better and improve my coping skills.”,P,History of Present Illness (HPI)
+Perfect! How does that feel to say?,T,Insignificant
+It feels good. I think I can do this.,P,Insignificant
+"I believe in you! Remember, it’s okay to take your time with this process. Is there anything else you’d like to address today?",T,Insignificant
+I guess I’m just worried about opening up to someone new.,P,History of Present Illness (HPI)
+That’s a valid concern. Building trust takes time. You might consider sharing your feelings about your past experiences with therapists during your first session. That can help establish a connection.,T,Insignificant
+That sounds like a good idea.,P,Insignificant
+"I’m glad you think so! As you prepare for this next step, it might be helpful to remind yourself of your strengths. You’ve been proactive about seeking help and working on your skills.",T,Insignificant
+"Yeah, I guess I have been trying hard.",P,Insignificant
+Absolutely! And that’s something to be proud of. How are you feeling about our session today?,T,Insignificant
+I feel hopeful. I think I’m ready to reach out.,P,History of Present Illness (HPI)
+That’s wonderful to hear! Let’s plan to check in again next week to see how it goes. ,T,Next Steps
+"Okay, I’ll let you know how it goes!",P,Insignificant
+"Perfect! Take care of yourself, and remember to be gentle with yourself through this process.",T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! Goodbye for now!,T,Insignificant
+Bye!,P,Insignificant

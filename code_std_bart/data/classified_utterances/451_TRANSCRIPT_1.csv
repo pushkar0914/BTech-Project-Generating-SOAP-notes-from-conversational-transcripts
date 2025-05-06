@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Good afternoon! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi! Well, I’ve been okay, I guess. The cold is still lingering, but I’m managing. ",P,Physiological Observations
+I’m glad to hear you’re managing. You mentioned some anger issues and how you sometimes react to disappointing news. Have you noticed any changes in that area since we last spoke?,T,Insignificant
+"Hmm, I think I’ve been more aware of it. Like, I had a situation last week where I didn’t get a job I applied for, and instead of getting angry, I tried to talk myself through it.",P,History of Present Illness (HPI)
+That’s a positive step! How did that process feel for you?,T,Insignificant
+"It felt a bit freeing, honestly. I told myself that it just wasn’t the right fit, and I’d find something better. ",P,History of Present Illness (HPI)
+That’s wonderful! It seems like you’re starting to believe in that perspective. Did you find any specific techniques helpful in managing your emotions during that time?,T,Insignificant
+"I did some chanting, which helped calm me down. I also took a walk to clear my head.",P,Therapeutic Interventions
+Excellent! Incorporating mindfulness and physical activity can be very beneficial. How did you feel afterwards?,T,Insignificant
+"I felt lighter, I guess. Like, I didn’t carry that weight of disappointment for too long.",P,Mental Health Observations
+That’s great to hear! It sounds like you’re developing healthier coping strategies. Are there any other situations where you’ve applied this approach?,T,Insignificant
+"Well, there was a minor incident with my friend. We got into a disagreement about plans, and instead of blowing up, I just took a moment to breathe and express how I felt calmly.",P,History of Present Illness (HPI)
+That’s a significant improvement! How did your friend respond to your calmness?,T,Insignificant
+They were surprised at first but appreciated it. We talked it out and ended up laughing about it later.,P,History of Present Illness (HPI)
+Wonderful! It seems like you’re building stronger communication skills. Do you feel this is impacting your relationships positively?,T,Insignificant
+Yes! I think it’s making my friendships feel more stable. I used to worry that my anger would push people away.,P,History of Present Illness (HPI)
+That’s a valid concern. It’s great to see you making progress. Are there any areas where you still feel challenged?,T,Insignificant
+"Well, I still struggle with feeling dependent on others, especially in relationships. I find it hard to let go sometimes.",P,History of Present Illness (HPI)
+That’s understandable. Dependency can be a complex issue. What do you think makes it difficult for you to let go?,T,Insignificant
+"I guess it’s fear of being alone. I’ve always had people around me, and the thought of being on my own is scary.",P,History of Present Illness (HPI)
+That fear is quite common. It’s important to acknowledge it. Have you considered exploring what being alone could look like for you?,T,Insignificant
+"I haven’t really thought about it. It’s more about the feeling of emptiness, I think.",P,History of Present Illness (HPI)
+That’s a valuable insight. Perhaps we can work on reframing your thoughts about solitude. It could be an opportunity for self-discovery and growth.,T,Therapeutic Interventions
+That sounds interesting. I’ve never really looked at it that way.,P,Insignificant
+Let’s try to envision some positive aspects of solitude. What activities or interests do you think you could explore on your own?,T,Insignificant
+I could try painting or writing. I used to enjoy those things before life got busy.,P,History of Present Illness (HPI)
+Those are wonderful creative outlets! How would it feel to set aside some time each week for these activities?,T,Insignificant
+"It would feel nice, I think. Like I’d be reconnecting with a part of myself I’ve neglected.",P,History of Present Illness (HPI)
+Exactly! Reconnecting with yourself can help lessen the fear of being alone. It’s about finding joy in your own company. ,T,Insignificant
+I like that idea. I’ll try to dedicate some time for that.,P,Next Steps
+Great! Let’s also touch on your sleep issues. Have you noticed any changes since we last discussed it?,T,Insignificant
+"I’m still waking up a lot, especially with this cold. The NyQuil helps, but I know it’s not a long-term solution.",P,Physiological Observations
+It’s good that you’re aware of that. Have you considered any relaxation techniques before bedtime?,T,Insignificant
+I haven’t really tried anything specific. Just watching TV until I fall asleep.,P,Physiological Observations
+Watching TV can be stimulating. What if you tried some gentle stretching or meditation before bed?,T,Therapeutic Interventions
+That sounds like a good idea. I’ve heard meditation can help with sleep.,P,Therapeutic Interventions
+Absolutely! It can calm the mind and prepare your body for rest. Would you like to try a short guided meditation together now?,T,Therapeutic Interventions
+"Sure, I’d like that!",P,Insignificant
+"Alright, let’s take a moment to close our eyes and take a few deep breaths together. Inhale deeply... and exhale slowly...",T,Insignificant

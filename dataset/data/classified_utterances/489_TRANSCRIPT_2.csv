@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How have you been since our last session?,T,Insignificant
+Hi Ellie! I’ve been alright. I tried breaking down my tasks like we discussed.,P,History of Present Illness (HPI)
+That’s great to hear! How did that go for you?,T,Insignificant
+It actually helped a lot. I felt less overwhelmed and more focused.,P,History of Present Illness (HPI)
+That’s wonderful! What did you notice about your stress levels while using that strategy?,T,Insignificant
+"I felt more in control, and I wasn’t as anxious about deadlines.",P,History of Present Illness (HPI)
+That’s a significant improvement! It sounds like you’re making progress. Did you have a chance to try any mindfulness exercises we discussed?,T,Insignificant
+"I did! I tried a few breathing exercises, and they helped me calm down during stressful moments.",P,History of Present Illness (HPI)
+Excellent! It’s great that you’re incorporating those techniques. How do you feel about continuing to use them?,T,Insignificant
+I think I’ll keep doing them. They really make a difference.,P,History of Present Illness (HPI)
+Fantastic! Have you noticed any changes in your mood since starting these practices?,T,Insignificant
+"Yes, I feel more centered and less reactive. It’s like I can take a step back before reacting.",P,History of Present Illness (HPI)
+That’s a valuable insight. Being able to pause before responding can greatly improve your interactions. Have there been any situations where this has been particularly helpful?,T,Insignificant
+"Yes, there was a moment at work when a colleague was frustrated, and instead of getting defensive, I took a breath and listened.",P,Current Functional Status
+That’s a wonderful example! It shows growth in your communication skills. How did that interaction end up?,T,Insignificant
+"It ended positively. We resolved the issue without escalating it, which felt good.",P,Current Functional Status
+That’s a great outcome! It seems like you’re building a toolkit for managing stress and anxiety effectively. Is there anything new that you’d like to explore today?,T,Insignificant
+I’ve been thinking about how to handle negative thoughts. Sometimes I get stuck in a loop.,P,History of Present Illness (HPI)
+That’s a common challenge. Would you like to explore cognitive behavioral techniques to address those thoughts?,T,Therapeutic Interventions
+"Yes, that sounds helpful.",P,Insignificant
+Great! One technique is identifying cognitive distortions—like all-or-nothing thinking or catastrophizing. Have you noticed any patterns in your negative thoughts?,T,Therapeutic Interventions
+I think I sometimes jump to conclusions or assume the worst.,P,History of Present Illness (HPI)
+"Recognizing that is a great first step. When you catch yourself doing that, try to challenge those thoughts. Ask yourself what evidence supports or contradicts them.",T,Therapeutic Interventions
+I’ll try that. It makes sense to question my thoughts.,P,Insignificant
+"Exactly! It’s about creating a dialogue with yourself. The next time you notice a negative thought, write it down and then write a counter-thought.",T,Therapeutic Interventions
+I like that idea. I’ll give it a shot.,P,Insignificant
+Wonderful! We can review your thoughts next time and see how that process feels for you. ,T,Next Steps
+Sounds good!,P,Insignificant
+Is there anything else you’d like to discuss today?,T,Insignificant
+Not at the moment. I feel like we covered a lot.,P,Insignificant
+I agree! You’re making great strides. Remember to be patient with yourself as you implement these changes.,T,Progress Evaluation
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+You’re very welcome! I look forward to hearing about your experiences next time. ,T,Insignificant
+Me too! See you soon!,P,Insignificant
+Bye for now!,T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s nice to see you. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I actually applied for that job we talked about!",P,Presenting Problem / Chief Complaint
+That’s fantastic news! How did it feel to submit the application?,T,Insignificant
+"It was nerve-wracking, but I felt proud of myself for doing it. I was really anxious leading up to it, though.",P,History of Present Illness (HPI)
+It’s completely normal to feel anxious. What helped you push through that anxiety?,T,Insignificant
+I kept reminding myself of the affirmation we talked about. It really helped me focus.,P,Therapeutic Interventions
+That’s wonderful! Using affirmations can be a powerful tool. Have you heard back from the job yet?,T,Insignificant
+"Not yet. I’m trying not to dwell on it too much, but it’s hard.",P,History of Present Illness (HPI)
+It is hard to wait. How are you managing those feelings of uncertainty?,T,Insignificant
+I’ve been distracting myself with more horror movies and music. It helps take my mind off things.,P,Current Functional Status
+That’s a good strategy. Have you noticed any changes in your mood since applying?,T,Insignificant
+"I think I feel a bit more hopeful, but I also have moments of doubt.",P,History of Present Illness (HPI)
+"It’s great that you’re feeling hopeful! Doubt can creep in, especially during times of uncertainty. What do you do when those doubts arise?",T,Insignificant
+I try to remind myself that I took a step forward. It’s just hard to silence that voice that says I’m not good enough.,P,History of Present Illness (HPI)
+That inner critic can be persistent. Have you thought about how you could counter that voice with self-compassion?,T,Insignificant
+I’ve been trying to do that. I’ll tell myself that it’s okay to feel this way and that I’m doing my best.,P,Therapeutic Interventions
+"That’s a great approach. Remember, it’s all part of the process. What else have you been doing to take care of yourself during this time?",T,Insignificant
+I’ve been going for walks in the park. It helps clear my head.,P,Current Functional Status
+That sounds wonderful! Nature can be very grounding. How do you feel during and after your walks?,T,Insignificant
+I feel more relaxed and less anxious afterward. It’s nice to get some fresh air.,P,Physiological Observations
+That’s excellent to hear. Is there a particular route or spot in the park that you enjoy?,T,Insignificant
+There’s this little pond with ducks that I love. It’s peaceful there.,P,Insignificant
+That sounds lovely. Spending time in peaceful environments can really help with anxiety. Have you thought about incorporating more time there into your routine?,T,Insignificant
+I’d like to! Maybe I can make it a weekly thing to go and sit by the pond.,P,Next Steps
+That’s a great idea! Setting aside time for yourself can be very beneficial. How do you feel about making that a goal for this week?,T,Insignificant
+I think I can do that. It sounds nice.,P,Next Steps
+"Wonderful! Let’s also check in on the job application. If you don’t hear back, remember that it doesn’t reflect your worth. ",T,Insignificant
+I’ll keep that in mind. I’m trying to focus on the positives.,P,History of Present Illness (HPI)
+That’s a healthy mindset. What are some positives you can focus on right now?,T,Insignificant
+"Well, I applied for a job, I’m taking care of myself, and I’ve been enjoying my walks. ",P,Current Functional Status
+Those are all significant positives! Celebrating those small victories can help build momentum. Is there anything else you’d like to explore today?,T,Insignificant
+I think I’m good for now. I feel like I’ve made some progress.,P,Progress Evaluation
+You absolutely have! I’m proud of you for taking those steps. Let’s continue to build on this momentum in our next session.,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

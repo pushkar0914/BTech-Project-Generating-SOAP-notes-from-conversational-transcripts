@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+I’ve been doing pretty well! I wrote some memories about my mom like we talked about.  ,P,History of Present Illness (HPI)
+That’s wonderful! How was the experience for you?  ,T,Insignificant
+It was emotional but also comforting. I felt good to reflect on the positive times.  ,P,History of Present Illness (HPI)
+I’m glad to hear that. Writing can be a powerful tool for processing emotions. Did anything in particular stand out while you were writing?  ,T,Insignificant
+I remembered a trip we took to the coast. It was one of my favorite memories.  ,P,History of Present Illness (HPI)
+That sounds lovely! What made that trip so special for you?  ,T,Insignificant
+"We just had a lot of fun together, and I felt really happy.  ",P,History of Present Illness (HPI)
+Those moments are precious. It’s nice that you have those memories to hold onto. Have you thought about sharing those memories with anyone else?  ,T,Insignificant
+"I haven’t, but I think I might share them with a friend.  ",P,History of Present Illness (HPI)
+That could be a great way to connect and share your feelings. How has your insurance studying been going?  ,T,Insignificant
+I’m almost done with the course material!  ,P,Current Functional Status
+That’s fantastic! Have you set a date for when you’ll take the exams?  ,T,Insignificant
+I’m planning to take them next month.  ,P,Current Functional Status
+That’s a great timeline! How are you feeling about the upcoming exams?  ,T,Insignificant
+"I’m a bit nervous, but I feel prepared.  ",P,History of Present Illness (HPI)
+It’s completely normal to feel nervous. Have you been practicing any relaxation techniques before studying or during your study sessions?  ,T,Insignificant
+"I’ve been using the mindfulness exercise, and it helps a lot.  ",P,Therapeutic Interventions
+I’m glad to hear that! Keeping your mind calm can really improve focus. Have you considered practicing relaxation techniques before the exam as well?  ,T,Insignificant
+"I hadn’t thought about that, but I will!  ",P,Next Steps
+That could help reduce anxiety on exam day. What else has been going on in your life?  ,T,Insignificant
+"I attended that art class I found, and it was really fun!  ",P,Current Functional Status
+That’s fantastic! How did it feel to participate?  ,T,Insignificant
+It felt great to be creative and meet new people.  ,P,Current Functional Status
+I’m so happy to hear that! Engaging in creative activities can be very fulfilling. Do you plan to continue attending the class?  ,T,Insignificant
+"Yes, I signed up for more sessions.  ",P,Next Steps
+That’s wonderful! It sounds like you’re building a nice routine. How do you feel about the connections you’re making in that class?  ,T,Insignificant
+I’ve met a few nice people. It’s nice to have that interaction.  ,P,Psychosocial History
+That’s great! Social connections can be very important for our well-being. Have you been able to spend time with any of your new friends outside of class?  ,T,Insignificant
+"Not yet, but I’m hoping to.  ",P,Next Steps
+That’s a good goal to work towards. Maybe you could suggest getting coffee or going to another event together.  ,T,Next Steps
+I’ll think about it!  ,P,Next Steps
+"Perfect! Before we wrap up, is there anything else you’d like to discuss today?  ",T,Insignificant
+I’m just grateful for the progress I’ve made.  ,P,Progress Evaluation
+That’s wonderful to hear! It’s important to acknowledge your growth. What are you most proud of in your journey so far?  ,T,Insignificant
+I’m proud of how I’ve handled my challenges and stayed focused on my goals.  ,P,Progress Evaluation
+"That’s an incredible achievement! Remember to celebrate those wins, no matter how small.  ",T,Insignificant
+I will! Thank you for your support.  ,P,Insignificant
+You’re very welcome! I look forward to hearing about your continued progress next time.  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

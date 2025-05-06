@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie!  ",P,Insignificant
+Hi there! It’s so nice to see you again. How have you been since our last session?  ,T,Insignificant
+I’ve been doing well. I actually painted a couple more pieces!  ,P,History of Present Illness (HPI)
+That’s fantastic! What inspired those new pieces?  ,T,Insignificant
+"One was about the beach, and the other was just some abstract colors.  ",P,Insignificant
+I love that you’re experimenting with different styles. How did it feel to create those?  ,T,Insignificant
+Really good! It’s like a release for me.  ,P,History of Present Illness (HPI)
+That’s wonderful to hear. Are you planning to share your art with anyone?  ,T,Insignificant
+I might. I’ve thought about posting them online.  ,P,Insignificant
+That’s a great idea! Sharing your work can be a big step. How do you feel about that?  ,T,Insignificant
+"A little nervous, but excited too.  ",P,History of Present Illness (HPI)
+That’s completely normal. What’s the worst that could happen?  ,T,Insignificant
+"I guess people might not like it, but I’m trying to focus on the positives.  ",P,History of Present Illness (HPI)
+"That’s a healthy mindset. Remember, art is subjective. The most important thing is that you enjoy the process.  ",T,Insignificant
+True.  ,P,Insignificant
+Have you had any interactions with your brother since we last spoke?  ,T,Insignificant
+"Yeah, we had a heart-to-heart. It felt good to clear the air.  ",P,History of Present Illness (HPI)
+That’s great progress! What did you talk about?  ,T,Insignificant
+Just how we both feel overwhelmed sometimes and how we can support each other.  ,P,History of Present Illness (HPI)
+That’s a huge step towards building a stronger relationship. How did he respond?  ,T,Insignificant
+He was receptive. It felt like we were on the same page for once.  ,P,History of Present Illness (HPI)
+That’s wonderful. It’s important to feel supported by family. Have you thought about how you can maintain that open communication?  ,T,Insignificant
+I think just checking in more often would help.  ,P,History of Present Illness (HPI)
+Absolutely. Regular check-ins can strengthen your bond. How about your mindfulness practice? Have you been able to keep it up?  ,T,Insignificant
+Yes! I’ve been doing a few minutes each morning and it really helps set my day.  ,P,Physiological Observations
+That’s fantastic! Have you noticed any changes in your mood or stress levels?  ,T,Insignificant
+Definitely. I feel more centered and less reactive.  ,P,Physiological Observations
+That’s a great benefit. Would you like to try incorporating some mindfulness techniques into your art practice?  ,T,Insignificant
+That sounds interesting. How would that work?  ,P,Insignificant
+"We could explore being present while you create, focusing on the colors and textures without judgment.  ",T,Therapeutic Interventions
+I’d like that!  ,P,Insignificant
+Great! Let’s plan to do that in our next session. Is there anything else you’d like to work on today?  ,T,Insignificant
+I’ve been thinking about my feelings of guilt regarding spending.  ,P,Presenting Problem / Chief Complaint
+That’s an important topic. Can you tell me more about that?  ,T,Insignificant
+"I feel guilty when I buy things for myself, like art supplies.  ",P,Presenting Problem / Chief Complaint
+"It’s natural to feel that way, especially when you’re married. Have you talked to your wife about it?  ",T,Insignificant
+Not really. I don’t want her to think I’m being irresponsible.  ,P,History of Present Illness (HPI)
+It might help to have an open conversation about your feelings. You both can set some boundaries together.  ,T,Therapeutic Interventions
+That makes sense.  ,P,Insignificant
+"Remember, it’s important to balance self-care with financial responsibility.  ",T,Insignificant
+"Yeah, I want to be more mindful about it.  ",P,Presenting Problem / Chief Complaint
+That’s a great goal. We can explore budgeting strategies if you’d like.  ,T,Therapeutic Interventions
+I’d appreciate that.  ,P,Insignificant
+"Perfect! Let’s work on that together. Before we end today, is there anything you’d like to set as a goal for our next session?  ",T,Insignificant
+I want to share my artwork with at least one person.  ,P,Next Steps
+That’s a wonderful goal! I’ll be excited to hear how it goes.  ,T,Insignificant
+"Thanks, Ellie!  ",P,Insignificant
+You’re doing amazing work. I look forward to our next session. Take care!  ,T,Insignificant
+See you next week!  ,P,Insignificant

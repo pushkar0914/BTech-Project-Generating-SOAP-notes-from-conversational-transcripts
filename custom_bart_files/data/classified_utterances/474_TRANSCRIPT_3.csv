@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie!  ",P,Insignificant
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"I’ve been doing well! I reached out to my brother, and we talked for a while.  ",P,Psychosocial History
+That’s wonderful! How did that conversation go?  ,T,Insignificant
+"It was really nice. We caught up on everything, and it felt good to reconnect.  ",P,Psychosocial History
+That’s fantastic! It sounds like you’re making progress in your family relationships. How did that make you feel?  ,T,Insignificant
+It made me feel happy and relieved. I didn’t realize how much I missed talking to him.  ,P,History of Present Illness (HPI)
+That’s a beautiful realization. Have you noticed any changes in your mood since reaching out?  ,T,Insignificant
+"Yeah, I feel lighter, like a weight has been lifted off my shoulders.  ",P,History of Present Illness (HPI)
+That’s great to hear! It’s amazing how connection can impact our emotional well-being. How has work been for you?  ,T,Insignificant
+"Work has been busy, but I’m handling it better. I’ve been using my breaks to walk and breathe.  ",P,Current Functional Status
+Excellent! It sounds like you’re really applying the coping strategies we discussed. Have you had any moments of pride at work lately?  ,T,Insignificant
+"Yes! I got recognized for my contribution to a project, and it felt really good.  ",P,History of Present Illness (HPI)
+That’s amazing! Celebrating those accomplishments is important. How did that recognition impact your confidence?  ,T,Insignificant
+It boosted my confidence a lot. I feel like I’m really finding my place there.  ,P,History of Present Illness (HPI)
+"That’s wonderful! As you continue to grow in your role, how do you plan to maintain that confidence?  ",T,Insignificant
+I think I’ll keep reminding myself of my accomplishments and staying connected with my coworkers.  ,P,Next Steps
+That’s a solid plan. Have you experienced any new challenges at work?  ,T,Insignificant
+"Just the usual stress, but I feel more equipped to handle it now.  ",P,History of Present Illness (HPI)
+That’s a great mindset to have. Have you been able to talk to anyone at work about your feelings?  ,T,Insignificant
+"I did! I spoke to a coworker about feeling overwhelmed, and they were really supportive.  ",P,Psychosocial History
+That’s fantastic! It’s great to have that support system. How did that conversation impact your feelings?  ,T,Insignificant
+It made me feel understood and less alone in my struggles.  ,P,History of Present Illness (HPI)
+That’s a powerful experience. Have you been able to implement any new strategies to manage your stress?  ,T,Insignificant
+I’ve been trying to prioritize my tasks better and not take on too much at once.  ,P,Therapeutic Interventions
+That sounds like a wise approach. Setting boundaries is essential for maintaining balance. Is there anything else on your mind today?  ,T,Insignificant
+I’ve been thinking about what I want to do next in my career.  ,P,History of Present Illness (HPI)
+That’s a significant topic. What are your thoughts?  ,T,Insignificant
+I’m considering taking a writing class to expand my skills.  ,P,Next Steps
+That’s a fantastic idea! Continuing to grow your skills can open up new opportunities. Would you like to set a goal for researching classes?  ,T,Insignificant
+"Yes, I’d like that.  ",P,Insignificant
+Great! Let’s check in about that next time. How do you feel overall about your progress in therapy?  ,T,Insignificant
+"I feel like I’m making real changes, and it’s encouraging.  ",P,Progress Evaluation
+"That’s wonderful to hear! Remember, progress takes time, and you’re doing great.  ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.  ",P,Insignificant
+You’re very welcome! I’m here to help. Let’s keep building on this momentum in our next session.  ,T,Insignificant
+Sounds good!  ,P,Insignificant
+"Take care, and I look forward to seeing you again soon!  ",T,Insignificant
+Bye!,P,Insignificant

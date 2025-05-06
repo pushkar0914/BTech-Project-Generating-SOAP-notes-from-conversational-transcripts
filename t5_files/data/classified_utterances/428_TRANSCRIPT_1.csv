@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Hey! I’ve been alright, just the usual, you know? ",P,Insignificant
+"That’s good to hear. Last time, we talked about your family and how they’ve been a positive influence in your life. Have you had any family gatherings or events since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, actually, we had a barbecue last weekend. It was fun, a lot of laughter and food.",P,History of Present Illness (HPI)
+That sounds wonderful! How did you feel during that gathering?,T,History of Present Illness (HPI)
+"I felt really happy, just being around everyone. It’s nice to catch up with family.",P,History of Present Illness (HPI)
+That’s great! You mentioned music puts you in a good mood. Did you have any music playing during the barbecue?,T,Insignificant
+Oh yeah! We had a playlist going. Everyone was singing along and dancing a bit. ,P,Insignificant
+That sounds like a joyful atmosphere! Are there any particular songs that stand out to you from that day?,T,Insignificant
+"Hmm, we played a lot of old school stuff, like some classic rock. Everyone loved it.",P,Insignificant
+"Music can really bring people together. Speaking of bringing people together, how has your relationship with your girlfriend been since our last talk?",T,History of Present Illness (HPI)
+"It’s been good! We’ve been spending more time together, just hanging out and playing games.",P,History of Present Illness (HPI)
+That’s nice to hear. Have you had any disagreements or challenges recently?,T,History of Present Illness (HPI)
+"Not really, just the usual little things, but nothing major.",P,History of Present Illness (HPI)
+It’s good that you’re able to manage those little disagreements. You mentioned wanting to start a new business. Have you taken any steps towards that since we last spoke?,T,History of Present Illness (HPI)
+I’ve been thinking about it more. I’m planning to learn from my dad and maybe help him out at his shop.,P,History of Present Illness (HPI)
+That sounds like a solid plan! What kind of skills do you think you’ll need to develop for that?,T,Insignificant
+I think I’ll need to learn more about customer service and the actual mechanics of cars.,P,Insignificant
+Those are great skills to have! How do you feel about learning those things?,T,Insignificant
+I feel pretty excited about it. I think it’ll be fun to work with my dad.,P,History of Present Illness (HPI)
+That’s wonderful! It seems like you have a supportive environment to learn in. Have you thought about any challenges you might face while learning?,T,History of Present Illness (HPI)
+Maybe just not messing things up at first. I don’t want to disappoint my dad.,P,Risk Assessment
+"It’s natural to feel that way, but mistakes are part of the learning process. How do you usually cope when you feel anxious about making mistakes?",T,Insignificant
+I usually just try to laugh it off or distract myself with something else.,P,Therapeutic Interventions
+Humor can definitely be a good way to cope. Have you used any specific strategies to manage anxiety in other areas of your life?,T,Insignificant
+"Not really, I just try to keep busy and not overthink things.",P,Therapeutic Interventions
+Keeping busy can help. Have you noticed any moments where you’ve felt overwhelmed or anxious recently?,T,History of Present Illness (HPI)
+"I guess sometimes when I think about the future, it gets a bit overwhelming.",P,History of Present Illness (HPI)
+That’s understandable. It’s common to feel that way when thinking about big changes. What specifically about the future feels overwhelming to you?,T,History of Present Illness (HPI)
+Just the thought of having to find a stable job and making sure I’m doing well in life.,P,History of Present Illness (HPI)
+"Those are significant concerns. Would it help to break those thoughts down into smaller, more manageable steps?",T,Insignificant
+"Yeah, that might help. I guess I could start by focusing on learning at the shop first.",P,Next Steps
+That’s a great approach! Focusing on the present and taking small steps can alleviate some of that pressure. What’s one small step you could take this week?,T,Next Steps
+I could ask my dad to show me some basics about car repairs.,P,Next Steps
+That sounds like a perfect start! How do you feel about setting that as a goal for this week?,T,Next Steps
+I feel good about it! I think it’ll be fun.,P,Next Steps
+"I’m glad to hear that! As we wrap up today, is there anything else on your mind that you’d like to discuss?",T,Insignificant
+"Not really, I think we covered a lot today.",P,Insignificant
+"Great! I’m looking forward to hearing about your experience with your dad in our next session. Take care, and see you soon!",T,Insignificant
+Thanks! See you!,P,Insignificant

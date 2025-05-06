@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+I’ve been okay. I played basketball last week!,P,Insignificant
+That’s fantastic! How did it go?,T,Insignificant
+It was fun. We played for a couple of hours.,P,Insignificant
+That sounds like a great time! How did it feel to be back on the court with your friends?,T,Insignificant
+It felt good. I enjoyed it.,P,Insignificant
+That’s wonderful to hear! It seems like playing basketball really boosts your mood. Have you noticed any changes in your overall feelings since then?,T,History of Present Illness (HPI)
+"Yeah, I think I’ve been a bit happier.",P,History of Present Illness (HPI)
+That’s great progress! It’s amazing how physical activity can elevate our mood. Have you been able to keep up with your goal of playing regularly?,T,History of Present Illness (HPI)
+I want to try. I think I can play again this week.,P,History of Present Illness (HPI)
+"That’s a perfect plan! Keeping that routine can really help maintain your positive feelings. Now, how about those smaller situations where you wanted to practice expressing yourself? Have you had any opportunities to try that?",T,History of Present Illness (HPI)
+I did! I told someone they were being rude.,P,History of Present Illness (HPI)
+That’s a significant step! How did that go for you?,T,Insignificant
+"It felt good to say something, but they didn’t listen.",P,History of Present Illness (HPI)
+"It’s great that you spoke up for yourself. Sometimes, people may not respond the way we hope, but your feelings are still valid. How did you feel afterward?",T,Insignificant
+"I felt relieved, I guess.",P,History of Present Illness (HPI)
+Relief is a positive outcome! It shows you’re learning to express your needs. Is there anything you’d like to change about how you approached that conversation?,T,Insignificant
+Maybe I could try to be more calm next time.,P,History of Present Illness (HPI)
+That’s a valuable insight. Practicing calmness can help keep the conversation constructive. Would you like to explore some techniques for that?,T,Insignificant
+Sure.,P,Insignificant
+"One technique is deep breathing. When you feel frustration rising, taking a moment to breathe deeply can help ground you. Would you like to try a quick exercise together?",T,Therapeutic Interventions
+Okay.,P,Insignificant
+"Great! Let’s take a deep breath in through your nose for a count of four... 1, 2, 3, 4... and now exhale slowly through your mouth for a count of four... 1, 2, 3, 4. How did that feel?",T,Therapeutic Interventions
+That was nice. ,P,Therapeutic Interventions
+"I’m glad you liked it! You can use that technique whenever you feel overwhelmed. Now, let’s talk about your overall goals. Is there anything else you’d like to focus on in our sessions moving forward?",T,Insignificant
+I think I want to work on being more social.,P,Presenting Problem / Chief Complaint
+That’s a great goal! We can explore ways to gradually increase your social interactions. What’s one small step you could take towards that this week?,T,Next Steps
+Maybe invite a friend to hang out again.,P,Next Steps
+That sounds perfect! Inviting a friend is a wonderful way to strengthen your connections. Let’s set that as your goal for the week. ,T,Next Steps
+"Okay, I can do that.",P,Next Steps
+"Excellent! I’m proud of the progress you’re making. Remember, it’s all about taking small steps. I look forward to hearing about your experiences next time. Take care!",T,Insignificant
+You too. Bye!,P,Insignificant

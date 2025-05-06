@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+"Hey, Ellie!  ",P,Insignificant
+Hi there! It’s nice to see you again. How have you been since our last session?  ,T,Insignificant
+I’ve been okay. I’ve been practicing the breathing exercises before bed.  ,P,History of Present Illness (HPI)
+That’s fantastic! How has that impacted your sleep?  ,T,Physiological Observations
+It’s helped a lot! I’ve been falling asleep faster.  ,P,Physiological Observations
+That’s great to hear! Have you noticed any changes in your mood or energy levels during the day?  ,T,Physiological Observations
+"Yeah, I feel less scatterbrained and more focused at work.  ",P,Physiological Observations
+Wonderful! It sounds like you’re making progress. How have your relationships with your coworkers been?  ,T,Psychosocial History
+They’ve been good! I even went out for coffee with a couple of them.  ,P,Psychosocial History
+That’s excellent! Building those connections can really help. How did that feel for you?  ,T,Insignificant
+It felt nice to connect with them outside of work.  ,P,Psychosocial History
+That’s a great step forward. Have you had any challenges at work since we last met?  ,T,History of Present Illness (HPI)
+"Just the usual stress, I guess. But I’m managing it better.  ",P,History of Present Illness (HPI)
+That’s a positive sign! Have you been able to apply any coping strategies when stress arises?  ,T,Therapeutic Interventions
+"I’ve been taking those walks during breaks, and it helps clear my head.  ",P,Therapeutic Interventions
+That’s a great strategy! Have you noticed any moments where you felt particularly proud of your work?  ,T,Insignificant
+"Yeah, I presented an idea in a meeting, and it was well-received.  ",P,Progress Evaluation
+That’s fantastic! Celebrating those moments is important. How did that make you feel?  ,T,Insignificant
+It felt validating. Like I’m really contributing.  ,P,Progress Evaluation
+Absolutely! You’re proving to yourself that you belong there. Have you thought more about your family relationships since our last session?  ,T,Psychosocial History
+"Yes, I reached out to my mom, and we had a nice chat.  ",P,Psychosocial History
+That’s wonderful! How did that conversation go?  ,T,Insignificant
+It was good. We talked about some old memories and laughed.  ,P,Psychosocial History
+That sounds heartwarming. Did it change your perspective on your relationship with her?  ,T,Insignificant
+"I think so. It made me realize that even if we don’t talk often, we still care.  ",P,Psychosocial History
+That’s a beautiful realization. Would you like to continue reaching out to your family members?  ,T,Next Steps
+"Yes, I think I will.  ",P,Next Steps
+Great! Setting small goals for communication can help strengthen those bonds. Is there anyone else you’d like to reach out to?  ,T,Next Steps
+Maybe my brother. We haven’t talked in a while.  ,P,Next Steps
+That sounds like a good idea. How about setting a goal to text or call him this week?  ,T,Next Steps
+"Yeah, I can do that.  ",P,Next Steps
+Perfect! Let’s check in on that next session. Is there anything else on your mind today?  ,T,Insignificant
+"I’ve been feeling a bit overwhelmed with everything, though.  ",P,History of Present Illness (HPI)
+"It’s completely normal to feel that way, especially with new changes. Can you identify what’s contributing to that feeling?  ",T,History of Present Illness (HPI)
+I think it’s the pressure to perform well at work and keep up with everything else.  ,P,History of Present Illness (HPI)
+That’s understandable. Have you considered discussing your feelings with someone at work?  ,T,Next Steps
+"I haven’t, but maybe I should.  ",P,Next Steps
+It could be helpful! Sometimes sharing those feelings can lighten the load. Would you like to explore some ways to approach that conversation?  ,T,Therapeutic Interventions
+"Yeah, I think that would be good.  ",P,Therapeutic Interventions
+Let’s brainstorm some ideas. You might start by expressing how you’re feeling and asking for support.  ,T,Therapeutic Interventions
+That sounds doable.  ,P,Therapeutic Interventions
+"Remember, it’s okay to ask for help. You’re not alone in this.  ",T,Insignificant
+"Thanks, Ellie. That makes me feel better.  ",P,Insignificant
+I’m glad to hear that! Let’s keep working on these goals and check in next time about your progress with your family and work relationships.  ,T,Next Steps
+Sounds good!  ,P,Insignificant
+"Great! Take care of yourself, and I look forward to seeing you again soon.  ",T,Insignificant
+Bye!  ,P,Insignificant

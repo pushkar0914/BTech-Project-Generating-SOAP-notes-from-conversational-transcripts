@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I've been okay, just trying to manage everything.",P,Insignificant
+"That’s understandable. Last time, we talked about some of the challenges you’ve faced, especially regarding your past experiences and how they affect you now. Have you noticed any changes or feelings since then?",T,History of Present Illness (HPI)
+"Well, I’ve been thinking a lot about what we discussed. The whole PTSD thing, it really hit home when I had to work on that employment law assignment again.",P,History of Present Illness (HPI): Trauma History
+That makes sense. Revisiting those feelings can be tough. How did you cope with those feelings when they came up?,T,History of Present Illness (HPI)
+"I tried to distract myself with other assignments, but it was hard to focus. I kept thinking about the past and how it felt to go through that situation again.",P,History of Present Illness (HPI)
+"It sounds like avoidance is a common strategy for you. While it can work temporarily, it might not be the best long-term solution. Have you considered any mindfulness techniques to help ground yourself during those moments?",T,Therapeutic Interventions
+"I’ve heard of mindfulness, but I haven’t really tried it. I’m not sure how to start.",P,Therapeutic Interventions
+Mindfulness can be as simple as focusing on your breath or being present in the moment. Would you be open to trying a brief mindfulness exercise together now?,T,Therapeutic Interventions
+"Sure, I can give it a shot.",P,Therapeutic Interventions
+"Great! Let’s take a moment to close our eyes, if you’re comfortable. Inhale deeply through your nose, hold it for a moment, and then slowly exhale through your mouth. Let’s do that a few times together.",T,Therapeutic Interventions
+"Okay, I’m doing it.",P,Therapeutic Interventions
+How do you feel after taking those deep breaths?,T,Physiological Observations
+"A bit more relaxed, I think. It’s nice to just focus on breathing instead of my thoughts for a moment.",P,Physiological Observations
+That’s wonderful to hear! Incorporating moments like this into your routine could really help. Do you think you could try this technique when you feel anxious or overwhelmed?,T,Next Steps
+I’ll definitely try. I think it could help me manage my stress better.,P,Next Steps
+That’s a great step forward. Let’s talk about your goals for the upcoming week. What would you like to focus on until our next session?,T,Next Steps
+"I’d like to work on being more present, especially when I’m feeling anxious about work. Maybe practicing mindfulness daily could help.",P,Next Steps
+That sounds like a solid goal! You might also consider journaling about your experiences. Writing down your thoughts can help you process them better. What do you think?,T,Next Steps
+I like that idea. I’ve always found writing to be therapeutic.,P,Next Steps
+Perfect! You can use it to reflect on your feelings and any progress you make. Is there anything else you’d like to address today?,T,Insignificant
+I guess I’m still worried about my daughter and how she’s adjusting to motherhood. I want to be there for her but sometimes feel helpless.,P,History of Present Illness (HPI): Psychosocial History
+It’s natural to feel that way as a parent. What specific concerns do you have about her adjustment?,T,History of Present Illness (HPI): Psychosocial History
+I just want her to be happy and not overwhelmed. I remember how difficult it was for me when I was raising her alone.,P,History of Present Illness (HPI): Psychosocial History
+It sounds like you’re drawing from your own experiences. Have you communicated your feelings to her?,T,Insignificant
+Not really. I don’t want to burden her with my worries.,P,History of Present Illness (HPI): Psychosocial History
+"It’s understandable to want to protect her, but sharing your feelings might strengthen your bond. You could offer support without overwhelming her. How does that sound?",T,Next Steps
+That makes sense. I’ll try to have an open conversation with her.,P,Next Steps
+"That’s a great approach! Remember, it’s okay to express your concerns while also being supportive. You’re both navigating new challenges together.",T,Insignificant
+I’ll keep that in mind.,P,Insignificant
+"Excellent! Before we wrap up, is there anything else on your mind?",T,Insignificant
+"No, I think that covers it for now. Thank you for guiding me through this.",P,Insignificant
+You’re very welcome! I’m proud of you for taking these steps. I look forward to hearing about your experiences in our next session. Take care!,T,Insignificant
+"Thanks, Ellie! I’ll see you next time.",P,Insignificant

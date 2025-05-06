@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have things been since our last session?,T,Insignificant
+"Pretty good! I’ve been trying out that breathing exercise, and it really helps.",P,Progress Evaluation: Therapeutic Interventions
+I’m so glad to hear that! Have you noticed any changes in how you feel when you practice it?,T,Progress Evaluation
+"Yeah, I feel less anxious, especially when I’m working on my car or dealing with stress.",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re making progress. How about your goal of researching business classes? Were you able to look into that?,T,Insignificant
+I did! I found a couple of classes at a community college nearby.,P,Current Functional Status
+That’s great news! What did you think about the classes you found?,T,Insignificant
+They seem interesting. I’m thinking of signing up for one that focuses on small business management.,P,Current Functional Status
+That sounds like a perfect fit for you! How does it feel to take this step toward your dream?,T,Insignificant
+It feels exciting but also a bit scary. I’m not sure if I’ll be good at it.,P,History of Present Illness (HPI)
+"It’s completely normal to feel that way when stepping out of your comfort zone. Remember, learning is a process, and everyone starts somewhere. What do you think you can do to prepare for the class?",T,Insignificant
+I could try to read some books about running a business and maybe talk to some friends who own businesses.,P,Next Steps
+Those are excellent ideas! Engaging with others who have experience can provide valuable insights. Have you had any conversations with your friends about their businesses?,T,Insignificant
+"Not yet, but I plan to ask them next time we hang out.",P,Next Steps
+"That sounds like a great plan. It can also help strengthen your support network. Speaking of support, how has your relationship with your wife been lately?",T,Insignificant
+"It’s been better! I’ve been trying to use those “I” statements, and it’s helped.",P,Progress Evaluation
+That’s wonderful to hear! Effective communication can really improve relationships. How does she respond when you express your feelings that way?,T,Insignificant
+"She seems to understand me better, and we don’t argue as much.",P,Progress Evaluation
+That’s a significant improvement! It’s great that you’re both working towards better communication. Have you noticed any changes in your overall mood since implementing these strategies?,T,Insignificant
+"Yeah, I feel more relaxed and less frustrated.",P,History of Present Illness (HPI)
+That’s fantastic! It seems like you’re making some positive changes in your life. Is there anything else you’d like to focus on today?,T,Insignificant
+I’ve been thinking about my past and how I still feel guilty about some things.,P,History of Present Illness (HPI)
+"It’s okay to reflect on the past, but it’s also important to find ways to let go of that guilt. What do you think is holding you back from moving on?",T,Insignificant
+"I guess I just keep replaying those moments in my head, wishing I could change them.",P,History of Present Illness (HPI)
+"That’s understandable. Have you considered ways to reframe those memories? Instead of focusing on guilt, you could think about what you learned from those experiences.",T,Insignificant
+I haven’t thought about it that way. I guess I could try that.,P,Next Steps
+"It can be a helpful exercise. By focusing on the lessons, you can turn those negative feelings into opportunities for growth. Would you like to try reframing one of those memories now?",T,Insignificant
+"Sure, let’s do that.",P,Insignificant
+Great! Can you think of a specific experience that stands out to you?,T,Insignificant
+"Yeah, there was this time I got a ticket for speeding. I felt so stupid.",P,History of Present Illness (HPI)
+Let’s try to reframe that. What did you learn from that experience?,T,Insignificant
+I learned to be more aware of my speed and to drive more safely.,P,Progress Evaluation
+"Exactly! You took a lesson from that moment. Now, how does it feel to think about it that way?",T,Insignificant
+It feels better. I don’t feel as guilty anymore.,P,Progress Evaluation
+"I’m glad to hear that! Remember, reframing can be a powerful tool to help you move forward. Is there anything else you’d like to discuss before we wrap up?",T,Insignificant
+"No, I think that’s it for today.",P,Insignificant
+"Alright, thank you for sharing your thoughts with me today. Keep practicing your breathing, and I look forward to hearing more about your progress in our next session!",T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant

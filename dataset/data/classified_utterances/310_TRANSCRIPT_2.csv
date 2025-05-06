@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! Welcome back! How was your week?  ,T,Insignificant
+"It was alright, I guess. I did try drawing a couple of times.  ",P,History of Present Illness (HPI)
+That’s fantastic! How did it feel to get back into it?  ,T,Insignificant
+It was nice. I forgot how much I enjoyed it.  ,P,History of Present Illness (HPI)
+I’m glad to hear that! What did you draw?  ,T,Insignificant
+Just some random stuff—nothing special.  ,P,Insignificant
+Sometimes the process is more important than the end result. Did you find it relaxing?  ,T,Insignificant
+"Yeah, it was a good distraction from everything else.  ",P,History of Present Illness (HPI)
+That’s great! Have you thought about making it a regular part of your routine?  ,T,Insignificant
+I might. It feels good to do something creative.  ,P,Insignificant
+That’s a wonderful idea! How about setting aside specific time each week for drawing?  ,T,Insignificant
+I could do that. Maybe Sundays?  ,P,Insignificant
+That sounds perfect! Sundays can be a good day to unwind. Did you experience any moments of feeling down this week?  ,T,History of Present Illness (HPI)
+A little. Just the usual stuff—feeling lonely.  ,P,Risk Assessment
+I understand. It’s tough to feel that way. Did you have any opportunities to connect with others?  ,T,Insignificant
+Not really. I didn’t feel like reaching out.  ,P,Risk Assessment
+That’s okay. Sometimes it can be hard to initiate contact. What do you think holds you back?  ,T,Insignificant
+I guess I just don’t want to bother anyone.  ,P,Risk Assessment
+"It’s understandable to feel that way, but remember that friends and acquaintances often appreciate hearing from you. Would you consider reaching out to someone this week?  ",T,Insignificant
+I could try. Maybe an old friend.  ,P,Next Steps
+That sounds like a great plan! Reconnecting with someone could be uplifting. Do you have someone specific in mind?  ,T,Insignificant
+"Yeah, I have a friend from college I haven’t spoken to in a while.  ",P,Next Steps
+That’s a good choice! How do you feel about reaching out to them?  ,T,Insignificant
+"A bit nervous, but I think I’ll do it.  ",P,Risk Assessment
+"That’s completely normal. Just remember, it’s okay to be vulnerable. You might be surprised by the response.  ",T,Insignificant
+"Yeah, I guess so.  ",P,Insignificant
+Is there anything else you’d like to explore today?  ,T,Insignificant
+I’ve been thinking about my job situation.  ,P,History of Present Illness (HPI)
+"Okay, what are your thoughts on that?  ",T,Insignificant
+I’m just tired of being unemployed. I want to find something I actually enjoy.  ,P,History of Present Illness (HPI)
+That’s a valid feeling. Have you thought about what kind of job you’d like to pursue?  ,T,Insignificant
+I’d love to work in a record shop or something music-related.  ,P,History of Present Illness (HPI)
+That sounds like a great fit for you! Have you looked into any opportunities in that field?  ,T,Insignificant
+A little. There aren’t many around here.  ,P,History of Present Illness (HPI)
+It can be challenging. Would you be open to exploring online opportunities or even volunteering at a local shop to gain experience?  ,T,Next Steps
+That might be worth considering.  ,P,Next Steps
+It could be a great way to meet people and get your foot in the door. Just remember to take it step by step.  ,T,Next Steps
+"Yeah, I’ll think about it.  ",P,Next Steps
+Great! I’m proud of you for taking these steps. Is there anything else on your mind?  ,T,Insignificant
+"No, I think I’m good for now.  ",P,Insignificant
+"Alright! I’m looking forward to hearing about your drawing, reaching out to your friend, and any job prospects next time!  ",T,Insignificant
+Thanks! I appreciate it.  ,P,Insignificant
+"You’re welcome! Take care, and see you next week!  ",T,Insignificant
+Bye!,P,Insignificant

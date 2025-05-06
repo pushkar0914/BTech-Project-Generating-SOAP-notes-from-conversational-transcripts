@@ -1,0 +1,61 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+Hey! I’ve been okay. I actually started journaling like we talked about.,P,Progress Evaluation:History of Present Illness (HPI)
+That’s fantastic! How has that experience been for you?,T,Insignificant
+"It’s been surprisingly helpful. I didn’t think I’d enjoy it, but it feels good to just write everything down.",P,Progress Evaluation:History of Present Illness (HPI)
+I’m glad to hear that! What kinds of things have you been writing about?,T,Insignificant
+Mostly about my feelings and some of the things that happened during the week. It’s nice to let it all out.,P,History of Present Illness (HPI)
+That’s a great way to process your emotions. Have you noticed any patterns or insights from your entries?,T,Insignificant
+"Yeah, I’ve realized that I tend to get angry when I feel overwhelmed or like I’m not in control.",P,History of Present Illness (HPI)
+That’s an important realization. Recognizing triggers is a big step toward managing your emotions. How do you feel about that insight?,T,Insignificant
+It makes sense. I guess I just need to find ways to cope better when I start feeling that way.,P,History of Present Illness (HPI)
+Absolutely. What coping strategies have you tried so far when you feel overwhelmed?,T,Insignificant
+"I’ve been working out more, and journaling definitely helps. But I still struggle sometimes.",P,History of Present Illness (HPI)
+"It’s okay to struggle; it’s part of the process. Have you thought about any additional techniques, like mindfulness or deep breathing exercises?",T,Insignificant
+I’ve heard of mindfulness but never really tried it.,P,History of Present Illness (HPI)
+Mindfulness can be a powerful tool for grounding yourself in the present moment. Would you like to explore some techniques together?,T,Therapeutic Interventions
+"Sure, that sounds interesting!",P,Insignificant
+Great! One simple technique is focusing on your breath. Let’s try it together for a moment. ,T,Therapeutic Interventions
+Okay.,P,Insignificant
+Close your eyes if you feel comfortable. Take a deep breath in through your nose… and out through your mouth. Let’s do that a few times.,T,Therapeutic Interventions
+*breathes deeply* ,P,Insignificant
+"As you breathe, notice any sensations in your body. If your mind starts to wander, gently bring your focus back to your breath. ",T,Therapeutic Interventions
+*continues breathing* ,P,Insignificant
+"When you’re ready, you can open your eyes. How did that feel for you?",T,Insignificant
+It was nice. I felt a little more relaxed.,P,Mental Health Observations
+That’s wonderful! Practicing mindfulness regularly can help you manage stress and anger more effectively. Would you like to incorporate this into your routine?,T,Therapeutic Interventions
+"Yeah, I think I will. ",P,Insignificant
+Excellent! Let’s also touch on your music. Have you written any new songs since our last session?,T,Insignificant
+I did! I wrote one about feeling lost and trying to find my way again. ,P,History of Present Illness (HPI)
+That sounds powerful. What inspired that theme?,T,Insignificant
+Just some feelings I’ve been having. It felt good to express it in a song.,P,History of Present Illness (HPI)
+Music can be such a therapeutic outlet. How does it feel to share those emotions through your art?,T,Insignificant
+"It feels freeing, like I’m not holding anything back.",P,Mental Health Observations
+That’s a beautiful way to express yourself. Have you thought about performing your music or sharing it with others?,T,Insignificant
+I’ve thought about it but not sure if I’m ready for that.,P,History of Present Illness (HPI)
+"That’s completely understandable. Sharing your art can be vulnerable, but it can also be rewarding. Perhaps you could start by sharing it with your close friends?",T,Next Steps
+That might be a good idea. I’ll think about it.,P,Insignificant
+Great! It’s all about taking small steps. Is there anything else you’d like to explore today?,T,Insignificant
+I guess I’m still curious about my anger and how to handle it better.,P,Presenting Problem / Chief Complaint
+That’s a valuable topic. Have you had any situations recently where you felt your anger rise?,T,Insignificant
+"Yeah, actually. I got into a disagreement with a friend about something trivial, and I felt myself getting really worked up.",P,History of Present Illness (HPI)
+How did you handle that in the moment?,T,Insignificant
+"I took a step back and tried to breathe, which helped a bit. But I still ended up snapping at them.",P,History of Present Illness (HPI)
+It’s a positive sign that you recognized your feelings and tried to manage them. What do you think you could do differently next time?,T,Insignificant
+Maybe I could try to communicate my feelings better instead of just reacting.,P,History of Present Illness (HPI)
+That’s a great insight. Practicing assertive communication can help you express your feelings without escalating the situation. Would you like to role-play a scenario to practice?,T,Therapeutic Interventions
+"Sure, that could be helpful.",P,Insignificant
+Let’s say you’re in a disagreement with your friend. You can start by expressing how you feel and what you need. ,T,Therapeutic Interventions
+"Okay, um… “I feel frustrated when…” ",P,Insignificant
+Perfect start! Continue from there.,T,Insignificant
+“I feel frustrated when you dismiss my opinion. I need us to find a solution together.”,P,History of Present Illness (HPI)
+That’s a strong and clear way to express yourself. How did that feel to say?,T,Insignificant
+"It felt good, like I was actually standing up for myself.",P,Mental Health Observations
+That’s the power of assertive communication! Practicing this can lead to healthier interactions. ,T,Therapeutic Interventions
+I’ll definitely keep that in mind.,P,Insignificant
+"Excellent! As we wrap up today’s session, what goals would you like to set for our next meeting?",T,Insignificant
+"I want to keep journaling, practice mindfulness, and maybe try that communication technique with my friends.",P,Next Steps
+Those are fantastic goals! I look forward to hearing about your progress next time. ,T,Insignificant
+"Thanks, Ellie. I appreciate everything.",P,Insignificant
+You’re very welcome! Take care until we meet again.,T,Insignificant
+Bye!,P,Insignificant

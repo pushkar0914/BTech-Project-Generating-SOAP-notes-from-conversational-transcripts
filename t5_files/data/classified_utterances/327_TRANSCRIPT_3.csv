@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve been good. I actually started a conversation with someone at the coffee shop!  ",P,Psychosocial History
+That’s fantastic! How did it go?  ,T,Insignificant
+It went really well! We talked about our favorite places to paint.  ,P,Psychosocial History
+That’s wonderful to hear! It sounds like you’re becoming more comfortable in social settings.  ,T,Mental Health Observations
+"Yes, I felt really good afterward.  ",P,Mental Health Observations
+That’s what it’s all about! Have you had any other social interactions since then?  ,T,Insignificant
+"I met a few more people at the painting class, and we’re planning to have a little get-together next week.  ",P,Psychosocial History
+That’s amazing! It sounds like you’re building some meaningful connections.  ,T,Mental Health Observations
+"Yes, I’m really excited about it!  ",P,Mental Health Observations
+That’s great! How do you feel about the idea of getting together with them?  ,T,Insignificant
+"I’m a bit nervous, but mostly excited.  ",P,Mental Health Observations
+It’s normal to feel a mix of emotions. What do you think you’ll do to prepare for the get-together?  ,T,Insignificant
+I might think of some topics to talk about in advance.  ,P,Next Steps
+That’s a smart strategy! Preparing can help ease your nerves. Would you like to brainstorm some conversation starters?  ,T,Insignificant
+Sure!  ,P,Insignificant
+How about asking them about their favorite art supplies or techniques?  ,T,Therapeutic Interventions
+That’s a good idea!  ,P,Insignificant
+You could also share what you’ve enjoyed painting recently.  ,T,Therapeutic Interventions
+"Yes, I can do that.  ",P,Insignificant
+How do you feel about your progress in social situations overall?  ,T,Insignificant
+I feel proud of myself. I didn’t think I could do it!  ,P,Mental Health Observations
+"You should be proud! You’re stepping outside of your comfort zone, which is a big accomplishment.  ",T,Mental Health Observations
+Thank you!  ,P,Insignificant
+How has your sleep been since we last spoke?  ,T,Insignificant
+"It’s been more consistent. I’m sleeping better, about 80% of the time now.  ",P,Physiological Observations
+That’s excellent! What do you think has contributed to that improvement?  ,T,Insignificant
+I think sticking to my routine and doing mindfulness exercises has really helped.  ,P,Therapeutic Interventions
+That’s great to hear! You’re doing an amazing job taking care of yourself.  ,T,Mental Health Observations
+Thank you!  ,P,Insignificant
+Is there anything else you’d like to work on today?  ,T,Insignificant
+I think I’d like to explore some more coping strategies for when I feel lonely.  ,P,Presenting Problem / Chief Complaint
+That’s a great idea. What coping strategies have you tried in the past?  ,T,Insignificant
+"I usually just call someone, but sometimes it doesn’t feel enough.  ",P,History of Present Illness (HPI)
+It’s good that you’re reaching out. Have you thought about engaging in activities that make you feel fulfilled?  ,T,Insignificant
+I haven’t really tried that. What do you mean?  ,P,Insignificant
+Activities like volunteering or joining community events can provide a sense of purpose and connection.  ,T,Therapeutic Interventions
+That sounds interesting!  ,P,Insignificant
+Would you be open to looking into local volunteer opportunities?  ,T,Insignificant
+"Yes, I’d like to explore that.  ",P,Insignificant
+Perfect! Let’s set that as a goal for this week. You can research a few options and see what resonates with you.  ,T,Next Steps
+I can do that!  ,P,Insignificant
+Is there anything else on your mind today?  ,T,Insignificant
+I think that’s everything for now.  ,P,Insignificant
+Great! I’m proud of the progress you’re making. Let’s check in next week on your experiences and goals.  ,T,Progress Evaluation
+"Thank you, Ellie!  ",P,Insignificant
+"Take care, and I look forward to hearing all about it!  ",T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

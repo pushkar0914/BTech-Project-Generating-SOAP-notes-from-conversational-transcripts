@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>  ,P,Insignificant
+Hi! Welcome back! How have you been since our last session?  ,T,Insignificant
+I’ve been okay. I reached out to a couple of people about jobs.  ,P,History of Present Illness (HPI)
+That’s fantastic! How did that go?  ,T,Insignificant
+"One person got back to me, and we talked about opportunities in film.  ",P,History of Present Illness (HPI)
+That’s a great step forward! How did that conversation feel?  ,T,Insignificant
+"It felt good. I was nervous at first, but it went well.  ",P,Mental Health Observations
+That’s wonderful! It sounds like you’re building your confidence. Did you find it helpful to use the breathing exercise we practiced?  ,T,Insignificant
+"Yes, I did. I used it before the call.  ",P,Therapeutic Interventions
+I’m glad to hear that! It seems like you’re developing some effective strategies. Have you noticed any changes in your anxiety since we started practicing mindfulness?  ,T,Insignificant
+"A little bit. I still feel anxious sometimes, but it’s more manageable.  ",P,History of Present Illness (HPI): Mental Health Observations
+That’s a positive change! Remember that it’s okay to feel anxious; it’s a normal part of life. What else have you been reflecting on?  ,T,Insignificant
+I’ve been thinking about my procrastination again.  ,P,History of Present Illness (HPI)
+What’s been on your mind regarding that?  ,T,Insignificant
+I still find myself putting off things I don’t want to do.  ,P,History of Present Illness (HPI)
+"That’s understandable. Have you been able to use any of the strategies we discussed, like breaking tasks into smaller steps?  ",T,Insignificant
+"I tried that with some chores, and it helped a bit.  ",P,Progress Evaluation
+That’s great! It sounds like you’re making progress. What’s one task you’d like to tackle this week?  ,T,Insignificant
+I need to work on my resume.  ,P,History of Present Illness (HPI)
+Excellent choice! How can you break that task down into smaller steps?  ,T,Insignificant
+I could start by updating my work experience.  ,P,Next Steps
+That’s a solid first step! How does that feel?  ,T,Insignificant
+"It feels a bit overwhelming, but I can do it.  ",P,Mental Health Observations
+It’s normal to feel overwhelmed. Remember to take it one step at a time. Would you like to set a goal to work on that this week?  ,T,Insignificant
+"Yes, I can spend an hour on it.  ",P,Next Steps
+That sounds perfect! I’m looking forward to hearing how that goes. Is there anything else you’d like to discuss today?  ,T,Insignificant
+I’ve been thinking about my friendships.  ,P,History of Present Illness (HPI)
+What are your thoughts?  ,T,Insignificant
+I feel like some of my friends don’t really understand me.  ,P,History of Present Illness (HPI)
+That can be tough. How do you think that affects your relationships?  ,T,Insignificant
+I feel isolated sometimes.  ,P,History of Present Illness (HPI)
+I understand. Would you like to explore ways to communicate more openly with your friends?  ,T,Insignificant
+"Yes, I think that would help.  ",P,Next Steps
+One approach could be to share your feelings with them. How do you think they would respond?  ,T,Insignificant
+"They might be surprised, but I think they’d listen.  ",P,Mental Health Observations
+That’s a positive outlook! Would you like to practice how you might approach that conversation?  ,T,Insignificant
+Sure!  ,P,Insignificant
+"You might start by saying something like, “I’ve been feeling a bit isolated lately, and I’d like to talk about it.” How does that sound?  ",T,Insignificant
+That sounds okay.  ,P,Insignificant
+"Great! It’s important to express your feelings. Remember, it’s okay to be vulnerable with those you trust.  ",T,Insignificant
+Thanks for the support.  ,P,Insignificant
+"Of course! I’m here to help. Thank you for sharing today, and I look forward to hearing about your progress in our next session.  ",T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

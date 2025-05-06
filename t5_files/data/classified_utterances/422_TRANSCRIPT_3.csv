@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+"Hey, Ellie!  ",P,Insignificant
+Hi there! It’s so good to see you again. How have you been since our last session?  ,T,Insignificant
+"I’ve been doing better, actually! I reached out to my family.  ",P,History of Present Illness (HPI)
+That’s wonderful! How did that go?  ,T,Insignificant
+"It went really well. They were supportive, and it felt good to talk.  ",P,History of Present Illness (HPI)
+I’m so glad to hear that! It sounds like a positive experience.  ,T,Insignificant
+"Yeah, it made me feel less isolated.  ",P,History of Present Illness (HPI)
+That’s a huge step forward. Have you been able to paint as well?  ,T,Insignificant
+"Yes! I set aside some time, and it was really relaxing.  ",P,History of Present Illness (HPI)
+Fantastic! How did it feel to engage in that creative outlet?  ,T,Insignificant
+It felt freeing. I forgot about my worries for a bit.  ,P,History of Present Illness (HPI)
+That’s amazing! Creativity can be a great way to process emotions.  ,T,Insignificant
+I want to keep it up.  ,P,History of Present Illness (HPI)
+That’s a great goal. How often do you think you can paint?  ,T,Insignificant
+I think I can make time for it a couple of times a week.  ,P,Next Steps
+Perfect! It’s important to prioritize activities that bring you joy.  ,T,Insignificant
+Right. I’ve also been trying to incorporate more walks into my routine.  ,P,History of Present Illness (HPI)
+That’s wonderful! Walking can be very beneficial for both physical and mental health.  ,T,Insignificant
+"Yeah, I feel more energized afterward.  ",P,Physiological Observations
+That’s great to hear! How has your mood been overall?  ,T,Insignificant
+"I still have my low moments, but they’re not as frequent.  ",P,History of Present Illness (HPI)
+That’s progress! It’s okay to have ups and downs. What do you do when you feel low?  ,T,Insignificant
+I try to remind myself of the good moments or do something I enjoy.  ,P,History of Present Illness (HPI)
+That’s a good strategy. Have you noticed any patterns in your low moments?  ,T,Insignificant
+I think they often come when I’m really tired or stressed.  ,P,History of Present Illness (HPI)
+That’s understandable. Managing your energy levels is important.  ,T,Insignificant
+I need to keep that in mind.  ,P,Insignificant
+Have you been able to implement any self-care practices?  ,T,Insignificant
+I’ve been trying to meditate a little bit each day.  ,P,History of Present Illness (HPI)
+That’s fantastic! How has that been for you?  ,T,Insignificant
+"It’s been helpful. It calms my mind, even if just for a few minutes.  ",P,Physiological Observations
+That’s a great start! Would you like to explore more mindfulness techniques?  ,T,Insignificant
+"Yes, I’d love that.  ",P,Insignificant
+One technique is guided imagery. Would you like to try a brief exercise?  ,T,Insignificant
+Sure!  ,P,Insignificant
+Close your eyes and take a deep breath. Imagine a peaceful place where you feel safe and relaxed.  ,T,Insignificant
+<takes a deep breath>  ,P,Insignificant
+"Picture the colors, sounds, and smells around you. What do you see?  ",T,Insignificant
+I see a beach with soft sand and gentle waves.  ,P,Insignificant
+That sounds beautiful. Allow yourself to feel the warmth of the sun and the sound of the waves.  ,T,Insignificant
+<sigh> It feels calming.  ,P,Physiological Observations
+"When you’re ready, slowly open your eyes. How was that for you?  ",T,Insignificant
+It was really nice. I felt like I was there for a moment.  ,P,Insignificant
+I’m glad! You can use this technique whenever you need a moment of calm.  ,T,Insignificant
+I will definitely try that.  ,P,Next Steps
+"As we wrap up today, what’s one goal you’d like to focus on before our next session?  ",T,Insignificant
+I want to keep up with my painting and continue reaching out to friends and family.  ,P,Next Steps
+Those are excellent goals! I’m proud of you for taking these steps.  ,T,Insignificant
+"Thanks, Ellie.  ",P,Insignificant
+You’re doing an amazing job. I look forward to hearing about your progress next time!  ,T,Insignificant
+Me too!  ,P,Insignificant
+Goodbye for now!  ,T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+<deep breath>  ,P,Insignificant
+Welcome back! How has your week been?  ,T,Insignificant
+"It’s been better! I tried the breathing exercises, and they really helped.  ",P,History of Present Illness (HPI)
+That’s excellent to hear! How did you incorporate them into your routine?  ,T,Insignificant
+I started doing them in the morning before I start my day. It sets a positive tone.  ,P,Current Functional Status
+That’s a fantastic strategy. How do you feel it’s impacted your anxiety?  ,T,Insignificant
+I feel more centered and less overwhelmed. It’s like I have a moment to reset.  ,P,History of Present Illness (HPI)
+Wonderful! It’s great to have tools that empower you. Have you had any opportunities to practice your conversation starters?  ,T,Insignificant
+"Yes! I used them at a small gathering, and it went surprisingly well.  ",P,Current Functional Status
+That’s fantastic! What was that experience like for you?  ,T,Insignificant
+I felt more confident. I actually made a couple of connections.  ,P,Current Functional Status
+That’s a huge accomplishment! How did that make you feel?  ,T,Insignificant
+It felt good! I was proud of myself for stepping out of my comfort zone.  ,P,History of Present Illness (HPI)
+You should be proud! It’s important to celebrate these victories. What do you think contributed to your success?  ,T,Insignificant
+I think having those conversation starters helped a lot. I felt prepared.  ,P,History of Present Illness (HPI)
+Preparation can make a significant difference. Is there anything you’d like to build on from that experience?  ,T,Insignificant
+I want to keep practicing and maybe try to engage more deeply with people.  ,P,Next Steps
+That’s a great goal! Building on those connections can help foster more meaningful relationships.  ,T,Insignificant
+"Yeah, I’d like that.  ",P,Insignificant
+Let’s talk about your identity. How do you feel about your journey as a filmmaker?  ,T,Insignificant
+I’m excited but also a bit scared. I want to make something meaningful.  ,P,History of Present Illness (HPI)
+It’s normal to feel that way. What does “meaningful” look like for you?  ,T,Insignificant
+"I want to tell stories that resonate with people, that make them feel something.  ",P,History of Present Illness (HPI)
+That’s a powerful aspiration. Have you thought about what themes you’d like to explore in your work?  ,T,Insignificant
+"I’ve been thinking about identity and connection, especially with everything I’ve been going through.  ",P,History of Present Illness (HPI)
+Those are rich themes that many can relate to. How do you envision expressing those ideas?  ,T,Insignificant
+"I want to create characters that feel real and relatable, not just archetypes.  ",P,History of Present Illness (HPI)
+That’s a wonderful approach. Authenticity is key in storytelling. Are there any specific projects you’re working on?  ,T,Insignificant
+I’ve started brainstorming ideas for a short film.  ,P,Current Functional Status
+That’s exciting! What’s the premise?  ,T,Insignificant
+It’s about a person navigating a new city and their struggles to connect with others.  ,P,History of Present Illness (HPI)
+That sounds like it could be very relatable. How does it feel to work on this project?  ,T,Insignificant
+It feels good! It’s like a way for me to process my own experiences.  ,P,History of Present Illness (HPI)
+Creative expression can be incredibly therapeutic. Have you considered sharing your work with others as you progress?  ,T,Insignificant
+"I haven’t, but that could be a good way to get feedback.  ",P,Next Steps
+Absolutely! Sharing your work can also help build connections within the filmmaking community.  ,T,Insignificant
+I’ll think about it.  ,P,Insignificant
+"As we wrap up, let’s set a goal for next week. Perhaps you could outline your short film and share it with someone for feedback?  ",T,Next Steps
+I like that idea!  ,P,Insignificant
+"Great! Remember to celebrate your progress, no matter how small. I’m looking forward to hearing about it next time.  ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.  ",P,Insignificant
+"You’re welcome! Have a wonderful week, and I’ll see you soon.  ",T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

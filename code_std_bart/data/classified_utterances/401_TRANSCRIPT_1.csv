@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I've been okay, a bit more anxious than usual, but managing.",P,History of Present Illness (HPI)
+I'm glad to hear you're managing. You mentioned feeling anxious. Can you tell me more about what's been causing that?,T,History of Present Illness (HPI)
+"Well, I've been thinking a lot about my acting career and the opportunities I want to pursue. Sometimes it feels overwhelming.",P,History of Present Illness (HPI)
+That makes sense. Pursuing a career in acting can be very demanding. What specific opportunities are you focused on right now?,T,Insignificant
+"I’m trying to get auditions for some local theater productions. I feel like I need to get more experience, but the competition is tough.",P,History of Present Illness (HPI)
+It sounds like you're feeling pressure to succeed in a competitive environment. How does that pressure affect you?,T,Insignificant
+It makes me second-guess myself a lot. I worry that I’m not good enough or that I’ll miss out on opportunities.,P,History of Present Illness (HPI)
+Those thoughts can be really challenging to deal with. Have you found any strategies to cope with that self-doubt?,T,Insignificant
+"I try to remind myself of the positive feedback I’ve received in the past, but sometimes it just feels like I’m not making any progress.",P,History of Present Illness (HPI)
+It’s great that you’re trying to focus on the positive. Would it be helpful to keep a list of those positive experiences to refer back to when you're feeling down?,T,Therapeutic Interventions
+"That could be helpful, yeah. I think I’ll try that.",P,Therapeutic Interventions
+"Excellent! Let’s set that as a goal for this week. You can jot down any positive feedback or accomplishments, no matter how small. How does that sound?",T,Next Steps
+Sounds good! I can do that.,P,Next Steps
+"Wonderful! Last session, we talked about your sleep patterns. How has your sleep been lately?",T,Physiological Observations
+"It’s been a bit better, actually. I’ve been trying to stick to a bedtime routine, so that helps.",P,Physiological Observations
+That’s encouraging to hear! What does your bedtime routine look like?,T,Insignificant
+"I’ve been reading before bed instead of scrolling on my phone, which I think helps me unwind.",P,Physiological Observations
+Reading is a great way to relax. Have you noticed any changes in your thoughts or feelings since implementing that routine?,T,Insignificant
+"Yes, I feel less anxious at night, which is nice. I think I’m falling asleep faster too.",P,Physiological Observations
+That’s fantastic progress! It sounds like you’re taking steps to improve your well-being. Are there any other areas in your life where you feel you need to make changes?,T,Insignificant
+"I think I need to work on my physical health. I’ve been eating out a lot lately, and I want to get back to cooking healthy meals.",P,History of Present Illness (HPI)
+That’s a great goal! What are some meals you enjoy cooking?,T,Insignificant
+I love making stir-fries and salads. They’re quick and healthy.,P,Insignificant
+Would you like to set a goal around cooking more this week? Perhaps planning a few meals?,T,Next Steps
+"Yes, I think that would be really helpful. I can plan for a couple of dinners.",P,Next Steps
+Perfect! Let’s aim for at least two healthy meals this week. How do you feel about that?,T,Next Steps
+I feel good about it. I think I can manage that.,P,Next Steps
+"Great! Now, let’s talk about your family. You mentioned your grandmother's passing last time. How have you been coping with that loss?",T,History of Present Illness (HPI)
+It’s been tough. I still miss her a lot. Sometimes I just want to call her and share what’s going on in my life.,P,History of Present Illness (HPI)
+It’s completely normal to feel that way. Have you found any ways to honor her memory?,T,Insignificant
+I’ve been looking through old photos and remembering the good times we had. It helps a little.,P,History of Present Illness (HPI)
+That sounds like a meaningful way to keep her memory alive. Would you like to share a favorite memory of her?,T,Insignificant
+"Sure! I remember the summers I spent at her house. We used to bake cookies together, and she always let me pick the recipes.",P,Insignificant
+That sounds lovely! Baking can be a comforting activity. Would you consider baking some cookies in her honor?,T,Next Steps
+That’s a nice idea! I think I might do that this weekend.,P,Next Steps
+I love that! It could be a wonderful way to connect with her memory. How are you feeling about everything we’ve discussed today?,T,Insignificant
+I feel a bit lighter. Talking about my grandmother and setting goals makes me feel more focused.,P,History of Present Illness (HPI)
+I'm glad to hear that. It sounds like you're making strides in managing your anxiety and honoring your past. Is there anything else you’d like to discuss before we wrap up?,T,Insignificant
+"No, I think we covered a lot today. Thank you, Ellie!",P,Insignificant
+You're very welcome! I look forward to hearing about your progress next time. Take care!,T,Insignificant
+"You too, goodbye!",P,Insignificant
+Goodbye!,T,Insignificant

@@ -1,0 +1,30 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How have you been since our last session?,T,Insignificant
+"Hey! I’ve been okay. I actually tried the muscle relaxation technique before bed, and it helped a bit.",P,History of Present Illness (HPI)
+That’s fantastic to hear! How did you feel during the exercise?,T,Insignificant
+"I felt really relaxed, and I actually fell asleep faster than usual.",P,Physiological Observations
+That’s a great step forward. It sounds like you’re finding some tools that work for you. Have you been able to incorporate any writing about your feelings?,T,Insignificant
+I did! I wrote a bit about my audition and how it made me feel. It was kind of cathartic.,P,History of Present Illness (HPI)
+That’s wonderful! Writing can be a great outlet. What did you discover about yourself through that process?,T,Insignificant
+"I realized I’m really hard on myself. I put so much pressure to succeed, and it’s exhausting.",P,History of Present Illness (HPI)
+It’s insightful that you recognize that. What do you think would happen if you eased up on that pressure?,T,Insignificant
+I don’t know. I guess I’d probably enjoy music more instead of stressing about it.,P,History of Present Illness (HPI)
+That’s an important realization. What’s one small way you might allow yourself to enjoy music without the pressure of performance?,T,Insignificant
+"Maybe I could just sing for fun, without worrying about how I sound?",P,Next Steps
+That sounds like a great idea! When could you set aside time for that?,T,Insignificant
+I could try it this weekend. ,P,Next Steps
+Perfect! I’m excited to hear how that goes. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my family a lot lately. I feel kind of distant from them.,P,Psychosocial History
+Family dynamics can be complex. What do you think is causing that distance?,T,Insignificant
+"I don’t know. I think it’s just the pressure of everything, and I don’t want to burden them with my problems.",P,Psychosocial History
+"It’s understandable to feel that way, but remember, family can often provide support. Have you considered reaching out to them?",T,Insignificant
+"I haven’t, but maybe I should. I just don’t want to worry them.",P,History of Present Illness (HPI)
+"That’s a valid concern. Perhaps you could share what you’re comfortable with, focusing on your feelings rather than the details of your struggles?",T,Insignificant
+"Yeah, I could do that. ",P,Next Steps
+That sounds like a healthy step. How do you feel about setting a goal to reach out this week?,T,Insignificant
+I think I can manage that.,P,Next Steps
+Great! It sounds like you’re making meaningful progress. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that’s it for now. I feel like I have some things to work on.,P,Insignificant
+Absolutely! You’ve made some great strides today. I look forward to hearing about your experiences in our next session. ,T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant

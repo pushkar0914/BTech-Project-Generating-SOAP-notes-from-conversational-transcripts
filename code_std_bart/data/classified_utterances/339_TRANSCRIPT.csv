@@ -1,0 +1,234 @@
+﻿Utterance,Type,Classified_Subsection
+hi i'm ellie thanks for coming in today,T,Insignificant
+i was created to talk to people in a safe and secure environment,T,Insignificant
+i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started,T,Insignificant
+and please feel free to tell me anything your answers are totally confidential ,T,Insignificant
+are you okay with this,T,Insignificant
+yes,P,Insignificant
+okay so how are you doing today,T,Insignificant
+um i'm okay,P,Presenting Problem / Chief Complaint
+that's good,T,Insignificant
+where are you from originally,T,Insignificant
+i was born in san bernardino california ,P,Psychosocial History
+really,T,Insignificant
+yes,P,Insignificant
+where do you live,T,Insignificant
+um i'm staying with a sister in north hollywood,P,Psychosocial History
+what's it like for you living with them,T,Insignificant
+um she makes it as comfortable as possible,P,Psychosocial History
+okay,T,Insignificant
+what are some things you really like about l_a,T,Insignificant
+uh i love the weather,P,Psychosocial History
+mhm,T,Insignificant
+and the entertainment and the public transportation,P,Psychosocial History
+yeah,T,Insignificant
+what are some things you don't really like about l_a,T,Insignificant
+um it's very difficult to find full time employment ,P,Presenting Problem / Chief Complaint
+and some of the people aren't as friendly as people from the south 'cause i lived in the south before,P,Psychosocial History
+um,P,Insignificant
+those are the only two things,P,Insignificant
+mhm,T,Insignificant
+do you travel a lot,T,Insignificant
+no i don't,P,Insignificant
+what'd you study at school,T,Insignificant
+i was an english major in college,P,Psychosocial History
+are you still working in that,T,Insignificant
+i haven't finished yes i am,P,Current Functional Status
+what's your dream job,T,Insignificant
+um i'd like to be a recording singer,P,Presenting Problem / Chief Complaint
+really,T,Insignificant
+yes,P,Insignificant
+what made you decide to do that,T,Insignificant
+um i've always loved to sing from the time that i was a child ,P,Psychosocial History
+aw,T,Insignificant
+do you consider yourself an introvert,T,Insignificant
+at times,P,Psychosocial History
+can you tell me about that,T,Insignificant
+um when i'm alone i,P,Insignificant
+am um extremely,P,Insignificant
+<sigh> i guess i would say um,P,Insignificant
+inter minded like i um have a lot of thoughts and i keep them to myself,P,Psychosocial History
+mhm,T,Insignificant
+<clears throat> ,P,Insignificant
+so,P,Insignificant
+if i'm in that mode then i don't really,P,Insignificant
+um interact with people but i can also interact with people if i change modes,P,Psychosocial History
+okay,T,Insignificant
+okay,T,Insignificant
+i understand,T,Insignificant
+i understand,T,Insignificant
+what do you do to relax,T,Insignificant
+um i just started doing yoga a couple of weeks ago,P,Current Functional Status
+cool,T,Insignificant
+and,P,Insignificant
+when was the last time that happened,T,Insignificant
+last week on thursday no on tuesday,P,Insignificant
+mhm,T,Insignificant
+what do you do when you're annoyed,T,Insignificant
+um ,P,Insignificant
+usually i,P,Insignificant
+just try to um,P,Insignificant
+remain quiet,P,Therapeutic Interventions
+and listen to the situation if it's a person or if it's a situation <clears throat> that i'm dealing with myself that's annoying,P,Therapeutic Interventions
+i try to um think of alternate ways that would make the situation better ,P,Therapeutic Interventions
+mhm,T,Insignificant
+um come up with alternate plans so i won't get annoyed,P,Therapeutic Interventions
+how are you at controlling your temper,T,Insignificant
+um,P,Insignificant
+pretty good,P,Therapeutic Interventions
+when was the last time you argued with someone and what was it about,T,Insignificant
+um,P,Insignificant
+mm i may have had an argument a few weeks ago,P,Psychosocial History
+um just about timeliness like meeting on time and showing up on time,P,Psychosocial History
+mhm,T,Insignificant
+and it was actually last,P,Insignificant
+um monday,P,Insignificant
+okay,T,Insignificant
+yeah mhm,P,Insignificant
+is there anything you regret,T,Insignificant
+no,P,Insignificant
+what advice would you give yourself ten or twenty years ago,T,Insignificant
+um to just be cautious of people's intentions,P,Psychosocial History
+mhm,T,Insignificant
+and to listen really well 'cause people usually tell you what their intentions are without even um realizing <re> realizing it ,P,Psychosocial History
+yeah,T,Insignificant
+how would your best friend describe you,T,Insignificant
+um a good listener patient,P,Psychosocial History
+um,P,Insignificant
+fun loving,P,Psychosocial History
+generous,P,Psychosocial History
+um,P,Insignificant
+depressed sometimes,P,Presenting Problem / Chief Complaint
+um ,P,Insignificant
+but generally a good person,P,Psychosocial History
+that's good,T,Insignificant
+have you ever served in the military,T,Insignificant
+no i have not,P,Insignificant
+have you ever been diagnosed with p_t_s_d,T,Insignificant
+yes,P,Trauma History
+how long ago were you diagnosed,T,Insignificant
+um within a year and a half ago,P,Medical and Psychiatric History
+did you think you had a problem before you found out,T,Insignificant
+um i just knew that,P,Insignificant
+i often thought about situations that um happened in the past and,P,Trauma History
+kinda blamed the situation for my future,P,Trauma History
+and um,P,Insignificant
+are they triggered by something,T,Insignificant
+um,P,Insignificant
+certain,P,Insignificant
+settings,P,Insignificant
+can you tell me about that,T,Insignificant
+um if i ,P,Insignificant
+um see certain types of individuals in certain settings it just reminds me of when i was younger when things happened and changed my future plans,P,Trauma History
+so i um try to i used to just try to avoid those types of situations and certain types of people at that time,P,Trauma History
+but now i feel like i um,P,Insignificant
+just handle things better as far as,P,Insignificant
+um,P,Insignificant
+being in the similar settings with similar people i just,P,Insignificant
+i see,T,Insignificant
+i um handle those things better,P,Trauma History
+that's good,T,Insignificant
+do you still go to therapy now,T,Insignificant
+i do,P,Medical and Psychiatric History
+is going to a therapist helping you,T,Insignificant
+um i like to believe that it does,P,Progress Evaluation
+what sort of changes have you noticed since you've been going to therapy,T,Insignificant
+i,P,Insignificant
+don't worry as much,P,Progress Evaluation
+how has seeing a therapist affected you  ,T,Insignificant
+um it's just allowed me to,P,Insignificant
+know that actually speaking about the issues,P,Progress Evaluation
+um,P,Insignificant
+relieves me of the tension of um,P,Insignificant
+holding them inside so,P,Insignificant
+that's how it's helped me,P,Progress Evaluation
+yeah how hard is that,T,Insignificant
+at first it was difficult just being open with my internal emotions but now it um,P,Progress Evaluation
+it actually is good because i know that when things are occurring ,P,Progress Evaluation
+um if i'm able to um communicate about them with a certain individual,P,Progress Evaluation
+mhm,T,Insignificant
+it um relieves me of the stress of,P,Insignificant
+of uh trying to figure out everything alone and often times um by speaking about the issues it um,P,Insignificant
+allows me to come up with an alternative plan that may be be better just because i'm hearing myself speak of the issue ,P,Progress Evaluation
+that's good,T,Insignificant
+what got you to seek help,T,Insignificant
+um i was diagnosed with depression and um my doctor felt that i should probably see the therapist,P,Medical and Psychiatric History
+are you happy you did that,T,Insignificant
+um i am,P,Insignificant
+okay,T,Insignificant
+how easy is it for you to get a good night's sleep,T,Insignificant
+it depends um if i'm really busy during the week and have a lot of things to do,P,Physiological Observations
+i often try to plan things and if i'm planning things it affects my sleep i might wake up in the middle of the night so,P,Physiological Observations
+sometimes it's easy and sometimes it isn't,P,Physiological Observations
+uh huh,T,Insignificant
+what are you like when you don't sleep well,T,Insignificant
+irritable um,P,Physiological Observations
+very <v> just very irritable,P,Physiological Observations
+okay,T,Insignificant
+how have you been feeling lately ,T,Insignificant
+um i was feeling anxious but now i'm calmer,P,History of Present Illness (HPI)
+do you feel down,T,Insignificant
+um today i don't but i have in the past week,P,History of Present Illness (HPI)
+why,T,Insignificant
+um because i was in the midst of um searching for a a,P,Insignificant
+stable <s> a stable place to live,P,History of Present Illness (HPI)
+and um,P,Insignificant
+it was just taking so long to find a stable place to live so,P,History of Present Illness (HPI)
+i was becoming anxious ,P,History of Present Illness (HPI)
+yeah i'm sorry to hear that,T,Insignificant
+thank you,P,Insignificant
+there are always trade offs in life aren't there,T,Insignificant
+yes,P,Insignificant
+when was the last time you felt really happy,T,Insignificant
+um ,P,Insignificant
+maybe in october,P,Psychosocial History
+can you tell me about that,T,Insignificant
+um well my mother first came she came to visit me in october and when she first got here we had a good time,P,Psychosocial History
+aww,T,Insignificant
+for the first couple days um so i was happy to see her i hadn't seen her in over a year,P,Psychosocial History
+that's great,T,Insignificant
+mhm,P,Insignificant
+what are you most proud of in your life,T,Insignificant
+um i'm proud that i'm able to um ,P,Psychosocial History
+adjust to different situations,P,Psychosocial History
+um the older i've gotten the more adaptable i am to <t> in different environments in different situations,P,Psychosocial History
+and um i've learned how to be more resourceful so i'm proud of that,P,Psychosocial History
+mhm,T,Insignificant
+um,P,Insignificant
+that's good,T,Insignificant
+who's someone that's been a positive influence in your life ,T,Insignificant
+i'm sorry,P,Insignificant
+who's someone that's been a positive influence in your life ,T,Insignificant
+oh,P,Insignificant
+my dad and uh my sister she's positive 'cause she's finished her master's degree um,P,Psychosocial History
+my mom sometime um my best friend is very positive 'cause she just started her new business two years ago and she's very enthusiastic about it so that's an inspiration ,P,Psychosocial History
+okay,T,Insignificant
+what are some things that make you really mad,T,Insignificant
+um,P,Insignificant
+when someone lies consistently ,P,Psychosocial History
+okay,T,Insignificant
+what would you say are some of your best qualities,T,Insignificant
+um i listen very very well um sometimes,P,Psychosocial History
+i um give good advice,P,Psychosocial History
+i'm a good friend um i normally do the things that i say i'm going to do so i'm dependable,P,Psychosocial History
+um i communicate well ,P,Psychosocial History
+and,P,Insignificant
+i um enjoy,P,Insignificant
+people's company most of the time especially if they're in good moods,P,Psychosocial History
+uh huh,T,Insignificant
+what are some things that usually put you in a good mood,T,Insignificant
+um being around positive people music um puts me in a good mood,P,Psychosocial History
+um comedy shows put me in a good mood,P,Psychosocial History
+um good food puts me in a good mood ,P,Psychosocial History
+what's one of your most memorable experiences,T,Insignificant
+um when i graduated from high school,P,Psychosocial History
+it was a really um i will never forget it it was a wonderful day,P,Psychosocial History
+how did you feel in that moment,T,Insignificant
+very confident accomplished and,P,Psychosocial History
+i was um extremely optimistic and hopeful for the future ,P,Psychosocial History
+that's so good to hear,T,Insignificant
+okay i think i've asked everything i need to,T,Insignificant
+thanks for sharing your thoughts with me,T,Insignificant
+you're welcome,P,Insignificant
+goodbye,T,Insignificant
+bye,P,Insignificant

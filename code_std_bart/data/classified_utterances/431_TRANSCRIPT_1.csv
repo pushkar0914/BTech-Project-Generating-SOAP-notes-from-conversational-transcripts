@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I’ve been okay, just adjusting to life here a bit more.",P,History of Present Illness (HPI)
+"That's good to hear. Last time, we talked about your move to L.A. and how you’ve been feeling about it. Any new thoughts or experiences since then?",T,Insignificant
+"I’ve been exploring more areas, and it’s been nice. I still love the weather!",P,History of Present Illness (HPI)
+That’s great! Exploring new places can really help with adjusting. Have you met any new people during your explorations?,T,Insignificant
+"A few, yes. I went to a local event and met some friendly folks.",P,History of Present Illness (HPI)
+That sounds promising! How did that make you feel?,T,Insignificant
+"It felt good to connect with others. I was a bit shy at first, but it got easier.",P,History of Present Illness (HPI)
+That’s a positive step! Shyness can be challenging. Have you thought about ways to help yourself feel more comfortable in social situations?,T,Insignificant
+I try to remind myself that everyone is just as nervous sometimes.,P,History of Present Illness (HPI)
+That’s a great perspective! Cognitive reframing can be very helpful. Have you practiced any relaxation techniques we discussed last time?,T,Insignificant
+"I’ve been listening to more music, especially when I feel anxious.",P,Therapeutic Interventions
+Music can be a powerful tool for relaxation. What kind of music do you find most calming?,T,Insignificant
+Mostly instrumental or soft melodies. It helps me unwind.,P,Therapeutic Interventions
+Wonderful! Have you noticed any changes in your mood since incorporating that into your routine?,T,Insignificant
+"I feel a bit more at ease, especially after a long day.",P,Mental Health Observations
+"That’s excellent progress! Speaking of moods, how have you been feeling overall lately?",T,Insignificant
+"I’ve had some ups and downs, but mostly okay.",P,Mental Health Observations
+It’s normal to have fluctuations in mood. Have you noticed any triggers for those downs?,T,Insignificant
+Sometimes it’s just feeling overwhelmed with everything happening around me.,P,History of Present Illness (HPI)
+That makes sense. Do you have any strategies for when you start feeling overwhelmed?,T,Insignificant
+I try to take deep breaths and remind myself it’s okay to take a break.,P,Therapeutic Interventions
+Deep breathing is a great technique. Would you like to explore more coping strategies together today?,T,Insignificant
+"Yes, that would be helpful.",P,Insignificant
+Great! One technique is grounding exercises. They can help bring you back to the present moment. Would you like to try one?,T,Therapeutic Interventions
+"Sure, I’m open to that.",P,Insignificant
+Let’s start by focusing on your five senses. Can you name five things you can see right now?,T,Insignificant
+"Um, I see the chair, the wall, a plant, the window, and a picture.",P,Current Functional Status
+"Perfect! Now, can you identify four things you can touch?",T,Insignificant
+"The chair, my arms, my phone, and my hair.",P,Current Functional Status
+"Great job! Now, how about three things you can hear?",T,Insignificant
+"I can hear the clock ticking, some traffic outside, and my own breathing.",P,Current Functional Status
+Excellent! Two things you can smell?,T,Insignificant
+I can smell my lotion and the coffee from earlier.,P,Current Functional Status
+"Wonderful! And finally, one thing you can taste?",T,Insignificant
+I still taste the coffee.,P,Current Functional Status
+Well done! How do you feel after that exercise?,T,Insignificant
+It helped me focus and feel a bit calmer.,P,Mental Health Observations
+I’m glad to hear that! Grounding techniques can be very effective. Do you think you could incorporate this into your routine?,T,Insignificant
+"Yes, I’ll definitely give it a try.",P,Insignificant
+"Fantastic! Before we wrap up, is there anything else on your mind that you’d like to discuss today?",T,Insignificant
+I’ve been thinking about my relationship with my mom again.,P,History of Present Illness (HPI)
+That’s an important topic. What’s been on your mind about her?,T,Insignificant
+I still struggle with the decision to distance myself from her. I wonder if it was the right choice.,P,History of Present Illness (HPI)
+It’s understandable to have those feelings. Would you like to explore that further?,T,Insignificant
+"Yes, I think I need to.",P,Insignificant
+Let’s take some time to unpack that. What specifically makes you question your decision?,T,Insignificant
+"I feel guilty sometimes. I see other families being close, and I wonder if I missed out.",P,History of Present Illness (HPI)
+Guilt can be a heavy emotion. It’s important to remember your reasons for your choices. What were they?,T,Insignificant
+I needed to protect myself from negativity.,P,History of Present Illness (HPI)
+That’s valid. It’s crucial to prioritize your well-being. How do you feel about that now?,T,Insignificant
+"I know I did what I had to do, but it still hurts.",P,Mental Health Observations
+It’s okay to feel hurt. Healing takes time. Would you like to set a goal to work on this feeling of guilt for our next session?,T,Next Steps
+"Yes, I think that would be good.",P,Insignificant
+Great! We can explore ways to process those feelings. Thank you for sharing today. I look forward to seeing you next time!,T,Insignificant
+Thank you! See you then.,P,Insignificant
+Goodbye!,T,Insignificant

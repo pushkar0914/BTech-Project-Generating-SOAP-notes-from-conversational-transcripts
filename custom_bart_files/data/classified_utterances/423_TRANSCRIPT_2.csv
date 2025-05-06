@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi there! Welcome back. How have you been since our last session?,T,Insignificant
+"I’ve been doing okay. I tried journaling once, but I didn’t keep up with it.",P,History of Present Illness (HPI)
+That’s alright! It’s all about finding what works for you. What was your experience like when you did journal?,T,Insignificant
+"I felt a bit awkward at first, but it was nice to get my thoughts out.",P,History of Present Illness (HPI)
+That’s a great start! It’s normal to feel awkward when trying something new. What do you think made it difficult to continue?,T,Insignificant
+I think I just got busy and forgot about it.,P,History of Present Illness (HPI)
+Life can certainly get busy. Would it help to set a specific reminder for yourself?,T,Insignificant
+"Yes, I could set an alarm on my phone.",P,Insignificant
+That’s a great idea! What time do you think would work best for you?,T,Insignificant
+Maybe in the evenings after dinner.,P,Insignificant
+Perfect! That could be a nice way to wind down your day. How about your mindfulness practice? Have you been able to incorporate that into your routine?,T,Insignificant
+"Yes, I’ve been doing it in the mornings. It really helps me start my day off right.",P,History of Present Illness (HPI)
+That’s fantastic! How have you noticed it impacting your day-to-day life?,T,Insignificant
+"I feel more centered and less anxious, especially when I start my day with it.",P,History of Present Illness (HPI)
+That’s wonderful to hear! Consistency can make a big difference. Have there been any challenges you’ve faced while practicing mindfulness?,T,Insignificant
+"Sometimes I still find my mind wandering, but I try to bring it back.",P,History of Present Illness (HPI)
+"That’s completely normal. Mindfulness is a practice, and it’s okay if your mind wanders. The important thing is to gently guide it back. Would you like to explore any additional mindfulness techniques?",T,Insignificant
+"Sure, I’d love to learn more.",P,Insignificant
+"One technique is to focus on your senses. For example, when you’re outside, take a moment to notice what you see, hear, and feel. It can help ground you in the present moment. ",T,Therapeutic Interventions
+I like that idea. I’ll try it next time I’m outside.,P,Insignificant
+"Great! Now, how did your plan to light a candle and reflect on your past relationship go?",T,Insignificant
+I did it! It felt good to acknowledge those memories.,P,History of Present Illness (HPI)
+I’m glad to hear that. How did it feel to honor those memories in that way?,T,Insignificant
+"It felt cathartic. I cried a little, but I also felt a sense of closure.",P,History of Present Illness (HPI)
+That’s a powerful experience. It’s important to allow yourself to feel those emotions. Have you noticed any changes in how you view that relationship since then?,T,Insignificant
+I think I’m starting to accept that it’s over.,P,History of Present Illness (HPI)
+Acceptance is a significant step in the healing process. What do you think is the next step for you in moving forward?,T,Insignificant
+I want to focus on myself more and maybe explore new hobbies.,P,History of Present Illness (HPI)
+That sounds like a healthy approach. Have you looked into any crafting classes yet?,T,Insignificant
+"I found a few online, and I think I’ll sign up for one next week!",P,Current Functional Status
+That’s exciting! Engaging in new activities can be a great way to meet people and build connections. How do you feel about that?,T,Insignificant
+I feel hopeful. It’s nice to have something to look forward to.,P,History of Present Illness (HPI)
+That’s wonderful! Hope can be a powerful motivator. Is there anything else you’d like to discuss today?,T,Insignificant
+I’ve been thinking about my job search again. I feel like I’m not making progress.,P,History of Present Illness (HPI)
+"It’s normal to feel that way, especially in a competitive market. What steps have you taken since we last spoke?",T,Insignificant
+"I’ve applied to a couple more jobs, but I haven’t heard back yet.",P,History of Present Illness (HPI)
+Have you considered reaching out to any connections in your field? Networking can sometimes lead to opportunities.,T,Insignificant
+I haven’t really thought about that. I’m not sure how to approach it.,P,Insignificant
+"Networking doesn’t have to be intimidating. You could start by sending a friendly message to someone you know, asking how they’ve been and if they have any advice.",T,Therapeutic Interventions
+That sounds manageable. I’ll give it a try.,P,Insignificant
+"Great! Let’s check in about that in our next session. Remember, it’s all about taking small steps. ",T,Next Steps
+Thank you for the encouragement. I appreciate it.,P,Insignificant
+You’re welcome! I’m proud of the progress you’re making. Let’s keep building on that momentum. Take care until next time!,T,Insignificant
+Will do! Goodbye!,P,Insignificant

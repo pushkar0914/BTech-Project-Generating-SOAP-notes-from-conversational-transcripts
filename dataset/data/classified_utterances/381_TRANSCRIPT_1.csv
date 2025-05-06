@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"Hey, I've been okay, I guess. A little up and down.",P,Insignificant
+"I appreciate your honesty. Last time, we talked about some feelings of guilt regarding your friendships. Have you had any thoughts about that since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, I’ve been thinking about it. I still feel like I could do more for my friends, but I don't know what exactly.",P,History of Present Illness (HPI)
+That’s understandable. It sounds like you’re feeling a sense of responsibility towards them. Can you think of a specific situation where you felt you could have helped a friend?,T,History of Present Illness (HPI)
+"Well, my friend was going through a tough time recently, and I wanted to reach out, but I didn’t know what to say. So I just didn’t.",P,History of Present Illness (HPI)
+It can be really tough to find the right words. What held you back from reaching out?,T,History of Present Illness (HPI)
+I guess I was afraid I wouldn't say the right thing or that I’d make it worse.,P,History of Present Illness (HPI)
+That fear is quite common. What do you think could be a small step you could take to reach out next time?,T,History of Present Illness (HPI)
+"Maybe just sending a text to check in, even if I don’t know what to say.",P,History of Present Illness (HPI)
+"That sounds like a good idea! It shows you care, and it opens the door for them to share if they want to. How do you feel about that approach?",T,Insignificant
+I feel okay about that. It seems manageable.,P,Insignificant
+"Great! Building on that, how do you feel about your own support system? Do you have people you can reach out to?",T,History of Present Illness (HPI)
+"Not really. I mean, I have friends, but I don’t feel like I can really lean on them.",P,Psychosocial History
+It sounds like there might be a bit of distance there. What do you think is keeping you from connecting with them more deeply?,T,History of Present Illness (HPI)
+I think I’m just not used to opening up. It’s hard for me to share my feelings.,P,History of Present Illness (HPI)
+That’s understandable. Opening up can be challenging. Would you be willing to explore some ways to express your feelings more openly?,T,Insignificant
+I guess I could try. Maybe writing things down first might help.,P,Therapeutic Interventions
+"Writing can be a powerful tool for self-expression. You could write letters to your friends, even if you don’t send them. How does that sound?",T,Therapeutic Interventions
+That sounds like a good idea. I could get my thoughts out without the pressure of having to say them face-to-face.,P,Therapeutic Interventions
+Exactly! It can be a safe space to explore your feelings. Let’s talk about how you felt during our last session. You mentioned feeling down. Have you noticed any changes in your mood since then?,T,History of Present Illness (HPI)
+I’ve had some good days and some bad days. I think it’s just the usual ups and downs.,P,History of Present Illness (HPI)
+That’s completely normal. Have there been any specific triggers for those down days?,T,History of Present Illness (HPI)
+"Sometimes I just feel overwhelmed with everything, like work and my relationships.",P,History of Present Illness (HPI)
+It sounds like you’re feeling a lot of pressure. Have you found any coping strategies that help during those overwhelming times?,T,History of Present Illness (HPI)
+"I try to play music, but sometimes it doesn’t help. I just end up feeling more isolated.",P,History of Present Illness (HPI)
+Music can be a double-edged sword sometimes. Would you be open to trying some mindfulness techniques to help with those overwhelming feelings?,T,Therapeutic Interventions
+I’m not sure what that would involve.,P,Insignificant
+"Mindfulness can include practices like deep breathing, meditation, or even just being present in the moment. Would you like to try a simple breathing exercise together?",T,Therapeutic Interventions
+"Sure, I can try that.",P,Insignificant
+"Great! Let’s take a moment to breathe in deeply through your nose for four counts, hold for four counts, and then exhale through your mouth for four counts. Ready? ",T,Insignificant
+"Okay, let’s do it.",P,Insignificant
+(After the exercise) How did that feel?,T,Insignificant
+"It felt nice, actually. I think I needed that.",P,Mental Health Observations
+I’m glad to hear that! It’s a simple way to center yourself when things feel overwhelming. How do you think you could incorporate that into your routine?,T,Next Steps
+Maybe I could do it in the morning or when I start feeling stressed.,P,Next Steps
+"That’s a wonderful idea! It can set a positive tone for your day. As we wrap up today, what’s one goal you’d like to focus on for our next session?",T,Next Steps
+I think I’d like to work on reaching out to a friend and maybe trying that breathing exercise more regularly.,P,Next Steps
+"Those sound like excellent goals! I look forward to hearing how that goes. Thank you for sharing today, and I’ll see you next time!",T,Insignificant
+Thank you! See you.,P,Insignificant

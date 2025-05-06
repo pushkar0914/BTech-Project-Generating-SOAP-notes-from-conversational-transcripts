@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I've been doing well, thank you.",P,Insignificant
+That’s great to hear! Last time we talked a lot about your family and your experiences. Did anything in particular stand out to you after our conversation?,T,Insignificant
+I’ve been thinking about my relationship with my kids a lot. I want to be the best parent I can be.,P,Psychosocial History
+That’s a wonderful focus. What specifically have you been thinking about?,T,Insignificant
+"Just how I can be more patient and understanding, especially with my twins. They can be a handful at times.",P,History of Present Illness (HPI)
+It sounds like you’re really reflecting on your parenting style. Have you noticed any specific situations where patience was especially challenging?,T,Insignificant
+"Yes, during bedtime routines. It can get chaotic, and I find myself getting frustrated.",P,History of Present Illness (HPI)
+Bedtime can definitely be a tricky time for many parents. What do you usually do to manage the chaos?,T,Insignificant
+"I try to stick to a routine, but sometimes it just doesn't go as planned.",P,Current Functional Status
+Routines can help a lot. Would you be open to exploring some strategies to help with those moments of frustration?,T,Insignificant
+"Yes, I’d like that.",P,Insignificant
+Great! One approach could be to implement a calming technique for both you and the kids before bedtime. Have you tried any relaxation techniques before?,T,Insignificant
+Not really. I usually just dive straight into the routine.,P,Current Functional Status
+How about we discuss a simple breathing exercise you could do together? It might help set a calmer tone.,T,Therapeutic Interventions
+That sounds good. I’m willing to try it.,P,Insignificant
+"Perfect! You could take a few deep breaths together, inhaling for a count of four, holding for four, and exhaling for four. Want to give it a try now?",T,Therapeutic Interventions
+Sure! *inhales* … *holds* … *exhales* … That feels nice.,P,Insignificant
+I’m glad to hear that! You could use this technique to transition into bedtime. How do you think your kids would respond to this?,T,Insignificant
+"I think they might find it fun. They love playing games, so I could frame it that way.",P,Psychosocial History
+That’s a great idea! Making it playful can definitely engage them more. Do you think you could start incorporating this into your routine?,T,Insignificant
+"Yes, I can definitely give it a shot.",P,Insignificant
+"Awesome! Beyond bedtime, are there other areas of your life where you feel like patience is a challenge?",T,Insignificant
+"Sometimes with my sister. We have our disagreements, and I find myself getting annoyed.",P,Psychosocial History
+It sounds like your relationship with your sister can be a bit tense at times. What do you think triggers those feelings?,T,Insignificant
+"She can be very opinionated, and I sometimes feel like she doesn’t listen to me.",P,Psychosocial History
+That’s understandable. Have you had a chance to talk to her about how you feel?,T,Insignificant
+Not really. I tend to avoid those conversations because I don’t want to escalate things.,P,History of Present Illness (HPI)
+"Avoiding conflict can be tempting, but it might be helpful to express your feelings. Would you be open to trying that?",T,Insignificant
+I guess I could try. I just worry about how she’ll react.,P,Risk Assessment
+That’s a valid concern. We can work on how to approach that conversation in a way that feels safe for you. How does that sound?,T,Insignificant
+That sounds good. I’d like to learn how to communicate better.,P,Insignificant
+"Excellent! One technique is to use ""I"" statements, which can help express your feelings without sounding accusatory. For example, saying ""I feel overwhelmed when…"" instead of ""You always…"". ",T,Therapeutic Interventions
+I see how that could help.,P,Insignificant
+"Would you like to practice coming up with an ""I"" statement for your sister?",T,Insignificant
+"Sure! Let’s see… I could say, “I feel unheard when you interrupt me during our conversations.”",P,Therapeutic Interventions
+That’s a great start! How do you feel about that statement?,T,Insignificant
+I feel a bit nervous but also relieved to express how I feel.,P,History of Present Illness (HPI)
+That’s completely normal. It’s a big step to voice your feelings. Would you be willing to try this with her?,T,Insignificant
+"Yes, I think I can do that. ",P,Insignificant
+Wonderful! We can check in about how that goes in our next session. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my career aspirations too.,P,Psychosocial History
+That’s a significant topic! What specifically have you been considering?,T,Insignificant
+"I still feel drawn to working with underserved children, but I’m not sure how to start.",P,Psychosocial History
+That’s a meaningful goal. Have you thought about any specific steps you might take to explore that path?,T,Insignificant
+I could volunteer or look for local organizations that need help.,P,Next Steps
+That’s a fantastic idea! Volunteering can provide valuable experience and connections. Would you like to set a goal to research some opportunities before our next session?,T,Next Steps
+"Yes, I can do that. I’ll look into it.",P,Next Steps
+"Great! It sounds like you have a lot to work on, and I’m excited to hear how it goes. Thank you for sharing today, and I look forward to our next session.",T,Insignificant
+Thank you! I appreciate your help.,P,Insignificant
+You’re very welcome! See you next time!,T,Insignificant
+Bye!,P,Insignificant

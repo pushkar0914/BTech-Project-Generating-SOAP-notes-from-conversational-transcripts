@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?",T,Insignificant
+"Hey, I’ve been okay, I guess. Just trying to keep busy.",P,Insignificant
+That’s good to hear. Last time we talked about your job search and some feelings that came up around that. How’s that been going for you?,T,Insignificant
+"Uh, it’s been slow. I applied to a few places, but no responses yet.",P,History of Present Illness (HPI)
+That can be really frustrating. How does that make you feel?,T,Insignificant
+"Uh, a bit anxious, I guess. I just want to find something soon.",P,History of Present Illness (HPI)
+It’s understandable to feel anxious about that. Have you found any ways to cope with that anxiety?,T,Insignificant
+"Well, I’ve been listening to more music. It helps a little.",P,Therapeutic Interventions
+Music can be a powerful tool for managing feelings. What kind of music have you been listening to?,T,Insignificant
+Mostly upbeat stuff. It lifts my mood.,P,Mental Health Observations
+That’s great! We talked about how you relax by walking around your neighborhood. Have you had the chance to do that lately?,T,Insignificant
+"Yeah, I went for a walk yesterday. It was nice to get some fresh air.",P,Physiological Observations
+That’s wonderful. Getting outside can really help clear your mind. Did anything in particular stand out during your walk?,T,Insignificant
+"Just seeing people out and about. It felt good to be around others, even if I didn’t talk to anyone.",P,Psychosocial History
+Being around others can provide a sense of connection. You mentioned feeling distant from your family. Have you thought about reaching out to them since our last session?,T,Insignificant
+Not really. I don’t know what to say.,P,Insignificant
+"That’s understandable. Sometimes, just a simple message to check in can open the door for more communication. Would you be open to trying that?",T,Insignificant
+Maybe. I guess it wouldn’t hurt.,P,Insignificant
+"That’s a positive step. Remember, it’s okay to take it slow. Speaking of connections, you mentioned not having many friends. How do you feel about that?",T,Insignificant
+"It’s just how it is, I guess. I’m not great at making friends.",P,Psychosocial History
+"Making friends can be challenging, especially as an adult. Have you thought about any activities or groups that might interest you?",T,Insignificant
+"Uh, not really. I don’t know where to start.",P,Insignificant
+"That’s okay. Sometimes, starting small can lead to bigger steps. What about a local class or a meetup group related to your interests?",T,Insignificant
+I could look into that. I used to enjoy art classes.,P,History of Present Illness (HPI)
+That sounds like a fantastic idea! Engaging in something you enjoy can help you meet like-minded people. How does that sound to you?,T,Insignificant
+"Yeah, it sounds good. I’ll think about it.",P,Insignificant
+"Great! Let’s keep that as a goal for the next week. In addition to that, how have you been feeling overall? Any changes since we last spoke?",T,Insignificant
+"Um, still a bit up and down. Some days are better than others.",P,History of Present Illness (HPI)
+That’s completely normal. It’s okay to have fluctuations in how you feel. Have you noticed any specific triggers that affect your mood?,T,Insignificant
+"I think when I see friends posting about their lives online, it gets to me sometimes.",P,History of Present Illness (HPI)
+Social media can definitely impact our feelings. It’s easy to compare ourselves to others. Have you considered taking breaks from it?,T,Insignificant
+"I haven’t, but maybe that’s a good idea.",P,Insignificant
+It could be worth trying. Setting boundaries around social media use can help you focus on your own journey. Would you like to try that this week?,T,Insignificant
+"Yeah, I could do that.",P,Insignificant
+"Fantastic! You’re taking positive steps. Now, let’s talk about those feelings of regret you mentioned last time. Have you had any thoughts about that since our last session?",T,Insignificant
+Not really. I still feel like there’s stuff I wish I’d done differently.,P,History of Present Illness (HPI)
+It’s common to have those feelings. What if we explored one of those regrets together? ,T,Insignificant
+I guess I regret not sticking with school.,P,History of Present Illness (HPI)
+That’s a significant feeling. What do you think held you back from continuing your education?,T,Insignificant
+I didn’t feel like I was good enough. ,P,History of Present Illness (HPI)
+That’s a tough feeling to carry. It’s important to acknowledge that. How does that belief affect you now?,T,Insignificant
+"I think it makes me doubt myself a lot. Like, I’m not capable of doing anything.",P,History of Present Illness (HPI)
+That self-doubt can be really challenging. Have you ever considered ways to challenge that belief?,T,Insignificant
+Not really. I just kind of accept it.,P,Insignificant
+"It might be helpful to challenge those thoughts. For example, when you catch yourself thinking you’re not capable, try to remind yourself of times when you succeeded or felt proud. ",T,Therapeutic Interventions
+I guess I can try that.,P,Insignificant
+Absolutely! Let’s work on that this week. Keep a journal of those moments when you feel capable or proud. We can discuss it in our next session.,T,Next Steps
+"Okay, I can do that.",P,Insignificant
+"Great! I’m looking forward to hearing about it. Before we wrap up, is there anything else you want to share today?",T,Insignificant
+"No, I think that’s it for now.",P,Insignificant
+"Thank you for sharing. You’re making great progress, and I appreciate your openness. See you next time!",T,Insignificant
+Bye!,P,Insignificant

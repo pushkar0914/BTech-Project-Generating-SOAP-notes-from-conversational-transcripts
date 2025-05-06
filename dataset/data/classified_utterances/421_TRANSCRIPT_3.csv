@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How has your week been?,T,Insignificant
+"Hi! It’s been okay. I tried to stick to the goals we set, but it was a bit of a struggle.",P,Progress Evaluation
+That’s completely understandable. Let’s talk about it. How did the bedtime routine go?,T,Insignificant
+"I set a reminder, but I still ended up watching TV late a few nights. ",P,History of Present Illness (HPI)
+"It can be challenging to break habits, especially with distractions like TV. What do you think might help you stick to your routine better?",T,Insignificant
+Maybe I could set a specific time for TV and then switch to reading after that?,P,Next Steps
+That sounds like a solid plan! Establishing boundaries for screen time can help signal your brain that it’s time to wind down. ,T,Insignificant
+I’ll give that a try.,P,Next Steps
+Great! How about mindfulness? Have you continued practicing that?,T,Insignificant
+"Yes, I did it a few more times, and I think it’s helping. ",P,Progress Evaluation
+That’s wonderful to hear! How have you felt afterward?,T,Insignificant
+"I’ve felt more centered, but I still struggle to focus sometimes.",P,History of Present Illness (HPI)
+That’s normal. Mindfulness takes practice. It’s okay if your mind wanders; just gently bring your focus back each time. ,T,Insignificant
+I’ll keep working on it.,P,Next Steps
+"Good! Now, how about journaling? Were you able to start that?",T,Insignificant
+Yes! I wrote a couple of times. It felt good to get my thoughts out.,P,Progress Evaluation
+That’s fantastic! How did it feel to express your emotions through writing?,T,Insignificant
+It was relieving. I didn’t realize how much I was holding in until I started writing.,P,History of Present Illness (HPI)
+That’s a powerful realization. Journaling can be a great way to process feelings. Would you like to set a goal to journal regularly this week?,T,Next Steps
+"Yes, I’d like to try to write at least a few times.",P,Next Steps
+"Perfect! Now, how did reaching out to friends go? Did you connect with anyone?",T,Insignificant
+"I called a friend I hadn’t talked to in a while, and it was really nice to catch up.",P,Progress Evaluation
+That’s wonderful! How did you feel during and after that conversation?,T,Insignificant
+I felt really good. It was nice to reconnect and talk about things.,P,History of Present Illness (HPI)
+That’s great to hear! Maintaining those connections is so important for your well-being. ,T,Insignificant
+"Yeah, I realize I need to prioritize my friendships more.",P,Next Steps
+"Absolutely! Now, let’s revisit your feelings about your ex-husband. Have there been any new developments or feelings since our last session?",T,Insignificant
+"I still feel angry, but I’m trying to focus on my own healing instead of his actions.",P,History of Present Illness (HPI)
+That’s a healthy mindset. Focusing on your healing can help you move forward. Have you been able to express your anger in a more constructive way?,T,Insignificant
+"I think journaling has helped. I wrote about my feelings towards him, and it felt good to let it out.",P,Progress Evaluation
+That’s excellent! Writing can be a great way to process difficult emotions. Would you like to continue exploring your feelings through journaling?,T,Next Steps
+"Yes, I think that would be helpful.",P,Next Steps
+"Wonderful! Before we wrap up, let’s summarize your goals for the upcoming week. You’ll aim to maintain your bedtime routine with TV limits, continue mindfulness practice, journal regularly, and prioritize social connections. How does that sound?",T,Next Steps
+That sounds good. I feel like I can manage that.,P,Next Steps
+"I believe in you! Remember, it’s all about progress. Take it one step at a time.",T,Insignificant
+"Thanks, Ellie. I appreciate your support!",P,Insignificant
+You’re very welcome! I look forward to hearing how your week goes. Take care!,T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I’m feeling pretty good. I’ve been working on my resume and applying for more jobs.",P,History of Present Illness (HPI)
+That’s great to hear! Have you had any responses or interviews yet?,T,Insignificant
+"A couple of places reached out, but I haven’t had any interviews yet. Just trying to stay positive.",P,History of Present Illness (HPI)
+Staying positive is very important. Can you tell me about how you’re managing your feelings of anticipation or anxiety while waiting for responses?,T,Insignificant
+"Well, I try to keep myself busy. I write poetry and listen to music. I’ve also been going for walks in the park.",P,Therapeutic Interventions
+That sounds like a healthy way to cope. How does walking in the park make you feel?,T,Insignificant
+It helps clear my mind. I feel more relaxed when I’m surrounded by nature. It’s peaceful.,P,History of Present Illness (HPI)
+Peaceful is a good feeling. Have you noticed any changes in your mood during these walks?,T,Insignificant
+"Yes! I feel lighter, like I can let go of some stress. I think being outside really helps.",P,History of Present Illness (HPI)
+That’s wonderful. It sounds like you’re finding effective ways to manage stress. Have you experienced any challenges lately that you want to discuss?,T,Insignificant
+"Well, I had a moment last week when I felt really overwhelmed. I was thinking about my son again and it just hit me hard.",P,History of Present Illness (HPI)
+I understand. It’s natural for those feelings to resurface. Can you describe what happened during that moment?,T,Insignificant
+"I was sitting in my room, and I just started thinking about how long it’s been since I last saw him. I felt a wave of sadness wash over me. ",P,History of Present Illness (HPI)
+That sounds really tough. How did you cope with those feelings when they came up?,T,Insignificant
+I ended up writing a poem about it. It helped me express what I was feeling instead of bottling it up.,P,Therapeutic Interventions
+Writing can be a powerful outlet for emotions. What was the poem about?,T,Insignificant
+It was about longing and hope. I wrote about the memories I have of him and how I’m waiting for the day we can see each other again.,P,History of Present Illness (HPI)
+That’s beautiful. It sounds like you’re channeling your feelings into something creative. Do you find that writing helps you process your emotions?,T,Insignificant
+Definitely. It’s like therapy for me. I can get everything out on paper and then feel lighter afterward.,P,Therapeutic Interventions
+"I’m glad to hear that. It’s important to have those outlets. As you think about your son, what are some positive memories that come to mind?",T,Insignificant
+I remember taking him to the park when he was little. We’d play on the swings and laugh together. Those moments were special.,P,Psychosocial History
+Those are precious memories. It sounds like you had a strong bond. How do you feel when you reflect on those times?,T,Insignificant
+I feel a mix of happiness and sadness. Happy for the memories but sad that I can’t create new ones right now.,P,Psychosocial History
+"That’s understandable. It’s okay to feel both emotions at the same time. Have you thought about ways to keep that connection alive, even from a distance?",T,Insignificant
+I’ve thought about writing him letters. I could send them to his last known address. ,P,Therapeutic Interventions
+That’s a wonderful idea! Writing letters could be a way to express your feelings and thoughts. Would you feel comfortable doing that?,T,Insignificant
+"Yes, I think I would. It might help me feel closer to him, even if he doesn’t receive them right away.",P,Therapeutic Interventions
+"It could be a therapeutic process for you. You’re taking steps to maintain that connection, which is very meaningful. ",T,Insignificant
+I hope so. I just want him to know I’m thinking about him.,P,Psychosocial History
+And that’s important. Let’s also talk about your job search. What kinds of positions are you most interested in?,T,Insignificant
+"I’m really focused on finding counseling positions. I want to help people, especially those struggling with addiction.",P,Presenting Problem / Chief Complaint
+That aligns with your passion. Have you considered volunteering in the meantime to gain experience?,T,Insignificant
+I haven’t thought about that. Do you think it would help?,P,Insignificant
+Absolutely! Volunteering can provide valuable experience and connections in the field. It might also boost your confidence.,T,Insignificant
+That makes sense. I’ll look into local organizations that could use help.,P,Next Steps
+Great! That could be a productive way to spend your time while job searching. ,T,Insignificant
+I like that idea. I’ll start researching this week.,P,Next Steps
+Excellent! And remember to keep an open mind. Sometimes opportunities come from unexpected places.,T,Insignificant
+True! I’ll keep that in mind as I search.,P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I think I’ve shared everything on my mind. I’m feeling good about the letter idea and volunteering.,P,Progress Evaluation
+I’m glad to hear that. It sounds like you’re taking positive steps forward. ,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+Of course! I’m here for you. Let’s set a goal for our next session. How about you write a letter to your son before we meet again?,T,Next Steps
+I can do that. I’ll bring it in to share if I feel comfortable.,P,Next Steps
+"That sounds perfect. I look forward to hearing about it. Take care, and I’ll see you next time!",T,Insignificant
+"See you, Ellie! Thank you!",P,Insignificant

@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's Ellie. I'm glad to see you back today. How have you been since our last session?",T,Insignificant
+"Hey, Ellie! I've been okay. Still trying to figure things out, you know?",P,Insignificant
+"I understand. Last time, you mentioned that your wife left and that it’s been hard for you. How have you been coping with that since we last spoke?",T,History of Present Illness (HPI)
+"Well, I’ve been trying to keep busy. I’ve been working on some new music and hanging out with friends. But sometimes it just hits me, you know?",P,History of Present Illness (HPI)
+"Yes, that makes sense. It's normal to have those moments. Have you noticed any changes in your mood or how you handle your anger since we last talked?",T,History of Present Illness (HPI)
+"A little. I’ve had a few moments where I felt like breaking something, but I’ve managed to talk myself down. It’s just frustrating.",P,History of Present Illness (HPI)
+That’s a positive step forward. What strategies have you been using to calm yourself in those moments?,T,Insignificant
+"I’ve been trying to breathe deeply and count to ten. It sounds cheesy, but it helps a bit.",P,Therapeutic Interventions
+"That’s not cheesy at all! Deep breathing can be very effective. Have you tried incorporating any other coping strategies, like yoga, that you mentioned before?",T,Insignificant
+"Yeah, I did some yoga last week, and it felt good. I need to do it more often, honestly.",P,Therapeutic Interventions
+It sounds like you’re finding some helpful outlets. How does it feel to create music during this time?,T,Insignificant
+"It’s kind of therapeutic, really. When I’m in the zone, I forget about everything else. It’s like my escape.",P,History of Present Illness (HPI)
+That’s wonderful to hear. It seems like music is a significant part of your life. How do you think it helps you process your emotions?,T,Insignificant
+"I think it lets me express stuff I can’t say out loud. Sometimes I write lyrics about how I’m feeling, and it just releases a lot of pressure.",P,History of Present Illness (HPI)
+That’s a powerful way to express yourself. Would you be open to sharing some of those lyrics in our next session? It could be a great way to explore your feelings further.,T,Next Steps
+"Sure, I can do that. It might be a bit personal, but I think it could help.",P,Next Steps
+"Absolutely, I appreciate your willingness to share. Last time, you mentioned that you felt your anger contributed to your wife leaving. Have you had any thoughts about that since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, I keep thinking about how I could’ve handled things differently. I get mad so easily, and I know it pushes people away.",P,History of Present Illness (HPI)
+Recognizing that is an important step. What do you think triggers your anger the most?,T,History of Present Illness (HPI)
+"Usually, it’s when I feel like I’m not being heard or when things don’t go my way. It’s like a switch flips.",P,History of Present Illness (HPI)
+I see. Would you like to work on identifying those triggers more specifically? It could help you develop strategies to manage your reactions.,T,Next Steps
+"Yeah, that sounds good. I think it would help if I knew what sets me off.",P,Next Steps
+Great! Let’s start by thinking about a recent situation where you felt angry. Can you describe what happened?,T,Insignificant
+"Well, there was this time when I was trying to explain something to my friend, and he interrupted me. I just lost it and yelled.",P,History of Present Illness (HPI)
+It sounds like feeling interrupted was a significant trigger for you. How did that make you feel afterward?,T,Insignificant
+"I felt bad. I apologized, but it was embarrassing. I don’t want to be that guy.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Apologizing shows that you care about your relationships. What do you think could help you respond differently in those moments?,T,Next Steps
+"Maybe I could take a breath before reacting? Like, just pause for a second?",P,Therapeutic Interventions
+That’s a great idea! Pausing can give you space to choose how to respond rather than reacting impulsively. Would you like to practice that technique together?,T,Therapeutic Interventions
+"Sure, let’s try it.",P,Insignificant
+"Okay, let’s imagine a scenario. You’re in a conversation, and someone interrupts you. Take a deep breath and count to three before responding. Ready?",T,Insignificant
+"Alright, I’m ready.",P,Insignificant
+(pauses) How did that feel?,T,Insignificant
+"It felt good. I could feel the anger bubbling up, but taking that moment helped me calm down.",P,Current Functional Status
+Excellent! Practicing that pause can lead to more constructive conversations. Would you like to set a goal for yourself regarding this technique before our next session?,T,Next Steps
+"Yeah, I want to try to pause for at least three seconds when I feel angry this week. I’ll let you know how it goes.",P,Next Steps
+That sounds like a solid plan! I’m looking forward to hearing about your progress. Is there anything else you’d like to discuss today?,T,Insignificant
+"Not really, I think we covered a lot. Thanks for helping me think things through.",P,Insignificant
+"You’re very welcome! I’m glad to be here for you. Remember, progress takes time, and you’re doing great. I’ll see you next time!",T,Insignificant
+"See you, Ellie! ",P,Insignificant
+Bye for now!,T,Insignificant

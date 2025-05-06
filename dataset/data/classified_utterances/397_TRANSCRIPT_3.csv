@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing well. I’ve been trying to practice communicating more with my family.",P,History of Present Illness (HPI)
+That’s wonderful! How has that been going for you?,T,Insignificant
+"It’s been good. I had another family dinner, and I shared my feelings about how proud I am of them.",P,History of Present Illness (HPI)
+That’s fantastic! How did they respond?,T,Insignificant
+"They were really receptive. My daughters seemed touched, and my granddaughters smiled a lot.",P,Mental Health Observations
+That’s so heartwarming to hear! It sounds like you’re building some deeper connections. Did you feel any changes in yourself during those conversations?,T,Insignificant
+"I felt lighter, like a weight was lifted. It felt good to express myself.",P,Mental Health Observations
+That’s a powerful feeling! Being open can really transform relationships. Have you noticed any changes in how you feel about your family since you started this practice?,T,Insignificant
+"I feel closer to them. I think they appreciate me more, and I appreciate them more too.",P,Mental Health Observations
+That’s beautiful! It’s amazing how open communication can foster appreciation. How has this experience influenced your thoughts about your past relationships?,T,Insignificant
+I realize now that I missed a lot of opportunities to connect because I was too focused on my own fears.,P,History of Present Illness (HPI)
+That’s a significant realization. It can be tough to balance our needs with those of others. How do you think you can apply this understanding to your current relationships?,T,Insignificant
+"I think I need to remind myself to listen and be open, just like I’ve been trying to do with my family.",P,Next Steps
+That’s a great approach. Listening and being open can create a supportive environment for everyone involved. Is there a specific relationship you’d like to focus on improving?,T,Insignificant
+I’d like to work on my relationship with my youngest daughter. We’ve had some misunderstandings lately.,P,History of Present Illness (HPI)
+That’s a valuable focus. What do you think is causing those misunderstandings?,T,Insignificant
+I think it’s a mix of different perspectives. We have different views on parenting and life choices.,P,History of Present Illness (HPI)
+It’s common for generational differences to create misunderstandings. How do you think you can approach a conversation with her about this?,T,Insignificant
+I could ask her how she feels about things and really try to understand her viewpoint.,P,Next Steps
+That sounds like a wonderful plan. Asking open-ended questions can help facilitate that understanding. Would you like to practice how you might start that conversation?,T,Insignificant
+"Yes, I’d like that.",P,Insignificant
+"You might begin by saying, “I’ve noticed we’ve had some differences lately, and I’d really like to understand your perspective better. Can you share how you feel?” ",T,Therapeutic Interventions
+That sounds good. It feels inviting.,P,Insignificant
+Exactly! It opens the door for dialogue. How do you feel about approaching her with that?,T,Insignificant
+I feel more confident. I think it’ll help clear the air.,P,Mental Health Observations
+"That’s great to hear! As you continue to practice this, are there any other communication skills you’d like to develop?",T,Insignificant
+"I think I’d like to work on being more patient during conversations, especially when I feel defensive.",P,Next Steps
+That’s a valuable skill. Patience can help create a calmer atmosphere for discussions. Would you like to explore some techniques for practicing patience?,T,Insignificant
+"Yes, I’d appreciate that.",P,Insignificant
+"One technique is to take a deep breath before responding, especially if you feel triggered. You could also try to reframe your thoughts, reminding yourself that it’s okay to disagree and that understanding is the goal.",T,Therapeutic Interventions
+That makes sense. I can see how that would help me stay calm.,P,Insignificant
+Absolutely! Practicing mindfulness in conversations can enhance your ability to stay present. How do you feel about incorporating that into your conversations?,T,Insignificant
+I think it’ll be helpful. I want to be more mindful.,P,Next Steps
+"That’s a great commitment! As we wrap up today, is there anything specific you’d like to set as a goal for our next session?",T,Insignificant
+I’d like to reflect on how my conversations with my daughter go and what I learn from them.,P,Next Steps
+That sounds like a valuable goal. Thank you for sharing so openly today. I look forward to hearing about your experiences next time.,T,Insignificant
+"Thank you, Ellie. I appreciate your guidance.",P,Insignificant
+"It’s my pleasure! Take care, and see you next time.",T,Insignificant
+"Bye, Ellie.",P,Insignificant

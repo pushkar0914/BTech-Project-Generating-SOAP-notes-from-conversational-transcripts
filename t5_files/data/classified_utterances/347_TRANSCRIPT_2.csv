@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have things been since our last session?  ,T,Insignificant
+Pretty good! I did some research on social work and looked into some programs.  ,P,Psychosocial History
+That’s fantastic! What did you find?  ,T,Insignificant
+There are a few local programs that sound interesting. Some even offer online classes.  ,P,Psychosocial History
+That’s a great start. How do you feel about the options you found?  ,T,Insignificant
+I’m excited but also a bit overwhelmed by the idea of going back to school.  ,P,History of Present Illness (HPI)
+It’s completely normal to feel that way. What specifically feels overwhelming?  ,T,Insignificant
+"Just the thought of balancing everything—work, kids, and school.  ",P,History of Present Illness (HPI)
+That’s a valid concern. Maybe we can brainstorm ways to create a manageable schedule?  ,T,Insignificant
+"That would help, yeah.  ",P,Insignificant
+Let’s break it down. How many hours a week do you think you could realistically dedicate to classes?  ,T,Insignificant
+I could probably do one or two evenings a week.  ,P,Current Functional Status
+That sounds doable. What about your kids? How could they fit into this plan?  ,T,Insignificant
+I could ask my girlfriend to help out on those nights.  ,P,Psychosocial History
+That’s a great idea! It’s important to have support. Have you talked to her about this?  ,T,Insignificant
+"Not yet, but I think she’d be on board.  ",P,Psychosocial History
+It might be a good conversation to have soon. How do you think she would feel about you pursuing this?  ,T,Insignificant
+I think she’d be really supportive.  ,P,Psychosocial History
+"That’s wonderful to hear. It’s important to have that encouragement. Besides the academic aspect, how has your parenting been going?  ",T,Insignificant
+"I’ve been trying to spend more quality time with my kids, and it’s been nice.  ",P,Psychosocial History
+That’s great progress! What activities have you been doing together?  ,T,Insignificant
+"We started reading together every night, and they love it.  ",P,Psychosocial History
+That sounds lovely! How does it feel to be more present with them?  ,T,Insignificant
+It feels really rewarding. I feel closer to them.  ,P,Psychosocial History
+That’s beautiful. Have you noticed any changes in their behavior since you started being more engaged?  ,T,Insignificant
+They seem happier and more open with me.  ,P,Psychosocial History
+That’s a positive outcome. It’s amazing what a little extra time can do. Are there any challenges you’ve encountered while trying to be more present?  ,T,Insignificant
+Sometimes I still get stressed and need to remind myself to focus.  ,P,History of Present Illness (HPI)
+That’s understandable. Remember to use the mindfulness techniques we practiced. It’s a skill that takes time to develop.  ,T,Therapeutic Interventions
+I’ll keep trying.  ,P,Insignificant
+And don’t hesitate to take breaks when you need them. It’s important to recharge.  ,T,Therapeutic Interventions
+I appreciate that.  ,P,Insignificant
+Is there anything else you’d like to discuss today?  ,T,Insignificant
+I’ve been feeling a bit anxious again about job hunting.  ,P,Presenting Problem / Chief Complaint
+Let’s talk about that. Have you applied to any new jobs since we last spoke?  ,T,Insignificant
+I applied to a couple but haven’t heard back yet.  ,P,History of Present Illness (HPI)
+That can be tough. How are you coping with the waiting?  ,T,Insignificant
+"I’ve been trying to keep busy, but it’s hard not to think about it.  ",P,History of Present Illness (HPI)
+It’s natural to feel that way. Maybe setting aside specific times to look for jobs could help.  ,T,Therapeutic Interventions
+That sounds like a good idea.  ,P,Insignificant
+"You could also celebrate small victories, like submitting an application, regardless of the outcome.  ",T,Therapeutic Interventions
+I like that approach.  ,P,Insignificant
+"Let’s set that as a goal for the week—dedicate some time to job searching, and celebrate your efforts!  ",T,Next Steps
+I can do that.  ,P,Insignificant
+Wonderful! I look forward to hearing about your progress next time. Thank you for sharing today.  ,T,Insignificant
+Thank you! See you next time!,P,Insignificant

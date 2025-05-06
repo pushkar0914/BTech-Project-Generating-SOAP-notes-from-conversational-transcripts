@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve been doing well. I actually tried to engage in conversations like we talked about.  ",P,Progress Evaluation
+That’s fantastic! How did it go?  ,T,Insignificant
+I managed to talk to four different people at a gathering. It felt really good!  ,P,Current Functional Status
+"Wow, that’s impressive! What kind of conversations did you have?  ",T,Insignificant
+I asked about their travel experiences and even shared some of my own. It was nice to connect.  ,P,Current Functional Status
+That’s wonderful to hear! It sounds like you’re making great progress. Did you feel any anxiety during those conversations?  ,T,History of Present Illness (HPI)
+"A little at first, but it faded once I started talking.  ",P,History of Present Illness (HPI)
+That’s a sign of growth! It sounds like you’re becoming more comfortable in social situations.  ,T,Progress Evaluation
+"Yes, I think so!  ",P,Insignificant
+Have you noticed any changes in your mood or feelings since practicing these conversations?  ,T,History of Present Illness (HPI)
+I feel more confident and less shy overall.  ,P,History of Present Illness (HPI)
+That’s great! Confidence can have a positive ripple effect on many areas of life. Have you set any new goals for yourself?  ,T,Insignificant
+I want to keep practicing and maybe even join a local club or group.  ,P,Next Steps
+That’s an excellent goal! What kind of club or group are you considering?  ,T,Insignificant
+I was thinking about a book club since I love reading.  ,P,Next Steps
+That sounds like a perfect fit! Book clubs can provide a great way to meet new people. Have you looked into any specific ones yet?  ,T,Insignificant
+I found a couple online that meet monthly. I’m thinking of attending the next one.  ,P,Next Steps
+That’s exciting! How do you feel about attending?  ,T,Insignificant
+"I’m a bit nervous, but I’m also looking forward to it.  ",P,Risk Assessment
+It’s completely normal to feel nervous. What can you do to prepare for it?  ,T,Insignificant
+I’ll read the book beforehand and maybe write down some thoughts to share.  ,P,Next Steps
+Excellent strategy! That’ll give you confidence when discussing it with others.  ,T,Insignificant
+"Yes, I think it will help.  ",P,Insignificant
+"Last time, we talked about managing stress. Have you had a chance to incorporate some yoga or meditation into your routine?  ",T,Insignificant
+"Yes, I started doing yoga in the mornings, and it’s been really helpful.  ",P,Current Functional Status
+That’s fantastic! How do you feel after your yoga sessions?  ,T,Insignificant
+I feel more relaxed and focused throughout the day.  ,P,Physiological Observations
+That’s wonderful to hear! Consistent practice can significantly reduce stress. Have you noticed any situations where you’ve applied that relaxation?  ,T,Insignificant
+"Yes, I felt calmer during a stressful meeting at work last week.  ",P,Current Functional Status
+That’s a great application of your practice! It sounds like you’re developing resilience.  ,T,Progress Evaluation
+I hope so!  ,P,Insignificant
+Is there anything specific you’d like to work on regarding stress management or any other areas?  ,T,Insignificant
+I’d like to learn more about mindfulness techniques to help me stay present.  ,P,Next Steps
+Mindfulness can be very beneficial. Would you like to try a simple mindfulness exercise together?  ,T,Insignificant
+"Sure, I’d love that!  ",P,Insignificant
+"Let’s take a moment to focus on our breath. Inhale deeply through your nose, hold it for a moment, and then exhale slowly through your mouth.  ",T,Insignificant
+"(pauses) Okay, that feels nice.  ",P,Insignificant
+Great! You can do this for a few minutes whenever you feel overwhelmed. How did that feel for you?  ,T,Insignificant
+It felt calming. I think I can incorporate this into my daily routine.  ,P,Next Steps
+That’s wonderful! Mindfulness can help anchor you in the present moment. Is there anything else on your mind today?  ,T,Insignificant
+I think we covered everything I wanted to discuss.  ,P,Insignificant
+Perfect! I’m so proud of the progress you’re making. Let’s continue to build on these skills in our next session.  ,T,Progress Evaluation
+"Thank you, Ellie! I appreciate your support.  ",P,Insignificant
+"You’re welcome! Take care, and I look forward to hearing about your experiences next time.  ",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, a bit busy with work and family stuff.",P,Psychosocial History
+That sounds like a lot to juggle. Have you had a chance to reflect on our last conversation?,T,Insignificant
+"Yes, I have. I’ve thought a lot about my arguments with friends and how I can be more proactive in handling those situations.",P,History of Present Illness (HPI)
+That's a great insight. What steps have you taken to be more proactive?,T,Insignificant
+"Well, I tried to pause before reacting when I felt a disagreement coming on. It helped me stay calm.",P,Therapeutic Interventions
+That's a positive approach. How did that feel for you?,T,Insignificant
+"It felt good. I felt more in control, but it was also challenging because my instinct is to react quickly.",P,Mental Health Observations
+That’s understandable. It’s a process. Have you noticed any changes in your relationships as a result?,T,Insignificant
+"A little bit. My friends have mentioned that I seem calmer, which is nice to hear.",P,Progress Evaluation
+That's encouraging! It sounds like you’re making progress. Are there any specific situations where you felt you handled things better?,T,Insignificant
+"Yes, there was a situation with a friend where we disagreed about plans. Instead of getting defensive, I listened to her point of view.",P,History of Present Illness (HPI)
+Listening is a powerful tool. How did she respond?,T,Insignificant
+"She appreciated it. We ended up coming to a compromise, which felt really good.",P,Progress Evaluation
+That’s fantastic! Compromise can strengthen relationships. Have you thought about how you want to continue building on this progress?,T,Insignificant
+I want to keep practicing patience and listening. Maybe I could also try to express my feelings more clearly.,P,Next Steps
+That sounds like a solid plan. Would you like to set specific goals around that?,T,Insignificant
+Sure! Maybe I could set a goal to express my feelings in at least one conversation this week.,P,Next Steps
+That’s a great goal. How do you feel about that?,T,Insignificant
+"I feel a bit nervous, but I think it’s important.",P,Risk Assessment
+"It is important. Remember, it’s okay to feel nervous. It shows that you care about the outcome. What feelings come up when you think about expressing yourself?",T,Insignificant
+I feel anxious. I worry about how the other person will react.,P,Risk Assessment
+That’s a common concern. What if we explored some techniques to manage that anxiety?,T,Insignificant
+"Yeah, I’d like that.",P,Insignificant
+One technique is to practice mindfulness. Have you ever tried mindfulness exercises?,T,Insignificant
+I’ve heard of it but haven’t really tried it.,P,Insignificant
+Mindfulness can help you stay present and reduce anxiety. Would you be open to trying a simple breathing exercise together?,T,Therapeutic Interventions
+"Sure, I’m willing to try.",P,Insignificant
+"Okay, let’s take a deep breath in through your nose... and out through your mouth. Let’s do that a couple more times. In... and out... How does that feel?",T,Insignificant
+It feels calming. I can see how that could help.,P,Mental Health Observations
+That’s great to hear. You can use this technique before a conversation to help ground yourself. How do you feel about incorporating this into your goals?,T,Next Steps
+I think that could really help. I’ll try to do that before I express my feelings.,P,Next Steps
+Excellent! We can check in on how that goes next time. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my bird again. I still feel guilty about letting it go.,P,History of Present Illness (HPI)
+It’s understandable to have those feelings. Would you like to explore that guilt further?,T,Insignificant
+"Yes, I think it might help.",P,Insignificant
+Okay. Guilt can often stem from our values. What do you think you value about caring for your pets?,T,Insignificant
+I value companionship and responsibility. I feel like I failed in that.,P,History of Present Illness (HPI)
+It’s important to acknowledge those feelings. How might you honor that value moving forward?,T,Insignificant
+"I could consider getting another pet, but I want to be sure I’m ready.",P,Next Steps
+That’s a thoughtful approach. Taking your time to prepare is wise. Would you like to set a timeline for when you might consider that?,T,Insignificant
+Maybe in a few months? I want to make sure I’m in a good place first.,P,Next Steps
+That sounds reasonable. How do you feel about that timeline?,T,Insignificant
+It feels right. I want to be responsible this time.,P,Insignificant
+"That’s a great mindset. Responsibility is key. As we wrap up today, what’s one takeaway you’d like to leave with?",T,Insignificant
+I think I want to focus on being more mindful and patient with myself and others.,P,Next Steps
+That’s a wonderful takeaway. I’m looking forward to hearing about your progress next time. Take care!,T,Insignificant
+"Thank you, Ellie. I appreciate it. See you next time!",P,Insignificant

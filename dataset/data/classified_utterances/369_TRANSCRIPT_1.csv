@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi Ellie, it’s great to see you again. How have you been since our last session?",T,Insignificant
+"Hi! I’ve been good, thank you. Just trying to keep up with everything. ",P,Insignificant
+"That’s good to hear. Last time, we talked about your family and your aspirations. Have you given any more thought to your dream job as a child psychologist?",T,Insignificant
+"Yeah, I have actually. I started looking into some programs that might help me get there. It feels exciting!",P,History of Present Illness (HPI)
+That’s wonderful! What did you find that intrigued you?,T,Insignificant
+"Well, I found some online courses about child development and psychology. I think it could be a good start for me.",P,History of Present Illness (HPI)
+That sounds like a solid plan. How do you feel about taking those courses?,T,Insignificant
+"A bit nervous, honestly. I’ve been out of school for a while, so I’m worried I might struggle.",P,History of Present Illness (HPI)
+It’s completely normal to feel nervous about returning to education. What do you think might help you manage those feelings?,T,Insignificant
+"Maybe I could set small goals? Like, just focus on one module at a time instead of the whole course.",P,Next Steps
+That’s a great strategy! Breaking it down can make it feel less overwhelming. Have you thought about how you’ll stay motivated?,T,Insignificant
+I think I’ll try to remind myself why I want to do this. Helping children is really important to me.,P,Next Steps
+That’s a powerful motivator. It sounds like you have a clear vision. Have you spoken to anyone about your interest in child psychology?,T,Insignificant
+I mentioned it to my mom. She was really supportive and said she’d help me with anything I need.,P,Psychosocial History
+That’s fantastic! Having support can make a big difference. How do you feel about your relationship with your mom?,T,Insignificant
+"We have a good relationship. I mean, we have our ups and downs, but she’s always there for me.",P,Psychosocial History
+That’s great to hear. It’s important to have that kind of support. Is there anything specific you’d like to improve in your relationship with her?,T,Insignificant
+Sometimes I feel like I don’t share enough with her. I want to be more open about my feelings and struggles.,P,Psychosocial History
+That’s a valuable goal. What do you think might help you open up more?,T,Insignificant
+"Maybe just starting small, like sharing something that happened during my day or how I’m feeling that day.",P,Next Steps
+"That sounds like a good approach. It might help build your comfort level over time. Speaking of feelings, how have you been managing your emotions lately?",T,Insignificant
+"I’ve been feeling a bit anxious about everything. It’s like I have so much on my plate, and I worry about balancing it all.",P,History of Present Illness (HPI)
+It’s understandable to feel that way with so much going on. Have you tried any coping strategies to manage your anxiety?,T,Insignificant
+"I’ve been trying to read more and spend time outdoors, which helps. But sometimes, I just feel overwhelmed.",P,History of Present Illness (HPI)
+"Spending time in nature can be very grounding. Have you considered any mindfulness practices, like meditation or breathing exercises?",T,Insignificant
+I’ve heard about them but haven’t really tried. I guess I’m a bit skeptical.,P,Insignificant
+That’s okay! It’s normal to feel skeptical about new practices. Would you be open to trying a simple breathing exercise together?,T,Therapeutic Interventions
+"Sure, I can try that.",P,Therapeutic Interventions
+Great! Let’s take a deep breath in together… and out. ,T,Insignificant
+*breathes in and out* ,P,Insignificant
+How did that feel?,T,Insignificant
+It felt nice. I think I could get used to that.,P,Therapeutic Interventions
+I’m glad to hear that. It can be a helpful tool to use when you’re feeling anxious. Do you want to set a goal to try it a few times this week?,T,Next Steps
+"Yeah, I can do that. Just a few minutes each day sounds manageable.",P,Next Steps
+"Perfect! It’s all about finding what works for you. Now, let’s talk about your sleep. You mentioned some trouble sleeping last time. How has that been?",T,Insignificant
+It’s been okay. Some nights are better than others. I still have to find the right position to sleep comfortably.,P,Physiological Observations
+Have you noticed anything that might be affecting your sleep quality?,T,Insignificant
+I think my mind races sometimes. I start thinking about everything I need to do the next day.,P,Physiological Observations
+That’s a common issue. Have you tried writing down your thoughts or to-do lists before bed?,T,Insignificant
+"No, I haven’t thought of that. That might help clear my mind.",P,Next Steps
+It can be very effective. You could try writing down three things you need to do the next day and then set it aside. ,T,Next Steps
+I’ll give that a shot! ,P,Next Steps
+Great! I’d love to hear how that goes. Is there anything else on your mind today?,T,Insignificant
+Just the usual worries about being a good mom. I want to make sure I’m doing everything right for my child.,P,History of Present Illness (HPI)
+"That’s a very valid concern. Remember that no one is perfect, and it’s okay to learn as you go. Have you found any resources or support for new parents?",T,Insignificant
+"I’ve joined some online groups, and they can be really helpful. Hearing from others makes me feel less alone.",P,Psychosocial History
+That’s excellent! Sharing experiences can be comforting. How do you feel about your parenting journey so far?,T,Insignificant
+"It’s been a mix of joy and stress. I love my baby, but I sometimes feel overwhelmed.",P,History of Present Illness (HPI)
+It’s completely normal to feel that way. Do you have any self-care practices to help you recharge?,T,Insignificant
+"I try to take short breaks when I can, but I forget to prioritize myself sometimes.",P,History of Present Illness (HPI)
+"Self-care is essential, especially as a parent. Let’s set a goal for you to schedule some time for yourself this week. What do you think?",T,Next Steps
+That sounds good! I could use that reminder to take care of myself.,P,Next Steps
+"Excellent! Remember, taking care of yourself helps you take care of others better. ",T,Insignificant
+"True, I need to keep that in mind.",P,Insignificant
+"Well, it sounds like you have a plan moving forward. I’m looking forward to hearing about your progress in our next session. ",T,Insignificant
+Me too! Thank you for today.,P,Insignificant
+"You’re welcome! Have a wonderful week, and take care.",T,Insignificant
+Bye!,P,Insignificant

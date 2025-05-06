@@ -1,0 +1,32 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s so good to see you again. How did it go with reaching out to potential therapists?,T,Insignificant
+"Hi, Ellie! I actually did it! I called one of the therapists, and I have an appointment next week!",P,Presenting Problem / Chief Complaint
+That’s fantastic! How did it feel to make that call?,T,Insignificant
+"It was nerve-wracking, but I felt really relieved afterward. I think I chose someone who understands PTSD.",P,History of Present Illness (HPI)
+That’s great to hear! It’s important to feel comfortable with your therapist. What made you feel that this therapist might be a good fit?,T,Insignificant
+"They have experience with trauma and anxiety, and they seemed really compassionate on the phone.",P,Medical and Psychiatric History
+Those are excellent qualities to look for. It’s wonderful that you’re feeling hopeful about this! How have you been feeling overall since we last spoke?,T,Insignificant
+"I’ve had some ups and downs, but I’ve been trying to stay positive. The grounding exercises help, but I still have tough days.",P,History of Present Illness (HPI)
+"It’s completely normal to have fluctuations in how you feel. On those tougher days, what strategies have you found helpful?",T,Insignificant
+"I’ve been using the breathing techniques we talked about, and I also try to distract myself with music or video games.",P,Therapeutic Interventions
+Those sound like effective coping strategies! Music can be a great way to lift your mood. Have you discovered any new songs or artists that resonate with you lately?,T,Insignificant
+"Yeah! I found this artist who sings about overcoming struggles, and it really speaks to me.",P,Insignificant
+That’s wonderful! Music can be such a powerful tool for healing. Have you had any moments where you felt particularly proud of yourself since we last met?,T,Insignificant
+I think just making the call to the therapist. It felt like a big step.,P,Progress Evaluation
+That’s a huge accomplishment! You should definitely celebrate that. What are some ways you can reward yourself for this progress?,T,Insignificant
+Maybe I could treat myself to a nice meal or go shopping with my grandma.,P,Insignificant
+"Those sound like great ideas! It’s important to acknowledge your achievements, no matter how small. Is there anything else you’d like to discuss today?",T,Insignificant
+I guess I’m still worried about how the first session will go.,P,History of Present Illness (HPI)
+That’s understandable. First sessions can feel intimidating. Would it help to prepare some topics you want to discuss with your new therapist?,T,Insignificant
+"Yeah, I think that would help. ",P,Insignificant
+"You might want to talk about your experiences with PTSD and how it affects your daily life, as well as your goals for therapy. ",T,Next Steps
+"Okay, I can write that down.",P,Insignificant
+"Great! And remember, it’s okay to take your time in sharing your story. You don’t have to share everything in one session.",T,Insignificant
+That makes sense. I’ll try to keep that in mind.,P,Insignificant
+"Good! You’re doing a great job of advocating for yourself. As we wrap up, how are you feeling about the progress you’ve made?",T,Insignificant
+I feel proud of myself. I’m starting to believe that I can really work through this.,P,Progress Evaluation
+That’s an incredible mindset to have! Keep holding onto that belief. Let’s check in next week to see how your appointment goes.,T,Next Steps
+"Sounds good! Thank you, Ellie. ",P,Insignificant
+"You’re welcome! Take care, and I look forward to hearing all about it.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

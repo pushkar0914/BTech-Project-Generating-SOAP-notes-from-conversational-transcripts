@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s nice to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi! I’ve been okay. I tried the breathing exercises, and they helped a bit.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear! How often have you been practicing them?  ,T,Insignificant
+I’ve done it a few times this week when I felt stressed.  ,P,History of Present Illness (HPI)
+That’s great! It’s all about finding moments to incorporate those techniques into your day. How has your week been overall?  ,T,Insignificant
+It’s been alright. I did manage to take the kids to the park.  ,P,Psychosocial History
+That’s excellent! How did that go?  ,T,Insignificant
+It was nice. We had fun playing and just hanging out.  ,P,Psychosocial History
+I’m so glad to hear that! Spending quality time can really strengthen your relationship with them. Did you notice any changes in your mood after that?  ,T,Insignificant
+"Yeah, I felt a bit happier.  ",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like those moments of connection are important for you. Have you noticed any changes in your job search?  ,T,Insignificant
+"Not really. I’ve applied to a few more places, but no responses yet.  ",P,History of Present Illness (HPI)
+That can be tough. How are you managing the feelings of disappointment that come with that?  ,T,Insignificant
+"I try not to dwell on it too much, but it’s hard.  ",P,History of Present Illness (HPI)
+It is hard. It’s okay to feel disappointed. Have you considered setting small goals for your job search to make it feel more manageable?  ,T,Insignificant
+Like what?  ,P,Insignificant
+"For example, you could set a goal to apply to a certain number of jobs each week or reach out to a contact for networking.  ",T,Insignificant
+That makes sense. I could try that.  ,P,Insignificant
+Great! Would you like to set a specific goal for this week?  ,T,Insignificant
+I think I’ll aim to apply for three jobs.  ,P,Next Steps
+That sounds like a realistic and achievable goal. I’m proud of you for taking that step. How do you feel about that?  ,T,Insignificant
+I feel good about it.  ,P,Insignificant
+Excellent! Let’s also revisit your journaling. Have you had a chance to write about your job search experiences?  ,T,Insignificant
+I started but didn’t finish.  ,P,Next Steps
+That’s okay! Sometimes it takes time to process our thoughts. Would you like to set aside a specific time this week to complete it?  ,T,Insignificant
+"Yeah, I could try to finish it this weekend.  ",P,Next Steps
+Perfect! And how about your mindfulness practice? Have you been able to keep that up?  ,T,Insignificant
+"Yes, I’ve been doing it when I feel overwhelmed.  ",P,History of Present Illness (HPI)
+"I’m glad to hear that you’re finding it helpful. Remember, it’s a tool you can use anytime. Is there anything else you’d like to explore today?  ",T,Insignificant
+I think I’m good for now.  ,P,Insignificant
+"Alright, let’s summarize what we’ve covered today. You’ll apply for three jobs, finish your journaling this weekend, and continue your mindfulness practice. Sound good?  ",T,Insignificant
+"Yes, that sounds good.  ",P,Insignificant
+Wonderful! I look forward to hearing about your progress in our next session. Take care!  ,T,Insignificant
+"Thanks, you too!  ",P,Insignificant
+Goodbye!  ,T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I tried that breathing exercise you suggested.",P,History of Present Illness (HPI)
+That’s fantastic! How did it go for you?,T,Insignificant
+"It was helpful. I used it a couple of times when I felt stressed, and it definitely calmed me down.",P,History of Present Illness (HPI)
+I’m so glad to hear that! It sounds like you’re making progress. Have you noticed any changes in your interactions with others since you started using it?,T,Insignificant
+"Yeah, I think I’ve been more patient with my coworkers. They even commented on it!",P,History of Present Illness (HPI)
+That’s a wonderful affirmation! It’s great to see how your efforts are positively impacting your relationships. Have you had a chance to reach out to your friends yet?,T,Insignificant
+"I did! I sent a text to one of them, and we’re meeting up this weekend.",P,Current Functional Status
+That’s a big step! How do you feel about that?,T,Insignificant
+"I’m a little nervous, but also excited. I think it’ll be good to reconnect.",P,Psychosocial History
+"Absolutely! Just remember to approach it as sharing your journey, not judging theirs. Speaking of journeys, how have you been feeling about your mom’s passing?",T,Insignificant
+"It's still tough. I did try cooking one of her recipes last week, and it was nice.",P,History of Present Illness (HPI): Psychosocial History
+I’m glad you found comfort in that. It’s a beautiful way to honor her memory. How did it feel to cook that dish?,T,Insignificant
+It felt good. I remembered all the times we made it together.,P,History of Present Illness (HPI): Psychosocial History
+That’s wonderful! It sounds like a meaningful connection. Have you thought about making that a regular ritual?,T,Insignificant
+I think I might. It could be nice to do that on special occasions.,P,Next Steps
+That sounds like a lovely plan. Rituals can be powerful in the grieving process. Have you been able to talk to anyone else about your feelings regarding your mom?,T,Insignificant
+Not really. I’m not sure how to bring it up.,P,Psychosocial History
+That’s understandable. It can be challenging to open up. Perhaps you could share your cooking experience with someone close to you as a way to start the conversation.,T,Therapeutic Interventions
+That could work. I’ll think about it.,P,Insignificant
+"Great! Shifting gears a bit, how’s your temper been since we last spoke?",T,Insignificant
+"I’ve had a couple of moments, but I used the breathing technique, and it helped.",P,History of Present Illness (HPI)
+That’s progress! Recognizing those moments and using your tools is key. Have there been any specific triggers that have come up?,T,Insignificant
+Just the usual work stress. Sometimes I feel overwhelmed.,P,History of Present Illness (HPI)
+"That’s common, especially in a fast-paced environment. Have you thought about setting boundaries to help manage that stress?",T,Insignificant
+I haven’t really. What do you mean?,P,Insignificant
+It could be about saying no to extra tasks when you’re already feeling overwhelmed or setting specific times to focus on your work without distractions.,T,Therapeutic Interventions
+I like that idea. I’ll try to be more assertive about my limits.,P,Next Steps
+"That’s a great plan! It’s all about finding that balance. As we wrap up today, is there anything else you want to discuss or any goals you want to set for the upcoming week?",T,Insignificant
+I think I want to keep working on reaching out to friends and trying to incorporate more of my mom’s recipes.,P,Next Steps
+Those sound like meaningful goals. Let’s check in on how those go next time. Remember to be gentle with yourself during this process.,T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+"You’re doing great! Take care, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant

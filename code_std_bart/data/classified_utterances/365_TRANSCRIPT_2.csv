@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+I’ve been okay. I tried calling my kids and practicing mindfulness like we talked about.,P,History of Present Illness (HPI): Psychosocial History
+That’s great to hear! How did the calls go?,T,Insignificant
+"It was nice. They seemed happy to hear from me, but I could tell they miss me.",P,History of Present Illness (HPI): Psychosocial History
+It sounds like that connection was meaningful for both of you. How did it feel to reach out?,T,Insignificant
+It felt good but also made me a bit sad. I just wish I could be there with them.,P,History of Present Illness (HPI): Psychosocial History
+It’s completely normal to feel a mix of emotions. Did you find the mindfulness practice helpful as well?,T,Insignificant
+"Yes, I’ve been doing it every day. It really helps clear my head.",P,History of Present Illness (HPI)
+That’s fantastic! What changes have you noticed since you started practicing mindfulness?,T,Insignificant
+I feel less anxious and more focused. I’m not as overwhelmed by everything.,P,History of Present Illness (HPI): Progress Evaluation
+That’s a significant improvement! It sounds like you’re making progress. Have you noticed any changes in your interactions with friends or at work?,T,Insignificant
+"I’ve been more patient with my friends, and I think it’s because I’m not as stressed.",P,History of Present Illness (HPI): Current Functional Status
+That’s wonderful to hear. It seems like your mindfulness practice is positively impacting your relationships. How do you feel about that?,T,Insignificant
+I feel good. I want to keep building those connections.,P,History of Present Illness (HPI): Psychosocial History
+That’s a great goal. Is there anything you’d like to focus on in today’s session?,T,Insignificant
+I’d like to talk more about my guilt regarding my kids. ,P,Presenting Problem / Chief Complaint
+Absolutely. What specific aspects of that guilt are you grappling with?,T,Insignificant
+"I just feel like I should be doing more for them, but I’m stuck here.",P,Presenting Problem / Chief Complaint
+"It’s tough to feel that way, especially when you want to provide for them. Have you thought about what “doing more” would look like for you?",T,Insignificant
+"I guess I just want to be more present in their lives, even from a distance.",P,Presenting Problem / Chief Complaint
+Being present can take many forms. You mentioned calling them; are there other ways you could engage with them?,T,Insignificant
+Maybe I could send them letters or little care packages.,P,Next Steps
+That could be a lovely way to show your love and support. What would you want to include in those packages?,T,Insignificant
+I could send them some of their favorite snacks or little toys. ,P,Next Steps
+Those sound like thoughtful ideas! How do you think they would feel receiving those?,T,Insignificant
+They’d probably be excited. I know they love surprises.,P,Next Steps
+It sounds like this could be a great way to strengthen your bond. Would you like to set a goal around sending them something this week?,T,Next Steps
+"Yes, I’d like to do that.",P,Next Steps
+That’s wonderful! Let’s say you aim to send a care package by the end of the week. Does that work for you?,T,Next Steps
+"Yes, that sounds good.",P,Next Steps
+Great! We can check in on how that goes next time. Is there anything else you’d like to explore today?,T,Insignificant
+I think that’s all for now. I feel better after talking about it.,P,Progress Evaluation
+"I’m glad to hear that. Remember, it’s important to acknowledge your feelings and take steps to care for yourself and your relationships.",T,Insignificant
+Thank you for reminding me.,P,Insignificant
+You’re welcome! I look forward to hearing about your care package next week. Take care!,T,Insignificant
+You too! See you next time.,P,Insignificant
+Bye!,T,Insignificant
+Bye!,P,Insignificant

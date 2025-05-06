@@ -1,0 +1,130 @@
+Utterance,Type,Classified_Subsection
+hi i'm ellie thanks for coming in today,T,Insignificant
+i was created to talk to people in a safe and secure environment ,T,Insignificant
+i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started,T,Insignificant
+and please feel free to tell me anything your answers are totally confidential,T,Insignificant
+are you okay with this ,T,Insignificant
+yes ,P,Insignificant
+so how are you doing today  ,T,Insignificant
+good ,P,Insignificant
+where are you from originally ,T,Insignificant
+from california ,P,Insignificant
+what are some things you really like about l_a,T,Insignificant
+i like the eh arts and entertainments i like,P,Insignificant
+the uh,P,Insignificant
+you have a lot of freedom to work in a lot of different fields um,P,Insignificant
+i like the fact that the weather is great um i like the fact that all my roots are here all my family is here  ,P,Psychosocial History
+what are some things you don't really like about l_a,T,Insignificant
+i don't like,P,Insignificant
+how hard it is to get places anymore it's very hard there's so much traffic it takes a long time to get where you're going um it's expensive it's a lot more expensive than it used to be  ,P,Psychosocial History
+do you travel a lot ,T,Insignificant
+not anymore ,P,Insignificant
+what'd you study at school ,T,Insignificant
+i studied journalism english music and special effects makeup ,P,Insignificant
+are you still working in that ,T,Insignificant
+i am ,P,Insignificant
+what do you do now ,T,Insignificant
+now i am managing a doggy day care facility ,P,Current Functional Status
+what's your dream job ,T,Insignificant
+my dream job is to ,P,Insignificant
+own my own company again um,P,Insignificant
+probably working with animals ,P,Insignificant
+do you consider yourself an introvert ,T,Insignificant
+no,P,Insignificant
+what do you do to relax ,T,Insignificant
+i'm i'm an artist i draw i paint i do tattoos,P,Current Functional Status
+i work a lot with animals,P,Current Functional Status
+i like outdoor activities biking hiking  ,P,Current Functional Status
+what are some things that make you really mad,T,Insignificant
+um people that aren't fair people that are  ,P,Insignificant
+angry and um people that are dishonest ,P,Insignificant
+what do you do when you're annoyed ,T,Insignificant
+usually i will give myself like a ten second timeout and think about it before i speak or react ,P,Current Functional Status
+how are you at controlling your temper ,T,Insignificant
+i'm very good at controlling my temper ,P,Current Functional Status
+when was the last time you argued with someone and what was it about,T,Insignificant
+probably my spouse um about something to do with our financial matters ,P,Psychosocial History
+how close are you to your family ,T,Insignificant
+i'm very close to my children and my father ,P,Psychosocial History
+tell me about your kids ,T,Insignificant
+scrubbed_entry,P,Insignificant
+do you find it easy to be a parent ,T,Insignificant
+no it's never easy it's the hardest job in the world but it's the best ,P,Psychosocial History
+what's the hardest thing about being a parent ,T,Insignificant
+just um,P,Insignificant
+wanting to prevent your children from making the mistakes you've had but you realize that they have to do that,P,Psychosocial History
+just to learn how to live life um that's one of the hardest things is letting them make their own mistakes ,P,Psychosocial History
+what's the best thing about being a parent ,T,Insignificant
+the uh unconditional love my boys have for me the ,P,Psychosocial History
+everything that being a parent has made me a better person it's made me a better everything a better employee um i've,P,Psychosocial History
+i think being having my children made me,P,Psychosocial History
+um much better person every day ,P,Psychosocial History
+what's one of your most memorable experiences ,T,Insignificant
+probably i have a lot i've had a very full life,P,Insignificant
+i would be really hard to say to narrow that down i've had so many ,P,Insignificant
+how would your best friend describe you ,T,Insignificant
+i'm a good friend i'm a true friend i'm honest i'm real,P,Insignificant
+i'm dependable,P,Insignificant
+and i don't play games i'm very i'm no <n> i'm no drama   ,P,Insignificant
+have you ever served in the military ,T,Insignificant
+no,P,Insignificant
+have you ever been diagnosed with p_t_s_d ,T,Insignificant
+yes i have,P,Medical and Psychiatric History
+how long ago were you diagnosed ,T,Insignificant
+in um ,P,Insignificant
+february of two thousand eleven ,P,Medical and Psychiatric History
+what got you to seek help ,T,Insignificant
+i was attacked by a stalker and almost killed in november of two thousand nine he broke into my apartment and laid in wait for me and attacked me when i came in the door and tried to kill me ,P,Trauma History
+do you still go to therapy now ,T,Insignificant
+i do ,P,Insignificant
+do you feel like therapy's useful ,T,Insignificant
+i think therapy has helped me tremendously i don't think i'd be able to hold a job and be responsible and,P,Progress Evaluation
+be  ,P,Insignificant
+a productive member of society <s> of society without therapy ,P,Progress Evaluation
+what sort of changes have you noticed since you've been going to therapy ,T,Insignificant
+i'm able to handle things better i don't get so um emotionally upset um a lot more rational i try to stay more rational than emotional more rational and logical ,P,Progress Evaluation
+how have you been feeling lately ,T,Insignificant
+so-so i've been sick and i've been uh run down a little stressed out ,P,Physiological Observations
+have you noticed any changes in your behavior or thoughts lately ,T,Insignificant
+i have yes i have,P,Insignificant
+how do you cope with them ,T,Insignificant
+i use the resources <res> draw on the resources that i've learned and i reach out to other people i try not to isolate,P,Current Functional Status
+i try to um,P,Insignificant
+use the tools that have been given to me in therapy um,P,Current Functional Status
+i don't use medication anymore so it's mainly just proactive treatment where i have to uh do something about it ,P,Medications
+how easy is it for you to get a good night's sleep ,T,Insignificant
+it's not it's never easy it's always bad ,P,Physiological Observations
+what are you like when you don't sleep well ,T,Insignificant
+tired lethargic,P,Physiological Observations
+um it's hard to keep my thoughts in order it's hard just to do the basics during the day  ,P,Current Functional Status
+are they triggered by something ,T,Insignificant
+mm no,P,Insignificant
+when was the last time you felt really happy ,T,Insignificant
+i can't remember,P,Insignificant
+tell me about something you did recently that you really enjoyed ,T,Insignificant
+oh i went to the beach with my oldest son and his best friend and we rode three real three-wheel bikes and that was a lot of fun ,P,Insignificant
+what are you most proud of in your life ,T,Insignificant
+it's hard to say right now i haven't decided i'm very proud of my children i would say that's probably it they're really good boys ,P,Psychosocial History
+is there anything you regret,T,Insignificant
+i have too many regrets right now ,P,Insignificant
+what advice would you give yourself ten or twenty years ago ,T,Insignificant
+to finish school,P,Insignificant
+to um ,P,Insignificant
+stay focused to not ,P,Insignificant
+let myself get distracted um,P,Insignificant
+to focus more on long-term goals than short-term goals,P,Insignificant
+who's someone that's been a positive influence in your life ,T,Insignificant
+my father ,P,Psychosocial History
+what would you say are some of your best qualities ,T,Insignificant
+i'm very honest i'm very calm ,P,Insignificant
+i don't get angry easily it takes a lot to provoke me ,P,Insignificant
+i'm uh reliable if i say i'm gonna do something i do it ,P,Insignificant
+and i'm uh i'm not i'm basically what you see is what you get i don't i don't pull any punches with people  ,P,Insignificant
+what are some things that usually put you in a good mood ,T,Insignificant
+um anything to do with animals i love animals i always smile around animals any kind big small ,P,Insignificant
+um i like older people elderly people i like to help them and be around them,P,Insignificant
+i like children,P,Insignificant
+um ,P,Insignificant
+okay i think i've asked everything i need to ,T,Insignificant
+thanks for sharing your thoughts with me ,T,Insignificant
+goodbye,T,Insignificant

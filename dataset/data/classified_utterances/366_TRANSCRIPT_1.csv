@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+"<sigh> hey, Ellie. ",P,Insignificant
+Hi! It's great to see you again. How have you been since our last session?,T,Insignificant
+"I've been good, just busy with work and family stuff.",P,Psychosocial History
+"That's understandable. Last time, you mentioned being really close with your family. How has that been for you lately?",T,Insignificant
+"Well, my mom and I have been talking a lot more. I think she’s feeling a bit overwhelmed with everything going on.",P,Psychosocial History
+How do you feel about that? ,T,Insignificant
+"I feel like I need to be there for her. I want to help, but sometimes I don't know how.",P,History of Present Illness (HPI)
+That sounds like a lot of pressure. What do you think would help you both in that situation?,T,Insignificant
+Maybe just listening more. I think she needs someone to vent to.,P,History of Present Illness (HPI)
+That's a great insight. Listening can be very powerful. Have you had a chance to do that yet?,T,Insignificant
+"Yeah, I sat down with her last weekend. We talked for a few hours. It felt good.",P,Current Functional Status
+That's wonderful! How did it feel for you to be that support for her?,T,Insignificant
+"It felt rewarding, but I also felt a bit drained afterward. Like, I took on some of her stress.",P,History of Present Illness (HPI):Mental Health Observations
+It's natural to feel that way when we care about someone. How do you usually cope with those feelings of being drained?,T,Insignificant
+I try to recharge by listening to music or going for a walk. ,P,Therapeutic Interventions
+Those sound like effective strategies. Have you had a chance to use them lately?,T,Insignificant
+I went for a walk after our talk. It helped clear my head.,P,Current Functional Status
+"Good! It's important to take care of yourself too. Speaking of self-care, you mentioned wanting to be more in touch with your emotions last time. How's that going?",T,Insignificant
+"I’ve been trying to reflect more on how I feel, especially when I’m with my family. ",P,History of Present Illness (HPI)
+That’s a great step. Have you noticed any specific emotions coming up?,T,Insignificant
+"Sometimes I feel frustrated, especially when my dad is involved. ",P,History of Present Illness (HPI)
+Can you tell me more about that?,T,Insignificant
+"Well, he still has a way of dismissing my opinions. It frustrates me because I want him to listen.",P,History of Present Illness (HPI)
+It sounds like that dynamic is challenging for you. How do you usually handle those feelings of frustration?,T,Insignificant
+I usually just keep quiet. I don’t want to argue.,P,History of Present Illness (HPI)
+That’s understandable. But holding back can sometimes lead to more frustration. Have you thought about expressing how you feel to him?,T,Insignificant
+"I have, but I worry it’ll turn into an argument.",P,History of Present Illness (HPI)
+"That’s a valid concern. It might help to approach it gently, perhaps by expressing your feelings rather than making accusations. ",T,Insignificant
+I could try that. ,P,Insignificant
+It might also be helpful to set a time to talk when both of you are calm. Would that be something you’d consider?,T,Insignificant
+"Yeah, I think I could do that.",P,Insignificant
+Great! What would be your goal for that conversation?,T,Insignificant
+I just want him to understand my perspective. ,P,Next Steps
+"That’s a solid goal. Remember, it’s about sharing your feelings, not necessarily changing his mind.",T,Insignificant
+"Right, I get that.",P,Insignificant
+How do you feel about the idea of journaling your thoughts before the conversation? It might help you clarify what you want to say.,T,Therapeutic Interventions
+That sounds like a good idea. I can organize my thoughts better that way.,P,Next Steps
+Perfect! Let’s plan to discuss how that conversation goes in our next session. ,T,Next Steps
+Sounds good. ,P,Insignificant
+Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my dream job as a life coach. ,P,Presenting Problem / Chief Complaint
+That’s exciting! What about it has been on your mind?,T,Insignificant
+I just feel like I’m not doing enough to help people right now.,P,Presenting Problem / Chief Complaint
+It’s great that you have that desire to help others. Have you considered ways you could start doing that in your current role?,T,Insignificant
+I could mentor some of my coworkers. ,P,Next Steps
+That’s a fantastic idea! Mentoring can be a great way to share your knowledge and support others.,T,Insignificant
+"Yeah, I think I’ll reach out to a few people.",P,Next Steps
+Wonderful! How does that feel for you?,T,Insignificant
+It feels good. I just hope they’re open to it.,P,Insignificant
+"You won’t know until you try! And remember, you can always set boundaries to protect your own energy while helping others.",T,Insignificant
+True. ,P,Insignificant
+"Before we wrap up, is there anything you want to set as a goal for next week?",T,Insignificant
+I want to have that conversation with my dad and maybe reach out to someone at work about mentoring.,P,Next Steps
+Those sound like excellent goals! Let’s check in on those next time. ,T,Next Steps
+"Definitely! Thanks, Ellie.",P,Insignificant
+"You’re welcome! Take care, and I look forward to hearing about your progress.",T,Insignificant
+Bye!,P,Insignificant
+Goodbye!,T,Insignificant

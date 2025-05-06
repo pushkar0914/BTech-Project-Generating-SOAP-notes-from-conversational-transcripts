@@ -1,0 +1,57 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's great to see you. How have you been since our last session?",T,Insignificant
+"Hi Ellie, I've been okay, just trying to manage my thoughts.",P,Insignificant
+"That's understandable. Last time, we talked about your financial worries and how they affect your mood. Have there been any changes in that area?",T,History of Present Illness (HPI)
+"Not really. I'm still stressed about money. I've been applying to jobs, but nothing has come through yet.",P,History of Present Illness (HPI)
+I can imagine that must be frustrating. Have you found any strategies that help you cope with that stress?,T,Insignificant
+"I've been trying to meditate a bit, but it's hard to focus when my mind is racing.",P,History of Present Illness (HPI)
+"Meditation can be challenging, especially when you're feeling anxious. Would you like to explore some other coping strategies together?",T,Therapeutic Interventions
+"Sure, that sounds good.",P,Insignificant
+One technique that might help is grounding exercises. They can bring you back to the present moment and help reduce anxiety. Would you like to try one?,T,Therapeutic Interventions
+"Yeah, I’d be open to that.",P,Insignificant
+Great! Let’s try a simple one. Take a moment to notice your surroundings. Can you describe three things you can see right now?,T,Therapeutic Interventions
+"Um, I see my dog lying on the couch, a plant in the corner, and a picture of my family on the wall.",P,Insignificant
+"Good job! Now, can you focus on two things you can hear?",T,Therapeutic Interventions
+I can hear the sound of traffic outside and my dog breathing.,P,Insignificant
+"Excellent. And finally, can you identify one thing you can touch?",T,Therapeutic Interventions
+I can feel the fabric of my couch.,P,Insignificant
+Perfect. This exercise helps anchor you in the present. How do you feel after doing that?,T,Insignificant
+"I feel a little calmer, actually.",P,Mental Health Observations
+That’s wonderful to hear! It’s a good tool to have in your toolbox. Have you had any moments of joy or happiness since our last session?,T,Insignificant
+I took my dog to the park last weekend. It was nice to get out and enjoy the fresh air.,P,History of Present Illness (HPI)
+That sounds lovely! Spending time with your dog can be very therapeutic. Did you notice any changes in your mood while you were out?,T,History of Present Illness (HPI)
+"Yeah, I felt lighter, like I could breathe easier. ",P,Mental Health Observations
+That’s great! It sounds like nature and being active can help improve your mood. How often do you think you could incorporate that into your week?,T,Next Steps
+Maybe I could try to go to the park a couple of times a week.,P,Next Steps
+That sounds like a solid plan. Let’s set that as a goal for next week. How does that sound?,T,Next Steps
+I like that idea!,P,Insignificant
+"Fantastic! Now, I’d like to revisit the topic of your drinking. How has it been since you quit?",T,Substance Use History
+"It’s been tough at times, especially when I’m feeling down. I miss that escape.",P,Substance Use History
+That’s understandable. It’s common to feel that way when you’re adjusting to new habits. Have you found any alternatives to help you cope with those feelings?,T,Insignificant
+"I’ve been trying to drink more water and herbal tea, but it’s not the same.",P,Substance Use History
+It’s a good start! Finding healthier alternatives can be challenging. We can also explore other activities that might serve as distractions or coping mechanisms. What do you think about that?,T,Therapeutic Interventions
+I’d be open to it.,P,Insignificant
+How about we brainstorm some activities that you enjoy or have wanted to try? ,T,Therapeutic Interventions
+I used to like painting and drawing. I haven’t done that in years.,P,History of Present Illness (HPI)
+That sounds like a wonderful creative outlet! Would you be willing to set aside some time to explore that again?,T,Next Steps
+"Yeah, I could try that. Maybe I’ll pick up some supplies this weekend.",P,Next Steps
+That’s a great idea! It could be a nice way to express yourself and relieve some stress. ,T,Insignificant
+I hope so. ,P,Insignificant
+"Remember, it’s all about progress, not perfection. If you find it hard to get started, that’s okay. Just take it one step at a time. ",T,Insignificant
+"Yeah, I need to remind myself of that.",P,Insignificant
+You’re doing well. Is there anything else on your mind today that you’d like to discuss?,T,Insignificant
+I guess I’m just worried about how long this job search will take. ,P,History of Present Illness (HPI)
+"It’s natural to feel that way, especially when finances are tight. Have you considered reaching out to any networks or groups that could assist you in your job search?",T,Insignificant
+I haven’t really thought about that. I guess I could.,P,Insignificant
+Networking can sometimes open up opportunities you might not find on job boards. It might be worth exploring. ,T,Insignificant
+"Yeah, I could reach out to some old colleagues.",P,Next Steps
+Absolutely! It’s a great way to reconnect and see if they know of any openings. ,T,Insignificant
+Thanks for the suggestion.,P,Insignificant
+You’re welcome! Let’s make that a goal for the week too. ,T,Next Steps
+"Okay, I’ll try to do that.",P,Insignificant
+"Great! Before we wrap up, is there anything specific you’d like to focus on for our next session?",T,Insignificant
+Maybe we could dive deeper into my anxiety and how to manage it.,P,History of Present Illness (HPI)
+"That sounds like an important topic to explore. We can definitely do that. Thank you for sharing today, and I look forward to hearing how your week goes!",T,Insignificant
+"Thank you, Ellie. I appreciate it.",P,Insignificant
+"Take care, and see you next time!",T,Insignificant
+Bye!,P,Insignificant

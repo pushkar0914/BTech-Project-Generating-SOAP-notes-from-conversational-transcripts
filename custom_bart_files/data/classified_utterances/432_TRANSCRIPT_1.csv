@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's great to see you. How have you been since our last session?",T,Insignificant
+"I've been okay, just busy with work and life, you know?",P,Insignificant
+"I understand. Last time, we talked about how you feel about your move to LA and your photography job. Have there been any new developments in that area?",T,Insignificant
+"Yeah, actually, I landed a couple of new gigs. It's been exciting!",P,History of Present Illness (HPI)
+That's fantastic! How does it feel to be getting more work?,T,Insignificant
+It's really fulfilling. I feel like I'm finally getting recognized for my skills.,P,History of Present Illness (HPI)
+That's wonderful to hear. What have you enjoyed most about these new projects?,T,Insignificant
+I love the creativity involved and meeting new people. Each project has its own vibe.,P,History of Present Illness (HPI)
+It sounds like you're really thriving. Have you noticed any changes in how you manage your shyness in these situations?,T,Insignificant
+"A bit, yeah. I still feel shy, but I push through it. I think the excitement of the work helps.",P,History of Present Illness (HPI)
+That's a great strategy. Focusing on the excitement can help you step out of your comfort zone. Have you tried any specific techniques to manage your shyness?,T,Insignificant
+"Sometimes I remind myself that everyone is there to enjoy the same thing, so it’s easier to connect.",P,Therapeutic Interventions
+That’s a healthy perspective. You’re shifting the focus from yourself to the shared experience. Have you been able to apply this mindset in other areas of your life?,T,Insignificant
+"I think so, especially when meeting new friends. It helps me open up more.",P,Current Functional Status
+"Excellent! Building connections is important. Speaking of connections, how’s your relationship with your family been since we last spoke?",T,Insignificant
+"It’s been okay. I called my parents last week, and it was nice to catch up.",P,Psychosocial History
+That’s great to hear. Maintaining those connections can be really beneficial. Have you noticed any feelings or thoughts that have come up during those conversations?,T,Insignificant
+"I felt a bit guilty for not visiting them more often, but I also reminded myself that I’m busy with work.",P,Risk Assessment
+It’s normal to feel that way. Balancing work and family can be challenging. How do you usually cope with those feelings of guilt?,T,Insignificant
+I try to focus on the positives. I tell myself that I'm building a future for myself.,P,Therapeutic Interventions
+That’s a healthy way to reframe those thoughts. Have you been able to spend time with friends or engage in activities that bring you joy?,T,Insignificant
+"Yes! I went to a gallery opening last weekend, and it was really inspiring.",P,Current Functional Status
+That sounds wonderful! What was the most inspiring part for you?,T,Insignificant
+Just seeing the different styles and meeting artists who share the same passion was energizing.,P,Current Functional Status
+It seems like you’re surrounding yourself with creativity. How does that impact your own work?,T,Insignificant
+It pushes me to think outside the box and try new techniques. I want to keep evolving.,P,History of Present Illness (HPI)
+That’s a fantastic mindset. Have you set any new goals for your photography or personal life?,T,Insignificant
+I want to start a personal project that reflects my experiences since moving to LA.,P,Next Steps
+That sounds like a meaningful endeavor. What kind of themes are you thinking about exploring?,T,Insignificant
+Maybe the contrast between my past in New York and my new life here. It could be interesting.,P,Next Steps
+Definitely! Exploring those contrasts could lead to some powerful storytelling. How do you feel about starting this project?,T,Insignificant
+"A bit nervous, but mostly excited. I think it’ll help me process my feelings about the transition.",P,History of Present Illness (HPI)
+"That’s a great insight. Sometimes, creating art can be a therapeutic process. Have you thought about how you might structure this project?",T,Insignificant
+I’m thinking of documenting everyday moments and conversations with people I meet.,P,Next Steps
+That sounds like a wonderful approach. Capturing the essence of your experiences will be valuable. Do you have a timeline in mind for starting this project?,T,Insignificant
+I’d like to start in the next month. I need to gather some ideas first.,P,Next Steps
+That’s a good plan. Gathering ideas can help you feel more prepared. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m just curious about how to manage my feelings of anxiety when I’m working on something big.,P,Presenting Problem / Chief Complaint
+That’s a relevant concern. Have you experienced anxiety in the past when working on significant projects?,T,History of Present Illness (HPI)
+"Yes, especially when deadlines approach. I tend to overthink things.",P,History of Present Illness (HPI)
+That’s common. Would you be open to exploring some coping strategies for managing that anxiety?,T,Insignificant
+"Definitely, I’d love that.",P,Insignificant
+Great! We can work on techniques like mindfulness or time management strategies. Would you like to try a quick mindfulness exercise now?,T,Therapeutic Interventions
+"Sure, that sounds good.",P,Insignificant
+"Let’s take a moment to focus on our breath. Inhale deeply through your nose, hold for a moment, and exhale slowly through your mouth. How does that feel?",T,Insignificant
+It’s calming. I like it.,P,Therapeutic Interventions
+Wonderful! Practicing this regularly can help you ground yourself during anxious moments. Would you like to set a goal for incorporating mindfulness into your routine?,T,Next Steps
+I can try to do it a few times a week.,P,Next Steps
+That sounds like a great start. We can check in on that next time. Thank you for sharing your thoughts today.,T,Insignificant
+"Thank you, Ellie. I appreciate it.",P,Insignificant
+"Take care, and I look forward to our next session!",T,Insignificant
+Bye!,P,Insignificant

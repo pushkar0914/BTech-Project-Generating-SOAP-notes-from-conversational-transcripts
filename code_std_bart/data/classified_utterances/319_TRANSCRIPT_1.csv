@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! I'm glad to see you back today. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I've been okay, I guess. Just the usual ups and downs.",P,Insignificant
+"That’s completely understandable. Last time, we talked about your feelings of lethargy and your experiences with depression. Have you noticed any changes in those feelings since then?",T,History of Present Illness (HPI)
+"Not really. I still feel pretty much the same. Some days are better than others, but overall, it’s still tough.",P,History of Present Illness (HPI)
+I appreciate your honesty. It’s important to recognize that progress can be slow and nonlinear. Have there been any specific situations that have triggered those feelings recently?,T,History of Present Illness (HPI)
+"Well, I had a family gathering last week. It was nice to see everyone, but I felt really drained afterward. ",P,History of Present Illness (HPI)
+Family gatherings can be emotionally taxing. What do you think contributed to that feeling of being drained?,T,History of Present Illness (HPI)
+I think it’s just being around so many people and trying to put on a happy face. It takes a lot out of me.,P,History of Present Illness (HPI)
+That makes sense. It sounds like you might be feeling some pressure to maintain a certain image. Would you say that’s accurate?,T,History of Present Illness (HPI)
+"Yeah, definitely. I want to be there for my kids and show them I’m okay, but it can be exhausting.",P,History of Present Illness (HPI)
+It’s commendable that you want to be strong for your children. Have you thought about ways to manage that pressure during family events?,T,History of Present Illness (HPI)
+I haven’t really thought about it. I just try to get through it.,P,Insignificant
+"One strategy could be to set small boundaries for yourself. For example, allowing yourself to take breaks during the gathering or giving yourself permission to leave early if you feel overwhelmed. Would that be something you’d consider?",T,Therapeutic Interventions
+"Yeah, I think that could help. I’ll need to practice that, though.",P,Therapeutic Interventions
+"Absolutely, it’s all about practice. Speaking of practice, have you been able to implement any coping strategies we discussed in our last session, like mindfulness or relaxation techniques?",T,Therapeutic Interventions
+"I’ve tried a few breathing exercises when I feel anxious, but it’s hard to remember to do them.",P,Therapeutic Interventions
+"It can definitely be challenging to remember to practice new skills. Would you be open to setting a specific time each day to practice those techniques, even if it's just for a few minutes?",T,Therapeutic Interventions
+That sounds doable. Maybe in the morning before I start my day?,P,Therapeutic Interventions
+That sounds like a great plan! Starting your day with a few minutes of mindfulness could set a positive tone. How do you feel about journaling your experiences with these techniques?,T,Therapeutic Interventions
+"Journaling could be helpful. I’ve never really done it, but I’ve heard it can be beneficial.",P,Therapeutic Interventions
+It can be a powerful tool for self-reflection. You could jot down how you feel before and after practicing mindfulness. Would you be willing to give it a try?,T,Therapeutic Interventions
+"Sure, I can give that a shot.",P,Therapeutic Interventions
+"Wonderful! I’d love to hear about your experiences with it in our next session. Now, let’s talk a bit more about your feelings of worry regarding your children. You mentioned that you often feel anxious about them. Can you share more about those worries?",T,History of Present Illness (HPI)
+"I worry about their futures, especially with everything going on in the world. It’s hard not to think about it.",P,History of Present Illness (HPI)
+That’s a valid concern. The world can feel overwhelming at times. Have you talked to your children about your worries?,T,History of Present Illness (HPI)
+Not really. I don’t want to burden them with my feelings.,P,History of Present Illness (HPI)
+"It’s understandable to want to protect them, but sometimes sharing your feelings can create a stronger bond. It might help them understand where you’re coming from.",T,Insignificant
+That makes sense. I guess I just need to find the right words.,P,Insignificant
+"Perhaps you could start by expressing your love and concern for them, rather than focusing solely on the worries. It could lead to a more open conversation.",T,Insignificant
+I’ll think about that. It’s just hard to open up sometimes.,P,Insignificant
+"It can be difficult, but remember that vulnerability can strengthen relationships. You might be surprised by their responses.",T,Insignificant
+True. I’ll try to keep that in mind.,P,Insignificant
+"Great! As we wrap up today, what are your main takeaways from our conversation?",T,Insignificant
+I think I need to work on setting boundaries during family gatherings and practice mindfulness more consistently. Journaling could also help me reflect on my feelings.,P,Next Steps
+Those sound like excellent goals! I believe you’re making progress. Let’s check in on how those strategies worked for you in our next session. ,T,Next Steps
+"Sounds good. Thanks for the help, Ellie.",P,Insignificant
+You’re welcome! I look forward to hearing about your experiences. Take care!,T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It’s great to see you. How have you been doing since our last session?,T,Insignificant
+I’ve been doing well! I started walking three days a week like we discussed.,P,Current Functional Status
+That’s fantastic! How has that been for you?,T,Insignificant
+It feels great to be active again. I even joined a local gym to mix things up.,P,Current Functional Status
+"Wow, that’s a big step! How has the gym experience been?",T,Insignificant
+"It’s been good! I’m still getting used to it, but I’m enjoying the classes they offer.",P,Current Functional Status
+That’s wonderful to hear! Have you met anyone new there?,T,Insignificant
+"A couple of people, yes. It’s nice to have a little social interaction outside of work.",P,Psychosocial History
+That’s great! Social connections can be really beneficial for your overall well-being. Any other changes you’ve noticed?,T,Insignificant
+"I think I’m sleeping a bit better. I feel more tired at night, but in a good way.",P,Physiological Observations
+That’s excellent! Physical activity can really help with sleep quality. Have you been meditating as well?,T,Insignificant
+"Yes, I’ve kept up with that too. I think it helps me unwind after my workouts.",P,Current Functional Status
+That’s a great combination! It sounds like you’re really taking care of yourself. How has your relationship with your mom been?,T,Insignificant
+"It’s been good. We spend more time together, and I think she appreciates the help with her garden.",P,Psychosocial History
+That’s lovely! It sounds like you’re both benefiting from your time together. What about your wife? Have you had a chance to talk about your relationship?,T,Insignificant
+We had a good conversation last weekend. We talked about setting aside time for each other.,P,Psychosocial History
+That’s a positive step forward! How did that conversation go?,T,Insignificant
+It went well. We both agreed to be more open and honest about our feelings.,P,Psychosocial History
+That’s wonderful! It sounds like you’re making progress. Do you feel more hopeful about the future of your relationship?,T,Insignificant
+"Yes, I do. I think we’re both willing to work on it, which is a good sign.",P,Psychosocial History
+Absolutely! It’s important that both of you are committed to the process. Is there anything specific you want to focus on in your next conversation?,T,Insignificant
+I think we need to discuss our expectations and boundaries moving forward.,P,Psychosocial History
+That sounds like a crucial topic. Would you like to brainstorm some points to bring up?,T,Insignificant
+"Yes, that would be helpful. I want to be clear about what I need from her too.",P,Psychosocial History
+Great! Let’s start by identifying a couple of your key needs in the relationship.,T,Insignificant
+I need more communication and reassurance. I want to feel valued and heard.,P,Psychosocial History
+Those are important needs. How might you express those to her?,T,Insignificant
+I think I can tell her that I appreciate her support and that I need to feel more connected.,P,Psychosocial History
+That’s a wonderful approach. It’s clear and constructive. How do you feel about bringing that up?,T,Insignificant
+"I feel a bit nervous, but I think it’s necessary.",P,Current Functional Status
+It’s completely normal to feel nervous. Just remember to approach it calmly and with an open heart. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers a lot. I’m feeling good about where I’m at right now.,P,Current Functional Status
+That’s great to hear! I’m proud of the progress you’ve made. Let’s check in next time about how your conversation goes with your wife.,T,Progress Evaluation
+"Yes, I’m looking forward to it. Thank you!",P,Insignificant
+You’re welcome! Take care until next time.,T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

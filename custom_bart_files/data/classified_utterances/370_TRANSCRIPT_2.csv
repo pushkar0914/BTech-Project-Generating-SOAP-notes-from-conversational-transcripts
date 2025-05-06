@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi there! It’s great to see you again. How have things been since our last session?,T,Insignificant
+"Hi, Ellie! Things have been pretty busy with the wedding and starting my PhD program.",P,Psychosocial History
+It sounds like a lot is happening. How are you managing everything?,T,Insignificant
+"I’m trying to take it one step at a time. I’ve been sticking to the goals we set, which has helped.",P,Progress Evaluation
+That’s fantastic! Can you share any specific accomplishments you’ve made since we last spoke?,T,Insignificant
+"Yeah! I reached out to a couple of professors, and they were really welcoming. I also attended a seminar last week.",P,Progress Evaluation
+That’s wonderful! It sounds like you’re making great connections. How did the seminar go?,T,Insignificant
+It was really interesting! I learned a lot and even met some other students who are in the program.,P,Progress Evaluation
+That’s so encouraging! How did it feel to engage with your peers?,T,Insignificant
+"It felt good! I was nervous at first, but everyone was really friendly. I think I’m starting to find my place there.",P,Mental Health Observations
+That’s a significant step. How does this experience impact your feelings about your potential?,T,Insignificant
+I feel a bit more confident. Engaging with others makes me realize that I’m not alone in this journey.,P,Mental Health Observations
+That’s a valuable realization. It’s important to have that support. Have you noticed any changes in your anxiety levels since starting the program?,T,Insignificant
+"I think it’s decreased a bit. I still have moments of worry about the wedding, but I’m learning to manage it better.",P,History of Present Illness (HPI)
+That’s a positive trend! What techniques have you been using to manage your anxiety?,T,Insignificant
+"I’ve been practicing the breathing exercises we did last time, and I also try to remind myself that it’s okay to not have everything perfect.",P,Therapeutic Interventions
+Those are excellent strategies! It’s great to hear that you’re applying what we’ve discussed. Have you found any new coping mechanisms?,T,Insignificant
+I’ve started journaling about my feelings. It helps me process everything.,P,Therapeutic Interventions
+Journaling can be a powerful tool. What have you been writing about?,T,Insignificant
+Mostly about my experiences in the PhD program and my feelings about the wedding. It helps me sort through my thoughts.,P,History of Present Illness (HPI)
+That’s a great way to reflect. How do you feel after journaling?,T,Insignificant
+"I feel lighter, like I’ve let some things go. It’s nice to have an outlet.",P,Mental Health Observations
+That’s wonderful to hear! It’s important to have a safe space for your thoughts. Is there anything else you’d like to explore today?,T,Insignificant
+"I guess I’m still worried about family dynamics at the wedding. I want everyone to get along, but I know that’s not always realistic.",P,History of Present Illness (HPI)
+It’s understandable to have those concerns. Have you thought about how you might address any potential conflicts?,T,Insignificant
+"I’ve considered talking to my family beforehand, setting some boundaries, and maybe even having a plan for if things get tense.",P,Next Steps
+That sounds like a proactive approach. Communication can often help alleviate tensions. Would you like to role-play how that conversation might go?,T,Insignificant
+"Sure, that could be helpful.",P,Insignificant
+Great! Let’s imagine you’re talking to a family member. How would you start the conversation?,T,Insignificant
+"I’d probably say something like, “I really want this day to be special for everyone, and I hope we can all support each other.”",P,Next Steps
+That’s a great opening! How do you think they might respond?,T,Insignificant
+"I think they’d be understanding, but I also worry they might bring up past issues.",P,History of Present Illness (HPI)
+That’s a valid concern. How could you steer the conversation back to a positive note?,T,Insignificant
+I could remind them that the focus is on the celebration and that I want everyone to enjoy the day.,P,Next Steps
+Absolutely! It’s important to keep the focus on the positive aspects. How does practicing that feel?,T,Insignificant
+It feels empowering! I think I can handle it better now.,P,Mental Health Observations
+"I’m glad to hear that! You’re taking charge of the situation, which is a great step. Is there anything else you’d like to discuss before we wrap up?",T,Insignificant
+"No, I think that’s it for today. I feel more prepared.",P,Progress Evaluation
+That’s fantastic! I’m proud of you for all the progress you’re making. Let’s check in again next week. Take care!,T,Insignificant
+"Thank you, Ellie! See you next time.",P,Insignificant
+Goodbye!,T,Insignificant
+Goodbye!,P,Insignificant

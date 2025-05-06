@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Welcome back! How has your week been?  ,T,Insignificant
+"It’s been a mixed bag, honestly. I went to a film event, but I felt really anxious.  ",P,History of Present Illness (HPI)
+It’s great that you took the step to attend! Can you share what made you feel anxious?  ,T,Insignificant
+"I struggled to talk to anyone. I felt like I was just standing there, watching.  ",P,History of Present Illness (HPI)
+That sounds frustrating. What do you think contributed to that feeling?  ,T,Insignificant
+I think it’s just my shyness. I keep thinking no one will want to talk to me.  ,P,History of Present Illness (HPI)
+It’s easy to fall into that mindset. What would you tell a friend who felt that way?  ,T,Insignificant
+I’d tell them that people are usually more open than they think.  ,P,Insignificant
+Exactly! Sometimes we are our own harshest critics. How did you feel after the event?  ,T,Insignificant
+I was disappointed in myself. I wanted to connect but didn’t know how.  ,P,History of Present Illness (HPI)
+"It’s okay to feel that way. Remember, each experience is a learning opportunity. What could you try differently next time?  ",T,Insignificant
+Maybe I could prepare a few conversation starters in advance.  ,P,Insignificant
+That’s a fantastic idea! Having a few topics in mind can help ease anxiety.  ,T,Insignificant
+I’ll work on that.  ,P,Insignificant
+Great! Let’s talk about your emotions. Have you noticed any changes in how you’re feeling lately?  ,T,Insignificant
+"I’ve been more aware of my anxiety, but I still feel overwhelmed sometimes.  ",P,History of Present Illness (HPI)
+That awareness is a positive step. How do you typically cope when you feel overwhelmed?  ,T,Insignificant
+I usually just try to distract myself with movies or music.  ,P,Current Functional Status
+Those are valid coping mechanisms. Have you considered incorporating mindfulness or breathing exercises?  ,T,Insignificant
+I’ve heard of those but haven’t tried them.  ,P,Insignificant
+Mindfulness can help ground you in the present moment. Would you be open to trying a simple breathing exercise now?  ,T,Therapeutic Interventions
+"Sure, I can do that.  ",P,Insignificant
+Let’s take a deep breath in together... and out. Focus on your breath. How does that feel?  ,T,Insignificant
+It’s calming. I like this.  ,P,Mental Health Observations
+It’s a great tool to have in your toolkit. You can use it whenever you feel anxious.  ,T,Insignificant
+I’ll remember that.  ,P,Insignificant
+Let’s talk about your family. You mentioned feeling closer to your dad. How has that relationship evolved?  ,T,Insignificant
+It’s good! We’ve been talking more regularly since I moved.  ,P,Psychosocial History
+That’s wonderful to hear. Having supportive relationships can be a great source of comfort.  ,T,Insignificant
+"Yeah, it really helps.  ",P,Insignificant
+Are there any family dynamics that you still find challenging?  ,T,Insignificant
+I still struggle with how my mom reacts to things. She tends to be critical.  ,P,Psychosocial History
+That can be tough. Have you considered setting boundaries with her?  ,T,Insignificant
+I haven’t really thought about that.  ,P,Insignificant
+Setting boundaries can help protect your emotional well-being. It’s okay to express your needs.  ,T,Insignificant
+I’ll think about it.  ,P,Insignificant
+"As we wrap up, let’s set a goal for next week. How about practicing that breathing exercise daily?  ",T,Next Steps
+I can do that.  ,P,Insignificant
+Fantastic! And perhaps write down a few conversation starters for your next outing?  ,T,Next Steps
+"Yes, I’ll work on that too.  ",P,Insignificant
+You’re making great strides. I’m proud of you!  ,T,Insignificant
+"Thanks, Ellie. I appreciate your support.  ",P,Insignificant
+"You’re welcome! Have a great week, and I look forward to hearing about your progress.  ",T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

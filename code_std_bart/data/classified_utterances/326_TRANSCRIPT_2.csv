@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s so nice to see you again. How have things been since our last session?  ,T,Insignificant
+"Hey, Ellie! Things have been okay. I tried playing guitar every day like we talked about.  ",P,Current Functional Status
+That’s fantastic! How did that go for you?  ,T,Insignificant
+It was really nice. I felt more relaxed.  ,P,History of Present Illness (HPI)
+I’m glad to hear that! Did you notice any changes in your mood?  ,T,Insignificant
+"Yeah, I felt less stressed overall.  ",P,History of Present Illness (HPI)
+That’s great progress! How about the conversation with your girlfriend? Were you able to talk to her about how you felt?  ,T,Insignificant
+I did! I brought it up during a calm moment.  ,P,Current Functional Status
+That’s excellent! How did she respond?  ,T,Insignificant
+She was surprised but listened. We ended up having a good talk.  ,P,Current Functional Status
+That’s wonderful to hear! It sounds like you’re building better communication.  ,T,Insignificant
+"Yeah, I think so.  ",P,Insignificant
+What did you learn from that conversation?  ,T,Insignificant
+I learned that she didn’t realize she was interrupting me.  ,P,Insignificant
+That’s insightful. It’s great that you both could discuss it openly. Do you feel more comfortable expressing your feelings now?  ,T,Insignificant
+Definitely. I feel like I can talk to her more openly.  ,P,Current Functional Status
+That’s a significant step! How does that impact your relationship?  ,T,Insignificant
+It feels stronger. We’re more in sync now.  ,P,Current Functional Status
+"That’s so encouraging! Moving forward, what other areas would you like to focus on in our sessions?  ",T,Insignificant
+I think I’d like to work on managing stress at work.  ,P,Presenting Problem / Chief Complaint
+Absolutely! We can explore some techniques. Have you tried taking breaks as we discussed?  ,T,Insignificant
+"Yes, I took a break each day. It helped a lot.  ",P,Current Functional Status
+Fantastic! What did you do during those breaks?  ,T,Insignificant
+I went for short walks or just stepped away from my desk.  ,P,Current Functional Status
+Those sound like great ways to recharge. How did you feel after taking those breaks?  ,T,Insignificant
+More focused and less overwhelmed.  ,P,History of Present Illness (HPI)
+That’s great to hear! It seems like you’re discovering what works for you. Would you like to set a new goal around your work stress management?  ,T,Insignificant
+"Yes, I’d like to try some relaxation exercises.  ",P,Next Steps
+Excellent choice! I can guide you through some techniques. How about we start with deep breathing exercises?  ,T,Therapeutic Interventions
+That sounds good.  ,P,Insignificant
+"Let’s practice a simple technique. Inhale deeply through your nose for a count of four, hold for four, and exhale through your mouth for a count of four. Ready?  ",T,Insignificant
+"Okay, let’s do it.  ",P,Insignificant
+Inhale… hold… exhale. How does that feel?  ,T,Insignificant
+It feels calming.  ,P,History of Present Illness (HPI)
+Wonderful! You can use this technique whenever you feel stressed. Would you like to practice this daily?  ,T,Insignificant
+"Yes, I can do that.  ",P,Next Steps
+Fantastic! Let’s aim for a few minutes each day. Is there anything else you want to address today?  ,T,Insignificant
+I think that’s it for now.  ,P,Insignificant
+Alright! You’ve made great strides in our sessions. I’m really proud of you.  ,T,Insignificant
+"Thanks, Ellie! I appreciate it.  ",P,Insignificant
+You’re welcome! I look forward to hearing about your progress next time.  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!  ,T,Insignificant

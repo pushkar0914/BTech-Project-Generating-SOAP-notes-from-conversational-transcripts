@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How did everything go since our last session?,T,Insignificant
+"Hi, Ellie! I actually went hiking on Saturday, and it was really nice to be outdoors.",P,History of Present Illness (HPI)
+That’s wonderful to hear! How did it feel to get back to something you enjoy?,T,Insignificant
+It felt great! I forgot how much I love being in nature. It was refreshing.,P,History of Present Illness (HPI)
+I’m so glad you had that experience. Did you notice any changes in your mood afterward?,T,Insignificant
+"Yeah, I felt a lot lighter and more relaxed. ",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like getting outside was beneficial for you. Did you manage to talk to your partner about how you’ve been feeling?,T,Insignificant
+"I did! It was a little awkward at first, but they were really supportive.",P,History of Present Illness (HPI)
+"That’s great to hear! Opening up can be tough, but it sounds like it strengthened your connection. ",T,Insignificant
+"Yeah, I felt a weight lift off my shoulders.",P,History of Present Illness (HPI)
+That’s a significant step forward. How have you been feeling since then?,T,Insignificant
+"I still have my moments, but I think being honest with them has helped a lot.",P,History of Present Illness (HPI)
+Honesty can be very freeing. Have you been able to keep up with journaling or meditation?,T,Insignificant
+"I started journaling again, but I haven’t tried meditation yet.",P,Current Functional Status
+That’s okay! Journaling is a great start. What have you been writing about?,T,Insignificant
+Mostly my feelings about work and my mom. It helps to get it out on paper.,P,Current Functional Status
+That’s a healthy way to process your emotions. How do you feel after writing?,T,Insignificant
+"I feel a bit lighter, like I’m not holding everything in.",P,History of Present Illness (HPI)
+That’s wonderful! It sounds like you’re finding some effective outlets for your emotions. ,T,Insignificant
+"Yeah, I think so.",P,Insignificant
+Have you noticed any changes in your eating habits since we last spoke?,T,Insignificant
+"I’m trying to be more mindful about what I eat. I still struggle, but I’m working on it.",P,Current Functional Status
+That’s a positive approach. Mindfulness can help you make healthier choices. ,T,Insignificant
+I’ve been trying to listen to my body more.,P,Current Functional Status
+That’s a great practice! It can be helpful to check in with yourself before eating. What does your body really need?,T,Insignificant
+I think I’m getting better at it. ,P,Current Functional Status
+Excellent! You’re making progress. How about your sleep? Have you tried the guided meditation we discussed?,T,Insignificant
+"I did, and it actually helped me fall asleep faster. ",P,Physiological Observations
+That’s fantastic! Meditation can be a powerful tool for relaxation. How are your sleep patterns overall?,T,Insignificant
+"I’m still waking up sometimes, but it’s not as bad as before. ",P,Physiological Observations
+That’s a positive change! It sounds like you’re developing some effective strategies. ,T,Insignificant
+I think so. I just need to keep at it.,P,Insignificant
+Consistency is key. Is there anything else on your mind today that you’d like to discuss?,T,Insignificant
+I’ve been thinking about my mom a lot lately. Some days are harder than others.,P,History of Present Illness (HPI)
+Grief can be a long and winding journey. How are you coping with those harder days?,T,Insignificant
+"I just let myself feel it, but I try to distract myself with other things too.",P,History of Present Illness (HPI)
+That’s a healthy way to approach your grief. Allowing yourself to feel while also finding distractions can create a balance. ,T,Insignificant
+"Yeah, it helps to have those moments of distraction.",P,Insignificant
+Have you considered creating a small ritual to honor her memory?,T,Insignificant
+I haven’t thought about that. What do you mean?,P,Insignificant
+"It could be something simple, like lighting a candle or writing her a letter. It can be a way to connect with your feelings about her.",T,Insignificant
+I like that idea. I might try writing her a letter.,P,Next Steps
+That sounds like a meaningful way to express your feelings. Would you like to set a time to do that?,T,Insignificant
+I think I’ll do it this weekend.,P,Next Steps
+That’s a great plan. I’m looking forward to hearing how that goes. ,T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Remember, you’re not alone in this journey. I’m here for you. ",T,Insignificant
+"I know, and it really helps.",P,Insignificant
+Let’s continue to build on the progress you’ve made. I’ll see you next time!,T,Insignificant
+"Bye, Ellie! ",P,Insignificant

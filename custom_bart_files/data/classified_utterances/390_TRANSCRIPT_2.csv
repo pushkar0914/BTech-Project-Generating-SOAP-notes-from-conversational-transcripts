@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi there! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I’ve been okay, but I’ve had some ups and downs.",P,Insignificant
+"It’s good to see you again. Last time, we talked about incorporating mindfulness into your routine and exploring freelance writing. How has that been going?",T,Insignificant
+"I’ve tried mindfulness a few times, and it does help. I’ve also started looking into freelance writing gigs.",P,History of Present Illness (HPI)
+That’s fantastic! Have you found any opportunities that interest you?,T,Insignificant
+"I found a couple of sites where I can pitch ideas, but I haven’t submitted anything yet.",P,Current Functional Status
+That’s a great start! What’s holding you back from submitting?,T,Insignificant
+I guess I’m just afraid of rejection. ,P,History of Present Illness (HPI)
+"That’s a common fear, especially in creative fields. What if we reframe that fear? Instead of thinking of it as rejection, consider it as a learning opportunity.",T,Insignificant
+That’s a good perspective. I’ll try to keep that in mind.,P,Insignificant
+"Excellent! Remember, every submission is a step forward, even if it doesn’t lead to immediate success.",T,Insignificant
+I’ll work on that mindset.,P,Insignificant
+Great! How have your feelings of anxiety been since we last spoke?,T,Insignificant
+"They’ve been fluctuating. I still worry about bills, but the writing has helped distract me.",P,History of Present Illness (HPI)
+It’s good to have a productive outlet. Have you found any specific strategies that help you manage those anxious thoughts?,T,Insignificant
+I’ve been journaling a bit. It helps me sort through my feelings.,P,Current Functional Status
+That’s wonderful! Journaling can be a powerful tool for processing emotions. What have you been writing about?,T,Insignificant
+Mostly about my worries and the things I’m grateful for.,P,Current Functional Status
+That’s a healthy balance. Focusing on gratitude can shift your perspective. ,T,Insignificant
+It really does. I feel more positive when I write about good things.,P,Insignificant
+I’m glad to hear that! Let’s talk about your acting pursuits. Have you had any new gigs or auditions?,T,Insignificant
+"I had an audition last week, but I’m still waiting to hear back.",P,Current Functional Status
+How did the audition feel for you?,T,Insignificant
+"It felt good, actually. I was nervous, but I think I did my best.",P,Mental Health Observations
+"That’s a great attitude! Regardless of the outcome, you should be proud of putting yourself out there.",T,Insignificant
+"Thanks, Ellie. It’s nice to hear that.",P,Insignificant
+You’re welcome! It’s important to recognize your efforts. How has your relationship with your wife been since we last talked?,T,Insignificant
+We’ve been communicating better. I think we’re both trying to understand each other more.,P,Psychosocial History
+That’s wonderful progress! Have you had any specific conversations that stood out?,T,Insignificant
+We talked about our financial situation and how we can tackle it together. ,P,Psychosocial History
+That’s a healthy approach. Teamwork can really strengthen your relationship.,T,Insignificant
+"Yeah, it feels good to be on the same page.",P,Insignificant
+That’s great! What are some things you both are doing to support each other?,T,Insignificant
+We’re trying to budget together and discuss our goals.,P,Current Functional Status
+That’s a fantastic strategy. It sounds like you’re both committed to improving your situation.,T,Insignificant
+We are. It’s nice to have that support.,P,Insignificant
+Support is crucial. How have you been feeling about your daughter’s upcoming graduation?,T,Insignificant
+"I’m proud of her! It’s a big milestone, and I’m excited for her future.",P,Insignificant
+That’s wonderful! Have you thought about how you’ll celebrate her achievement?,T,Insignificant
+We’re planning a small family gathering. ,P,Insignificant
+That sounds lovely! Celebrating those moments is so important.,T,Insignificant
+"Yes, it is. I want her to know how proud we are.",P,Insignificant
+She’ll appreciate that. Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+I think we’ve covered everything. I feel more optimistic.,P,Insignificant
+"I’m glad to hear that! For our next session, let’s continue to focus on your writing and any new developments in your acting career.",T,Next Steps
+Sounds good! I’ll keep working on my goals.,P,Next Steps
+I look forward to hearing about your progress. Thank you for sharing today!,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

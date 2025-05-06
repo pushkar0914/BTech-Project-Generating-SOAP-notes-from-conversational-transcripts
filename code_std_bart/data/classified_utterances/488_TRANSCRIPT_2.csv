@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi Ellie!  ,P,Insignificant
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+I’ve been okay. I’ve been trying to practice the reframing and mindfulness exercises.  ,P,History of Present Illness (HPI)
+That’s wonderful to hear! How has that been going for you?  ,T,Insignificant
+"I think it’s helped a bit, but I still find myself slipping back into negative thoughts sometimes.  ",P,History of Present Illness (HPI)
+That’s completely normal. It takes time to build new habits. Can you share a recent experience where you used reframing?  ,T,Insignificant
+"Well, I was waiting to hear back from a job application, and I started thinking I wouldn’t get it. But then I reminded myself of what we discussed and reframed it to, “I’ve done my best, and I’ll hear back when I hear back.”  ",P,History of Present Illness (HPI)
+That’s an excellent example! How did that make you feel?  ,T,Insignificant
+"It made me feel a bit more at ease, actually.  ",P,History of Present Illness (HPI)
+Great! It sounds like you’re making progress. Have you heard back from any jobs yet?  ,T,Insignificant
+I did get an interview for one position!  ,P,History of Present Illness (HPI)
+That’s fantastic! How do you feel about it?  ,T,Insignificant
+I’m excited but also really nervous.  ,P,History of Present Illness (HPI)
+Those feelings are completely valid. What strategies do you have in mind to manage that nervousness before the interview?  ,T,Insignificant
+I think I’ll practice some deep breathing and maybe do a mock interview with a friend.  ,P,Therapeutic Interventions
+Those are excellent strategies! Would you like to do a quick mock interview now?  ,T,Insignificant
+"Sure, that sounds helpful.  ",P,Insignificant
+Alright! Let’s start. Why do you want to work for this company?  ,T,Insignificant
+"I admire their commitment to social justice, and I believe my skills in philosophy can contribute to their mission.  ",P,Insignificant
+Great answer! What about a weakness you might have?  ,T,Insignificant
+"I can be disorganized at times, but I’m working on it by using planners and reminders.  ",P,History of Present Illness (HPI)
+That’s a good way to address it! You’re doing really well. How do you feel now after practicing?  ,T,Insignificant
+I feel a bit more confident.  ,P,History of Present Illness (HPI)
+That’s wonderful! Confidence can make a big difference in interviews. Is there anything else you’d like to work on today?  ,T,Insignificant
+I’ve been thinking about my relationship with my boyfriend.  ,P,History of Present Illness (HPI)
+"Okay, what’s been on your mind?  ",T,Insignificant
+"I feel like we’re not communicating as well lately, especially about my job search.  ",P,History of Present Illness (HPI)
+Communication is key in any relationship. What specific issues have you noticed?  ,T,Insignificant
+"I think he gets frustrated when I talk about my anxiety, and I don’t want to burden him.  ",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you talked to him about how you’re feeling?  ,T,Insignificant
+Not really. I just try to keep it to myself.  ,P,History of Present Illness (HPI)
+It might be helpful to express your feelings to him. Would you like to role-play how you might approach that conversation?  ,T,Insignificant
+"Yes, that could help.  ",P,Insignificant
+"Okay, let’s start. Imagine you’re sitting down with him. What would you say?  ",T,Insignificant
+"I’d say, “Hey, I’ve been feeling anxious about my job search, and I want to share that with you, but I don’t want to overwhelm you.”  ",P,History of Present Illness (HPI)
+That’s a great start! How do you think he might respond?  ,T,Insignificant
+"I hope he’d be understanding, but I’m not sure.  ",P,History of Present Illness (HPI)
+It’s good to be honest about your feelings. You might be surprised by his response. Would you like to set a goal to have this conversation before our next session?  ,T,Next Steps
+"Yes, I will try to talk to him this week.  ",P,Next Steps
+"That’s a positive step! Remember, open communication can strengthen your relationship. Is there anything else you’d like to discuss?  ",T,Insignificant
+I think we covered a lot today.  ,P,Insignificant
+I’m glad to hear that! You’ve made some great progress. I look forward to hearing about your interview and your conversation with your boyfriend next time.  ,T,Progress Evaluation
+"Thank you, Ellie!  ",P,Insignificant
+"You’re welcome! Take care, and see you next time.",T,Insignificant

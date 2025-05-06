@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+Hi Ellie! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been doing well, thanks. I actually tried writing down my thoughts before bed, and it helped a lot!",P,History of Present Illness (HPI)
+That’s fantastic! I’m glad to hear that. How did it feel to write everything down?,T,Insignificant
+"It felt freeing, like I could let go of the worries for the night. I didn’t feel as anxious about the next day.",P,History of Present Illness (HPI)
+That’s a great outcome! It sounds like you found a helpful strategy. Did you notice any changes in your sleep quality?,T,Insignificant
+"Yes, I think I slept better overall. I still have some nights where it’s tough, but it’s improving.",P,Physiological Observations
+That’s a positive step forward. Have you been able to incorporate any mindfulness practices as well?,T,Insignificant
+"I tried the breathing exercises we did together, and I actually liked it! I do it for a few minutes every day now.",P,Therapeutic Interventions
+That’s wonderful to hear! How has it impacted your daily life?,T,Insignificant
+I feel calmer and more present. It helps me when I start to feel overwhelmed with everything.,P,History of Present Illness (HPI)
+That’s excellent progress! It sounds like you’re finding ways to manage your anxiety effectively. Have you noticed any other changes in your mood or energy levels?,T,Insignificant
+"I feel more energized during the day, which is nice. I’m able to be more present with my baby, too.",P,Physiological Observations
+That’s great! Being present is so important. Have you had any moments with your baby that stood out to you recently?,T,Insignificant
+Yes! We had a fun day at the park last weekend. Just watching him explore was so heartwarming.,P,Insignificant
+That sounds lovely! Those moments can be really special. Have you been able to take time for yourself as well?,T,Insignificant
+I did! I took a short walk by myself while my husband watched the baby. It felt nice to have that break.,P,Current Functional Status
+"That’s wonderful! Self-care is crucial, especially as a parent. How do you feel about continuing to prioritize that time for yourself?",T,Insignificant
+I think I need to make it a regular thing. It really helps me recharge.,P,Current Functional Status
+Absolutely! Setting aside time for yourself will benefit both you and your family. Is there anything specific you’d like to do for self-care this week?,T,Insignificant
+I’d love to read a book I’ve been meaning to get into. I’ll make some time for that!,P,Next Steps
+"That sounds like a great plan! Reading can be a wonderful escape. Now, let’s talk about your goals for your child psychology courses. Have you made any progress?",T,Insignificant
+"Yes! I enrolled in a couple of online modules, and I’ve started my first one. It’s challenging but exciting!",P,Current Functional Status
+That’s fantastic! How are you feeling about the coursework so far?,T,Insignificant
+"It’s a lot of information, but I’m enjoying it. I feel like I’m learning so much already.",P,Current Functional Status
+That’s great to hear! Remember to take breaks and pace yourself. Have you been able to connect with any peers in the courses?,T,Insignificant
+"Not yet, but I’m thinking about joining a discussion forum to meet others.",P,Next Steps
+That’s a wonderful idea! Connecting with others can provide support and motivation. How do you feel about reaching out to others?,T,Insignificant
+"I’m a bit shy about it, but I know it could be beneficial.",P,Insignificant
+It’s completely normal to feel shy. Maybe you could start by commenting on a post or sharing your thoughts in the forum.,T,Insignificant
+That sounds manageable. I’ll give it a try!,P,Next Steps
+"Great! I’m looking forward to hearing how that goes. Now, let’s circle back to your relationship with your mom. Have you had a chance to share more with her?",T,Insignificant
+I did! I told her about my courses and how I’m feeling. She was really supportive and offered to help with the baby when I study.,P,Psychosocial History
+That’s wonderful! It sounds like you’re building a strong support system. How did it feel to open up to her?,T,Insignificant
+"It felt good! I think it brought us closer, and I felt less alone in my journey.",P,Psychosocial History
+That’s fantastic! Building that connection is so valuable. Is there anything else you’d like to work on today?,T,Insignificant
+I’d like to talk about how to handle stress when things get overwhelming. I sometimes struggle with that.,P,Presenting Problem / Chief Complaint
+That’s a great topic. What specific situations tend to trigger your stress?,T,Insignificant
+"When the baby is crying, and I have a lot to do, I feel like I can’t handle it all.",P,History of Present Illness (HPI)
+It’s understandable to feel overwhelmed in those moments. Have you thought about any techniques to help you manage that stress when it arises?,T,Insignificant
+I haven’t really. I just tend to freeze up and feel panic.,P,History of Present Illness (HPI)
+"One technique you could try is grounding yourself. When you start to feel overwhelmed, take a moment to focus on your breath and remind yourself of your surroundings.",T,Therapeutic Interventions
+That sounds helpful. I could try that when things get chaotic.,P,Next Steps
+Absolutely! It can help bring you back to the present moment. Would you like to set a goal to practice that this week?,T,Insignificant
+"Yes, I’ll work on it. Thank you!",P,Next Steps
+You’re welcome! It sounds like you’re making great strides in managing your emotions and building your future. I’m really proud of you.,T,Insignificant
+Thank you! I appreciate your support.,P,Insignificant
+Of course! I look forward to hearing about your progress next time. Take care of yourself this week!,T,Insignificant
+I will! Bye!,P,Insignificant
+Goodbye!,T,Insignificant

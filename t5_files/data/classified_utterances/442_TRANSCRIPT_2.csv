@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I’ve been trying to implement what we talked about.",P,Progress Evaluation
+That’s great to hear! How did breaking down your project go?,T,Insignificant
+It actually helped a lot. I outlined what I needed to do and started working on it in sections.,P,Progress Evaluation
+That’s fantastic! It sounds like you made some good progress. How did that affect your anxiety levels?,T,Insignificant
+I felt less overwhelmed. It was nice to check things off one by one.,P,History of Present Illness (HPI)
+That’s a wonderful accomplishment! It’s amazing how small steps can lead to significant progress. Did you also manage to connect with your family?,T,Insignificant
+"Yes! I scheduled a video call with my mom, and it went really well. We talked for over an hour.",P,Psychosocial History
+That’s excellent! It must have felt good to reconnect. How did that impact your feelings about your family?,T,Insignificant
+It made me feel closer to them. I realized how much I missed those conversations.,P,Psychosocial History
+I’m glad to hear that. Maintaining those connections can be so beneficial for your emotional well-being. Have you thought about continuing those calls regularly?,T,Insignificant
+Definitely! I think I’ll make it a weekly thing.,P,Next Steps
+"That sounds like a great plan. Now, let’s revisit the topic of relationships. Have you had any opportunities to meet new people since we last spoke?",T,Insignificant
+"I went to a local music event last weekend. It was fun, but I didn’t really connect with anyone.",P,Psychosocial History
+That’s okay! It can take time to find the right connections. What did you enjoy about the event?,T,Insignificant
+"The music was great, and I loved the atmosphere. It felt good to be out and about.",P,Psychosocial History
+"That’s wonderful! Sometimes just being in a social setting can lift your spirits, even if you don’t connect with someone right away. Are there any other events you’re considering attending?",T,Insignificant
+I might check out an art gallery opening next week. I think that could be interesting.,P,Next Steps
+That sounds like a fantastic idea! Engaging in your interests often leads to meeting people who share similar passions. How do you feel about putting yourself out there again?,T,Insignificant
+"A little nervous, but I think it’ll be good for me.",P,History of Present Illness (HPI)
+"It’s normal to feel nervous. Just remember to be yourself and enjoy the experience. You might surprise yourself! Now, let’s talk about your mental health. Have you noticed any changes in your mood or anxiety levels recently?",T,Insignificant
+I’ve had some ups and downs. Some days are better than others.,P,History of Present Illness (HPI)
+That’s completely understandable. It’s common to experience fluctuations. Have you been able to use any coping strategies when you’re feeling down?,T,Insignificant
+"I’ve been trying to meditate more, and I’ve also been journaling my thoughts.",P,Therapeutic Interventions
+Those are excellent practices! Journaling can be a powerful tool for processing emotions. How has that been for you?,T,Insignificant
+It’s been helpful. Writing things down makes them feel less overwhelming.,P,Therapeutic Interventions
+That’s a great insight. It can provide clarity and help you manage your thoughts. Have you noticed any recurring themes in your journaling?,T,Insignificant
+A lot of it revolves around my feelings of inadequacy and the pressure I put on myself.,P,History of Present Illness (HPI)
+It’s important to acknowledge those feelings. They can be quite heavy. Would you like to explore where those feelings might be coming from?,T,Insignificant
+I think it stems from my childhood and the expectations placed on me.,P,Trauma History
+"That makes sense. Often, our past experiences shape how we view ourselves. Would you like to delve deeper into those childhood experiences in our next session?",T,Insignificant
+"Yes, I think that could be helpful.",P,Next Steps
+"Great! We can explore that further. As we wrap up today’s session, what’s one action step you’d like to take before our next meeting?",T,Insignificant
+I want to continue journaling and go to that art gallery opening.,P,Next Steps
+"That sounds like a solid plan! I look forward to hearing how it goes. Remember, take things one step at a time, and be kind to yourself.",T,Insignificant
+"Thanks, Ellie. I really appreciate your support.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

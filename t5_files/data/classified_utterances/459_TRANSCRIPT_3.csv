@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s so good to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I’ve had a bit of a rough week. I tried writing about my feelings, but it brought up a lot of emotions.",P,History of Present Illness (HPI)
+I appreciate your honesty. It can be difficult to confront those feelings. Can you tell me more about what you experienced?,T,Insignificant
+"I wrote about my dad and how angry I still feel. It made me cry, and I didn’t expect that.",P,History of Present Illness (HPI)
+It’s completely normal to feel emotional when processing past experiences. Crying can be a healthy release. How did you feel afterward?,T,Insignificant
+"I felt a bit lighter, but also exhausted. It was overwhelming.",P,Physiological Observations
+That’s a common reaction. It’s important to give yourself grace and time to process those emotions. Have you been able to talk to anyone about how you’re feeling?,T,Insignificant
+"I mentioned it to my girlfriend, and she was really supportive. She encouraged me to keep writing.",P,Psychosocial History
+That’s wonderful to hear! Having a supportive partner can make a big difference. Have you thought about what you want to explore in your writing next?,T,Insignificant
+I think I want to write about my relationship with my mom and how that impacts me.,P,History of Present Illness (HPI)
+That sounds like a meaningful direction. Exploring that relationship could provide valuable insight into your feelings. ,T,Insignificant
+"Yeah, I think it’ll help me understand why I react the way I do sometimes.",P,History of Present Illness (HPI)
+Absolutely. It’s all connected. Have you had any interactions with your mom since our last session?,T,Insignificant
+"We’ve been getting along better, actually. I think cooking together helped.",P,Psychosocial History
+That’s great progress! It sounds like you’re building a healthier dynamic. How do you feel about your relationship with her now?,T,Insignificant
+I feel hopeful. I think we’re starting to communicate better.,P,History of Present Illness (HPI)
+That’s a positive shift. Communication is key in any relationship. Have you noticed any changes in your anger levels as a result?,T,Insignificant
+"Yeah, I’ve been less reactive. I think the meditation is helping a lot.",P,History of Present Illness (HPI)
+That’s fantastic! It’s great to hear how your efforts are paying off. Have you been able to maintain your sleep routine?,T,Insignificant
+"It’s been hit or miss. Some nights are better than others, but I’m trying.",P,Physiological Observations
+"That’s all you can do. It’s a process, and it’s okay to have ups and downs. Would it help to establish a consistent bedtime this week?",T,Insignificant
+I think that could help. I’ll try to be more disciplined about it.,P,Next Steps
+Great! Consistency can really make a difference. Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+I guess I’m still worried about my dad. I don’t know if I should reach out to him.,P,History of Present Illness (HPI)
+That’s understandable. It can be challenging to navigate those feelings. What are your concerns about reaching out?,T,Insignificant
+I’m scared of getting hurt again. I don’t want to open old wounds.,P,Risk Assessment
+That’s a valid concern. It’s important to prioritize your emotional safety. Have you thought about what you’d want to say if you did reach out?,T,Insignificant
+I haven’t really thought that far ahead. I just feel conflicted.,P,History of Present Illness (HPI)
+It’s okay to take your time with that decision. Maybe writing down your thoughts about it could help clarify how you feel. ,T,Therapeutic Interventions
+That could work. I’ll think about it.,P,Insignificant
+"Good. Remember, you don’t have to rush into anything. It’s about what feels right for you. ",T,Insignificant
+"Thanks, Ellie. This really helps.",P,Insignificant
+"I’m glad to hear that. Let’s continue to work on your writing and sleep routine, and we can revisit the idea of reaching out to your dad when you feel ready.",T,Next Steps
+Sounds like a plan.,P,Insignificant
+I look forward to hearing about your progress next time. Take care of yourself!,T,Insignificant
+"You too, bye!",P,Insignificant

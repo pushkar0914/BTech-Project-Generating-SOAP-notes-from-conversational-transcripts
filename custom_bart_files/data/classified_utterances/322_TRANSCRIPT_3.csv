@@ -1,0 +1,34 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! It’s great to see you again. How have things been going since our last session?,T,Insignificant
+"Hi, Ellie! Things have been going well. I successfully delivered my presentation last week!",P,History of Present Illness (HPI)
+That’s fantastic! How did it go?,T,Insignificant
+"It went better than I expected. I was nervous, but I used the breathing techniques, and it really helped.",P,History of Present Illness (HPI)
+I’m so glad to hear that! It sounds like your preparation paid off. How did you feel afterward?,T,Insignificant
+I felt a huge sense of relief and accomplishment. It was nice to receive positive feedback from my colleagues too.,P,History of Present Illness (HPI)
+That’s wonderful! Positive reinforcement can be so motivating. Have you noticed any changes in your confidence since that experience?,T,Insignificant
+Definitely! I feel more confident in my abilities to handle similar situations in the future.,P,History of Present Illness (HPI)
+That’s an important realization. Building confidence can significantly impact your overall well-being. How has your connection with your niece and nephew been since your outing?,T,Insignificant
+"We went to a movie together last weekend, and we had a great time again. They really seem to enjoy spending time with me.",P,Psychosocial History
+That’s heartwarming! It sounds like you’re establishing a strong bond with them. How does that make you feel?,T,Insignificant
+It makes me really happy. I love seeing them smile and having fun together.,P,Psychosocial History
+That’s beautiful. It’s clear that you’re making a positive impact in their lives. Have you thought about any future activities you’d like to do with them?,T,Insignificant
+I want to take them to a science museum next. I think they would love it!,P,Psychosocial History
+"That sounds like a great idea! Engaging them in educational activities can be very enriching. Now, let’s revisit your relationship with your brother. How has that been going?",T,Insignificant
+"We’ve had a few more conversations, and while we still disagree, I think we’re understanding each other better.",P,Psychosocial History
+That’s a significant improvement. It sounds like you’re both working towards better communication. Are there any specific techniques you’ve found helpful in these conversations?,T,Insignificant
+I’ve been trying to ask more questions and really listen to his point of view.,P,Psychosocial History
+That’s an excellent approach. Asking questions can foster deeper understanding. Have you found any common ground during your discussions?,T,Insignificant
+"A little bit. We both care about our parents, and I think that’s a good starting point.",P,Psychosocial History
+Absolutely! Focusing on shared values can help bridge differences. Is there anything else on your mind today that you’d like to explore?,T,Insignificant
+I’ve been thinking about my career path lately. I’m not sure if I want to continue in finance or explore something new.,P,Presenting Problem / Chief Complaint
+That’s a big consideration. What’s prompting you to think about a change?,T,Insignificant
+"I’ve been feeling a bit unfulfilled lately, and I want to make sure I’m doing something that truly excites me.",P,History of Present Illness (HPI)
+It’s important to feel fulfilled in your career. Have you thought about what areas you might like to explore?,T,Insignificant
+"I’ve always been interested in teaching or mentoring, but I’m not sure how to transition into that.",P,History of Present Illness (HPI)
+Teaching can be a very rewarding path. Perhaps we can explore ways to gain experience in that area. Would you be open to setting a goal to research opportunities or volunteer in teaching?,T,Next Steps
+"Yes, I’d like that! I’ll look into local programs or workshops.",P,Next Steps
+"That sounds like a productive plan. It’s great to see you considering new possibilities. As we wrap up today, what’s one takeaway you’d like to focus on until our next session?",T,Insignificant
+I want to focus on exploring teaching opportunities and continue nurturing my relationships with my family.,P,Next Steps
+Those are excellent goals! I’m excited to hear about your progress next time. Take care!,T,Insignificant
+"Thank you, Ellie! I appreciate your support. Bye!",P,Insignificant
+Bye!,T,Insignificant

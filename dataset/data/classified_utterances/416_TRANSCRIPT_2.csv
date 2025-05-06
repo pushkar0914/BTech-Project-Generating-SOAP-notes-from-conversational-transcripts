@@ -1,0 +1,31 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How did your week go? Were you able to work on your list of interests?,T,Insignificant
+"Hi! Yes, I did. I wrote down a few things I’m interested in, but I still feel a bit lost about them.",P,Presenting Problem / Chief Complaint
+That’s a great start! What did you write down?,T,Insignificant
+"I wrote down cooking, astronomy, and maybe starting a blog about travel.",P,Presenting Problem / Chief Complaint
+"Those are fantastic interests! Cooking can be a great creative outlet, and combining it with travel sounds exciting. What about cooking appeals to you?",T,Insignificant
+I love experimenting with new recipes and flavors. It’s relaxing for me.,P,Presenting Problem / Chief Complaint
+That’s wonderful! Cooking can also be a way to connect with others. Have you thought about sharing your cooking with friends or family?,T,Insignificant
+I have! I’ve thought about hosting a small dinner party.,P,Presenting Problem / Chief Complaint
+That sounds like a great idea! It could be a fun way to combine your interest in cooking and spending time with friends. How does that make you feel?,T,Insignificant
+"Excited, but also a little nervous. What if they don’t like my food?",P,History of Present Illness (HPI)
+"It’s normal to feel nervous, but remember that it’s about the experience and connection, not just the food. Your friends will appreciate the effort you put into it.",T,Insignificant
+That’s true. I’ll try to keep that in mind.,P,Insignificant
+Good! How about your conversations with friends regarding your feelings? Were you able to open up to anyone?,T,Insignificant
+"Yes, I talked to one of my close friends about how I’ve been feeling since the breakup. It felt good to share.",P,History of Present Illness (HPI)
+That’s fantastic! How did your friend respond?,T,Insignificant
+They were really supportive and said they’re there for me. It helped a lot.,P,History of Present Illness (HPI)
+That’s so important to have that support. It can make a big difference in how we process our feelings. Have you noticed any changes in your mood since you’ve been more open?,T,Insignificant
+"Yeah, I think I feel less heavy. It’s nice to talk about it instead of keeping it all inside.",P,History of Present Illness (HPI)
+That’s a significant realization! It’s often easier to carry our burdens when we share them. How about your goals for the upcoming week?,T,Insignificant
+I want to plan that dinner party and maybe try a new recipe.,P,Current Functional Status
+That sounds like a fun project! Do you have a specific recipe in mind?,T,Insignificant
+I was thinking of making homemade pasta. I’ve never tried it before!,P,Current Functional Status
+"That’s ambitious! It could be a great learning experience. I’d love to hear how it goes. Remember to enjoy the process, even if it doesn’t turn out perfectly.",T,Insignificant
+"Thanks, I’ll keep that in mind.",P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I guess I just want to keep working on not feeling like I’m settling for less. I want to feel more driven.,P,Presenting Problem / Chief Complaint
+That’s a great insight. Perhaps we can explore what drives you and what might ignite that passion in you. Would you like to dive into that next session?,T,Next Steps
+"Yes, I’d like that.",P,Next Steps
+"Perfect! I’m looking forward to it. Have a wonderful week, and enjoy your cooking!",T,Insignificant
+Thank you! See you next time.,P,Insignificant

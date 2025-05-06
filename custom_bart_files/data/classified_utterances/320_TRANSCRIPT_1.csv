@@ -1,0 +1,56 @@
+﻿Utterance,Type,Classified_Subsection
+[syncing]  ,P,Insignificant
+Hi again! It’s nice to see you. How have you been since our last session?  ,T,Insignificant
+"I’ve been okay, I guess. Just trying to keep busy.  ",P,Insignificant
+That’s good to hear. You mentioned feeling a bit uneasy last time. Has that changed at all?  ,T,History of Present Illness (HPI)
+"A little, but I still have those moments where I feel anxious.  ",P,History of Present Illness (HPI)
+I understand. Can you tell me more about what triggers that anxiety for you?  ,T,History of Present Illness (HPI)
+"Well, sometimes it’s just random things, like being in crowded places, or even just thinking about the past.  ",P,History of Present Illness (HPI)
+That makes sense. Crowded places can be overwhelming. Have you tried any techniques to manage that anxiety?  ,T,History of Present Illness (HPI)
+I’ve been trying to use some deep breathing exercises. They help a bit.  ,P,Therapeutic Interventions
+That’s a great strategy. How do you feel when you use those techniques?  ,T,History of Present Illness (HPI)
+"I feel a little calmer, but it’s not a permanent fix.  ",P,History of Present Illness (HPI)
+It’s normal for it to take time. How about your sleep? Have you been able to get any better rest?  ,T,Physiological Observations
+"Not really. I still have nightmares, and it makes it hard to fall asleep.  ",P,Physiological Observations
+I’m sorry to hear that. Have you noticed any specific themes in your nightmares?  ,T,History of Present Illness (HPI)
+"Most of the time, it’s related to the trauma. I see faces, and I can’t escape.  ",P,Trauma History
+That sounds really distressing. How do you cope when you wake up from those nightmares?  ,T,History of Present Illness (HPI)
+I usually just sit up and try to breathe through it. Sometimes I’ll turn on the TV to distract myself.  ,P,Therapeutic Interventions
+That’s a good way to ground yourself. Have you ever considered keeping a journal to write down your feelings after a nightmare?  ,T,Therapeutic Interventions
+"I haven’t, but that might help.  ",P,Insignificant
+It could be a good way to process those emotions. Would you be willing to give it a try?  ,T,Next Steps
+"Sure, I can try that.  ",P,Next Steps
+Great! Let’s discuss your progress with the breathing exercises and journaling next time. How does that sound?  ,T,Next Steps
+Sounds good.  ,P,Insignificant
+I also wanted to check in about your relationship with your son. How’s that going?  ,T,Psychosocial History
+"It’s okay. We have our ups and downs, but I try my best.  ",P,Psychosocial History
+What’s been the most challenging part of parenting for you lately?  ,T,Psychosocial History
+I think it’s just balancing my own feelings and being there for him.  ,P,Psychosocial History
+That’s a tough balance to strike. Have you talked to him about how you’re feeling?  ,T,Psychosocial History
+Not really. I don’t want to burden him.  ,P,Psychosocial History
+"It’s understandable to feel that way, but sometimes sharing a bit can help strengthen your bond.  ",T,Psychosocial History
+I guess you’re right. I just don’t want him to worry.  ,P,Psychosocial History
+"It’s a valid concern. Perhaps you could share small bits, just to let him know you’re human too.  ",T,Psychosocial History
+I can try that.  ,P,Next Steps
+Excellent. What do you think would help you feel more comfortable doing that?  ,T,Next Steps
+"Maybe if I write it down first, then I can share it with him.  ",P,Next Steps
+That sounds like a good plan! Writing can help clarify your thoughts.  ,T,Next Steps
+"Yeah, I’ll give it a shot.  ",P,Next Steps
+Is there anything else on your mind that you’d like to discuss today?  ,T,Insignificant
+I’ve been thinking about going back to therapy again.  ,P,Presenting Problem / Chief Complaint
+That’s an important step. What’s motivating you to return?  ,T,Insignificant
+"I feel like I need more support, especially with everything I’ve been through.  ",P,Presenting Problem / Chief Complaint
+That’s completely understandable. Seeking support is a sign of strength. Have you thought about what you want to achieve in therapy this time?  ,T,Insignificant
+I want to learn how to cope better and maybe find a way to let go of some anger.  ,P,Presenting Problem / Chief Complaint
+That’s a great goal. Working on coping strategies and processing anger can be very beneficial.  ,T,Next Steps
+"Yeah, I just don’t know where to start.  ",P,Insignificant
+"Starting with small steps, like journaling or even talking to someone you trust, can be a good beginning.  ",T,Next Steps
+I can try that.  ,P,Next Steps
+"I’m glad to hear that. Remember, it’s okay to take your time with this process.  ",T,Insignificant
+"Thanks, I appreciate that.  ",P,Insignificant
+"Before we wrap up, is there anything you’d like to focus on for our next session?  ",T,Insignificant
+I’d like to talk more about my nightmares and maybe how to manage them.  ,P,Next Steps
+"Absolutely, we can dive deeper into that next time. Thank you for sharing today.  ",T,Insignificant
+"Thank you, Ellie.  ",P,Insignificant
+"Take care, and I’ll see you next time!  ",T,Insignificant
+Bye!,P,Insignificant

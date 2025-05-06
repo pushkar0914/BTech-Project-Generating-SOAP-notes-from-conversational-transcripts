@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you. How have you been since our last session?,T,Insignificant
+"I've been okay, I guess. Just trying to adjust to everything.",P,Insignificant
+"That's understandable. Last time, we talked about your feelings regarding your kids and the challenges of being away from them. Have you had any thoughts about that since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, I think about them a lot. I still feel guilty about not being there for them.",P,History of Present Illness (HPI)
+It sounds like that guilt is weighing heavily on you. Have you found any ways to cope with those feelings?,T,History of Present Illness (HPI)
+"I've tried to distract myself, but sometimes it just creeps back in.",P,History of Present Illness (HPI)
+What kinds of distractions have you found helpful?,T,Insignificant
+"Hanging out with friends, listening to music, or just binge-watching shows.",P,Insignificant
+"Those sound like good strategies. Have you been able to connect with your kids at all, even if it’s just through a phone call or video chat?",T,History of Present Illness (HPI)
+"A few times, but it’s hard. I feel like I'm not really there for them, you know?",P,History of Present Illness (HPI)
+It’s tough when physical distance creates emotional distance. What do you think would help you feel more connected to them?,T,Insignificant
+Maybe if I could visit them or if they could come here. But that’s not really possible right now.,P,History of Present Illness (HPI)
+It sounds like you’re feeling stuck. What do you think you could do in the meantime to feel more connected?,T,Insignificant
+I could try to call them more often or send them little gifts. ,P,Next Steps
+That’s a great idea! Small gestures can remind them that you care. What would you want to tell them during those calls?,T,Insignificant
+I want them to know that I love them and that I think about them all the time.,P,Insignificant
+That’s really important for them to hear. How do you think they would respond to that?,T,Insignificant
+"I think they’d appreciate it, but I worry they might feel sad too.",P,History of Present Illness (HPI)
+"It’s natural to worry about their feelings. Sometimes, being honest about your emotions can help strengthen your bond. What do you think?",T,Insignificant
+I guess that makes sense. I just don’t want to burden them with my problems.,P,History of Present Illness (HPI)
+"That’s understandable. However, sharing your feelings can also show them that it’s okay to express emotions. It might even help them feel more comfortable sharing their own feelings with you.",T,Insignificant
+"Yeah, I hadn’t thought about it that way.",P,Insignificant
+Have you noticed any changes in your stress levels since our last session?,T,History of Present Illness (HPI)
+"I still feel stressed, especially about work and money.",P,History of Present Illness (HPI)
+Stress can definitely take a toll. Have you tried any relaxation techniques or coping strategies we discussed last time?,T,Insignificant
+"I’ve tried listening to music more, but I still feel overwhelmed sometimes.",P,History of Present Illness (HPI)
+Music can be a great outlet. Have you considered trying mindfulness or meditation to help ground yourself?,T,Therapeutic Interventions
+I’ve heard of it but never really tried it.,P,Insignificant
+Would you be open to exploring some mindfulness exercises together?,T,Therapeutic Interventions
+"Sure, I’d be willing to try.",P,Insignificant
+"Great! One simple technique is focusing on your breath. Let’s try it together. Take a deep breath in, hold it for a moment, and then slowly exhale. ",T,Therapeutic Interventions
+"<breathes> Okay, I think I’m doing it.",P,Insignificant
+"Excellent! Just continue to breathe deeply and focus on how your body feels. If your mind wanders, gently bring your focus back to your breath.",T,Insignificant
+<sighs> It actually feels nice to just focus on breathing.,P,Physiological Observations
+That’s wonderful to hear. Practicing this for a few minutes each day might help you manage stress better. How does that sound?,T,Therapeutic Interventions
+That sounds doable. I’ll give it a try.,P,Next Steps
+Perfect! Let’s check in on your goals for the week. Would you like to set a goal around connecting with your kids and practicing mindfulness?,T,Next Steps
+"Yeah, I think I can do that. ",P,Next Steps
+How about aiming to call your kids at least once this week and practice mindfulness for a few minutes each day?,T,Next Steps
+That sounds reasonable.,P,Next Steps
+Great! I’m looking forward to hearing how that goes in our next session. Is there anything else on your mind today?,T,Insignificant
+"Just the usual worries, but I feel a bit better talking about it.",P,History of Present Illness (HPI)
+"I'm glad to hear that. Remember, it’s okay to reach out for support when you need it. ",T,Insignificant
+"Thank you, I appreciate it.",P,Insignificant
+You're welcome! I’m here for you. Let’s meet again next week. ,T,Insignificant
+Sounds good. See you then!,P,Insignificant
+Bye for now!,T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing a bit better, actually. I started working on my photography project.",P,History of Present Illness (HPI)
+That’s fantastic! How has that experience been for you?,T,Insignificant
+It’s been really enjoyable. I cleared out some space in my apartment and set up a little corner for my studio.,P,Insignificant
+That’s wonderful to hear! How does it feel to have that dedicated space for your creativity?,T,Insignificant
+It feels really good. I love having a place where I can focus on my photography without distractions.,P,Mental Health Observations
+That’s great! Have you had a chance to do any portrait photography yet?,T,Insignificant
+"Yes, I actually invited a friend over for a mini photo shoot last weekend. It was so much fun!",P,Insignificant
+That sounds amazing! How did it go?,T,Insignificant
+"It went really well! We laughed a lot, and I got some great shots. It felt good to be in that creative flow again.",P,Mental Health Observations
+I’m so glad to hear that! It sounds like you’re really finding joy in your photography. Have you noticed any changes in your mood since starting this project?,T,Insignificant
+"Yes, definitely. I feel more motivated and less weighed down by negative thoughts.",P,History of Present Illness (HPI)
+That’s a significant change! It seems like engaging in creative activities is helping you manage your mood. Have you continued with the mindfulness practice before your sessions?,T,Insignificant
+"I have! I’ve been doing it before I start shooting, and it helps me focus.",P,Therapeutic Interventions
+That’s fantastic! Mindfulness can really enhance your creative process. How do you feel it’s affecting your photography?,T,Insignificant
+I think it helps me be more present. I notice more details and feel less rushed.,P,Mental Health Observations
+That’s a wonderful benefit. Being present can really enhance your artistic expression. Have you thought about any future photography projects or themes you’d like to explore?,T,Insignificant
+I’ve been thinking about doing a series on local landmarks. I want to capture them in different lighting and seasons.,P,Insignificant
+That sounds like a beautiful project! It could also provide you with a sense of purpose and structure. What steps do you think you could take to start this series?,T,Insignificant
+I could make a list of landmarks I want to shoot and plan out some times to go.,P,Next Steps
+That’s a great plan! Setting specific goals can help keep you motivated. How about we set a goal for you to photograph at least two landmarks in the next week?,T,Next Steps
+I like that idea! I’ll aim for that.,P,Next Steps
+"Perfect! It’ll be exciting to hear about your experiences next time. Now, let’s check in on those darker thoughts you mentioned previously. Have they come up again?",T,Insignificant
+"A little, but I’ve been able to redirect my focus more easily. It’s still there, but it doesn’t consume me as much.",P,History of Present Illness (HPI)
+"That’s a positive development! It sounds like you’re gaining more control over those thoughts. When they arise, what strategies have you been using to redirect your focus?",T,Insignificant
+I’ve been reminding myself to think about my photography or even just going for a walk to clear my mind.,P,Therapeutic Interventions
+Those are excellent strategies! Physical activity and creative expression can be very effective in managing negative thoughts. Have you noticed any specific triggers for those thoughts?,T,Insignificant
+I think it happens more when I’m alone for too long or when I’m not busy.,P,History of Present Illness (HPI)
+That’s valuable insight. It might be beneficial to create a list of activities you can turn to when you start feeling that way. Would you like to brainstorm some options together?,T,Insignificant
+"Sure! I could go for a walk, call a friend, or pick up a book to read.",P,Next Steps
+Those are great options! Having a list can help you act quickly when you start to feel those negative thoughts creeping in. ,T,Insignificant
+I’ll make that list. It’ll be helpful.,P,Next Steps
+"Wonderful! As we wrap up today, is there anything else you’d like to share or discuss?",T,Insignificant
+I think I’m good for now. I feel like I’m on the right track.,P,Insignificant
+"I’m so glad to hear that! Remember, it’s all about progress, not perfection. I’m looking forward to hearing about your photography adventures next time.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant

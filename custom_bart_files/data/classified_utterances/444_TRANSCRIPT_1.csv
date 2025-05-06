@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's good to see you back. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I've been okay, I think. A bit up and down, but overall, I'm doing alright.",P,History of Present Illness (HPI)
+That’s good to hear. You mentioned feeling good after your camping trip last time. Have you had a chance to do anything similar since then?,T,Insignificant
+Not really. I’ve been caught up with work and the kids’ schedules. It’s hard to find time.,P,Psychosocial History
+I understand. Balancing everything can be challenging. How have you been managing the stress of your daily life?,T,Insignificant
+"I've been trying to meditate more regularly, but it’s tough to stick with it. I often forget or get distracted.",P,History of Present Illness (HPI)
+"It sounds like you're making an effort, which is great. Would you like to explore some techniques that could help you stay consistent with your meditation practice?",T,Insignificant
+"Yes, I’d appreciate that. I think I need some structure.",P,Insignificant
+"One approach could be setting a specific time each day for meditation, even if it's just five minutes. Do you think that could work for you?",T,Insignificant
+That sounds doable. Maybe in the morning before the kids wake up?,P,Insignificant
+That’s a great idea! Mornings can be a peaceful time. How do you feel about the idea of keeping a journal to note your feelings and experiences during meditation?,T,Insignificant
+I like that idea! It might help me reflect on my progress and keep me motivated.,P,Therapeutic Interventions
+"Absolutely! Journaling can provide insight into your thoughts and emotions. Speaking of emotions, you mentioned feeling overwhelmed at home. Have you had any situations where you felt that way recently?",T,Insignificant
+"Yes, actually. Just last week, I lost my temper again while cooking dinner. The kids were all over the place, and I just snapped.",P,History of Present Illness (HPI)
+I appreciate your honesty. How did you handle that situation afterward?,T,Insignificant
+"I isolated myself for a bit, took some deep breaths, and then apologized to the kids. I feel guilty afterward.",P,Progress Evaluation
+It's good that you recognized it and apologized. How do you think your kids responded to your apology?,T,Insignificant
+"They were understanding, but I could see they were still a bit hurt. I want to be a better example for them.",P,Psychosocial History
+That’s a positive mindset. It’s important to model emotional awareness for your children. What steps can you take to express your feelings before they escalate?,T,Insignificant
+I think I need to communicate better. Maybe I can tell them when I’m feeling overwhelmed before it gets to that point.,P,Therapeutic Interventions
+"That’s a great strategy. You could also practice using “I” statements to express your feelings. For example, “I feel stressed when there’s too much noise while I’m cooking.” ",T,Therapeutic Interventions
+That makes sense. I’ll try that. ,P,Insignificant
+Wonderful! How about your sleep? Have you been able to implement any changes to improve it since our last session?,T,Insignificant
+"I’ve been trying to read less at night, but it’s hard. I still find myself up late.",P,Physiological Observations
+It can be tough to break habits. Have you considered setting a specific bedtime for yourself?,T,Insignificant
+"I haven’t, but that’s a good idea. If I set a time to wind down, I might actually stick to it.",P,Therapeutic Interventions
+Exactly! Establishing a bedtime routine can signal to your body that it’s time to rest. What would that routine look like for you?,T,Insignificant
+"I could start by turning off screens an hour before bed, maybe do some light stretching or read something calming instead.",P,Therapeutic Interventions
+That sounds like a solid plan. Remember to be gentle with yourself as you make these changes. ,T,Insignificant
+"Thank you, I appreciate that. ",P,Insignificant
+"Of course! You’re making progress, and it’s important to recognize that. How do you feel about the goals we’ve discussed today?",T,Insignificant
+I feel optimistic. I think having a plan will help me stay on track.,P,Progress Evaluation
+"I’m glad to hear that! Let’s set some specific goals for the next session. How about we check in on your meditation practice, journaling, and sleep routine?",T,Next Steps
+"Yes, that sounds good. I’ll make sure to keep track of everything.",P,Next Steps
+Great! I look forward to hearing about your experiences next time. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we covered a lot. Thank you for your help!",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

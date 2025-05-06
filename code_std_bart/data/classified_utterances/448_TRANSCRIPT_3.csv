@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I’ve been doing okay. I managed to stick to the walks and tried a new recipe!",P,Current Functional Status
+That’s fantastic! How did the recipe turn out?,T,Insignificant
+"It was a little rough around the edges, but it was edible! I made a stir-fry with lots of veggies.",P,Insignificant
+That’s a great choice! Cooking can be a fun way to explore healthy eating. How did you feel after making it?,T,Insignificant
+"I felt accomplished, like I was taking charge of my health a bit.",P,History of Present Illness (HPI)
+That’s an empowering feeling! Have you noticed any changes in your motivation or mood since we last spoke?,T,Insignificant
+"I think I’ve been feeling a little more motivated, but I still have my days where I just don’t want to do anything.",P,History of Present Illness (HPI)
+"That’s completely normal, especially when coping with grief. It’s important to honor those feelings too. Have you found any strategies that help when you’re feeling low?",T,Insignificant
+The grounding exercise has been helpful. I’ve used it a couple of times when I start to spiral.,P,Therapeutic Interventions
+That’s great to hear! It’s all about finding what works for you. Have you had any moments that felt particularly challenging recently?,T,Insignificant
+"Yeah, I had a day where I just felt really sad and overwhelmed. I missed my uncle a lot.",P,History of Present Illness (HPI):Risk Assessment
+"It’s understandable to have those moments, especially around anniversaries or significant dates. How did you cope with that sadness?",T,Insignificant
+I ended up watching some old movies we used to enjoy together. It felt comforting.,P,Insignificant
+That’s a lovely way to connect with his memory. It’s important to honor those feelings and find ways to remember him. ,T,Insignificant
+"Yeah, it helped a lot.",P,Insignificant
+"As we continue, would you like to explore any new coping strategies or goals for this week?",T,Insignificant
+I’d like to try to incorporate some mindfulness practices into my routine.,P,Next Steps
+That sounds like an excellent idea! Mindfulness can help you stay present and reduce anxiety. Would you like to try a simple mindfulness exercise together?,T,Insignificant
+"Sure, I’d love that.",P,Insignificant
+"Let’s do a brief mindful breathing exercise. Find a comfortable position and take a deep breath in through your nose, filling your lungs, and then slowly exhale through your mouth. ",T,Insignificant
+"Okay, I’m ready.",P,Insignificant
+Great! Let’s do this together for a few breaths. Inhale… and exhale. ,T,Insignificant
+(breathes) ,P,Insignificant
+Inhale… and exhale. ,T,Insignificant
+(breathes),P,Insignificant
+One more time. Inhale… and exhale. ,T,Insignificant
+(breathes) ,P,Insignificant
+How do you feel after that exercise?,T,Insignificant
+I feel a bit more relaxed. It’s nice to take a moment to just breathe.,P,Mental Health Observations
+I’m glad to hear that! You can use this technique anytime you feel overwhelmed or need a moment of calm.,T,Insignificant
+I will definitely do that.,P,Insignificant
+"Before we wrap up today, is there anything else on your mind that you’d like to discuss?",T,Insignificant
+I think I’m good for now. I’m just grateful for the progress I’ve made.,P,Progress Evaluation
+"That’s wonderful to hear! Remember, progress is a journey, and you’re doing great. ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+You’re welcome! I look forward to hearing about your mindfulness practice next time. Take care!,T,Insignificant
+"Bye, Ellie.",P,Insignificant
+Bye!,T,Insignificant

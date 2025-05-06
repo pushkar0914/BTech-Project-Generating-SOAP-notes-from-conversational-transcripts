@@ -1,0 +1,281 @@
+Utterance,Type,Classified_Subsection
+[syncing],P,Insignificant
+hi i'm ellie thanks for coming in today,T,Insignificant
+i was created to talk to people in a safe and secure environment,T,Insignificant
+i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started ,T,Insignificant
+and please feel free to tell me anything your answers are totally confidential,T,Insignificant
+are you okay with this,T,Insignificant
+yes,P,Insignificant
+okay,T,Insignificant
+so how are you doing today,T,Insignificant
+i'm a little nervous,P,History of Present Illness (HPI)
+why,T,Insignificant
+mm this is different,P,Insignificant
+[laughter],T,Insignificant
+i understand,T,Insignificant
+where are you from originally,T,Insignificant
+california,P,Psychosocial History
+really,T,Insignificant
+yes,P,Insignificant
+what are some things you really like about l_a,T,Insignificant
+i like the beach,P,Psychosocial History
+mhm,T,Insignificant
+um,P,Insignificant
+the weather,P,Psychosocial History
+mm mm,P,Insignificant
+okay,T,Insignificant
+what are some things you don't really like about l_a,T,Insignificant
+so many people [laughter],P,Psychosocial History
+mm,T,Insignificant
+yeah,P,Insignificant
+what do you do now,T,Insignificant
+what do you mean,P,Insignificant
+what do i do now,P,Insignificant
+what's your dream job,T,Insignificant
+i don't know right now,P,Insignificant
+what'd you study at school,T,Insignificant
+um,P,Insignificant
+i went through nursing,P,Medical and Psychiatric History
+that sounds interesting,T,Insignificant
+mhm,P,Insignificant
+are you happy you did that,T,Insignificant
+yes,P,Insignificant
+are you still working in that,T,Insignificant
+no,P,Current Functional Status
+tell me more about that,T,Insignificant
+about nursing,P,Insignificant
+mhm,T,Insignificant
+that's a great field to be in if you have the heart the passion for caring for people,P,Insignificant
+how did you decide to do that,T,Insignificant
+my mother,P,Psychosocial History
+aw,T,Insignificant
+yeah,P,Insignificant
+how close are you to your family,T,Insignificant
+right now uh it's we're we're close i have a pretty close family,P,Psychosocial History
+that's good,T,Insignificant
+mhm,P,Insignificant
+do you consider yourself an introvert,T,Insignificant
+mm what do you mean,P,Insignificant
+why don't we talk about that later,T,Insignificant
+okay,P,Insignificant
+what do you do to relax,T,Insignificant
+i like to read,P,Current Functional Status
+and i like watching some television,P,Current Functional Status
+cool,T,Insignificant
+yeah,P,Insignificant
+how are you at controlling your temper,T,Insignificant
+i think i'm very good at controlling it,P,Mental Health Observations
+when was the last time you argued with someone and what was it about,T,Insignificant
+i,P,Insignificant
+i can't remember,P,Insignificant
+the last time i had an argument,P,Insignificant
+okay,T,Insignificant
+what do you do when you're annoyed,T,Insignificant
+mm,P,Insignificant
+i'm not for sure what i do when i'm really annoyed i think i get,P,Mental Health Observations
+i don't know walk a lot i i'm not for sure when i'm annoyed because i have different reactions to,P,Mental Health Observations
+whatever's annoying me,P,Insignificant
+<laughter>,T,Insignificant
+<laughter>,P,Insignificant
+i understand,T,Insignificant
+mhm,P,Insignificant
+what are some things that make you really mad,T,Insignificant
+like mad,P,Insignificant
+well let me see mad is a hell of a word for me,P,Insignificant
+to be mad it means like,P,Insignificant
+when i'm mad it's,P,Mental Health Observations
+it's uncontrollable,P,Mental Health Observations
+when i'm mad,P,Insignificant
+mhm,T,Insignificant
+mhm,P,Insignificant
+how would your best friend describe you,T,Insignificant
+i don't have a best friend,P,Psychosocial History
+what would you say are some of your best qualities,T,Insignificant
+i don't really know now,P,Insignificant
+okay,T,Insignificant
+who's someone that's been a positive influence in your life,T,Insignificant
+my mother,P,Psychosocial History
+aw,T,Insignificant
+mhm,P,Insignificant
+could you say a little more about that,T,Insignificant
+about my mother,P,Insignificant
+mhm,T,Insignificant
+my mother was a beautiful woman and she had great values instilled in us when raising me,P,Psychosocial History
+yeah,P,Insignificant
+can you give me an example of that,T,Insignificant
+values are like well good one thing is like,P,Insignificant
+my mother cooked and that was a valuable thing to me because she taught me to cook,P,Psychosocial History
+so that was very valuable honesty,P,Insignificant
+that's great,T,Insignificant
+mhm,P,Insignificant
+is it uncomfortable for you to talk about this,T,Insignificant
+about my mother,P,Insignificant
+yes,T,Insignificant
+well she's no longer living,P,Trauma History
+i'm sorry to hear that,T,Insignificant
+mhm,P,Insignificant
+have you noticed any changes in your behavior or thoughts lately,T,Insignificant
+excuse me,P,Insignificant
+have you noticed any changes in your behavior or thoughts lately,T,Insignificant
+mm changes in my behavior,P,History of Present Illness (HPI)
+mhm,T,Insignificant
+mm since i've been here,P,History of Present Illness (HPI)
+yes,T,Insignificant
+i don't i i think a little uncomfortable,P,History of Present Illness (HPI)
+yeah,P,Insignificant
+it's a little strange,P,History of Present Illness (HPI)
+how have you been feeling lately,T,Insignificant
+how i've been feeling lately,P,Insignificant
+a little uneasy,P,History of Present Illness (HPI)
+why,T,Insignificant
+because of my experience,P,History of Present Illness (HPI)
+the things i went through have been going through,P,History of Present Illness (HPI)
+could you say a little more about that,T,Insignificant
+i was raped,P,Trauma History
+and sodomized,P,Trauma History
+and they kept a gun to my head and cut my hair so i've been going through a hell of a thing lately,P,Trauma History
+i'm sorry,T,Insignificant
+that sounds really hard,T,Insignificant
+yes it is,P,Insignificant
+how do you cope with them,T,Insignificant
+i cope,P,Insignificant
+it's it's difficult but i do cope,P,Insignificant
+yeah,T,Insignificant
+mhm,P,Insignificant
+how easy is it for you to get a good night's sleep,T,Insignificant
+it's not easy for me to sleep,P,Physiological Observations
+to get a good night's sleep,P,Physiological Observations
+what are you like when you don't sleep well,T,Insignificant
+excuse me,P,Insignificant
+what are you like when you don't sleep well,T,Insignificant
+i don't know maybe sluggish,P,Physiological Observations
+maybe sometimes i can be more irritable if i don't sleep well i don't sleep well that often,P,Physiological Observations
+mm,T,Insignificant
+have you ever been diagnosed with p_t_s_d,T,Insignificant
+yes that's what i have been diagnosed,P,Medical and Psychiatric History
+how long ago were you diagnosed,T,Insignificant
+a few years ago,P,Medical and Psychiatric History
+what got you to seek help,T,Insignificant
+because i wanted to get revenge on the guys that raped me,P,History of Present Illness (HPI)
+do you still go to therapy now,T,Insignificant
+no,P,Current Functional Status
+but i'm gonna go back,P,Current Functional Status
+why did you stop,T,Insignificant
+excuse me,P,Insignificant
+why did you stop,T,Insignificant
+i thought i was better,P,Insignificant
+i thought,P,Insignificant
+did you think you had a problem before you found out,T,Insignificant
+i knew i had a problem but i didn't know what it was,P,Medical and Psychiatric History
+what were your symptoms,T,Insignificant
+as far as what,P,Insignificant
+i didn't sleep,P,Physiological Observations
+i didn't eat,P,Physiological Observations
+i had nightmares,P,Physiological Observations
+i still have them,P,Physiological Observations
+i see,T,Insignificant
+i was just really,P,Insignificant
+afraid of,P,Insignificant
+uh really afraid i was not avoiding it,P,Insignificant
+yeah,T,Insignificant
+do you have disturbing thoughts,T,Insignificant
+as far as what,P,Insignificant
+disturbing thoughts like what,P,Insignificant
+whatever comes to your mind,T,Insignificant
+of the things that's happened to me was disturbing are disturbing thoughts,P,Mental Health Observations
+i see,T,Insignificant
+mhm,P,Insignificant
+are they triggered by something,T,History of Present Illness (HPI)
+sometimes,P,History of Present Illness (HPI)
+can you give me an example of that,T,Insignificant
+if i see four men together with hoods on it's,P,History of Present Illness (HPI)
+i have it triggered by that,P,History of Present Illness (HPI)
+sometimes when i have to go upstairs it's a trigger because of the,P,History of Present Illness (HPI)
+of what happened they took me upstairs,P,History of Present Illness (HPI)
+that sounds really hard,T,Insignificant
+yes ma'am,P,Insignificant
+do you feel like therapy is useful,T,Insignificant
+excuse me,P,Insignificant
+do you feel like therapy is useful,T,Insignificant
+therapy is what,P,Insignificant
+what sort of changes have you noticed since you've been going to therapy,T,Insignificant
+i haven't been to therapy in a while but i've noticed how to calm myself down,P,Progress Evaluation
+when i get um afraid and,P,Insignificant
+that's about it,P,Insignificant
+that's good,T,Insignificant
+mhm,P,Insignificant
+how has seeing a therapist affected you,T,Insignificant
+it helped,P,Progress Evaluation
+a lot of things that happened in my past i didn't realize it was,P,Insignificant
+deep down inside me still,P,Insignificant
+how have you been feeling lately,T,Insignificant
+i'm like just jest you know just,P,Insignificant
+day by day just making it i think,P,Insignificant
+okay,T,Insignificant
+what are some things that usually put you in a good mood,T,Insignificant
+music,P,Current Functional Status
+that's great,T,Insignificant
+yeah,P,Insignificant
+tell me about something you did recently that you really enjoyed,T,Insignificant
+cooking the other day,P,Current Functional Status
+cooking,P,Current Functional Status
+cool,T,Insignificant
+what are you most proud of in your life,T,Insignificant
+my son,P,Psychosocial History
+aw,T,Insignificant
+tell me about your kids,T,Insignificant
+i only have one son,P,Psychosocial History
+and he's a beautiful child,P,Psychosocial History
+that's so good to hear,T,Insignificant
+mhm,P,Insignificant
+do you find it easy to be a parent,T,Insignificant
+no it's not [laughter],P,Insignificant
+what's the hardest thing about being a parent,T,Insignificant
+um,P,Insignificant
+i think decision making,P,Insignificant
+can you give me an example of that,T,Insignificant
+well some of the things that he's asked to,P,Insignificant
+like i'm not into tattoos,P,Insignificant
+i don't like tattoos and and he does,P,Insignificant
+mhm,T,Insignificant
+and,P,Insignificant
+well there's a lot of different things,P,Insignificant
+okay,T,Insignificant
+what's the best thing about being a parent,T,Insignificant
+the best thing about being a parent is giving life,P,Psychosocial History
+to my son [laughter],P,Insignificant
+and seeing them grow up in joy in their lives is going on it's a good thing,P,Psychosocial History
+awesome,T,Insignificant
+is there anything you regret,T,Insignificant
+no,P,Insignificant
+what advice would you give yourself ten or twenty years ago,T,Insignificant
+god,P,Insignificant
+what advice would i give myself,P,Insignificant
+i don't really know,P,Insignificant
+i really don't know,P,Insignificant
+okay,T,Insignificant
+what's one of your most memorable experiences,T,Insignificant
+as far as what,P,Insignificant
+whatever comes to your mind,T,Insignificant
+my memorable experience,P,Insignificant
+i i could say when graduating it was a good experience,P,Psychosocial History
+really,T,Insignificant
+yes,P,Insignificant
+how did you feel in that moment,T,Insignificant
+great,P,Insignificant
+when i graduated great,P,Insignificant
+how hard is that,T,Insignificant
+to graduate from high school,P,Insignificant
+it wasn't hard,P,Insignificant
+yes,T,Insignificant
+no it wasn't hard,P,Insignificant
+i enjoyed school,P,Insignificant
+that's great,T,Insignificant
+when was the last time you felt really happy,T,Insignificant
+i don't remember,P,Insignificant
+okay,T,Insignificant
+okay i think i've asked everything i need to,T,Insignificant
+thanks for sharing your thoughts with me,T,Insignificant
+mhm,P,Insignificant
+goodbye,T,Insignificant
+bye,P,Insignificant

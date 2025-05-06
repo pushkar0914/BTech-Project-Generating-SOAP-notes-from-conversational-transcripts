@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+Hi Ellie! I’ve been doing well. I’ve been sticking to my schedule and keeping up with my studies.,P,Current Functional Status
+That’s fantastic! How has that been working out for you?,T,Insignificant
+It’s been great. I feel more organized and less overwhelmed. I even managed to keep my GPA up!,P,History of Present Illness (HPI): Current Functional Status
+That’s amazing to hear! It sounds like your hard work is paying off. Have you noticed any changes in your motivation?,T,Insignificant
+Definitely! I feel more energized and focused. I think the rewards I set for myself really help.,P,History of Present Illness (HPI): Current Functional Status
+That’s great! Celebrating your achievements can be incredibly motivating. Have you had a chance to share your goals with anyone yet?,T,Insignificant
+"Yes, I talked to a classmate about it. We’re holding each other accountable, which has been really helpful.",P,Psychosocial History
+That’s excellent! Having a support system can make a big difference. How has that partnership impacted your studies?,T,Insignificant
+"It’s kept me on track. We study together sometimes, and it makes the material feel less daunting.",P,Current Functional Status
+That’s a great approach! Collaboration can enhance learning. Have you encountered any challenges in your studies recently?,T,Insignificant
+"I had a tough assignment last week, but I reached out for help, which I usually don’t do.",P,History of Present Illness (HPI)
+That’s a significant step! How did it feel to ask for help?,T,Insignificant
+"It was a bit uncomfortable at first, but it turned out to be really beneficial. I learned a lot more than I expected.",P,History of Present Illness (HPI)
+"That’s a wonderful realization! Seeking help is a strength, not a weakness. Are there any other areas where you feel you could use support?",T,Insignificant
+"I think I could work on being more assertive, especially in group settings.",P,History of Present Illness (HPI)
+That’s a valuable skill to develop. What do you think holds you back from being assertive?,T,Insignificant
+"I sometimes worry about how others will react, and I don’t want to create conflict.",P,History of Present Illness (HPI)
+That’s understandable. It’s common to feel that way. Would you like to explore some strategies to help you express yourself more confidently?,T,Insignificant
+"Yes, I’d love that.",P,Insignificant
+"One technique is to practice “I” statements, similar to what you did with your husband. This can help you communicate your feelings without sounding confrontational. How do you feel about trying that?",T,Therapeutic Interventions
+I think that could work for me. I’ll practice using “I” statements in group discussions.,P,Therapeutic Interventions
+Excellent! Another technique is to prepare what you want to say in advance. This can help reduce anxiety. Would you be comfortable trying that?,T,Therapeutic Interventions
+"Yes, I’ll give it a shot. I think it could help me feel more prepared.",P,Therapeutic Interventions
+Great! I’m excited to hear how that goes for you. Is there anything else you’d like to work on today?,T,Insignificant
+I’d like to talk a bit more about my relationship with my husband. I want to keep nurturing that connection.,P,History of Present Illness (HPI): Psychosocial History
+Absolutely! What aspects of your relationship would you like to focus on?,T,Insignificant
+I want to ensure we keep communicating openly and continue our date nights.,P,History of Present Illness (HPI): Psychosocial History
+Those are important elements. How do you feel about checking in with each other regularly about your feelings?,T,Insignificant
+I think that would be helpful. It could prevent misunderstandings from building up.,P,History of Present Illness (HPI)
+That’s a smart approach. Regular check-ins can foster intimacy and connection. How often do you think you’d like to have those discussions?,T,Insignificant
+Maybe once a week? Just to touch base and see how we’re both feeling.,P,Next Steps
+That sounds like a great plan. Having that dedicated time can strengthen your bond. Is there anything else on your mind today?,T,Insignificant
+"No, I think we’ve covered everything I wanted to talk about. Thank you for your guidance!",P,Insignificant
+"You’re very welcome! I’m thrilled to see your progress. Keep up the fantastic work, and I look forward to our next session.",T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Bye!,T,Insignificant

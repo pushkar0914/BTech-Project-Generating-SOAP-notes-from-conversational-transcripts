@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hello! It’s great to see you again. How have you been?  ,T,Insignificant
+"Hi, Ellie! I’ve been doing pretty well. I’ve been sticking to my phone curfew!  ",P,History of Present Illness (HPI)
+That’s fantastic! How has that impacted your sleep and daily routine?  ,T,Physiological Observations
+"I feel more rested, and my mornings are way better. I’m actually getting things done!  ",P,Physiological Observations
+I’m thrilled to hear that! It sounds like you’ve made some positive changes. How about the mindfulness exercises?  ,T,Insignificant
+"I’ve been doing them regularly, especially when I feel overwhelmed.  ",P,Therapeutic Interventions
+That’s excellent! Have you noticed any specific situations where they’ve helped you?  ,T,Insignificant
+"Yeah, at work during stressful meetings. I take a moment to breathe, and it helps me stay calm.  ",P,Current Functional Status
+That’s a great application of what you’ve learned! Have you faced any new challenges lately?  ,T,Insignificant
+"I went to another gathering, and it was a bit overwhelming again.  ",P,History of Present Illness (HPI)
+How did you handle it this time?  ,T,Insignificant
+"I took a break outside for a few minutes, and it really helped.  ",P,Therapeutic Interventions
+That’s a great strategy! It seems like you’re developing a toolkit for managing those feelings.  ,T,Insignificant
+"Yeah, I feel more equipped now.  ",P,Insignificant
+That’s wonderful! Let’s talk about your relationships. Have you been able to reach out to your close friend when you felt anxious?  ,T,Insignificant
+"I did! I called her after that gathering, and it felt good to talk about it.  ",P,Current Functional Status
+I’m glad to hear that! Connecting with someone can be very grounding. How did that conversation go?  ,T,Insignificant
+"It was really supportive. She understands me, and it made me feel less alone.  ",P,Psychosocial History
+That’s so important. Building that support network can be a huge help.  ,T,Insignificant
+I agree. I feel like I’m learning to express my feelings better.  ,P,Progress Evaluation
+That’s a significant achievement! How do you feel about your progress overall?  ,T,Insignificant
+I feel proud of myself. I’m taking steps to improve my mental health.  ,P,Progress Evaluation
+You should be proud! It takes courage to make these changes. What are your goals for the upcoming week?  ,T,Insignificant
+"I want to challenge myself to socialize a bit more, but still keep my boundaries.  ",P,Next Steps
+That sounds like a balanced goal. Would you like to plan how to approach that?  ,T,Insignificant
+"Yeah, I could set a limit on how long I stay at events.  ",P,Next Steps
+That’s a great idea! You can always leave if you start feeling overwhelmed.  ,T,Insignificant
+Exactly! I feel more confident about it now.  ,P,Progress Evaluation
+"That’s wonderful to hear. Remember, it’s all about progress, not perfection.  ",T,Insignificant
+"Thanks, Ellie! I really appreciate your support.  ",P,Insignificant
+I’m here for you! Let’s continue to build on this momentum in our next session.  ,T,Insignificant
+Definitely!  ,P,Insignificant
+Thank you for sharing today. I look forward to hearing about your experiences next time. Goodbye!  ,T,Insignificant
+"Bye, Ellie!",P,Insignificant

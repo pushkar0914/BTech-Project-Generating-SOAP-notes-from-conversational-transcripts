@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I’ve been okay. I sent the message to my family.",P,History of Present Illness (HPI)
+That’s fantastic! How did that feel for you?,T,Insignificant
+"A bit nerve-wracking, but I felt relieved afterward.",P,History of Present Illness (HPI)
+That’s great to hear! Have you received any responses?,T,Insignificant
+"Yes, my mom replied. She was understanding and wants to talk.",P,History of Present Illness (HPI)
+That’s wonderful! It sounds like you’re making progress in your family communication. How do you feel about having that conversation?,T,Insignificant
+"I’m a bit nervous, but I think it’ll be good to talk.",P,History of Present Illness (HPI)
+It’s completely normal to feel that way. What do you hope to achieve from that conversation?,T,Insignificant
+I want them to understand how I’ve been feeling.,P,Presenting Problem / Chief Complaint
+That’s a healthy goal. Remember to express your feelings openly. Have you thought about what you’d like to say?,T,Insignificant
+I’ve jotted down some points I want to cover.,P,Next Steps
+That’s a great strategy! Having notes can help you feel more prepared. How about your meeting with your colleague? How did that go?,T,Insignificant
+It went really well! They mentioned a few job openings and offered to refer me.,P,History of Present Illness (HPI)
+That’s amazing! It sounds like networking is paying off. How did you feel during the meeting?,T,Insignificant
+I felt more confident than I expected.,P,Mental Health Observations
+That’s a great sign! Confidence can make a big difference in these situations. Have you followed up with your colleague since then?,T,Insignificant
+"I sent a thank-you message, and they responded positively.",P,History of Present Illness (HPI)
+Excellent! Maintaining those connections is important. How has your mood been since these positive interactions?,T,Insignificant
+I’ve felt a bit more hopeful and motivated.,P,Mental Health Observations
+"That’s wonderful to hear! Positive connections can significantly impact our mental well-being. As you continue to navigate job searching, are there any new strategies you’d like to implement?",T,Insignificant
+I think I’ll keep applying and maybe volunteer somewhere to stay active.,P,Next Steps
+Volunteering can be a great way to gain experience and meet new people. It sounds like you’re on the right track. Have you considered any specific organizations you’d like to volunteer with?,T,Insignificant
+I’ve thought about local charities that help the community.,P,Next Steps
+That sounds like a meaningful way to spend your time. It could also provide a sense of purpose. Let’s talk about your coping strategies. Are there any new practices you’ve integrated since we last spoke?,T,Insignificant
+"I’ve tried a few mindfulness exercises, and they’ve helped.",P,History of Present Illness (HPI)
+That’s great! Mindfulness can be a powerful tool for managing stress. How do you feel about incorporating mindfulness into your daily routine?,T,Insignificant
+I think I can make time for it. It’s been beneficial.,P,Next Steps
+"That’s excellent! Consistency can enhance its effects. As we wrap up today, what goals would you like to set for our next session?",T,Insignificant
+I want to have the family conversation and start volunteering somewhere.,P,Next Steps
+Those sound like fantastic goals! I’m excited to hear about your experiences. You’re doing a wonderful job.,T,Insignificant
+"Thank you, Ellie. I appreciate your guidance.",P,Insignificant
+"You’re welcome! Keep up the great work, and I’ll see you next time.",T,Insignificant
+"Bye, Ellie!",P,Insignificant

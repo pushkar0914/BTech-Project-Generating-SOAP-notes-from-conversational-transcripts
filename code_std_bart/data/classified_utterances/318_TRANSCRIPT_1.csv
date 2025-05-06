@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, I'm Ellie. It's great to see you again. How have you been since our last session?  ",T,Insignificant
+"Hey, Ellie! I've been alright, just keeping busy with work and stuff.  ",P,Insignificant
+"That's good to hear. Last time, we talked about your late nights and how they affect your sleep. Have you noticed any changes?  ",T,History of Present Illness (HPI)
+"Yeah, I tried going to bed a bit earlier, but it's still tough sometimes. I guess I just get caught up in things.  ",P,History of Present Illness (HPI)
+That makes sense. What do you usually find yourself doing late at night?  ,T,Insignificant
+Mostly just scrolling through my phone or watching shows. It’s hard to resist.  ,P,History of Present Illness (HPI)
+Have you considered setting a specific time to put your phone down?  ,T,Insignificant
+"I’ve thought about it, but I never really stick to it.  ",P,Insignificant
+Maybe we can work on a plan together. What would you think about setting a phone curfew?  ,T,Insignificant
+"That could work. I’d have to find a way to keep myself accountable, though.  ",P,Insignificant
+Absolutely! Would you be open to tracking your phone usage?  ,T,Insignificant
+"Yeah, I could try that. I might be surprised by how much time I spend on it.  ",P,Insignificant
+That’s a great start. You mentioned you feel sluggish when you don’t sleep well. How has that affected your daily life?  ,T,History of Present Illness (HPI)
+I find it hard to focus at work. I feel like I’m in a fog.  ,P,History of Present Illness (HPI)
+It sounds frustrating. Are there specific tasks that are more challenging for you?  ,T,Insignificant
+"Yeah, anything that requires a lot of concentration. I find myself zoning out.  ",P,History of Present Illness (HPI)
+Have you tried any strategies to help with your focus during the day?  ,T,Insignificant
+"Not really. I just power through it, but I end up feeling more drained.  ",P,History of Present Illness (HPI)
+What if we explored some mindfulness techniques to help you stay present?  ,T,Therapeutic Interventions
+I’m open to that. I’ve heard about mindfulness but never really tried it.  ,P,Insignificant
+That’s a good attitude. Mindfulness can help ground you and improve focus. Would you like to learn a simple breathing exercise?  ,T,Therapeutic Interventions
+"Sure, I’d love to try it.  ",P,Insignificant
+Great! Let’s take a deep breath in together… and out. How does that feel?  ,T,Insignificant
+It feels nice. I can see how it could help me relax.  ,P,Insignificant
+Perfect! You can use this whenever you feel overwhelmed. How do you think you could incorporate this into your daily routine?  ,T,Insignificant
+Maybe I could do it during my breaks at work.  ,P,Next Steps
+That sounds like a solid plan. You also mentioned being an introvert. How has that been for you in social situations lately?  ,T,Insignificant
+"I’ve been going out more, but sometimes it drains me.  ",P,History of Present Illness (HPI)
+It’s important to listen to your needs. Have you found any ways to recharge after social events?  ,T,Insignificant
+I usually just need some alone time afterward.  ,P,History of Present Illness (HPI)
+That’s completely valid. Setting boundaries can help you balance socializing and self-care.  ,T,Insignificant
+"Yeah, I think I need to be more mindful of that.  ",P,Insignificant
+What would it look like for you to prioritize that alone time?  ,T,Insignificant
+"I could schedule it in after events, like a little wind-down period.  ",P,Next Steps
+That’s a great idea! It sounds like you’re taking steps to take care of yourself.  ,T,Insignificant
+Thanks! I’m trying.  ,P,Insignificant
+"As we wrap up today, what are your main takeaways from our session?  ",T,Insignificant
+I think tracking my phone time and practicing mindfulness will really help.  ,P,Next Steps
+Those sound like excellent goals. Let’s check in on them next time.  ,T,Next Steps
+Sounds good!  ,P,Insignificant
+Thank you for sharing today. I look forward to seeing how it goes. Goodbye!  ,T,Insignificant
+"Bye, Ellie!",P,Insignificant

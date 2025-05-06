@@ -1,0 +1,153 @@
+
+INFO:root:Loaded model from checkpoint and moved to device.
+INFO:absl:Using default tokenizer.
+INFO:root:Processed data\test_intermediate_files\412_TRANSCRIPT_utterances_grouping.csv. Total tokens: 422
+INFO:root:Sample 1 - Generated: Presenting Problem / Chief Complaint: "Nothing Reported"
+Trauma History (HPI): The patient has been experiencing anxiety and depression since moving to Los Angeles. They have not been diagnosed with PTSD or depression, which affects their mental health.
+Substance Use History: The patient expresses feelings of inadequacy in social interactions, particularly when they feel overwhelmed.
+History of Present Illness (Mental Health Observations): "Nothing reported"
+Physiological Observations: "The patient is originally from LA but moved to New York about a year ago."
+Current Functional Status: The therapist reports feeling more relaxed after practicing breathing exercises.
+Diagnostic Impressions: " The patient feels less stressed due to the weather.
+Progress Evaluation: "They are making progress in managing stress through mindfulness techniques."
+Medications: "It helps them sleep better."
+Therapeutic Interventions: The Patient is encouraged to practice breathing exercises for relaxation.
+Next Steps: The doctor plans to continue using breathing exercises as a coping mechanism.    - The patient aims to incorporate breathing exercises into their daily routine.     
+Risk Assessment: The plan includes incorporating breathing exercises to help manage anxiety and improve moods. Next Steps
+INFO:root:Sample 1 - Ground Truth: Presenting Problem / Chief Complaint: "Nothing reported"
+Trauma History: The patient reflects on the emotional impact of losing both parents to illness and dementia, which has been a significant and difficult experience for them.     
+Substance Use History: "Nothing reported"
+History of Present Illness (HPI): The patient describes some challenges in adjusting to life in Los Angeles, mentioning difficulty sleeping and feeling less positive lately due to various stressors.
+Medical and Psychiatric History: "Nothing reported"
+Psychosocial History: The patient shares insights about their background, including their move from Texas to LA for work, their enjoyment of dancing, and their relationships with family and friends. They express feelings of shyness and a desire to be more outgoing.
+Risk Assessment: The patient reports good control over their temper and reflects on a recent argument, indicating a generally stable emotional state.
+Mental Health Observations: "Nothing reported"
+Physiological Observations: The patient reports difficulty sleeping, often tossing and turning and feeling tired, which may be linked to stress and overthinking.
+Current Functional Status: The patient engages in activities like dancing several times a week, indicating a level of social interaction and physical activity.
+Diagnostic Impressions: "Nothing reported"
+Progress Evaluation: "Nothing reported"
+Medications: "Nothing reported"
+Therapeutic Interventions: "Nothing reported"
+Next Steps: "Nothing reported"
+
+INFO:root:Processed data\test_intermediate_files\417_TRANSCRIPT_utterances_grouping.csv. Total tokens: 313
+INFO:root:Sample 2 - Generated: Presenting Problem / Chief Complaint: "Nothing Reported"
+Trauma History of Present Illness (HPI): The patient has been diagnosed with PTSD and depression, which affects their mental health.    - They express a desire to be more present in the world but have not yet been able to cope with it.
+Substance Use History: The patient is originally from Los Angeles and moved to New York about three years ago.
+Medical and Psychiatric History: "The patient expresses feelings of inadequacy due to stress related to family responsibilities."
+Psychosocial Observations: " The patient reports feeling tired when they don't sleep well."
+Risk Assessment: "They feel overwhelmed by work, particularly during the day."
+Mental Health Observations): "Nothing reported"
+Physiological Observations
+Current Functional Status: "nothing reported"Diagnostic Impressions: The therapist feels more relaxed after practicing mindfulness techniques.
+Progress Evaluation: "It's a good way to manage anxiety."
+Medications
+INFO:root:Sample 2 - Ground Truth: Presenting Problem / Chief Complaint: The patient expresses a strong belief in the importance of sex education, highlighting the stigma surrounding discussions about sex that can lead to unsafe practices and unplanned pregnancies.
+Trauma History: The patient mentions a significant traumatic event, specifically stating they wish it had not happened, referring to an experience of being raped.
+Substance Use History: "Nothing reported"
+History of Present Illness (HPI): The patient discusses their general anxiety, noting it has improved recently, and reflects on feelings of regret regarding past academic performance and relationships.
+Medical and Psychiatric History: The patient has been seeing psychologists since the age of sixteen for depression and is uncertain about a PTSD diagnosis.
+Psychosocial History: The patient describes a generally good relationship with their family, particularly highlighting a close bond with their sister and a positive influence from their mother.
+Risk Assessment: "Nothing reported"
+Mental Health Observations: "Nothing reported"
+Physiological Observations: The patient reports having no significant sleep issues lately, although they sometimes experience trouble sleeping.
+Current Functional Status: "Nothing reported"
+Diagnostic Impressions: "Nothing reported"
+Progress Evaluation: "Nothing reported"
+Medications: "Nothing reported"
+Therapeutic Interventions: The patient finds talking to a therapist helpful for processing feelings and understanding their emotions better.
+Next Steps: "Nothing reported"
+
+INFO:root:Processed data\test_intermediate_files\351_TRANSCRIPT_2_utterances_grouping.csv. Total tokens: 219
+INFO:root:Sample 3 - Generated: Presenting Problem / Chief Complaint: "Nothing Reported"
+Trauma History: The patient has been experiencing anxiety and depression since moving to Los Angeles. They have not been diagnosed with PTSD or depression, which affects their mental health.
+Substance Use History (HPI): The patient reports feeling more relaxed after practicing breathing exercises.
+History of Present Illness (Mental Health Observations): "Nothing reported"
+Physiological Observations: "The patient expresses a desire to practice breathing techniques but feels overwhelmed."
+Current Functional Status: The therapist is currently working on coping strategies for stress management.
+Diagnostic Impressions: " The patient acknowledges the importance of mindfulness practices in managing emotions.
+Progress Evaluation
+INFO:root:Sample 3 - Ground Truth: Presenting Problem / Chief Complaint: "Nothing Reported"
+Trauma History: "Nothing Reported"
+Substance Use History: "Nothing Reported"
+History of Present Illness (HPI): The patient has been practicing mindfulness exercises and found them helpful for relaxation and sleep improvement.,
+       - They have experienced some anxiety but are becoming more adept at managing it by recognizing and challenging negative thoughts.,
+       - A recent networking event triggered feelings of doubt, but the patient employed deep breathing and positive self-reminders to cope.
+Medical and Psychiatric History: "Nothing Reported"
+Psychosocial History: "Nothing Reported"
+Risk Assessment: "Nothing Reported"
+Mental Health Observations: The patient expressed feelings of pride for overcoming anxiety during social interactions and recognized their bravery in challenging situations.    
+Physiological Observations: "Nothing Reported"
+Current Functional Status: The patient feels more prepared for networking situations and believes that using conversation prompts will help reduce anxiety.
+Diagnostic Impressions: "Nothing Reported"
+Progress Evaluation: "Nothing Reported"
+Medications: "Nothing Reported"
+Therapeutic Interventions: The patient is encouraged to continue practicing mindfulness and to develop conversation starters for networking events.
+Next Steps: Future sessions will focus on building confidence and exploring additional coping strategies for overwhelming situations.
+
+INFO:root:Processed data\test_intermediate_files\415_TRANSCRIPT_utterances_grouping.csv. Total tokens: 709
+INFO:root:Sample 4 - Generated: Presenting Problem / Chief Complaint: "Nothing Reported"
+Trauma History: The patient has not been diagnosed with PTSD or depression, indicating a lack of self-awareness.
+Substance Use History (HPI): The patient is originally from Los Angeles and moved to New York in 2004. They are currently living in LA but have moved back to Los Angeles due to financial constraints.
+History of Present Illness (Mental Health Observations): "Nothing reported"
+Physiological Observations: "The patient reports feeling more relaxed since moving away from the city.
+Current Functional Status: " The patient expresses feelings of inadequacy related to their job search."
+Diagnostic Impressions: "It's hard for them to sleep well when they don't feel good."
+Progress Evaluation: "They find it easy to fall asleep during the day."
+Medications: The therapist feels less overwhelmed after practicing breathing exercises.
+Therapeutic Interventions: The plan includes incorporating mindfulness techniques into their routine.
+Next Steps: The next session aims to incorporate mindfulness practices into their daily routine.    - The patient plans to practice breathing exercises as a way to manage anxiety and stress. Next step:The patient will set aside time for relaxation and meditation.  - They intend to continue using mindfulness techniques in future sessions. Â
+Next steps: The goal is to reach out to family members and friends for support and help them cope with anxiety and depression.
+
+  - Suggested practicing mindfulness techniques for managing anxiety and coping strategies.
+Meditations: "I'm open to exploring new ways to relax and improve mood."
+Therapy
+INFO:root:Sample 4 - Ground Truth: Presenting Problem / Chief Complaint: "Nothing reported"
+Trauma History: The patient shared a significant trauma involving their brother, who was shot on duty, which deeply affected them and continues to haunt their thoughts, although he survived the incident.
+Substance Use History: "Nothing reported"
+History of Present Illness (HPI): The patient expressed feelings of guilt regarding diet failures, frustration in personal relationships, and challenges adapting to life in L.A. They also mentioned feeling tired and experiencing headaches due to work stress and lack of sleep.
+Medical and Psychiatric History: The patient has not been diagnosed with PTSD or depression.
+Psychosocial History: The patient has a close-knit family background, including parents who are pastors and siblings who are supportive. They have moved from Michigan to L.A. for work in the entertainment industry and enjoy aspects of their new life, though they find the people in L.A. to be less friendly than in their hometown. They have a passion for music, which serves as a therapeutic outlet.
+Risk Assessment: "Nothing reported"
+Mental Health Observations: "Nothing reported"
+Physiological Observations: The patient reported difficulty sleeping due to their demanding job as a personal assistant, leading to feelings of annoyance and grouchiness when sleep-deprived.
+Current Functional Status: The patient is currently working as a personal assistant in the entertainment industry, which requires them to be on call and affects their sleep quality.
+Diagnostic Impressions: "Nothing reported"
+Progress Evaluation: "Nothing reported"
+Medications: "Nothing reported"
+Therapeutic Interventions: "Nothing reported"
+Next Steps: "Nothing reported"
+
+INFO:root:Processed data\test_intermediate_files\442_TRANSCRIPT_1_utterances_grouping.csv. Total tokens: 964
+INFO:root:Sample 5 - Generated: Presenting Problem / Chief Complaint: "Nothing Reported"
+Trauma History: The patient has been experiencing anxiety and depression due to a recent argument with their mother. They have not been diagnosed with PTSD or depression."      
+Substance UseHistory of Present Illness (HPI): The patient is originally from Los Angeles, California but moved to New York in 2011.
+Medical and Psychiatric History: "The patient expresses feelings of inadequacy related to social interactions, indicating a lack of connection with others."
+Psychosocial History Observations: " The patient reports feeling more relaxed after practicing mindfulness techniques."
+Risk Assessment: The therapist feels less overwhelmed by work responsibilities and acknowledges the need for self-care.
+Mental Health Observations
+Physiological Observative Impressions: " "Nothing reported"
+Current Functional Status: "nothing reported"Diagnostic Impressiveness: The Patient is making progress in managing stress through mindfulness exercises.
+Progress Evaluation: The plan includes incorporating mindfulness into their daily routine.
+Medications: The next session aims to incorporate mindfulness practices into their routine.
+Therapeutic Interventions:The patient plans to continue journaling and explore mindfulness strategies.
+Next Steps: The goal will include journaling as a way to manage anxiety and improve sleep quality.  - The patient aims to practice mindfulness techniques in future sessions and set goals for the next session.     - They are encouraged to reach out to family members for support during the upcoming session.
+
+Next steps: Thepatient plans to check in on family connections and consider setting boundaries with family members. They are also open to exploring new coping strategies. They also intend to share feedback with friends about their experiences. Â
+Next step: They are considering using mindfulness techniques to help them cope with anxiety and stress.
+Diagnosocial Impress
+INFO:root:Sample 5 - Ground Truth: Presenting Problem / Chief Complaint: The patient has been experiencing increased anxiety, particularly related to work pressures and feelings of inadequacy.
+Trauma History: "Nothing Reported"
+Substance Use History: "Nothing Reported"
+History of Present Illness (HPI): The patient reports feeling more anxious lately, struggling with work-related stress and deadlines. They have attempted meditation but find it challenging to maintain focus. They also express feelings of being overwhelmed and a desire to improve their coping strategies.
+Medical and Psychiatric History: "Nothing Reported"
+Psychosocial History: The patient mentions a distant relationship with family and reflects on a recent breakup, indicating a longing for companionship and connection.
+Risk Assessment: "Nothing Reported"
+Mental Health Observations: "Nothing Reported"
+Physiological Observations: "Nothing Reported"
+Current Functional Status: "Nothing Reported"
+Diagnostic Impressions: "Nothing Reported"
+Progress Evaluation: The patient is making efforts to manage anxiety through grounding techniques and is beginning to set small, actionable goals.
+Medications: "Nothing Reported"
+Therapeutic Interventions: The therapist introduced grounding exercises and discussed breaking tasks into smaller steps to manage anxiety more effectively. The patient is encouraged to maintain connections with family and explore social opportunities.
+Next Steps: The patient plans to focus on breaking down their project into smaller tasks and reaching out to family more regularly.

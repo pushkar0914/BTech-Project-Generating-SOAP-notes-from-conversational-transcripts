@@ -1,0 +1,58 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been?  ,T,Insignificant
+"Hi, Ellie! I’ve been good, just busy with the documentary project.  ",P,Insignificant
+That’s wonderful to hear! How is the documentary coming along?  ,T,Insignificant
+It’s going well! I’ve started reaching out to people for interviews.  ,P,Current Functional Status
+That’s fantastic! How has that process been for you?  ,T,Insignificant
+"It’s been a bit challenging, but also really rewarding. People are opening up to me.  ",P,History of Present Illness (HPI)
+That’s great to hear. What have you learned from those conversations so far?  ,T,Insignificant
+"I’ve learned that everyone has a unique story, and it’s important to listen without judgment.  ",P,Insignificant
+That’s a valuable insight. How are you feeling about the emotional weight of those stories?  ,T,Insignificant
+"It’s heavy sometimes, but I feel honored to share their experiences.  ",P,History of Present Illness (HPI)
+That’s a beautiful perspective. Have you found any coping strategies for handling that emotional weight?  ,T,Insignificant
+I’ve been journaling about my feelings after the interviews. It helps me process everything.  ,P,Therapeutic Interventions
+That’s a great way to reflect. How has journaling impacted your emotional state?  ,T,Insignificant
+It’s helped me feel less overwhelmed and more connected to the project.  ,P,Current Functional Status
+That’s wonderful to hear. What do you hope to achieve with this documentary?  ,T,Insignificant
+I hope to raise awareness and encourage empathy towards those experiencing homelessness.  ,P,Presenting Problem / Chief Complaint
+That’s a noble goal. How do you plan to share the final product?  ,T,Insignificant
+I want to screen it at local community centers and possibly submit it to film festivals.  ,P,Current Functional Status
+Those sound like excellent avenues for sharing your work. Have you thought about how to promote it?  ,T,Insignificant
+I’ve been considering social media and local news outlets to get the word out.  ,P,Current Functional Status
+That’s a smart approach. Have you used social media for your previous projects?  ,T,Insignificant
+"A little, but I think I need to be more strategic this time.  ",P,Current Functional Status
+It can definitely help to have a clear plan for promotion. Would you like to brainstorm some ideas?  ,T,Insignificant
+"Yes, I’d love that!  ",P,Insignificant
+Great! What platforms do you think would be most effective for your audience?  ,T,Insignificant
+"I think Instagram and Facebook would work well, maybe even a dedicated website.  ",P,Current Functional Status
+Those are solid choices. You could share behind-the-scenes content to engage your audience.  ,T,Insignificant
+That’s a good idea! People love seeing the process.  ,P,Insignificant
+Absolutely! It can help build excitement for the final product.  ,T,Insignificant
+I’ll start planning some content for those platforms.  ,P,Current Functional Status
+That sounds like a great next step. How are you managing your time with this project and family life?  ,T,Insignificant
+"I’ve been trying to stick to my work hours, but it’s still a challenge.  ",P,History of Present Illness (HPI)
+Balancing everything can be tough. Have you been able to implement any of the rituals we discussed?  ,T,Insignificant
+"Yes, I’ve been taking that walk after work, and it helps me unwind.  ",P,Therapeutic Interventions
+That’s wonderful! It’s great to hear you’re finding ways to create that separation.  ,T,Insignificant
+It really makes a difference in my mood.  ,P,Mental Health Observations
+I’m glad to hear that. How is your daughter doing with everything?  ,T,Insignificant
+"She’s doing well! I’ve been spending more quality time with her, and it’s been nice.  ",P,Current Functional Status
+That’s fantastic! What activities have you been doing together?  ,T,Insignificant
+We’ve been going to the park and doing arts and crafts at home.  ,P,Current Functional Status
+Those sound like fun bonding activities! How does she respond to the time you spend together?  ,T,Insignificant
+She loves it! She’s always asking when we can do our next project.  ,P,Current Functional Status
+That’s heartwarming to hear. It seems like you’re nurturing a strong relationship with her.  ,T,Insignificant
+I hope so! I really want her to feel valued and heard.  ,P,Insignificant
+You’re doing a great job at that. What other goals do you have for your family life?  ,T,Insignificant
+"I want to continue being present and supportive, especially as she grows older.  ",P,Presenting Problem / Chief Complaint
+That’s an admirable goal. How do you plan to maintain that presence?  ,T,Insignificant
+I think I need to keep prioritizing our time together and being mindful of distractions.  ,P,Insignificant
+That’s a great insight. Setting boundaries with technology can help with that.  ,T,Insignificant
+"Yes, I completely agree. I want to lead by example.  ",P,Insignificant
+"That’s a wonderful approach. As we wrap up today, what would you like to focus on for our next session?  ",T,Insignificant
+I’d like to discuss how the documentary is progressing and any challenges I might face.  ,P,Next Steps
+That sounds like a solid plan. I look forward to hearing more about it.  ,T,Insignificant
+"Thank you, Ellie! I appreciate your support.  ",P,Insignificant
+You’re very welcome! See you next time.  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

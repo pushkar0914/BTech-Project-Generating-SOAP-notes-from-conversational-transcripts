@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Welcome back! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+I’ve been okay. I’ve been trying to use the affirmations we talked about.,P,History of Present Illness (HPI)
+That’s wonderful to hear! How has that been going for you?,T,Insignificant
+"It’s been good. I feel a little more positive, but there are days when I still doubt myself.",P,History of Present Illness (HPI)
+It’s completely normal to have ups and downs. What do you do on those days when doubts creep in?,T,Insignificant
+"I try to remind myself of my accomplishments, but sometimes it’s hard to shake off the negative thoughts.",P,History of Present Illness (HPI)
+It can be challenging. Would you like to explore some additional coping strategies for those tough days?,T,Insignificant
+"Yes, that would be helpful.",P,Insignificant
+One technique is mindfulness. Have you ever practiced mindfulness or meditation?,T,Insignificant
+"I haven’t really tried it, but I’ve heard about it.",P,Insignificant
+Mindfulness can help you stay present and manage negative thoughts. Would you be interested in trying a short mindfulness exercise with me?,T,Therapeutic Interventions
+"Sure, I’d like to try that.",P,Insignificant
+Great! Let’s start by taking a few deep breaths together. Inhale deeply through your nose… hold it for a moment… and exhale slowly through your mouth. How does that feel?,T,Therapeutic Interventions
+It feels calming. I like it.,P,Mental Health Observations
+"Wonderful! Now, let’s focus on the present moment. What do you notice around you?",T,Insignificant
+I notice the sound of the air conditioning and the sunlight coming through the window.,P,Mental Health Observations
+Excellent observations! Mindfulness is about acknowledging your surroundings without judgment. This can help ground you when you feel overwhelmed. How do you feel after this exercise?,T,Insignificant
+I feel more relaxed. I think I could use this when I’m feeling anxious.,P,Mental Health Observations
+Absolutely! You can use mindfulness anytime. Would you like to set a goal to practice this daily?,T,Next Steps
+"Yes, I’ll try to do it every morning.",P,Next Steps
+"That sounds like a great plan! Now, let’s check in on your job search. Have you had any new opportunities come up?",T,Insignificant
+"I applied to a couple of places, but I haven’t heard back yet.",P,History of Present Illness (HPI)
+"It’s great that you’re applying! Remember, it can take time to hear back. How do you feel about the applications you’ve submitted?",T,Insignificant
+I feel good about them. I think I put my best foot forward.,P,History of Present Illness (HPI)
+That’s a positive mindset! Let’s celebrate that effort. What else can we do to enhance your job search strategy?,T,Insignificant
+Maybe I could network more? I haven’t really reached out to anyone.,P,Next Steps
+Networking is a great idea! Connecting with others can lead to new opportunities. Do you have any contacts in the child development field?,T,Insignificant
+I have a few former classmates and some people from my volunteer work.,P,History of Present Illness (HPI)
+Perfect! Would you be comfortable reaching out to them to see if they know of any openings?,T,Insignificant
+"Yes, I think I could do that. It’s a bit intimidating, though.",P,Risk Assessment
+It’s understandable to feel that way. You can start with a simple message expressing your interest in any job leads. Would you like to draft a message together?,T,Insignificant
+"Yes, that would help.",P,Insignificant
+"Let’s start with a greeting, then mention your current job search. How about something like, “Hi [Name], I hope you’re doing well! I’m currently looking for job opportunities in child development and would appreciate any leads you might have.” What do you think?",T,Insignificant
+That sounds good! I can add a bit about what I’m looking for.,P,Insignificant
+"Absolutely! Personalizing it will make it more engaging. Once you feel comfortable, send it out. How does that feel?",T,Insignificant
+It feels manageable. I’ll give it a shot!,P,Next Steps
+Great! Let’s check in on your feelings about being a single parent. How has that been for you lately?,T,Insignificant
+"It’s been a bit overwhelming with everything going on, but I’m managing.",P,History of Present Illness (HPI)
+It’s commendable that you’re managing. Are there specific challenges you’re facing?,T,Insignificant
+Sometimes I feel guilty about not being able to provide everything I want for my daughter.,P,Risk Assessment
+"Guilt is a common feeling among parents. Remember, your love and support are what matter most. How do you think you can address those feelings?",T,Insignificant
+I guess I could focus on the quality time we spend together rather than material things.,P,History of Present Illness (HPI)
+That’s a wonderful perspective! Quality time can create lasting memories. What activities do you enjoy doing together?,T,Insignificant
+"We like to go to the park and watch movies at home. Simple things, but we enjoy them.",P,History of Present Illness (HPI)
+Those sound like lovely activities! Perhaps you can plan regular outings to strengthen your bond. Would you like to set a goal for that?,T,Next Steps
+"Yes, I’d like to make it a weekly thing.",P,Next Steps
+Perfect! Having that time together can also help you both unwind. Is there anything else you’d like to discuss today?,T,Insignificant
+I think I’m good for now. I feel like we covered a lot.,P,Insignificant
+"I agree! You’ve made great strides. Remember to practice your affirmations and mindfulness, and reach out to your contacts. I’m looking forward to hearing about your progress in our next session!",T,Insignificant
+Thank you! I appreciate your support.,P,Insignificant
+"You’re welcome! Take care, and see you next time!",T,Insignificant
+Goodbye!,P,Insignificant

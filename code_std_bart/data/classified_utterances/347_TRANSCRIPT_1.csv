@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?  ,T,Insignificant
+"I’ve been alright, just the usual ups and downs.  ",P,Insignificant
+"That’s understandable. Last time, we talked about your move to LA and how you’ve been feeling anxious about job hunting. Have you had any progress on that front?  ",T,History of Present Illness (HPI)
+"A little bit, I applied to a few places but haven’t heard back yet.  ",P,History of Present Illness (HPI)
+That can be frustrating. How does that make you feel?  ,T,Insignificant
+"It makes me anxious, I guess. I really want to find something soon.  ",P,History of Present Illness (HPI)
+It’s completely normal to feel that way. Have you tried any specific strategies to cope with that anxiety?  ,T,History of Present Illness (HPI)
+"I’ve been trying to read more to distract myself, but it’s hard to focus sometimes.  ",P,History of Present Illness (HPI)
+That’s a good approach. Reading can be a great escape. Have you considered any mindfulness techniques or relaxation exercises?  ,T,History of Present Illness (HPI)
+"Not really, I’m not sure where to start.  ",P,Insignificant
+Would you be open to exploring some mindfulness exercises together? It might help with your anxiety.  ,T,Therapeutic Interventions
+"Yeah, I’d be willing to try.  ",P,Insignificant
+"Great! One simple technique is focusing on your breath. You can try inhaling deeply for four counts, holding for four, and exhaling for four. Want to give it a try now?  ",T,Therapeutic Interventions
+"Okay, I can try that.  ",P,Insignificant
+Let’s do it together. Inhale… hold… exhale… How did that feel?  ,T,Insignificant
+"It was nice, I felt a little calmer.  ",P,Mental Health Observations
+That’s wonderful to hear! You can use this technique whenever you feel overwhelmed. Are there specific situations where you feel your anxiety spikes?  ,T,History of Present Illness (HPI)
+Mostly when I’m waiting to hear back from jobs or when I think about the future.  ,P,History of Present Illness (HPI)
+That makes sense. The uncertainty can be tough. Have you thought about what you would like to do if you don’t hear back soon?  ,T,Insignificant
+"I guess I could look into other options, maybe even different fields.  ",P,Insignificant
+That’s a proactive approach. What other fields interest you?  ,T,Insignificant
+"Well, I’ve always been curious about social work.  ",P,History of Present Illness (HPI)
+"That’s an excellent field, especially since you have experience as a nurse’s aide. What draws you to social work?  ",T,Insignificant
+I like helping people and making a difference in their lives.  ,P,Insignificant
+That’s a strong motivation. Have you explored any educational paths or certifications for social work?  ,T,Insignificant
+"Not yet, I’m not sure where to start.  ",P,Insignificant
+We can look into that together. It might help alleviate some of your anxiety about job hunting if you have a clear goal in mind.  ,T,Therapeutic Interventions
+"Yeah, that sounds good.  ",P,Insignificant
+Let’s set a small goal for you to research social work options this week. How does that sound?  ,T,Next Steps
+I can do that.  ,P,Insignificant
+"Perfect! And remember, it’s okay to feel anxious about the future. It’s a common experience.  ",T,Insignificant
+"Thanks, I appreciate that.  ",P,Insignificant
+Of course! Is there anything else on your mind today?  ,T,Insignificant
+I’ve been thinking a lot about my kids and how I can be a better parent.  ,P,History of Present Illness (HPI)
+That’s a great topic to explore. What specific areas do you feel you want to improve in as a parent?  ,T,Insignificant
+"I want to be more present with them, especially when I’m feeling stressed.  ",P,History of Present Illness (HPI)
+That’s a valuable goal. Have you noticed any patterns in your behavior when you’re stressed?  ,T,Insignificant
+I tend to withdraw and not engage with them as much.  ,P,History of Present Illness (HPI)
+Acknowledging that is the first step. Maybe incorporating some of the mindfulness techniques we discussed can help you stay present.  ,T,Therapeutic Interventions
+That makes sense.  ,P,Insignificant
+"You could also set aside a few minutes each day for quality time with them, even if it’s just reading together or playing a game.  ",T,Therapeutic Interventions
+I like that idea.  ,P,Insignificant
+Wonderful! Let’s aim for that this week. How does that sound?  ,T,Next Steps
+Sounds good.  ,P,Insignificant
+Great! I’m looking forward to hearing about your experiences in our next session. Thank you for sharing today.  ,T,Insignificant
+Thank you!  ,P,Insignificant

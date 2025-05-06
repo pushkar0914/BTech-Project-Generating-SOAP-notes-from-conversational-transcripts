@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! Welcome back. How have you been since our last session?,T,Insignificant
+I’ve been trying to practice the breathing exercises and the calm responses we talked about.,P,Progress Evaluation
+That’s wonderful to hear! Have you had a chance to use them in real-life situations?,T,Insignificant
+"Yes, I actually had a moment at the grocery store where someone cut in front of me. I took a deep breath and calmly said, “Excuse me, I was waiting in line.”",P,Current Functional Status
+That’s fantastic! How did that go for you?,T,Insignificant
+Surprisingly well! The person apologized and moved back. I felt proud of myself for staying calm.,P,Mental Health Observations
+You should be proud! That’s a huge accomplishment. How did it make you feel afterward?,T,Insignificant
+I felt relieved and a bit more confident. ,P,Mental Health Observations
+"That’s a great feeling to have. Building that confidence is key. Last time, we mentioned exploring your trust issues. How have you been feeling about that?",T,Insignificant
+"I’ve been thinking a lot about it. I realize I have a hard time letting people in, even my friends.",P,History of Present Illness (HPI)
+"That’s a significant insight. Trust can be a complex issue, especially with your past experiences. Can you share more about what makes it difficult for you?",T,Insignificant
+"I guess I’m afraid of being hurt or betrayed. I’ve been let down before, and it just makes me wary.",P,Trauma History
+It’s understandable to feel that way after experiencing pain. Have you noticed any patterns in your relationships that reflect this fear?,T,Insignificant
+"Yes, I tend to keep people at arm’s length. I don’t let them see the real me.",P,History of Present Illness (HPI)
+"That’s a protective mechanism. While it keeps you safe, it can also prevent deeper connections. What do you think would happen if you allowed someone to get closer?",T,Insignificant
+"I think I’d feel vulnerable, and that scares me. ",P,Risk Assessment
+"Vulnerability can be daunting, but it can also lead to more meaningful relationships. What steps do you think you could take to start opening up a bit?",T,Insignificant
+Maybe I could share something small about myself with a friend and see how they respond.,P,Next Steps
+That sounds like a great plan! Starting small can help build trust gradually. Is there someone you feel comfortable with that you could try this with?,T,Insignificant
+I have a friend I’ve known for years. I think I could try it with her.,P,Next Steps
+That’s a perfect choice! Sharing a little bit about your feelings or experiences can pave the way for deeper conversations. How do you feel about that idea?,T,Insignificant
+I feel a little nervous but also excited. ,P,Mental Health Observations
+"That’s a natural reaction! It’s okay to feel nervous when trying something new. Remember, it’s about progress, not perfection. Would you like to role-play how that conversation might go?",T,Insignificant
+"Sure, that could help.",P,Insignificant
+Great! I’ll be your friend. You can start whenever you’re ready.,T,Insignificant
+"Okay. *deep breath* Hey, I wanted to share something with you.",P,Insignificant
+Sure! What’s on your mind?,T,Insignificant
+"I’ve been struggling with trusting people lately. I tend to keep my guard up, and I’m trying to work on it.",P,History of Present Illness (HPI)
+Thank you for sharing that with me. I appreciate your honesty. ,T,Insignificant
+How did that feel?,P,Insignificant
+It felt good to say it out loud. ,P,Mental Health Observations
+That’s a positive step! It’s all about building that comfort level. How can we continue to support you in this area?,T,Insignificant
+I think I need to keep practicing these conversations and maybe even journal about my feelings.,P,Therapeutic Interventions
+Journaling can be a great tool for processing your emotions. It can help you reflect on your experiences and understand your feelings better. ,T,Therapeutic Interventions
+I’ll definitely try that.,P,Insignificant
+"Perfect! As we wrap up today, what are your goals for our next session?",T,Insignificant
+I want to check in on how the conversation with my friend goes and possibly explore more about why I feel the way I do about trust.,P,Next Steps
+That sounds like a solid plan. I’m looking forward to hearing about your progress. Remember to be kind to yourself as you navigate this journey.,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re very welcome! Take care, and see you next time!",T,Insignificant
+Bye!,P,Insignificant
+Goodbye!,T,Insignificant

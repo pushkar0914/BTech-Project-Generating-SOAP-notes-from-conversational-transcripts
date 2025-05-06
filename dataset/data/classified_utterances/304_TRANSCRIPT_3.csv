@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How did your week go?,T,Insignificant
+Hi! It was good! I submitted my internship applications!,P,Psychosocial History
+That’s amazing! How did that feel?,T,Insignificant
+"It felt really good to finally get it done. I was so nervous, but I did it!",P,History of Present Illness (HPI)
+You should be proud of yourself! Did you receive any responses yet?,T,Insignificant
+"Not yet, but I’m trying to be patient.",P,History of Present Illness (HPI)
+"That’s a great mindset. While you wait, you can focus on preparing for potential interviews. Have you thought about that?",T,Insignificant
+"I haven’t, but I should start.",P,Insignificant
+Yes! We can practice some common interview questions together if you’d like.,T,Insignificant
+That would be helpful!,P,Insignificant
+Let’s start with a common question: “Why do you want to work in special education?”,T,Insignificant
+"Um, I’d say something like, “I believe every child deserves an equal opportunity to learn, and I want to help create an inclusive environment.”",P,Insignificant
+That’s a strong answer! You’re conveying your passion and commitment. What’s another question we could prepare for?,T,Insignificant
+“What are your strengths?”,P,Insignificant
+Excellent! How would you respond to that?,T,Insignificant
+"I think I’d say something like, “I’m patient and adaptable, which helps me connect with children.”",P,Insignificant
+Perfect! Those qualities are essential in special education. How are you feeling about your living situation now?,T,Insignificant
+I finally talked to my roommates!,P,Psychosocial History
+That’s great news! How did it go?,T,Insignificant
+It went better than I expected. They were really understanding and said they didn’t realize I felt that way.,P,History of Present Illness (HPI)
+That’s wonderful! It sounds like you opened up a healthy dialogue. How do you feel about the outcome?,T,Insignificant
+I feel relieved. I think we’re all going to work on connecting more.,P,History of Present Illness (HPI)
+That’s fantastic progress! It shows that communication can lead to positive changes. Is there anything else on your mind today?,T,Insignificant
+"I’ve been thinking about my anxiety again, especially with the job search.",P,History of Present Illness (HPI)
+It’s normal to feel anxious about the future. Have you noticed any specific triggers for your anxiety?,T,History of Present Illness (HPI)
+I think it’s mostly when I think about not being good enough or not getting a job.,P,History of Present Illness (HPI)
+Those thoughts can be overwhelming. Would you be open to practicing some cognitive-behavioral techniques to challenge those thoughts?,T,Therapeutic Interventions
+"Yes, I’d like to try that.",P,Therapeutic Interventions
+Great! Let’s identify a negative thought you’ve had this week.,T,Insignificant
+"I thought, “I won’t get any of these internships.”",P,History of Present Illness (HPI)
+"Now, let’s challenge that thought. What evidence do you have that supports this thought?",T,Insignificant
+"Well, I don’t have any evidence yet. I just feel that way.",P,Insignificant
+"Exactly! It’s based on feelings rather than facts. Now, let’s find a more balanced thought. What could you say instead?",T,Insignificant
+"I could say, “I’ve applied, and I have skills that make me a good candidate.”",P,Therapeutic Interventions
+That’s a much healthier perspective! It’s important to focus on what you can control. Would you like to continue practicing this technique?,T,Insignificant
+"Yes, I’d like to work on it more.",P,Therapeutic Interventions
+Wonderful! Let’s keep this as a goal for our next session. How does that sound?,T,Next Steps
+"Sounds good! Thanks, Ellie.",P,Insignificant
+"You’re doing great work! I’m proud of your progress. Have a wonderful week, and I can’t wait to hear about your experiences next time.",T,Insignificant
+Thanks! Bye!,P,Insignificant
+Bye!,T,Insignificant

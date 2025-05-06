@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hey Ellie! I've been alright, just the usual ups and downs, you know?",P,Insignificant
+"I understand. Last time, we talked a bit about your work ethic and how you feel about completing projects. Have you had any thoughts on that since we last spoke?",T,History of Present Illness (HPI)
+"Yeah, I’ve been thinking about it. I actually started working on a song that I’ve been putting off for a while.",P,History of Present Illness (HPI)
+That’s great to hear! What motivated you to start?,T,Insignificant
+I think I just got tired of waiting for the perfect moment or space. I realized I can create something even if it’s not in a perfect studio.,P,History of Present Illness (HPI)
+That sounds like a positive shift in your thinking. How has the process been for you so far?,T,Insignificant
+It’s been fun! I’m just letting myself play around with ideas without worrying too much about the final product.,P,History of Present Illness (HPI)
+That’s an excellent approach. It sounds like you’re practicing self-compassion in your creative process. How does that feel?,T,Insignificant
+"Honestly, it feels liberating. I’m not stressing over every little detail.",P,History of Present Illness (HPI)
+Good! I’d like to explore that further. Do you notice any changes in your mood or motivation since you started this new approach?,T,History of Present Illness (HPI)
+I think I’m feeling a bit more motivated. I’ve been playing more often and not just when I feel like I need to produce something.,P,History of Present Illness (HPI)
+"That’s wonderful! So, it sounds like you’re finding joy in the process rather than just the outcome. Have you noticed any other changes in your life lately?",T,Insignificant
+"Well, I’ve been hanging out with my friends more. We’ve been jamming together, and it’s nice to have that support.",P,Psychosocial History
+It sounds like your social connections are strengthening. How does that affect your overall mood?,T,Insignificant
+It definitely lifts me up. I feel less isolated when I’m with them.,P,Psychosocial History
+That’s important. Social support can really help with feelings of loneliness. Have you had any moments of doubt or frustration while working on your music?,T,Insignificant
+"Yeah, sometimes I feel like I’m not good enough, especially when I compare myself to others.",P,History of Present Illness (HPI)
+That’s a common feeling among musicians. How do you usually cope with those thoughts?,T,Insignificant
+"I try to remind myself that everyone has their own journey and struggles, but it’s hard not to compare.",P,History of Present Illness (HPI)
+Absolutely. It’s a challenge. Would you like to explore some strategies for managing those comparison feelings?,T,Insignificant
+"Sure, that would help.",P,Insignificant
+One technique is to practice gratitude for your own unique skills and experiences. Would you be open to keeping a gratitude journal focused on your music?,T,Therapeutic Interventions
+That sounds interesting. I could definitely try that.,P,Therapeutic Interventions
+Great! It could help shift your focus from comparison to appreciation. Is there anything specific you’d like to write about in your journal?,T,Insignificant
+"Maybe I could start with the moments I feel proud of what I’ve created, even if it’s not perfect.",P,Therapeutic Interventions
+"That’s a lovely idea. Focusing on your accomplishments, no matter how small, can help reinforce your self-worth. How do you feel about setting a goal to write in your journal a few times a week?",T,Next Steps
+I think I can manage that! ,P,Next Steps
+Awesome! How about we check in on that during our next session? ,T,Next Steps
+Sounds good to me!,P,Next Steps
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I guess I’m just curious about how to deal with those moments when I feel overwhelmed with everything.,P,Presenting Problem / Chief Complaint
+"That’s a valuable topic. When you start to feel overwhelmed, what’s usually going on in your mind?",T,Insignificant
+"I think I start to feel like I have to do everything perfectly, and that just shuts me down.",P,History of Present Illness (HPI)
+Perfectionism can be paralyzing. Have you tried any techniques to manage those feelings when they arise?,T,Insignificant
+Not really. I just end up avoiding things instead.,P,History of Present Illness (HPI)
+Would you be interested in exploring some mindfulness techniques to help you stay grounded in those moments?,T,Therapeutic Interventions
+"Yeah, I’d like that.",P,Therapeutic Interventions
+We can start with simple breathing exercises. Would you like to practice one now before we finish?,T,Therapeutic Interventions
+"Sure, I’d love to try.",P,Therapeutic Interventions
+Great! Let’s take a deep breath in together… and out. ,T,Insignificant
+*breathes* ,P,Insignificant
+How does that feel?,T,Insignificant
+It feels nice. I can see how that could help when I’m feeling overwhelmed.,P,History of Present Illness (HPI)
+"Absolutely! Remember, it’s about finding what works for you. Let’s build on this in our next session. ",T,Next Steps
+"Okay, I’m looking forward to it!",P,Next Steps
+Me too! Take care until then.,T,Insignificant
+"Thanks, Ellie. You too!",P,Insignificant

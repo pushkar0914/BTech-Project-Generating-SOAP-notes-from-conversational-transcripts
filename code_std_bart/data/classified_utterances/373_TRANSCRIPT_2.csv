@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi there! It’s great to see you again. How have you been?,T,Insignificant
+"Hi, Ellie! I’ve been doing better, actually. I’ve been practicing the techniques we talked about.",P,History of Present Illness (HPI)
+That’s fantastic to hear! How has your experience been with challenging those negative thoughts?,T,History of Present Illness (HPI)
+It’s been helpful. I’ve caught myself in those moments and used the evidence to counter them. It’s made a difference.,P,History of Present Illness (HPI)
+I’m so glad to hear that! Have you noticed any changes in your anxiety levels since incorporating those strategies?,T,History of Present Illness (HPI)
+"Yes, I think I’m feeling a little less anxious about my work. I still have moments, but they’re not as overwhelming.",P,History of Present Illness (HPI)
+That’s a significant step forward! Have you had any specific situations where you applied these techniques?,T,History of Present Illness (HPI)
+"I had a meeting with the artists I’m working with, and I felt nervous beforehand. I used the technique to remind myself of my past successes, and it helped me stay calm.",P,History of Present Illness (HPI)
+That’s an excellent example! How did the meeting go?,T,Insignificant
+"It went really well! They were excited about the project, and it felt good to share my ideas with them.",P,Current Functional Status
+That’s wonderful! It sounds like you’re gaining more confidence in your abilities. How did that make you feel?,T,Insignificant
+"It felt validating. I realized I can do this, and it’s nice to see my hard work paying off.",P,History of Present Illness (HPI)
+Absolutely! Celebrating those successes is important. Have you been able to manage your nighttime anxiety as well?,T,History of Present Illness (HPI)
+"I’ve been practicing the mindfulness meditation before bed, and it’s helped a lot. I’m falling asleep faster.",P,Physiological Observations
+That’s great to hear! Mindfulness can be a powerful tool for relaxation. Have you noticed any particular thoughts that still come up at night?,T,History of Present Illness (HPI)
+"Sometimes I still worry about what I need to do the next day, but I try to redirect my focus to my breath instead.",P,History of Present Illness (HPI)
+That’s a great approach! Redirecting your focus can help prevent those worries from spiraling. Would you like to explore more relaxation techniques or stick with what’s been working?,T,Insignificant
+I think I’d like to stick with what’s been working for now. It feels good to have a routine.,P,Insignificant
+That sounds like a solid plan. It’s important to find what works best for you. Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+I’ve been thinking about my relationship with my girlfriend. I miss her a lot when she’s away.,P,Psychosocial History
+That’s understandable. Long-distance can be challenging. How are you coping with the distance?,T,Psychosocial History
+"I’ve been trying to stay connected through video calls and texts, but it’s not the same as being together.",P,Psychosocial History
+It’s definitely tough. Have you found any ways to make those calls feel more special or meaningful?,T,Psychosocial History
+"We’ve started watching movies together over video calls, which has been nice. It makes me feel closer to her.",P,Psychosocial History
+"That’s a wonderful idea! Sharing experiences, even from a distance, can help maintain that connection. How does that make you feel?",T,Insignificant
+"It makes me feel more connected to her, like we’re still part of each other’s lives despite the distance.",P,Psychosocial History
+That’s beautiful. Maintaining that emotional connection is vital in long-distance relationships. Have you discussed your feelings about the distance with her?,T,Psychosocial History
+"I have, and she understands. She misses me too, but we both know it’s temporary.",P,Psychosocial History
+It’s great that you can communicate openly about your feelings. That can strengthen your relationship even more. How do you feel about the future of your relationship?,T,Psychosocial History
+"I’m hopeful. I think we both want to make it work, and I believe we will.",P,Psychosocial History
+That’s a positive mindset to have. Focusing on the future can help ease some anxiety about the present. Is there anything specific you’d like to work on regarding your relationship in our future sessions?,T,Next Steps
+Maybe just finding more ways to cope with the distance and keep the connection strong.,P,Next Steps
+"That sounds like a valuable goal. We can definitely explore more strategies for that. For now, how do you feel about our session today?",T,Insignificant
+I feel really good! I appreciate the support and the techniques we’ve discussed.,P,Insignificant
+I’m glad to hear that! It’s been a pleasure working with you. Let’s continue building on your progress in our next session.,T,Insignificant
+"Sounds good to me! Thanks, Ellie.",P,Insignificant
+"You’re welcome! Take care, and I look forward to our next chat.",T,Insignificant
+Bye!,P,Insignificant
+Goodbye!,T,Insignificant

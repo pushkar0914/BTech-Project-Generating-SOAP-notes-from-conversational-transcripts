@@ -1,0 +1,57 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi again! It's great to see you. How have you been since our last session?  ,T,Insignificant
+"I've been okay, just the usual ups and downs.  ",P,Insignificant
+"That’s understandable. Last time, you mentioned feeling worried about money. How has that been for you?  ",T,History of Present Illness (HPI)
+"Still worrying, to be honest. I’ve been trying to budget better, but it’s tough.  ",P,History of Present Illness (HPI)
+Budgeting can be challenging. Have you found any strategies that help you manage your finances?  ,T,Insignificant
+"I’ve started tracking my expenses more closely. It’s a bit of a pain, but it helps me see where my money goes.  ",P,Current Functional Status
+That’s a great step! Being aware of your spending can really empower you. Are there any areas where you feel you could cut back?  ,T,Insignificant
+"Yeah, I think I could eat out less. I tend to do that a lot when I’m stressed.  ",P,History of Present Illness (HPI)
+Eating out can add up quickly. Would you be open to exploring some meal prep ideas?  ,T,Insignificant
+"Sure, that sounds good. I’ve never really tried meal prepping, but I’ve heard it can save time and money.  ",P,Insignificant
+Absolutely! It can be a great way to ensure you have healthy meals ready. Do you enjoy cooking?  ,T,Insignificant
+"I like it, but I often feel too tired after work to do it.  ",P,Mental Health Observations
+That’s a common struggle. It might help to set aside a specific day to prep meals for the week.  ,T,Insignificant
+That makes sense. I could do that on Sundays.  ,P,Next Steps
+Perfect! Let’s set that as a goal for the week. How does that sound?  ,T,Next Steps
+Sounds good! I’ll give it a try.  ,P,Next Steps
+"Great! Now, shifting gears a bit, how have you been feeling emotionally lately?  ",T,Insignificant
+"I feel kind of stuck, like I’m in a rut.  ",P,History of Present Illness (HPI)
+I hear you. Can you tell me more about what makes you feel that way?  ,T,Insignificant
+I just feel like I’m not moving forward in my career or personal life.  ,P,History of Present Illness (HPI)
+That can be really frustrating. What are some things you would like to change or pursue?  ,T,Insignificant
+"I want to work more with athletes, but I don’t know how to get those opportunities.  ",P,History of Present Illness (HPI)
+It sounds like networking might be a key area to explore. Have you thought about how to connect with people in that field?  ,T,Insignificant
+"I’ve been thinking about reaching out to local sports teams or clinics, but I’m nervous.  ",P,History of Present Illness (HPI)
+It’s completely normal to feel nervous about networking. What do you think is holding you back?  ,T,Insignificant
+I guess I worry about rejection or feeling like I don’t belong.  ,P,History of Present Illness (HPI)
+Those feelings are valid. What if we brainstorm some ways to approach this?  ,T,Insignificant
+"Yeah, that could help.  ",P,Insignificant
+How about starting with informational interviews? You could reach out to people and ask for a short chat about their experiences.  ,T,Next Steps
+That sounds less intimidating than asking for a job outright.  ,P,Insignificant
+Exactly! It’s a low-pressure way to make connections. Would you be willing to try reaching out to a couple of people this week?  ,T,Next Steps
+I can do that. I’ll try to find a few contacts.  ,P,Next Steps
+"Wonderful! And remember, it’s a learning experience regardless of the outcome.  ",T,Insignificant
+True. I need to remind myself of that.  ,P,Insignificant
+How has your social life been? Have you been able to spend time with friends?  ,T,Insignificant
+"I’ve seen a few friends lately, which has helped.  ",P,Current Functional Status
+That’s good to hear! Social support is so important. What do you usually do together?  ,T,Insignificant
+We usually go out to dinner or watch movies.  ,P,Current Functional Status
+Sounds fun! Have you considered inviting them for a home-cooked meal instead?  ,T,Insignificant
+That could be nice. I’d like to show off my cooking skills!  ,P,Insignificant
+That’s a great idea! It could also help you practice meal prepping.  ,T,Insignificant
+I like that. I can invite them over after I prepare some meals.  ,P,Next Steps
+Perfect! It sounds like you’re developing a plan. How are you feeling about all of this?  ,T,Insignificant
+"A little more hopeful, I think.  ",P,Mental Health Observations
+That’s fantastic! Hopefulness can really motivate us to take action.  ,T,Insignificant
+"Yeah, I definitely feel more motivated now.  ",P,Mental Health Observations
+Good! Let’s keep building on that momentum. What’s one thing you’d like to focus on before our next session?  ,T,Insignificant
+I think the networking and meal prepping are good focuses.  ,P,Next Steps
+Excellent! We’ll check in on those next time. Remember to be kind to yourself as you navigate these changes.  ,T,Insignificant
+I will. Thanks for the encouragement!  ,P,Insignificant
+You’re welcome! I’m looking forward to hearing about your progress.  ,T,Insignificant
+Me too!  ,P,Insignificant
+"Great! Until next time, take care.  ",T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

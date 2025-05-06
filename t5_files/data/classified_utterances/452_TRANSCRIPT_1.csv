@@ -1,0 +1,58 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>  ,P,Insignificant
+Hi again! It's great to see you. How have you been since our last session?  ,T,Insignificant
+"I've been okay, I guess.  ",P,Insignificant
+"That's good to hear. Last time, we talked about some things that make you happy, like meeting new friends. Have you had any opportunities to do that again?  ",T,Insignificant
+Yes! I went to another party.  ,P,Psychosocial History
+That sounds fun! How did that go?  ,T,Insignificant
+It was good. I met some interesting people.  ,P,Psychosocial History
+What made them interesting to you?  ,T,Insignificant
+They were funny and we talked about movies.  ,P,Insignificant
+That's great! It sounds like you enjoyed the conversation. Did you feel comfortable sharing about yourself?  ,T,Insignificant
+A little bit. I was nervous at first.  ,P,Risk Assessment
+It's natural to feel nervous. What helped you feel more comfortable?  ,T,Insignificant
+"I just started talking about movies, and then it got easier.  ",P,Current Functional Status
+That's a good strategy! Focusing on a topic you enjoy can really help ease the tension. How do you feel about your ability to connect with people?  ,T,Insignificant
+"I think I'm good at it, but sometimes I worry about saying the wrong thing.  ",P,Risk Assessment
+"It's understandable to have those worries. What do you think might happen if you said something ""wrong""?  ",T,Insignificant
+I guess they might not like me anymore.  ,P,Risk Assessment
+That sounds tough. Let's explore that fear a bit. Can you think of a time when you felt you said something wrong?  ,T,Insignificant
+"Um, yeah. At a party once, I made a joke that didn't land well.  ",P,History of Present Illness (HPI)
+How did that make you feel?  ,T,Insignificant
+Embarrassed.  ,P,Risk Assessment
+That makes sense. Embarrassment can be a strong feeling. How did you cope with that feeling afterward?  ,T,Insignificant
+"I just laughed it off, but I felt bad for a while.  ",P,Current Functional Status
+Laughing it off is a good coping mechanism. Have you had any other experiences where you've felt embarrassed?  ,T,Insignificant
+Sometimes when I trip or fall in public.  ,P,History of Present Illness (HPI)
+That's a common experience! What goes through your mind when that happens?  ,T,Insignificant
+I just want to disappear.  ,P,Risk Assessment
+I understand. It can be really uncomfortable. How do you think you could respond differently in those moments?  ,T,Insignificant
+Maybe just laugh and move on?  ,P,Therapeutic Interventions
+That sounds like a positive approach. Would you like to practice that mindset?  ,T,Insignificant
+"Yeah, I think that could help.  ",P,Insignificant
+Great! Let's think of some affirmations you could tell yourself in those moments. What might one be?  ,T,Insignificant
+"Um, ""It's okay to make mistakes.""  ",P,Therapeutic Interventions
+That's a wonderful affirmation! How about we set a goal for you to use that affirmation next time you feel embarrassed?  ,T,Next Steps
+"Okay, I can try that.  ",P,Insignificant
+"Fantastic! Now, shifting gears a bit, how are you feeling about your procrastination? You mentioned it last time.  ",T,Insignificant
+I still struggle with it.  ,P,History of Present Illness (HPI)
+What do you think is the biggest barrier for you in overcoming procrastination?  ,T,Insignificant
+I guess I just don’t want to do things I don’t like.  ,P,History of Present Illness (HPI)
+That’s understandable. What types of tasks do you find yourself procrastinating on the most?  ,T,Insignificant
+Mostly chores or things for work.  ,P,History of Present Illness (HPI)
+Would it help to break those tasks into smaller steps?  ,T,Insignificant
+Maybe. I never thought about that.  ,P,Insignificant
+It can make a big difference! Would you like to try breaking down a specific task together?  ,T,Insignificant
+Sure.  ,P,Insignificant
+Which task would you like to focus on?  ,T,Insignificant
+I need to clean my room.  ,P,Current Functional Status
+Perfect! Let’s break that down. What’s one small step you could take today?  ,T,Insignificant
+I could start by picking up my clothes.  ,P,Current Functional Status
+That sounds like a great start! How does that feel?  ,T,Insignificant
+It feels manageable.  ,P,Current Functional Status
+Excellent! How about we set a goal for you to do that before our next session?  ,T,Next Steps
+"Okay, I can do that.  ",P,Insignificant
+Wonderful! I’m looking forward to hearing how it goes. Is there anything else you'd like to discuss today?  ,T,Insignificant
+"No, I think that's it.  ",P,Insignificant
+"Alright, thank you for sharing today. I’m glad we could talk about these things. See you next time!  ",T,Insignificant
+Bye!  ,P,Insignificant

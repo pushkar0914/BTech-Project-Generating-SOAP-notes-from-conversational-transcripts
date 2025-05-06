@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's great to see you again! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been okay, I guess. Just trying to keep busy.",P,Insignificant
+That's good to hear. Last time we talked about your PTSD and how you've been coping with it. Have you noticed any changes or improvements since we last spoke?,T,History of Present Illness (HPI)
+"Yeah, actually, I have. I've been going for walks more regularly, and it really helps clear my mind.",P,History of Present Illness (HPI)
+That's fantastic! Walking can be a great way to manage stress. Have you experienced any specific moments during your walks that stood out to you?,T,Insignificant
+"Well, I saw this beautiful sunset the other day, and it made me feel really peaceful. I took a moment to just breathe and appreciate it.",P,Insignificant
+That sounds lovely. Taking those moments to appreciate nature can be very grounding. Have you been able to incorporate any mindfulness practices during your walks?,T,Insignificant
+"I've been trying to focus on my breathing and just being present, you know? It's not always easy, but I’m working on it.",P,Therapeutic Interventions
+That's a great start! Mindfulness can really help with racing thoughts. Are there any particular triggers you've noticed that lead to those racing thoughts?,T,History of Present Illness (HPI)
+"Yeah, I think when I’m around a lot of people or in crowded places, it gets worse. I feel overwhelmed.",P,History of Present Illness (HPI):Risk Assessment
+"That makes sense. Crowds can be challenging, especially with your history of anxiety. Would you like to explore some strategies to help manage those feelings when you're in those situations?",T,Insignificant
+"Yes, I think that would be helpful.",P,Insignificant
+One technique we could consider is grounding exercises. These can help you stay connected to the present moment. Would you like to try one together now?,T,Therapeutic Interventions
+"Sure, that sounds good.",P,Insignificant
+"Great! Let’s start by taking a deep breath in... and out. Now, as you breathe, can you name five things you can see around you?",T,Therapeutic Interventions
+"Um, I see the chair, the window, a plant, your notebook, and the picture on the wall.",P,Therapeutic Interventions
+"Excellent! Now, can you name four things you can feel?",T,Therapeutic Interventions
+"I can feel the chair against my back, my hands on my lap, the air on my face, and my feet on the floor.",P,Therapeutic Interventions
+"Good job! Now, three things you can hear?",T,Therapeutic Interventions
+"I hear your voice, the clock ticking, and some birds outside.",P,Therapeutic Interventions
+Perfect! Two things you can smell?,T,Therapeutic Interventions
+I can smell the coffee and some flowers.,P,Therapeutic Interventions
+"And finally, one thing you can taste?",T,Therapeutic Interventions
+I can taste the mint from my gum.,P,Therapeutic Interventions
+Well done! How do you feel after doing that exercise?,T,Therapeutic Interventions
+"I feel a bit calmer, actually. It helps to focus on the senses.",P,Physiological Observations
+I’m glad to hear that! You can use this technique whenever you feel overwhelmed. Do you think you can practice this during your walks?,T,Next Steps
+"Yes, I’ll definitely try that.",P,Next Steps
+"Great! Now, let’s talk about your family dynamics. You mentioned some arguments with your family last time. Have there been any updates or changes in those relationships?",T,Insignificant
+"Well, I had another argument with my sister, but I tried to stay calm this time. It was hard, but I didn't yell.",P,History of Present Illness (HPI):Psychosocial History
+That’s a significant step forward! How did that feel?,T,Insignificant
+It felt good to not lose my temper. I think it helped a little with our relationship.,P,History of Present Illness (HPI):Psychosocial History
+That’s wonderful progress. It shows that you’re working on your temper. Would it be helpful to set some goals for how you can communicate better with your family?,T,Next Steps
+"Yes, I think that would help a lot.",P,Insignificant
+How about we focus on active listening? This means really paying attention to what the other person is saying without interrupting. Do you think you could practice that?,T,Therapeutic Interventions
+"Yeah, I can do that.",P,Insignificant
+"Fantastic! As you work on these skills, remember to be patient with yourself. Change takes time. Is there anything else you’d like to address today?",T,Insignificant
+I guess I’m just worried about finding a new therapist. I hope it goes well.,P,History of Present Illness (HPI)
+It’s normal to feel that way. Would you like to discuss what you’re looking for in a therapist? ,T,Insignificant
+I just want someone who understands me and my issues. ,P,Insignificant
+That’s a great starting point. It’s important to feel comfortable and understood. Perhaps we can brainstorm some questions you can ask during your first session to ensure it’s a good fit for you.,T,Next Steps
+That sounds helpful!,P,Insignificant
+"Alright, let’s make a list of those questions. You might ask about their experience with PTSD and depression, or their approach to therapy. ",T,Next Steps
+"Okay, I’ll write that down.",P,Insignificant
+Great! I think we’ve covered a lot today. How are you feeling about our session?,T,Insignificant
+I feel good. I appreciate all the tips and exercises.,P,Physiological Observations
+"I’m glad to hear that! Remember, it’s all about taking small steps. Let’s check in again next week, okay?",T,Next Steps
+"Sounds good! Thank you, Ellie.",P,Insignificant
+You’re welcome! Take care until next time.,T,Insignificant
+Bye!,P,Insignificant

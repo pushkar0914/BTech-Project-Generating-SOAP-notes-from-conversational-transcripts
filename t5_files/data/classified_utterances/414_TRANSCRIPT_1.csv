@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s good to see you. How have you been since our last session?,T,Insignificant
+"Hey! I’ve been okay, I guess. Just the usual ups and downs, you know?",P,Insignificant
+"I understand. Last time we talked about some tough experiences, especially regarding your mental health. Have there been any significant changes or challenges since then?",T,History of Present Illness (HPI)
+"Well, I’ve been trying to focus more on my sleep, but it’s still really hard. I had a couple of nights where I barely slept.",P,History of Present Illness (HPI): Physiological Observations
+That sounds frustrating. Have you been able to try any strategies to help with your sleep?,T,History of Present Illness (HPI)
+"I’ve been trying to limit screen time before bed, but sometimes I get caught up in watching shows. It’s like I can’t help myself.",P,History of Present Illness (HPI)
+That’s a common struggle. It can be tough to break that habit. Have you noticed if certain shows affect your sleep differently than others?,T,History of Present Illness (HPI)
+"Yeah, definitely. If I watch something intense or scary, I’ll have nightmares. But if it’s something light-hearted, I usually sleep better.",P,History of Present Illness (HPI): Physiological Observations
+That’s a good insight. Maybe you could create a list of shows that help you relax before bed. Would you be open to trying that?,T,Therapeutic Interventions
+"Yeah, I think that could help. I just need to remember to stick to it.",P,Therapeutic Interventions
+"It’s all about creating a routine. Speaking of routines, how have you been managing your emotions since we last spoke?",T,History of Present Illness (HPI)
+"I’ve been trying to be more aware of when I’m getting upset. I think I’m getting better at it, but it’s still a work in progress.",P,History of Present Illness (HPI)
+That’s a positive step. Have there been any specific situations where you felt you managed your emotions well?,T,History of Present Illness (HPI)
+"Actually, yeah! I had a disagreement with a classmate about a project, and instead of blowing up, I just took a deep breath and talked it out.",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re developing better communication skills. How did that make you feel afterward?,T,History of Present Illness (HPI)
+I felt relieved. It’s nice to know I can handle things without getting too emotional.,P,History of Present Illness (HPI)
+That’s a significant achievement. It’s important to celebrate those small victories. Have you been able to talk to Ryan since our last session?,T,History of Present Illness (HPI)
+"I have! We talked things over, and it felt good. We’re still not back to where we were, but it’s a start.",P,History of Present Illness (HPI)
+That’s great to hear. What do you think helped facilitate that conversation?,T,History of Present Illness (HPI)
+I think just being honest about how much I missed him and how I wanted to work things out. ,P,History of Present Illness (HPI)
+Honesty can be a powerful tool in relationships. Are there any strategies you think you could use to maintain that openness moving forward?,T,Next Steps
+Maybe setting aside time to talk regularly? Like a check-in or something.,P,Next Steps
+"That sounds like a solid plan. Regular communication can definitely help strengthen your friendship. On another note, how has your therapy been going with your new therapist?",T,History of Present Illness (HPI)
+It’s okay. I feel like I’m still getting used to her style. It’s different from my previous therapist.,P,Medical and Psychiatric History
+That’s understandable. Sometimes it takes time to adjust to a new therapist. Have you shared your feelings about that with her?,T,History of Present Illness (HPI)
+Not yet. I’m not sure how to bring it up without sounding rude.,P,History of Present Illness (HPI)
+"It’s perfectly valid to express your needs in therapy. You might say something like, “I appreciate your help, but I’m finding it a bit different than what I’m used to.” ",T,Therapeutic Interventions
+That makes sense. I’ll try to bring it up next time.,P,Therapeutic Interventions
+"Good! Remember, therapy is a partnership, and your feedback is important. How about your creative pursuits? Have you had a chance to work on any film projects or comedic ideas?",T,Insignificant
+"I’ve been brainstorming some ideas for short films, but I haven’t started anything yet. Just been a bit stuck, I guess.",P,History of Present Illness (HPI)
+It’s normal to feel stuck sometimes. What do you think is holding you back from starting?,T,History of Present Illness (HPI)
+I think it’s fear of not being good enough or not getting it right. ,P,History of Present Illness (HPI)
+"That’s a common fear, especially in creative fields. Would it help to set small, manageable goals for yourself to ease into it?",T,Therapeutic Interventions
+"Yeah, that might work. Like maybe just writing down ideas without judging them?",P,Therapeutic Interventions
+Exactly! Allow yourself the freedom to create without pressure. You can always refine your ideas later. ,T,Therapeutic Interventions
+I like that idea. I’ll try to do that this week.,P,Therapeutic Interventions
+Great! I’m looking forward to hearing about your progress next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it. I feel a bit lighter just talking about everything.,P,History of Present Illness (HPI)
+"I’m glad to hear that. Remember, it’s okay to reach out and share your feelings. I’m here for you. ",T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! Let’s set a goal for next time. Maybe focus on your sleep routine and creative writing?,T,Next Steps
+Sounds good to me!,P,Next Steps
+Perfect! I’ll see you next week. Take care!,T,Insignificant
+"Bye, Ellie! See you!",P,Insignificant

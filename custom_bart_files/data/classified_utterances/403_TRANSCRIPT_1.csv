@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi Ellie! I've been doing pretty well, actually. I've been focusing more on my event planning and trying to get my website off the ground.",P,History of Present Illness (HPI)
+That’s great to hear! Last time we talked about your motivation and energy for finding work. Have you made any progress on that front?,T,Insignificant
+"Yes, I reached out to a few potential clients and got some leads. It feels good to be proactive.",P,History of Present Illness (HPI)
+"That’s fantastic! How did that make you feel, taking those steps?",T,Insignificant
+"Honestly, it felt empowering. I was a bit nervous at first, but once I started, I felt more confident.",P,Mental Health Observations
+It sounds like you’re building your confidence. Are there any specific strategies you used to push through the nerves?,T,Insignificant
+"I just reminded myself that everyone starts somewhere and that I have skills to offer. Plus, I practiced what I wanted to say beforehand.",P,Therapeutic Interventions
+That’s a smart approach! Practicing can really help reduce anxiety. Have you noticed any changes in your mood or energy levels since you’ve been more proactive?,T,Insignificant
+Definitely! I feel more energized and excited about the possibilities. It’s like I’m finally moving forward.,P,Physiological Observations
+That’s wonderful to hear! It seems like you’re finding a good rhythm. Have you encountered any challenges while reaching out to clients?,T,Insignificant
+"A couple of them didn’t respond, which was a bit disheartening. I had to remind myself it’s not personal.",P,Mental Health Observations
+That’s a healthy perspective. It’s common in business to face rejection. How did you handle those feelings when you didn’t get a response?,T,Insignificant
+I tried to not dwell on it too much. I went to the gym to clear my head and focus on something positive.,P,Therapeutic Interventions
+Exercise can be a great way to cope with disappointment. Have you found other coping mechanisms that help you when you’re feeling down?,T,Insignificant
+I like listening to music and writing in my journal. It helps me process my thoughts.,P,Therapeutic Interventions
+Those sound like effective outlets. How has journaling been for you? ,T,Insignificant
+"It’s been really helpful. I can write down my frustrations or ideas without judgment, which is freeing.",P,Therapeutic Interventions
+That’s a great way to express yourself. Have you noticed any recurring themes in your journal entries?,T,Insignificant
+"I think I often write about my fears of not being good enough or not succeeding, especially in my career.",P,History of Present Illness (HPI)
+That’s an important insight. It sounds like self-doubt may be something you’re grappling with. How does that self-doubt affect you?,T,Insignificant
+It sometimes makes me hesitate to put myself out there or take risks. I don’t want to fail.,P,History of Present Illness (HPI)
+Understandable. Fear of failure can be paralyzing. What do you think would happen if you allowed yourself to take those risks?,T,Insignificant
+"I think I’d probably learn a lot, regardless of the outcome. But it’s scary to think about.",P,History of Present Illness (HPI)
+"It is scary, but it can also be a valuable learning experience. What if we explored ways to reframe that fear into something more manageable?",T,Insignificant
+I’d be open to that. I want to change my mindset.,P,Insignificant
+Great! One technique is to visualize the worst-case scenario and then consider how you would cope with that situation. Would you like to try that together?,T,Therapeutic Interventions
+"Sure, let’s do it.",P,Insignificant
+"Okay, let’s say you reach out to a client and they completely reject your proposal. What would that look like for you?",T,Insignificant
+I guess I’d feel embarrassed and disappointed. I’d worry about what others think.,P,Mental Health Observations
+"And that’s a valid concern. Now, can you think of ways you could handle that rejection if it happened?",T,Insignificant
+I could remind myself that it’s part of the process. I could reach out to my friend Mojo for support.,P,Therapeutic Interventions
+Exactly! It’s about having a support system and understanding that rejection doesn’t define your worth. How does that feel to think about?,T,Insignificant
+It feels a bit lighter. I can see that it’s not the end of the world.,P,Mental Health Observations
+That’s the spirit! Reframing those thoughts can help reduce anxiety. Do you think you could implement this technique moving forward?,T,Insignificant
+"Yes, I think I can. I’ll definitely give it a try.",P,Insignificant
+"Awesome! As we wrap up today, what’s one goal you’d like to set for the next week?",T,Insignificant
+I want to reach out to at least three potential clients and not let fear hold me back.,P,Next Steps
+That sounds like a solid goal. Remember to be kind to yourself through the process. ,T,Insignificant
+"I will, thank you!",P,Insignificant
+You're welcome! I'm looking forward to hearing about your progress next time. Take care!,T,Insignificant
+"Thanks, Ellie! See you next week!",P,Insignificant

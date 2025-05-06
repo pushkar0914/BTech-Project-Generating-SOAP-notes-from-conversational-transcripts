@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Um, I’ve been okay. A bit better, I think.",P,Progress Evaluation
+That’s good to hear! What do you think has contributed to that improvement?,T,Insignificant
+"Well, I’ve been trying to focus more on the positive things in my life.",P,History of Present Illness (HPI)
+That sounds like a great approach. Can you share some of those positive things you've been focusing on?,T,Insignificant
+"Yeah, I’ve been spending more time with my cats and watching funny shows. They make me laugh.",P,History of Present Illness (HPI)
+Cats can be such great companions! What’s something funny they did recently?,T,Insignificant
+"Oh, my cat, Bella, knocked over a plant and just stared at me like she didn’t do anything wrong. ",P,Insignificant
+(laughter) That sounds like a classic cat move! It’s nice to hear you’re finding joy in those moments. Have you been able to engage in any activities that you enjoy?,T,Insignificant
+"I went to the beach last weekend. It was nice, but I didn’t have enough money to do much.",P,History of Present Illness (HPI)
+It’s wonderful that you made it to the beach. Sometimes just being there can be refreshing. What do you enjoy most about being at the beach?,T,Insignificant
+Just the sound of the waves and the sun. It makes me feel relaxed.,P,History of Present Illness (HPI)
+That’s a lovely feeling. Have you thought about how you could incorporate more of that relaxation into your week?,T,Insignificant
+"Maybe I could go for walks by the beach more often, even if I don’t spend money.",P,Next Steps
+That sounds like a great plan! Walking can be a wonderful way to clear your mind. How do you feel about setting a goal to walk by the beach at least once a week?,T,Next Steps
+I think I could do that. It would be nice.,P,Next Steps
+Excellent! Let’s also talk about your work situation. You mentioned in our last session that it’s been challenging. How has that been for you lately?,T,Insignificant
+"It’s still tough. I’m looking for jobs, but it’s hard to find something that pays enough.",P,History of Present Illness (HPI)
+I understand. Job searching can be really overwhelming. Have you found any resources or support that might help with your job search?,T,Insignificant
+"I’ve been looking online, but I don’t have anyone to help me.",P,History of Present Illness (HPI)
+Would you be open to exploring local job resources or networking opportunities? Sometimes connecting with others can lead to new possibilities.,T,Next Steps
+"Yeah, I guess I could try that. I just feel shy about reaching out.",P,Insignificant
+That’s completely understandable. Would you like to brainstorm some ways to make that feel more comfortable for you?,T,Insignificant
+"Maybe I could start by joining a group or class. That way, I could meet people.",P,Next Steps
+That’s a fantastic idea! What kind of group or class interests you?,T,Insignificant
+I’ve always wanted to try a painting class or something creative.,P,Next Steps
+"That sounds like a wonderful way to express yourself! Plus, it might help you meet new people. How would you feel about researching some local classes?",T,Next Steps
+I think I could do that. It might be fun.,P,Next Steps
+Great! It sounds like you’re taking steps towards creating a more fulfilling routine. Let’s also check in on how you’ve been feeling emotionally. You mentioned feeling sad in our last session. How has that been for you?,T,Insignificant
+"It still comes and goes. Some days are better, but sometimes I just feel really down.",P,History of Present Illness (HPI)
+I appreciate your honesty. Have you noticed any triggers that lead to those down days?,T,Insignificant
+I think it’s mostly when I think about my financial situation. It really gets to me.,P,History of Present Illness (HPI)
+That makes sense. Financial stress can weigh heavily on anyone. Have you tried any strategies to cope when those thoughts come up?,T,Insignificant
+Not really. I usually just let it get to me.,P,History of Present Illness (HPI)
+"Would you be open to trying some coping strategies? For example, when you start to feel overwhelmed, you could take a few deep breaths or write down your feelings.",T,Therapeutic Interventions
+I could try writing. I used to do that a lot.,P,Therapeutic Interventions
+Writing can be a powerful outlet. How about setting a goal to write about your feelings at least once or twice a week?,T,Next Steps
+"Yeah, I think that would help.",P,Next Steps
+"Fantastic! It seems like you’re making some positive changes. Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+"No, I think we covered a lot. I feel a bit better talking about everything.",P,Progress Evaluation
+"I’m glad to hear that! Remember, it’s okay to have ups and downs. Let’s plan for our next session and see how your goals go. ",T,Next Steps
+Sounds good. Thank you!,P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

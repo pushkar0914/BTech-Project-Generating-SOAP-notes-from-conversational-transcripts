@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I've been okay, just busy with my friend’s recovery.",P,History of Present Illness (HPI)
+That sounds like a lot to handle. How has that been for you?,T,Insignificant
+"It’s been challenging, but I’m managing. I try to stay positive for both of us.",P,History of Present Illness (HPI)
+That's a great approach. Have you noticed any changes in your feelings or thoughts during this time?,T,History of Present Illness (HPI)
+"I think I’ve felt a bit more anxious, especially when things get hectic.",P,History of Present Illness (HPI)
+I understand. Anxiety can be a natural response in stressful situations. What do you think triggers that anxiety for you?,T,History of Present Illness (HPI)
+Mostly when I feel overwhelmed with responsibilities or when I see my friend struggling.,P,History of Present Illness (HPI)
+That makes sense. Have you been able to use any coping strategies to manage that anxiety?,T,History of Present Illness (HPI)
+I’ve been listening to jazz more often; it helps calm me down.,P,Therapeutic Interventions
+That’s a wonderful strategy. Music can be very therapeutic. Have you tried any mindfulness techniques?,T,Insignificant
+"Not really, but I’ve heard about them. I’m open to trying.",P,Insignificant
+That’s great to hear! Mindfulness can help ground you in the present moment. Would you like to explore some techniques together?,T,Therapeutic Interventions
+"Yes, I’d like that.",P,Insignificant
+One simple technique is focusing on your breath. Let’s try it: take a deep breath in… and out. How does that feel?,T,Therapeutic Interventions
+"It feels nice, actually. I can feel the tension easing a bit.",P,Mental Health Observations
+Good! You can do this whenever you start to feel anxious. It’s a great way to center yourself. ,T,Therapeutic Interventions
+I’ll definitely try that.,P,Insignificant
+Wonderful! Let’s talk about the situation with your friend. How are you feeling about your role in his care?,T,Insignificant
+"I feel responsible, but sometimes it feels like too much. ",P,History of Present Illness (HPI)
+"It’s understandable to feel that way. Have you had a chance to express this to anyone, like your husband?",T,Insignificant
+I haven’t yet. I don’t want to burden him with my worries.,P,History of Present Illness (HPI)
+It’s important to share your feelings. It can help lighten the load. Would you consider talking to him about it?,T,Therapeutic Interventions
+I think I could. It might help to get it off my chest.,P,Insignificant
+Absolutely. Communication is key in relationships. What else have you been doing to take care of yourself during this time?,T,Insignificant
+"I’ve been drawing a bit more, which I enjoy.",P,Current Functional Status
+That’s great! Art can be a wonderful outlet for emotions. What do you like to draw?,T,Insignificant
+Mostly landscapes and abstract pieces. It helps me express my feelings.,P,Current Functional Status
+That’s beautiful. Art can be a powerful way to process emotions. Have you noticed any changes in your mood after drawing?,T,Insignificant
+"Yes, I feel more relaxed and focused after I draw.",P,Mental Health Observations
+That’s a positive outcome. Perhaps we can set a goal for you to incorporate drawing regularly into your routine?,T,Next Steps
+I’d like that. It’s a good way to unwind.,P,Insignificant
+Excellent! Let’s aim for at least a few times a week. How does that sound?,T,Next Steps
+Sounds perfect.,P,Insignificant
+Great! I’d also like to revisit your thoughts on your friend’s illness. How do you feel about the support you’re providing him?,T,Insignificant
+"I feel like I’m doing my best, but I sometimes doubt if it’s enough.",P,History of Present Illness (HPI)
+"Doubting your efforts is common, especially in caregiving situations. It’s important to remember that just being there for him is a significant support.",T,Insignificant
+I guess that’s true. I just want to help him as much as I can.,P,Insignificant
+Your intentions are admirable. Have you been able to set boundaries for yourself while caring for him?,T,Insignificant
+Not really. I often put his needs first.,P,History of Present Illness (HPI)
+It’s essential to find a balance. You can’t pour from an empty cup. What boundaries do you think you might need?,T,Insignificant
+"Maybe setting specific times for myself, like drawing or relaxing.",P,Next Steps
+That sounds like a healthy idea. It’s okay to prioritize your self-care. Would you like to create a schedule together?,T,Next Steps
+"Yes, I’d appreciate that.",P,Insignificant
+Let’s outline some time for self-care and stick to it. How about we check in on how that goes in our next session?,T,Next Steps
+That sounds good to me.,P,Insignificant
+Perfect! I’m glad we’re making progress. Is there anything else you’d like to discuss today?,T,Insignificant
+I think we’ve covered a lot. I feel better after talking.,P,Mental Health Observations
+"I’m glad to hear that! Remember, it’s okay to reach out if you need more support before our next session. ",T,Insignificant
+"Thank you, Ellie.",P,Insignificant
+You’re welcome! I look forward to our next conversation. Take care!,T,Insignificant
+Bye!,P,Insignificant

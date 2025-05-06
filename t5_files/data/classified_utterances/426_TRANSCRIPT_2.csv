@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I’ve been okay. I reached out to that producer I mentioned last time.",P,History of Present Illness (HPI)
+That’s wonderful! How did it go?,T,Insignificant
+He was really nice and agreed to meet up. I was surprised.,P,Insignificant
+That’s fantastic news! How did you feel about the conversation?,T,Insignificant
+"Nervous at first, but once we started talking, it felt natural. He gave me some good advice on getting started.",P,History of Present Illness (HPI)
+That’s great to hear. What kind of advice did he offer?,T,Insignificant
+He suggested I start by building a small network and maybe even work on a few projects to showcase my skills.,P,Insignificant
+That sounds like a solid plan. Have you thought about what your first steps might be?,T,Insignificant
+I was thinking of reaching out to some local artists and see if they’d be interested in collaborating.,P,Next Steps
+That’s a proactive approach! Collaborations can be a great way to build your portfolio. How do you feel about reaching out to artists?,T,Insignificant
+"A bit intimidated, but I think I can manage it. I just need to remember that it’s part of the process.",P,History of Present Illness (HPI)
+Absolutely! It’s all about taking those small steps. How has your family reacted to your progress?,T,Insignificant
+"They’re still a bit skeptical, but I think they’re starting to see that I’m serious about this.",P,Psychosocial History
+That’s encouraging! It sounds like you’re making strides in both your personal and professional life. Have you been able to apply any of the coping strategies we discussed when dealing with your family?,T,Insignificant
+"Yes, actually. I’ve been trying to stay calm and not let their doubts get to me.",P,Therapeutic Interventions
+That’s a great approach. Maintaining your composure can help you communicate more effectively. How do you feel when you practice that?,T,Insignificant
+It feels empowering. I feel like I’m standing my ground without getting defensive.,P,Mental Health Observations
+That’s a significant growth area for you. Are there any other challenges you’ve faced recently?,T,Insignificant
+I had a bit of a setback with my anxiety. I had a panic attack last week out of nowhere.,P,History of Present Illness (HPI)
+I’m sorry to hear that. Panic attacks can be really overwhelming. What do you think triggered it?,T,Insignificant
+I think it was a combination of stress from work and worrying about my family’s expectations.,P,History of Present Illness (HPI)
+That makes sense. It’s important to recognize those triggers. How did you cope during the panic attack?,T,Insignificant
+"I tried to use the breathing techniques we practiced, but it was hard to focus.",P,Therapeutic Interventions
+"That’s understandable. Sometimes, it can be difficult to ground ourselves in those moments. Would you like to explore additional techniques for managing panic attacks?",T,Insignificant
+"Yes, please. I could use more tools for when that happens.",P,Next Steps
+"One technique is the 5-4-3-2-1 grounding exercise. It involves identifying five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. Would you like to try it together?",T,Therapeutic Interventions
+"Sure, let’s do it.",P,Insignificant
+Great! Let’s start with five things you can see in the room.,T,Insignificant
+"I see the chair, the window, the clock, the plant, and your shoes.",P,Insignificant
+"Excellent! Now, what are four things you can touch?",T,Insignificant
+"The chair, my phone, my shirt, and the table.",P,Insignificant
+"Good job! Now, can you identify three things you can hear?",T,Insignificant
+"The ticking of the clock, the sound of traffic outside, and your voice.",P,Insignificant
+"Perfect! Now, what about two things you can smell?",T,Insignificant
+I can smell the coffee from earlier and the fresh air from the window.,P,Insignificant
+"And finally, one thing you can taste?",T,Insignificant
+I can taste the mint from the gum I had earlier.,P,Insignificant
+How do you feel now after going through that exercise?,T,Insignificant
+"A bit more grounded, actually. It helps to focus on my surroundings.",P,Mental Health Observations
+I’m glad to hear that! This exercise can be a useful tool when you feel anxious. Is there anything else you’d like to cover today?,T,Insignificant
+I think I just want to keep building on my goals and maybe talk about how to handle setbacks.,P,Next Steps
+That sounds like a great focus for our next session. We can explore strategies for managing setbacks and keeping your motivation up. Thank you for sharing today!,T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+You’re welcome! See you next time.,T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

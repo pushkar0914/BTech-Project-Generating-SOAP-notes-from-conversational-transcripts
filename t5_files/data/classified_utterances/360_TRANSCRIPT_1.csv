@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?  ,T,Insignificant
+"I've been okay, just trying to keep busy with job searching.  ",P,History of Present Illness (HPI)
+That’s good to hear you’re keeping busy. Have you made any progress in your job search?  ,T,Insignificant
+"A little bit, I applied to a couple of places but nothing back yet.  ",P,History of Present Illness (HPI)
+That’s understandable. Job searching can take time. How do you feel about the process so far?  ,T,Insignificant
+"It’s a bit frustrating, honestly. I just want to find something soon.  ",P,History of Present Illness (HPI)
+Frustration is a common feeling in job searching. Have you found any strategies that help you cope with that frustration?  ,T,Insignificant
+I try to keep my mind off of it by watching TV or listening to music.  ,P,Therapeutic Interventions
+Those sound like good coping strategies. Have you considered setting small daily goals for your job search?  ,T,Therapeutic Interventions
+"I haven’t, but that sounds like a good idea.  ",P,Therapeutic Interventions
+"It can help break things down into manageable steps. For example, you could aim to apply to one job a day or update your resume.  ",T,Therapeutic Interventions
+"Yeah, I think I could do that.  ",P,Therapeutic Interventions
+Great! Let’s check in on that next time. You mentioned feeling down sometimes. Can you tell me more about that?  ,T,History of Present Illness (HPI)
+"Sometimes I just feel a bit lost, like I’m not sure what to do next.  ",P,History of Present Illness (HPI)
+That feeling of being lost can be tough. What do you think contributes to that feeling?  ,T,Insignificant
+I think it’s just the uncertainty with my job situation and not knowing what’s next.  ,P,History of Present Illness (HPI)
+It makes sense that uncertainty would lead to feeling lost. Have you had any moments lately where you felt more grounded or certain?  ,T,Insignificant
+I felt good when I was with my family for my birthday.  ,P,History of Present Illness (HPI)
+That’s wonderful! Family can provide a great support system. How do you typically feel when you’re around them?  ,T,Insignificant
+I feel happy and relaxed. They make me feel good about myself.  ,P,Psychosocial History
+That’s a beautiful connection to have. It sounds like they are a positive influence in your life.  ,T,Insignificant
+"Yeah, they really are.  ",P,Insignificant
+Have you been able to spend time with them since your birthday?  ,T,Insignificant
+"Not much, just a quick call here and there.  ",P,Current Functional Status
+Would you like to plan some time to see them soon?  ,T,Insignificant
+I think that would be nice.  ,P,Insignificant
+Let’s set a goal for you to reach out and plan something. How does that sound?  ,T,Therapeutic Interventions
+Sounds good!  ,P,Insignificant
+"Excellent! Now, you mentioned earlier about controlling your temper. Have there been any recent situations where you felt challenged?  ",T,Insignificant
+"Not really, but I did feel a little annoyed at my fiancé about some small things.  ",P,History of Present Illness (HPI)
+It’s normal to feel annoyed sometimes. How did you handle those feelings?  ,T,Insignificant
+I just tried to breathe and not let it get to me.  ,P,Therapeutic Interventions
+That’s a great approach. Breathing exercises can be very effective. Would you like to learn some new techniques?  ,T,Therapeutic Interventions
+"Yes, I’d like that.  ",P,Insignificant
+Okay! We can try a simple mindfulness technique today. It can help you feel more centered.  ,T,Therapeutic Interventions
+That sounds good.  ,P,Insignificant
+Let’s take a few moments to focus on your breathing together. Inhale deeply…  ,T,Therapeutic Interventions
+*inhales*  ,P,Insignificant
+And exhale slowly…  ,T,Therapeutic Interventions
+*exhales*  ,P,Insignificant
+Great! How do you feel after that?  ,T,Insignificant
+"A bit more relaxed, actually.  ",P,Mental Health Observations
+I’m glad to hear that! Practicing this regularly can help you manage those feelings of frustration and annoyance.  ,T,Therapeutic Interventions
+I’ll definitely try to remember to do this.  ,P,Insignificant
+Wonderful! Is there anything else you’d like to discuss today?  ,T,Insignificant
+"Not right now, I think we covered a lot.  ",P,Insignificant
+I agree! You’ve made some good insights today. Let’s check in on your job search and family time in our next session.  ,T,Next Steps
+Sounds good!  ,P,Insignificant
+Thank you for sharing today. I look forward to our next session!  ,T,Insignificant
+Thank you! Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

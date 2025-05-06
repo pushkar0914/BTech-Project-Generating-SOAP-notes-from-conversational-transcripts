@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's good to see you. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I've been okay, I guess. The funeral was tough, but I managed to get through it.",P,Presenting Problem / Chief Complaint
+I'm glad to hear you were able to manage. How did you cope during that time?,T,Insignificant
+I leaned on my friends a lot. They were really supportive. Just being there made a difference.,P,History of Present Illness (HPI)
+That's wonderful. Having a support system is so important. Did you find any particular coping strategies helpful during the funeral?,T,Insignificant
+"Yeah, I tried to focus on the good memories rather than the sadness. It helped to talk about the happy times we had.",P,History of Present Illness (HPI)
+That sounds like a healthy approach. Reflecting on positive memories can be comforting. How have you felt since then?,T,Insignificant
+"Honestly, a bit drained. I think it’s hitting me more now that the event is over. ",P,History of Present Illness (HPI)
+It's common to feel a wave of emotions after something like that. Have you had a chance to rest or take care of yourself?,T,Insignificant
+"Not really. School is picking up, and I'm just trying to keep my head above water.",P,Current Functional Status
+Balancing school and personal life can be challenging. What are you currently focusing on in your studies?,T,Insignificant
+"We're working on family law right now, which is interesting but also heavy.",P,Current Functional Status
+Family law can be quite emotional. How do you feel about the topics you’re studying?,T,Insignificant
+"It’s tough sometimes. I find myself getting really invested in the cases we discuss, especially the ones involving children.",P,History of Present Illness (HPI)
+That makes sense. It shows you care about the impact of your future work. Do you think this emotional investment affects your well-being?,T,Insignificant
+"Definitely. I sometimes take those stories home with me, and it can be overwhelming.",P,History of Present Illness (HPI)
+Have you considered any strategies to help separate your studies from your personal life?,T,Insignificant
+"I’ve thought about it, but I’m not sure what would work for me.",P,Insignificant
+"We could explore some techniques together. For instance, practicing mindfulness or setting boundaries around study time might help. What do you think?",T,Therapeutic Interventions
+Mindfulness sounds interesting. I’ve heard about it but never tried it.,P,Insignificant
+It can be a great way to stay present and manage overwhelming feelings. Would you like to try a simple mindfulness exercise together now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+"Okay, let’s take a moment to focus on your breathing. Inhale deeply through your nose… and exhale through your mouth. ",T,Therapeutic Interventions
+*breathes* ,P,Insignificant
+"As you breathe, notice how your body feels. If your mind starts to wander, gently bring your focus back to your breath.",T,Therapeutic Interventions
+I can feel myself relaxing a bit.,P,Mental Health Observations
+That's great to hear! Mindfulness can help ground you in the moment. How do you feel now?,T,Insignificant
+A little lighter. I think I could use this more often.,P,Mental Health Observations
+Absolutely! It’s a practice that takes time to develop. Would you like to set a goal to incorporate mindfulness into your routine?,T,Next Steps
+"Yes, maybe I could start with five minutes a day.",P,Next Steps
+That sounds like a realistic goal. How do you feel about tracking your progress?,T,Next Steps
+I think I’ll write it down in my planner. It helps me stay accountable.,P,Next Steps
+Perfect! Writing things down can be very effective. Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+"I’ve been thinking about my family a lot, especially after the funeral.",P,History of Present Illness (HPI)
+Would you like to share more about that?,T,Insignificant
+"Sure. I feel like there are unresolved issues with my siblings. We don’t talk much, and it bothers me.",P,Psychosocial History
+That’s understandable. Family dynamics can be complicated. What do you think is holding you back from reaching out to them?,T,Insignificant
+I guess I fear it might just lead to more conflict.,P,Risk Assessment
+That’s a valid concern. Have you thought about how you might approach them if you decide to?,T,Insignificant
+"I’m not sure. Maybe starting with something light, like asking how they’ve been?",P,Next Steps
+That sounds like a good start. Keeping it light can help ease into deeper conversations later. Would you like to set a goal to reach out to them?,T,Next Steps
+"Yes, I think I will. I’ll try to call my sister this week.",P,Next Steps
+That’s a great step forward! How do you feel about that?,T,Insignificant
+Nervous but also hopeful. It's been a while since we connected.,P,Risk Assessment
+"It’s normal to feel nervous, but remember that you’re taking a positive action. Is there anything else you’d like to work on today?",T,Insignificant
+"No, I think we covered a lot. ",P,Insignificant
+"I’m glad to hear that! Remember to practice mindfulness, and I look forward to hearing how your conversation with your sister goes next time.",T,Next Steps
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"You’re welcome! Take care, and see you next time!",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"I've been alright, a bit busy with work. You know how it is.",P,History of Present Illness (HPI)
+"Absolutely, the freelance life can be quite hectic. Have you been able to implement any of the coping strategies we discussed last time, like yoga or taking peaceful walks?",T,Therapeutic Interventions
+"Yeah, I actually went for a walk in the park last weekend. It was nice to get some fresh air.",P,Therapeutic Interventions
+That’s wonderful to hear! How did it feel to be outdoors and away from your usual routine?,T,Insignificant
+It felt refreshing. I didn’t realize how much I needed it until I was there.,P,Mental Health Observations
+That’s a great insight. Being in nature can really help us reset. Did you notice any particular thoughts or feelings while you were walking?,T,Insignificant
+"I felt a bit more at ease, but then I started thinking about all the work I had waiting for me.",P,Mental Health Observations
+It’s common to have those thoughts creep in. How did you handle them?,T,Insignificant
+I tried to remind myself that I could tackle my work after the walk. It helped a bit.,P,Therapeutic Interventions
+That’s a positive approach! It sounds like you’re becoming more aware of your thoughts and how to manage them. Have you had any moments of feeling overwhelmed since our last session?,T,Insignificant
+"Yeah, a couple of times. I had a deadline, and I felt the pressure building up. ",P,History of Present Illness (HPI)
+How did you cope with that pressure?,T,Insignificant
+"I just pushed through it. I stayed up late to finish, which I know isn’t the best way.",P,Therapeutic Interventions
+"It’s understandable to want to meet deadlines, especially in a freelance setting. But it’s also important to find balance. How do you feel about setting boundaries around your work hours?",T,Insignificant
+I think I need to do that. I often let work take over my evenings.,P,History of Present Illness (HPI)
+That’s a great realization. Perhaps we can explore some ways to create a more structured schedule for you. Would you be open to that?,T,Therapeutic Interventions
+Definitely. I think it would help me feel less stressed.,P,Insignificant
+"Excellent! We can brainstorm some strategies together. In the meantime, have you had any interactions with friends or family that stood out to you?",T,Insignificant
+"I had dinner with my best friend last week. We talked about everything, and it felt good to connect.",P,Psychosocial History
+That sounds lovely! How did that connection impact your mood?,T,Insignificant
+It lifted my spirits. I always feel better after talking to him.,P,Mental Health Observations
+Friendships can be such a valuable support system. Do you find yourself reaching out to him when you’re feeling down?,T,Insignificant
+"Yes, I do. He’s really good at listening.",P,Psychosocial History
+That’s wonderful. It’s important to have someone like that in your life. Are there other friends you feel comfortable reaching out to as well?,T,Insignificant
+"A couple, but not as much as him. I guess I should try to connect with them more often.",P,Psychosocial History
+That could be beneficial. Building a broader support network can help you feel less isolated. What do you think holds you back from reaching out to those other friends?,T,Insignificant
+I think I worry they might not have time to talk or that I’ll burden them with my problems.,P,History of Present Illness (HPI)
+"It’s natural to feel that way, but often friends appreciate being asked. It can strengthen your relationships. Would you be willing to try reaching out to one of them this week?",T,Insignificant
+I can try that. It might be good for me.,P,Next Steps
+Great! Let’s check in on that next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m just feeling a bit stuck creatively. I want to do more with my comedy but don’t know where to start.,P,Presenting Problem / Chief Complaint
+That’s a valid concern. Creativity can sometimes feel elusive. What are some specific goals you have for your comedy right now?,T,Insignificant
+I’d like to write more material and maybe perform at an open mic night.,P,Presenting Problem / Chief Complaint
+Those sound like excellent goals! How about we set a small goal for you to write a certain amount of material this week? ,T,Next Steps
+That sounds doable. Maybe I can aim for a few minutes of new content.,P,Next Steps
+Perfect! Let’s aim for five minutes of new material. How does that sound?,T,Next Steps
+I like that. It’s not overwhelming.,P,Next Steps
+Exactly. Small steps can lead to bigger progress. I’m looking forward to hearing about it next time!,T,Insignificant
+Thanks! I appreciate your support.,P,Insignificant
+"Of course! Enjoy your week, and remember to take those peaceful walks. ",T,Insignificant
+I will! See you next time.,P,Insignificant

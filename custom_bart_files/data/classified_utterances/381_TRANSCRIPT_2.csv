@@ -1,0 +1,29 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been okay, but I didn’t really reach out to anyone yet.",P,History of Present Illness (HPI)
+That’s alright! Change takes time. What do you think held you back from reaching out?,T,Insignificant
+I think I just got caught up in my routine and didn’t prioritize it.,P,History of Present Illness (HPI)
+That’s understandable. Sometimes life can get in the way. Would you like to set a specific time or day to reach out this week?,T,Insignificant
+"Yeah, I could try to do it this weekend. ",P,Next Steps
+That sounds like a great plan! Who do you think you might reach out to?,T,Insignificant
+Probably the friend I mentioned last time. I think I’ll just send a text to check in.,P,Next Steps
+That’s a good choice. What do you plan to say?,T,Insignificant
+"Maybe just something simple like, “Hey, how have you been?” ",P,Next Steps
+That’s perfect! It opens the door for conversation without putting too much pressure on either of you. How do you feel about sending that message?,T,Insignificant
+"I feel a bit nervous, but also excited to connect.",P,Psychosocial History
+That’s a great mix of emotions! It’s normal to feel nervous when reaching out. Have you practiced any mindfulness exercises since our last session?,T,Insignificant
+"I did! I tried the breathing exercise a couple of times, and it really helped me feel calmer.",P,History of Present Illness (HPI): Therapeutic Interventions
+Wonderful! It’s great to hear that you’re finding it helpful. Have you noticed any changes in how you handle stress since incorporating it?,T,Insignificant
+"I think I’m a bit more aware of when I’m feeling overwhelmed, so I try to take a moment to breathe.",P,History of Present Illness (HPI): Current Functional Status
+That’s an important skill to develop. Being aware of your feelings is a huge step towards managing them. Have there been any moments where you felt particularly overwhelmed recently?,T,Insignificant
+"Yeah, at work, I had a project that was really stressful, but I took a break and did the breathing exercise, which helped.",P,History of Present Illness (HPI): Current Functional Status
+That’s fantastic! It sounds like you’re starting to build a toolkit for managing stress. Is there anything else you’d like to add to that toolkit?,T,Insignificant
+Maybe some journaling. I think writing about my day could help me process things better.,P,Next Steps
+Journaling can be very therapeutic. It allows you to reflect on your feelings and experiences. Would you like to set a goal for how often you’d like to journal?,T,Insignificant
+I could try to do it a couple of times a week.,P,Next Steps
+That sounds like a reasonable goal! How about we check in on that next time? ,T,Insignificant
+"Sure, I can do that.",P,Insignificant
+"Great! As we wrap up today, what are you feeling most hopeful about moving forward?",T,Insignificant
+I’m hopeful that I can start reaching out to friends more and feel less isolated.,P,Psychosocial History
+"That’s a wonderful hope to hold onto. I believe you can achieve that. Thank you for sharing today, and I look forward to hearing about your progress in our next session!",T,Insignificant
+Thank you! See you next time.,P,Insignificant

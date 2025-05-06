@@ -1,0 +1,36 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How did your week go?,T,Insignificant
+"Hi, Ellie! It was good. I actually had that conversation with my manager, and it went better than I expected!",P,History of Present Illness (HPI)
+That’s fantastic! What happened?,T,Insignificant
+"I explained how I was feeling overwhelmed, and they were really understanding. We talked about adjusting some deadlines and prioritizing my tasks.",P,History of Present Illness (HPI)
+That’s an excellent outcome! How did that make you feel?,T,Insignificant
+I felt relieved and supported. It was nice to know they care about my well-being.,P,History of Present Illness (HPI)
+That’s wonderful to hear! It sounds like you took a significant step in managing your anxiety. Have you noticed any changes in your stress levels since then?,T,History of Present Illness (HPI)
+"Yes, I feel less stressed overall. I’ve been able to focus better on my work.",P,History of Present Illness (HPI)
+That’s great progress! Have you kept up with your meditation practice as well?,T,Insignificant
+"Yes, I’ve been meditating daily. It really helps me stay calm and focused.",P,Current Functional Status
+That’s a fantastic habit to maintain. Have you tried any new techniques or approaches in your meditation?,T,Insignificant
+"I’ve started incorporating guided meditations, which help me stay focused.",P,Therapeutic Interventions
+That’s a great idea! Guided meditations can provide structure and help deepen your practice. How do you feel during and after those sessions?,T,Insignificant
+"I feel more centered during the session, and afterwards, I’m more relaxed and ready to tackle my day.",P,Mental Health Observations
+That’s wonderful! It sounds like you’re really finding what works for you. Is there anything else you’d like to explore today?,T,Insignificant
+I’d like to discuss my social life a bit. I’ve been feeling a little isolated lately.,P,History of Present Illness (HPI)
+Of course! Can you tell me more about why you feel that way?,T,Insignificant
+"I think it’s just been busy with work, and I haven’t made time to see friends. I miss hanging out with them.",P,History of Present Illness (HPI)
+It’s easy to let work take over our social lives. What do you think is preventing you from reaching out to them?,T,Insignificant
+I guess I have this fear that they’ll be too busy or that I won’t have anything interesting to say.,P,Risk Assessment
+"It’s common to feel that way, but remember, friends often appreciate the effort to connect. How do you think they would respond if you reached out?",T,Insignificant
+I think they’d be happy to hear from me. They’re usually understanding.,P,History of Present Illness (HPI)
+That’s a positive mindset! Would you like to set a goal for reaching out to a friend this week?,T,Insignificant
+"Yes, I’d like to invite a friend to grab coffee or lunch.",P,Next Steps
+That sounds like a great plan! Which friend do you have in mind?,T,Insignificant
+I think I’ll reach out to my friend Sarah. We used to hang out a lot.,P,Next Steps
+Excellent choice! How do you feel about reaching out to her?,T,Insignificant
+I’m a bit nervous but also excited. I really miss our time together.,P,Risk Assessment
+That’s completely normal. Maybe you could start with a simple text or call to catch up. How does that sound?,T,Insignificant
+That sounds doable. I’ll try to do it later today.,P,Next Steps
+"Perfect! Remember, it’s about reconnecting and enjoying each other’s company. Is there anything else you’d like to discuss today?",T,Insignificant
+"No, I think we covered a lot. I feel good about my goals for the week.",P,Next Steps
+"I’m glad to hear that! I look forward to hearing how your coffee date goes next time. Take care, and remember to keep practicing your meditation!",T,Insignificant
+"Thank you, Ellie! I will. See you next time!",P,Insignificant
+See you!,T,Insignificant

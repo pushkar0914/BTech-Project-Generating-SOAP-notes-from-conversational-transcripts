@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I’ve been trying to stick to the walks we talked about.",P,Current Functional Status
+That’s fantastic! How did it go?,T,Insignificant
+I managed to go for a walk three times last week. It felt good to get outside.,P,Current Functional Status
+That’s wonderful progress! How did you feel during and after the walks?,T,Insignificant
+"Honestly, I felt more relaxed afterward. It’s nice to clear my head a bit. ",P,Mental Health Observations
+I’m so glad to hear that. Did you find any moments during your walks that stood out to you?,T,Insignificant
+"Yeah, I noticed the flowers blooming in the neighborhood. It reminded me of springtime with my uncle.",P,Psychosocial History
+That’s a beautiful connection. It sounds like you’re finding ways to honor his memory while also caring for yourself.,T,Insignificant
+"Yeah, it feels good. I also tried journaling a bit.",P,Current Functional Status
+How did that go for you?,T,Insignificant
+"It was a little awkward at first, but I started writing about my memories with him, and it felt nice to get it out.",P,Mental Health Observations
+That’s great! Writing can be a powerful way to process emotions. Have you noticed any shifts in your mood since you started journaling?,T,Insignificant
+I think so. I feel like I’m not bottling things up as much.,P,Mental Health Observations
+"That’s a significant step forward. Remember, it’s okay to feel a range of emotions, especially when grieving. ",T,Insignificant
+"Right. I still have some tough days, but I’m trying to manage them better.",P,History of Present Illness (HPI)
+That’s completely normal. You’re doing a great job by acknowledging those feelings. Have you had any moments where you felt overwhelmed?,T,Insignificant
+"A few times, yeah. Sometimes I catch myself spiraling into negative thoughts.",P,History of Present Illness (HPI)
+"That’s something we can work on together. When those thoughts come up, would you like to try a grounding technique to help bring you back to the present?",T,Insignificant
+Sure! What do you suggest?,P,Insignificant
+"One technique is the “5-4-3-2-1” exercise. It involves naming five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. ",T,Therapeutic Interventions
+That sounds interesting. I’ll have to remember that.,P,Insignificant
+It can be a great way to redirect your focus. Would you like to practice it together right now?,T,Insignificant
+"Okay, let’s do it.",P,Insignificant
+Great! What are five things you can see around you?,T,Insignificant
+"I see my couch, a picture frame, the TV, a window, and my coffee table.",P,Current Functional Status
+"Excellent! Now, what about four things you can touch?",T,Insignificant
+"I can touch my chair, my phone, my shirt, and the blanket on my lap.",P,Current Functional Status
+"Wonderful! Now, what are three things you can hear?",T,Insignificant
+"I can hear the clock ticking, some birds outside, and the hum of the fridge.",P,Current Functional Status
+"Great job! Now, two things you can smell?",T,Insignificant
+I smell coffee and a hint of my laundry detergent.,P,Current Functional Status
+"Perfect! And finally, what’s one thing you can taste?",T,Insignificant
+I can taste the coffee in my mouth.,P,Current Functional Status
+Well done! How do you feel after doing that exercise?,T,Insignificant
+I feel a little more centered and less anxious.,P,Mental Health Observations
+That’s fantastic! You can use this technique anytime you feel overwhelmed. ,T,Insignificant
+I’ll definitely keep that in mind.,P,Insignificant
+"Before we finish today, is there anything else you’d like to discuss or any goals you want to set for the next week?",T,Insignificant
+I’d like to keep walking and maybe try a new healthy recipe for dinner.,P,Next Steps
+That sounds like a great plan! How about we aim for two walks and one new recipe this week?,T,Next Steps
+I can do that!,P,Next Steps
+Perfect! I’m looking forward to hearing about your experiences next time. ,T,Insignificant
+"Thanks, Ellie. This has been really helpful.",P,Insignificant
+"I’m glad! Remember, you’re making progress, and I’m here for you. Take care!",T,Insignificant
+"Bye, Ellie.",P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been okay, just busy with school and work.",P,Insignificant
+That’s good to hear you’re keeping busy. Did you manage to work on any of the goals we discussed last time?,T,Insignificant
+"I tried to be more mindful about my sleep, but it’s still a struggle.",P,History of Present Illness (HPI)
+"It’s understandable. Sleep can be tricky, especially with a busy schedule. How many hours are you managing to get on average?",T,Physiological Observations
+"I think around six hours, sometimes less.",P,Physiological Observations
+That’s on the lower side. Have you tried any techniques we discussed to help improve your sleep?,T,Therapeutic Interventions
+"I’ve been trying to limit my screen time before bed, but it’s hard to stick to.",P,History of Present Illness (HPI)
+That’s a good start! It can take time to adjust. What do you do before sleep currently?,T,Insignificant
+I usually scroll on my phone or watch something on Netflix.,P,Physiological Observations
+"Those activities can be stimulating, which might affect your ability to fall asleep. Would you be open to trying some relaxation exercises before bed?",T,Therapeutic Interventions
+"Yeah, I can give that a try.",P,Therapeutic Interventions
+Great! We can practice some mindfulness exercises here today. Would you like to start with a quick breathing exercise?,T,Therapeutic Interventions
+"Sure, that sounds good.",P,Therapeutic Interventions
+"Okay, let’s take a deep breath in together… and out. How does that feel?",T,Insignificant
+"It feels nice, actually. ",P,Physiological Observations
+Good! You can do this for a few minutes before bed. It can help calm your mind. What else has been on your mind lately?,T,Insignificant
+I’ve been thinking about my living situation again. I’m still a bit unhappy with my roommates.,P,History of Present Illness (HPI)
+I remember you mentioned that last time. What specifically is bothering you now?,T,Insignificant
+"It’s just that I feel really isolated sometimes. They’re friendly, but we don’t connect like I thought we would.",P,History of Present Illness (HPI)
+That sounds tough. Have you thought about talking to them about how you’re feeling?,T,Therapeutic Interventions
+I haven’t really. I don’t want to make things awkward.,P,History of Present Illness (HPI)
+I understand that concern. It might help to express your feelings in a gentle way. Would you like to role-play how that conversation might go?,T,Therapeutic Interventions
+"That could be helpful, yeah.",P,Therapeutic Interventions
+"Okay, let’s say you’re starting the conversation. What would you say?",T,Insignificant
+"Um, I’d probably say something like, “Hey, I feel a bit lonely sometimes, and I’d love to connect more.”",P,Therapeutic Interventions
+That’s a great start! It’s honest and opens the door for dialogue. How do you think they might respond?,T,Insignificant
+"I think they’d be understanding, but I’m still nervous.",P,History of Present Illness (HPI)
+"That’s completely normal. Remember, you’re sharing your feelings, which is important. Would it help to write down your thoughts before talking with them?",T,Therapeutic Interventions
+"Yeah, I could do that.",P,Therapeutic Interventions
+Good idea! Writing can clarify your feelings and make it easier to communicate. Is there anything else you want to explore today?,T,Insignificant
+"I’ve been feeling a bit anxious about my future, especially with my career.",P,History of Present Illness (HPI)
+That’s a common concern. What specifically about your career is causing you anxiety?,T,Insignificant
+I’m worried I won’t find a job in special education after I graduate.,P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you considered any steps to prepare for your job search?,T,Therapeutic Interventions
+Not really. I guess I should start looking into internships or volunteering.,P,Therapeutic Interventions
+That’s a proactive approach! Gaining experience can really help build your confidence. Would you like to set a goal for the week to explore some opportunities?,T,Therapeutic Interventions
+"Yeah, I can look for some internships.",P,Therapeutic Interventions
+Perfect! Let’s aim for at least two applications or inquiries by our next session. How does that sound?,T,Next Steps
+That sounds doable.,P,Next Steps
+"Great! I’m looking forward to hearing about your progress. Remember, it’s okay to feel anxious about the future; you’re taking steps to prepare. ",T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+You’re welcome! I’m here for you. Let’s touch base again next week. ,T,Insignificant
+Sounds good! Bye!,P,Insignificant
+Bye!,T,Insignificant

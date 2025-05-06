@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I tried the bedtime routine, and it helped a bit.",P,Physiological Observations
+That’s wonderful to hear! How many nights did you manage to stick to it?,T,Insignificant
+"I did it four nights out of the week. I still woke up a couple of times, but I felt more relaxed going to bed.",P,Physiological Observations
+That’s progress! It’s great that you’re taking steps to improve your sleep. Did you notice any difference in how you felt during the day?,T,Insignificant
+"Yes, I felt a bit more energized, which was nice.",P,Physiological Observations
+That’s fantastic! How about your social interactions? Did you have any gatherings that you practiced your skills at?,T,Insignificant
+"Yes, I went to another small get-together, and I tried to engage more. I felt a little less anxious this time.",P,History of Present Illness (HPI)
+That’s a great sign! What do you think contributed to that decrease in anxiety?,T,Insignificant
+I think practicing the breathing exercises helped. I also reminded myself that it’s okay not to be perfect.,P,Therapeutic Interventions
+Excellent! It sounds like you’re really starting to implement those strategies. Have you found any particular thoughts or situations that still trigger your anxiety?,T,Insignificant
+I still get nervous when I think about meeting new people. It makes me want to avoid those situations altogether.,P,History of Present Illness (HPI):Risk Assessment
+"That’s common. We can work on exposure techniques, which involve gradually facing those situations in a controlled way. Would you be open to that?",T,Therapeutic Interventions
+"Yes, I think that could help.",P,Insignificant
+Great! We can start small. Perhaps you could aim to meet one new person at your next gathering. How does that sound?,T,Next Steps
+That sounds manageable!,P,Insignificant
+Perfect! Let’s also touch on your relationship with your family. You mentioned wanting to work on your patience. How has that been going?,T,Insignificant
+"It’s been challenging. I still find myself getting frustrated, especially with my dad.",P,History of Present Illness (HPI)
+That’s understandable. Can you share a specific situation where you felt that frustration recently?,T,Insignificant
+"Last week, he kept asking me the same questions about my work, and I felt like he wasn’t listening to me.",P,History of Present Illness (HPI)
+That sounds frustrating. How did you respond in that moment?,T,Insignificant
+"I snapped at him a bit, which I regretted afterward.",P,History of Present Illness (HPI)
+It’s important to recognize those moments. What do you think could help you respond differently next time?,T,Insignificant
+Maybe I could take a deep breath before reacting or remind myself that he’s just trying to connect with me.,P,Therapeutic Interventions
+Those are great strategies! Practicing that pause can give you a moment to choose how to respond. Would you like to set a goal to try that in the coming week?,T,Next Steps
+"Yes, I’ll try that!",P,Insignificant
+"Wonderful! Finally, how are you feeling overall? Any new challenges or successes you want to share?",T,Insignificant
+"Overall, I feel more positive, but I still have moments of self-doubt, especially about my job. ",P,History of Present Illness (HPI)
+That’s a common feeling. Would you like to explore those doubts further in our next session?,T,Next Steps
+"Yes, I think that would be helpful.",P,Insignificant
+"Great! I look forward to our next conversation. Keep practicing those strategies, and I’m excited to hear about your progress.",T,Insignificant
+"Thank you, Ellie! I appreciate your help.",P,Insignificant
+"You’re welcome! Take care, and see you soon!",T,Insignificant
+Bye!,P,Insignificant

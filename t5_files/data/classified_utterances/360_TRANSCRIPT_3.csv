@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s wonderful to see you again. How have you been since our last session?  ,T,Insignificant
+I’ve been doing pretty well! I actually had a couple of interviews!  ,P,History of Present Illness (HPI)
+That’s fantastic news! How did the interviews go?  ,T,Insignificant
+"They went well, I think. I felt prepared and confident.  ",P,History of Present Illness (HPI)
+That’s great to hear! What do you think contributed to that confidence?  ,T,Insignificant
+I think all the practice and the breathing exercises helped.  ,P,Therapeutic Interventions
+It sounds like you’re really integrating those techniques. That’s an important skill!  ,T,Insignificant
+"Yeah, I feel more in control of my emotions now.  ",P,History of Present Illness (HPI)
+That’s a wonderful realization. Have you been able to maintain your routine with job applications?  ,T,Insignificant
+"Yes, I’ve kept applying and even got some feedback from one of the interviews.  ",P,Current Functional Status
+That’s encouraging! What was the feedback?  ,T,Insignificant
+They said they liked my enthusiasm but wanted someone with more experience.  ,P,History of Present Illness (HPI)
+That’s constructive feedback. How did that make you feel?  ,T,Insignificant
+"A bit disappointed, but I know I can build my experience over time.  ",P,History of Present Illness (HPI)
+That’s a healthy perspective! Focusing on growth is key. Have you thought about ways to gain that experience?  ,T,Insignificant
+Maybe volunteering or taking some courses could help.  ,P,Next Steps
+Those are excellent ideas! Would you like to set a goal to explore those options?  ,T,Insignificant
+"Yes, I’d like to look into volunteer opportunities.  ",P,Next Steps
+"Great! We can check in on that next time. Now, you mentioned wanting to discuss career goals. What specific goals do you have in mind?  ",T,Insignificant
+"I want to work in public transit, but I’m not sure where to start.  ",P,Presenting Problem / Chief Complaint
+That’s a clear goal. Have you researched any organizations or roles that interest you?  ,T,Insignificant
+"I’ve looked at a few positions, but they seem competitive.  ",P,Current Functional Status
+It’s good that you’re doing your research. It might help to connect with someone already in the field for insights.  ,T,Insignificant
+That’s a good idea! I could reach out on LinkedIn.  ,P,Next Steps
+Absolutely! Networking can open doors. Let’s set a goal for you to reach out to someone in that field.  ,T,Next Steps
+I’ll do that!  ,P,Next Steps
+"Wonderful! Now, how have you been feeling overall? Any lingering feelings of being down?  ",T,Insignificant
+"I’ve had a few moments, but they pass quickly now.  ",P,History of Present Illness (HPI)
+That’s a positive shift! It sounds like you’re developing resilience.  ,T,Insignificant
+I hope so!  ,P,Insignificant
+"You are! Remember, it’s okay to have ups and downs. Have you been able to talk to your fiancé about your financial concerns?  ",T,Insignificant
+"Yes, we talked about it, and it felt good to share our thoughts.  ",P,History of Present Illness (HPI)
+That’s excellent! Open communication can strengthen your relationship.  ,T,Insignificant
+It really helped ease my mind.  ,P,History of Present Illness (HPI)
+I’m glad to hear that. Is there anything else you’d like to focus on today?  ,T,Insignificant
+I think we’ve covered a lot. I feel good about the goals we’ve set.  ,P,Progress Evaluation
+I agree! You’ve made significant progress. Let’s continue to build on that in our next session.  ,T,Progress Evaluation
+Sounds good! Thank you!  ,P,Insignificant
+Thank you for sharing today. I look forward to our next session!  ,T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

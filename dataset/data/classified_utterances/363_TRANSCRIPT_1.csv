@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I've been doing okay, just keeping busy with work and helping my mom.",P,Psychosocial History
+"That’s good to hear. Last time, you mentioned that you were feeling more easygoing since your heart attack. Has that continued?",T,History of Present Illness (HPI)
+"Yes, it has. I find myself not sweating the small stuff as much anymore. It's refreshing.",P,History of Present Illness (HPI)
+That’s a great mindset to have. Have there been any situations recently where you felt that way?,T,History of Present Illness (HPI)
+"Well, there was a minor issue with a client who was unhappy with some of my work. Instead of getting stressed, I just took a deep breath and resolved it calmly.",P,History of Present Illness (HPI)
+That sounds like a positive change! How did it feel to handle the situation that way?,T,Insignificant
+"It felt empowering. I realized that I can control my reactions now, which is something I struggled with before.",P,History of Present Illness (HPI)
+That’s a significant insight. Have you been practicing any specific coping strategies to maintain that calmness?,T,Insignificant
+"Yes, I've been trying to meditate more regularly. Just a few minutes a day helps me center myself.",P,Therapeutic Interventions
+That’s wonderful! Meditation can be very beneficial. How has your meditation practice been going?,T,Insignificant
+"It’s been going well. I’ve noticed I’m more focused during the day, which helps with my work.",P,Physiological Observations
+That’s excellent! Have you noticed any other changes in your daily life since you started meditating?,T,Insignificant
+"I think I’m more patient with my mom too. I used to get frustrated with her forgetfulness, but now I just remind myself that she’s doing her best.",P,History of Present Illness (HPI):Psychosocial History
+That’s a beautiful realization. It sounds like your relationship with her has improved as well.,T,Insignificant
+"Yes, it really has. I feel more connected to her now.",P,Psychosocial History
+That’s fantastic! What about your relationship with your wife? How has that been since we last spoke?,T,Insignificant
+"We still talk regularly, but I think we both know that we need to figure things out. It’s a slow process.",P,Psychosocial History
+It sounds like you’re both taking the time to understand your feelings. Have you had any discussions about the future?,T,Insignificant
+"A little bit. We both agree that we need to communicate better, but it's hard to know where to start.",P,History of Present Illness (HPI):Psychosocial History
+"Communication can be challenging, especially in sensitive situations. Would you like to explore some strategies to help with that?",T,Insignificant
+"Yes, I think that would be helpful.",P,Insignificant
+One approach could be to set aside time to talk without distractions. How does that sound?,T,Insignificant
+"That sounds good. I think we need a structured time to discuss things, rather than just letting it come up randomly.",P,Insignificant
+Absolutely. Would you feel comfortable suggesting that to her?,T,Insignificant
+I think I could. I just need to find the right moment.,P,Insignificant
+Trust your instincts on that. It’s important to approach it when you both feel calm. What else has been on your mind lately?,T,Insignificant
+I’ve been thinking about my health again. I want to lose some weight and get more active.,P,Presenting Problem / Chief Complaint
+That’s a great goal. Have you thought about any specific steps you want to take?,T,Insignificant
+I’m planning to start walking more often and maybe join a local gym. I just need to get motivated.,P,Next Steps
+Motivation can be tricky. What usually inspires you to stick to a routine?,T,Insignificant
+I think about how good I feel after I exercise. That usually helps me push through.,P,Insignificant
+"That’s a great motivator! Maybe you could set small, achievable goals to help with that?",T,Next Steps
+"Yes, that makes sense. I could start with a goal of walking a certain number of days each week.",P,Next Steps
+Perfect! How many days do you think you could realistically commit to?,T,Insignificant
+I think three days a week is doable.,P,Next Steps
+Excellent! Let’s set that as your goal for the next week. How do you feel about that?,T,Insignificant
+I feel good about it. It feels manageable.,P,Insignificant
+Great! Let’s check in on that next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers a lot for today. Thank you for the guidance.,P,Insignificant
+You’re welcome! I’m looking forward to hearing about your progress next time. Take care!,T,Insignificant
+"You too, bye!",P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie.  ",P,Insignificant
+Hi there! It’s good to see you again. How have you been since our last session?  ,T,Insignificant
+"I’ve been okay, but I feel like I’m struggling a bit more with anxiety lately.  ",P,History of Present Illness (HPI)
+I’m sorry to hear that. Can you share what’s been triggering your anxiety?  ,T,History of Present Illness (HPI)
+Just thinking about the baby coming and whether I’ll be able to handle everything.  ,P,History of Present Illness (HPI)
+That’s a big life change. It’s natural to feel anxious. Have you been able to practice the breathing exercises we discussed?  ,T,History of Present Illness (HPI)
+"Yes, I’ve been doing them in the mornings.  ",P,Current Functional Status
+That’s great! Have you noticed any changes when you use the technique?  ,T,History of Present Illness (HPI)
+"I feel a bit more relaxed, but the anxiety comes back quickly.  ",P,History of Present Illness (HPI)
+That’s common. It’s important to remember that managing anxiety is a process. Have you found any other coping strategies that work for you?  ,T,History of Present Illness (HPI)
+"I’ve tried to talk to my wife about how I’m feeling, which helps.  ",P,Current Functional Status
+Communication is key in relationships. How has she responded to your feelings?  ,T,Current Functional Status
+"She’s been really supportive, which helps a lot.  ",P,Psychosocial History
+That’s wonderful to hear! It sounds like you have a strong support system. Have you thought about setting aside time for just the two of you before the baby arrives?  ,T,Current Functional Status
+"We’ve talked about going out for dinner, but it’s hard to find the time.  ",P,Current Functional Status
+"It can be challenging, but prioritizing that time can strengthen your relationship. Would you like to set a goal for a date night?  ",T,Next Steps
+That sounds good. Maybe next weekend?  ,P,Next Steps
+Perfect! How do you feel about planning that together?  ,T,Next Steps
+I think it would be fun.  ,P,Next Steps
+"Great! Now, let’s discuss how you can prepare for the baby. Are there specific worries you have?  ",T,History of Present Illness (HPI)
+I’m worried about finances and whether we’ll have enough saved up.  ,P,History of Present Illness (HPI)
+Financial concerns are common for new parents. Have you created a budget or savings plan?  ,T,History of Present Illness (HPI)
+Not really. I’ve just been trying to save when I can.  ,P,History of Present Illness (HPI)
+Would it help to sit down and create a budget together?  ,T,Therapeutic Interventions
+"Yes, that would be helpful.  ",P,Therapeutic Interventions
+Let’s set that as a goal for this week. You could schedule a time with your wife to go over it.  ,T,Next Steps
+I can do that.  ,P,Next Steps
+How do you feel about discussing your feelings of inadequacy as a provider?  ,T,History of Present Illness (HPI)
+"I feel like I should be doing more, but I’m not sure how.  ",P,History of Present Illness (HPI)
+It’s important to recognize that you’re already doing a lot by being proactive and involved. Can you identify any small steps you could take to feel more secure?  ,T,Next Steps
+Maybe looking for freelance work or side projects in advertising.  ,P,Next Steps
+That’s a great idea! Exploring additional income sources can alleviate some pressure. Have you thought about what kind of projects you’d like to pursue?  ,T,Next Steps
+I’d love to work on some golf-related advertising projects.  ,P,Next Steps
+That aligns with your dream job! How can you start reaching out to potential clients or networks in that area?  ,T,Next Steps
+I could update my portfolio and reach out to some contacts I have.  ,P,Next Steps
+That sounds like a solid plan. Let’s set a goal for you to reach out to at least two contacts this week.  ,T,Next Steps
+I can do that.  ,P,Next Steps
+Excellent! You’re making great strides. How do you feel about everything we’ve discussed today?  ,T,Progress Evaluation
+I feel a bit more hopeful.  ,P,Progress Evaluation
+"That’s wonderful to hear! Remember, it’s okay to take things one step at a time. Is there anything else on your mind?  ",T,Insignificant
+"No, I think that covers it.  ",P,Insignificant
+Great! I’m looking forward to hearing about your progress in our next session. Take care!  ,T,Insignificant
+"Thank you, Ellie. See you next time!  ",P,Insignificant
+Goodbye!,T,Insignificant

@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you today. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I've been doing well, thank you. Just keeping busy with some projects at home.  ",P,Insignificant
+"That sounds good! Last time, we talked about your travels and your experience studying abroad. Have you had any new travel plans or experiences since then?  ",T,Insignificant
+"Not yet, but I'm thinking about planning a trip to the east coast, maybe in the fall.  ",P,Insignificant
+That sounds exciting! What draws you to the east coast?  ,T,Insignificant
+"I love the changing seasons and the historical sites. Plus, the food is great there too!  ",P,Insignificant
+"Absolutely! Food is always a big part of traveling. Speaking of food, how have you been feeling about your eating habits since we last spoke?  ",T,Physiological Observations
+"I’ve been trying to be more mindful about what I eat. I still indulge sometimes, but I’m working on it.  ",P,Physiological Observations
+That's a positive step. Mindfulness can be really beneficial. Have you found any strategies that help you stay on track?  ,T,Therapeutic Interventions
+"I’ve started meal prepping on Sundays, which helps. I also try to keep healthy snacks around.  ",P,Therapeutic Interventions
+That’s a great approach! Meal prepping can really save time during the week. How do you feel when you stick to your plan?  ,T,Physiological Observations
+"I feel good, more energetic. But sometimes I get tempted to stray from it.  ",P,Physiological Observations
+It's completely normal to have those temptations. What do you think triggers those moments?  ,T,History of Present Illness (HPI)
+I think it’s mostly social situations or when I’m feeling stressed.  ,P,History of Present Illness (HPI)
+Stress can definitely influence our choices. Have you noticed any specific situations that trigger stress for you?  ,T,History of Present Illness (HPI)
+"Work sometimes gets overwhelming, especially with deadlines.  ",P,History of Present Illness (HPI)
+Would you like to explore some coping strategies for managing that stress?  ,T,Next Steps
+"Yes, I’d like that.  ",P,Insignificant
+Great! Have you tried any stress-relief techniques in the past?  ,T,Therapeutic Interventions
+"I’ve done some yoga and meditation, but I haven’t been consistent.  ",P,Therapeutic Interventions
+Consistency can be a challenge. What do you think would help you integrate those practices into your routine?  ,T,Next Steps
+"Maybe setting a specific time each day, like in the morning before work.  ",P,Next Steps
+That sounds like a solid plan! Morning routines can set a positive tone for the day. How would you feel about committing to that?  ,T,Next Steps
+I think I can do that. I’ll start with just ten minutes a day.  ,P,Next Steps
+Perfect! Starting small is often the key to building a habit. Let’s check in on that next time.  ,T,Next Steps
+Sounds good!  ,P,Insignificant
+"Last time, you mentioned that you sometimes wish you were more outgoing. Have you had any opportunities to practice that since we last met?  ",T,History of Present Illness (HPI)
+I went to a small gathering with some friends. I tried to engage more with people I didn’t know.  ,P,Current Functional Status
+That’s a great step! How did it go?  ,T,Insignificant
+"It was a little awkward at first, but I ended up having a good conversation with someone.  ",P,Current Functional Status
+That’s fantastic! It sounds like you stepped outside your comfort zone. How did that feel?  ,T,Insignificant
+"It felt good, but I was still nervous.  ",P,Current Functional Status
+It’s completely normal to feel nervous. What do you think you could do to ease that anxiety in social situations?  ,T,Next Steps
+Maybe practicing some conversation starters beforehand could help.  ,P,Next Steps
+That’s a great idea! Preparing can help reduce anxiety. Would you like to brainstorm some starters now?  ,T,Therapeutic Interventions
+Sure!  ,P,Insignificant
+How about asking people what their favorite travel destination is?  ,T,Therapeutic Interventions
+That’s a good one! People usually love talking about their travels.  ,P,Therapeutic Interventions
+Exactly! You could also ask about their favorite books or movies.  ,T,Therapeutic Interventions
+"I like that too, especially since I went to the festival of books recently.  ",P,Insignificant
+Perfect segue! It sounds like you have a lot to share. How about we set a goal for the next week?  ,T,Next Steps
+I’d like to try to engage more in conversations at my next social event.  ,P,Next Steps
+That sounds like a wonderful goal! Let’s make it specific. How many conversations do you want to aim for?  ,T,Next Steps
+I’ll aim for at least three meaningful conversations.  ,P,Next Steps
+That’s a great target! I believe you can do it. Remember to be kind to yourself if it doesn’t go perfectly.  ,T,Insignificant
+"Thank you, Ellie. I appreciate that.  ",P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?  ",T,Insignificant
+I think we covered a lot! I feel good about the goals we set.  ,P,Insignificant
+I’m glad to hear that! I look forward to hearing about your progress next time.  ,T,Insignificant
+Me too! Thank you for your help.  ,P,Insignificant
+"You’re welcome! Take care, and I’ll see you soon.  ",T,Insignificant
+Bye!  ,P,Insignificant

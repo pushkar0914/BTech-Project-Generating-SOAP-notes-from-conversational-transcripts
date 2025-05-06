@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it’s good to see you again. How have you been since our last session?",T,Insignificant
+"Uh, I’ve been okay, I guess. Some ups and downs, you know.",P,History of Present Illness (HPI)
+I understand. Can you tell me more about the ups and downs?,T,Insignificant
+"Well, I had a couple of good days where I felt a bit more motivated, but then I’d hit a low and feel like I’m back to square one.",P,History of Present Illness (HPI)
+That sounds frustrating. What do you think triggers those lows for you?,T,Insignificant
+"It’s usually just little things. Like, I’ll have a bad day at work, or I’ll see something that reminds me of my past, and it just pulls me down.",P,History of Present Illness (HPI): Trauma History
+It sounds like certain events can bring back those feelings of sadness. Have you noticed any specific patterns?,T,Insignificant
+"Yeah, definitely. It often happens when I’m alone, or when I’m not busy. I guess I need to keep myself occupied.",P,History of Present Illness (HPI)
+That makes sense. Staying engaged can help distract from those negative thoughts. Have you tried any activities to help keep your mind occupied?,T,Insignificant
+"I’ve been trying to get back into yoga. I used to love it, but sometimes I just don’t have the energy.",P,History of Present Illness (HPI): Physiological Observations
+It’s good that you’re trying to reconnect with something you enjoyed. What do you think holds you back from doing yoga more regularly?,T,Insignificant
+"I think it’s mostly motivation. It feels like such a chore sometimes, and I just don’t want to do anything.",P,History of Present Illness (HPI)
+"That’s understandable. Motivation can be tough to muster, especially when you’re feeling down. Would it be helpful to set small, achievable goals around yoga?",T,Insignificant
+"Maybe. Like, just doing a few minutes instead of a full session?",P,Next Steps
+Exactly! Starting small can make it feel less overwhelming. How does that sound to you?,T,Insignificant
+"Yeah, I think I could manage a few minutes. It might help me get back into it.",P,Next Steps
+Great! Let’s try that for the week. How about we check in on your progress during our next session?,T,Next Steps
+"Sure, I can do that.",P,Next Steps
+How have you been sleeping lately? You mentioned sleep was a bit tricky for you.,T,Insignificant
+"I’ve been sleeping okay, actually. Better than before, I think. I’m still tired a lot, but at least I’m falling asleep faster.",P,Physiological Observations
+That’s a positive change! Have you noticed anything that helps you sleep better?,T,Insignificant
+I’ve been trying to read before bed instead of scrolling through my phone. I think it helps me relax.,P,Physiological Observations
+That sounds like a healthy habit. Reading can be a great way to wind down. What have you been reading?,T,Insignificant
+"Just some fiction. It helps me escape for a bit, which is nice.",P,Psychosocial History
+Escaping into a story can definitely provide a break from reality. Are there any particular themes or genres that resonate with you?,T,Insignificant
+I like mysteries. I guess I enjoy trying to solve the puzzle before the characters do.,P,Psychosocial History
+Interesting! It sounds like you enjoy the challenge of figuring things out. Do you think that relates to how you view your own challenges?,T,Insignificant
+"Maybe. I feel like I’m trying to solve my own mystery sometimes, like why I feel this way.",P,History of Present Illness (HPI)
+That’s a thoughtful connection. It can be helpful to approach your feelings like a mystery to unravel. What do you think is the biggest piece of that puzzle for you right now?,T,Insignificant
+"I think it’s figuring out why I can’t seem to shake this feeling of being lost. I used to have direction, and now it’s just... gone.",P,History of Present Illness (HPI)
+That’s a significant realization. What do you think has contributed to that feeling of being lost?,T,Insignificant
+"I guess it’s a combination of things. Losing my support system, my job situation, and just feeling like I’m not enough anymore.",P,Psychosocial History: Risk Assessment
+It’s understandable to feel lost when faced with such changes. Have you thought about what might help you find that direction again?,T,Insignificant
+I’ve thought about maybe volunteering or getting involved in some community activities. It might help me feel more connected.,P,Next Steps
+That sounds like a wonderful idea! Volunteering can provide a sense of purpose and help you meet new people. What kind of volunteering would interest you?,T,Insignificant
+"I’ve always enjoyed working with kids, so maybe something related to that.",P,Next Steps
+That could be a great fit! Helping others can often help us feel better about ourselves too. Would you like to set a goal to explore some local opportunities?,T,Insignificant
+"Yeah, I think I’d like that. Just need to look into it more.",P,Next Steps
+Perfect! Let’s aim to discuss what you find next time. How does that feel?,T,Insignificant
+It feels good. It gives me something to focus on.,P,Psychosocial History
+"I’m glad to hear that! As we wrap up today, is there anything else you’d like to talk about before we end?",T,Insignificant
+Just that I appreciate you listening. It feels good to talk about these things.,P,Psychosocial History
+"I appreciate you sharing with me. Remember, it’s a process, and you’re taking important steps. I look forward to hearing about your progress next time!",T,Insignificant
+"Thanks, I will see you then.",P,Insignificant
+Take care!,T,Insignificant

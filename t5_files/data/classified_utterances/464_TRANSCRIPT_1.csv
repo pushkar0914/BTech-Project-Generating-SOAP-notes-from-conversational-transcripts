@@ -1,0 +1,79 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>  ,P,Insignificant
+Hi again! How have you been since our last session?  ,T,Insignificant
+"Um, I've been pretty good, just busy with work and painting.  ",P,Insignificant
+That’s great to hear! Did you have any thoughts about what we discussed last time?  ,T,Insignificant
+"Yeah, I’ve been thinking about how I handle my emotions and my art.  ",P,History of Present Illness (HPI)
+That’s a good reflection. Have you noticed any changes in your emotional responses?  ,T,Insignificant
+I think I’ve been more aware of when I feel overwhelmed.  ,P,History of Present Illness (HPI)
+That’s a positive step! What do you do when you start to feel overwhelmed?  ,T,Insignificant
+I try to take a break and paint or go for a walk. It helps clear my mind.  ,P,Therapeutic Interventions
+Excellent coping strategies! Have you found any specific techniques in painting that help you express those emotions?  ,T,Insignificant
+"Yeah, I’ve been experimenting with colors more. Like, when I’m anxious, I use darker colors, and when I’m happy, I go for brighter ones.  ",P,History of Present Illness (HPI)
+That’s a wonderful way to channel your emotions! Have you had a chance to paint anything new lately?  ,T,Insignificant
+"I actually started a new piece last week. It’s abstract, with lots of blues and greens.  ",P,Insignificant
+Sounds beautiful! What inspired that piece?  ,T,Insignificant
+"I was feeling a bit nostalgic, thinking about my childhood and the ocean.  ",P,History of Present Illness (HPI)
+Nostalgia can be a powerful emotion. How did that feeling translate into your art?  ,T,Insignificant
+I think it made me want to capture the calmness of the ocean and the joy of those memories.  ,P,Insignificant
+That’s a lovely intention. Do you feel that painting helps you process those memories?  ,T,Insignificant
+"Definitely, it’s like therapy for me.  ",P,Therapeutic Interventions
+I’m glad to hear that. Are there any memories that you find more challenging to express?  ,T,Insignificant
+"Yeah, sometimes the tougher memories, like the ones with violence, are hard to put on canvas.  ",P,Trauma History
+That’s understandable. Would you like to explore those memories a bit more today?  ,T,Insignificant
+"I guess so. I mean, it’s tough, but I think it could be helpful.  ",P,Insignificant
+"Absolutely, take your time. Can you share one of those memories?  ",T,Insignificant
+"Well, there was this time I saw someone get jumped. I was just a kid, and it scared me.  ",P,Trauma History
+That sounds traumatic. How did you feel during that experience?  ,T,Insignificant
+I felt helpless and scared. I didn’t know what to do.  ,P,Trauma History
+It’s natural to feel that way in such a situation. Do those feelings come back to you sometimes?  ,T,Insignificant
+"Yeah, sometimes I get anxious in crowded places.  ",P,History of Present Illness (HPI)
+That makes sense. Have you noticed any specific triggers that lead to that anxiety?  ,T,Insignificant
+Loud noises or people getting too close.  ,P,History of Present Illness (HPI)
+Have you tried any grounding techniques when you feel that way?  ,T,Insignificant
+"I’ve tried deep breathing, but it doesn’t always work.  ",P,Therapeutic Interventions
+That’s a good start. Would you like to explore some other techniques together?  ,T,Insignificant
+"Sure, that could be helpful.  ",P,Insignificant
+One technique is the 5-4-3-2-1 grounding exercise. Would you like to try it?  ,T,Therapeutic Interventions
+"Yeah, what do I need to do?  ",P,Insignificant
+"First, identify five things you can see around you.  ",T,Insignificant
+"Okay, I see my paintbrush, a canvas, my phone, a plant, and a window.  ",P,Insignificant
+"Great! Now, can you name four things you can touch?  ",T,Insignificant
+"Um, the paintbrush, the canvas, my chair, and my desk.  ",P,Insignificant
+"Perfect! Now, how about three things you can hear?  ",T,Insignificant
+"I hear the clock ticking, some cars outside, and my breathing.  ",P,Insignificant
+"Good job! Next, can you identify two things you can smell?  ",T,Insignificant
+I can smell the paint and a bit of the coffee from earlier.  ,P,Insignificant
+"Awesome! Finally, what’s one thing you can taste?  ",T,Insignificant
+I can taste the mint from my gum.  ,P,Insignificant
+How do you feel after doing that exercise?  ,T,Insignificant
+"I feel a bit more grounded, actually.  ",P,Current Functional Status
+That’s wonderful! You can use this exercise whenever you start feeling anxious.  ,T,Therapeutic Interventions
+I’ll definitely try that.  ,P,Insignificant
+Is there anything else you’d like to explore today?  ,T,Insignificant
+I guess I’m still thinking about my family.  ,P,Insignificant
+Sure! What’s on your mind regarding your family?  ,T,Insignificant
+I just wonder if I’m doing enough to support them.  ,P,Psychosocial History
+It’s great that you care about them. In what ways do you currently support them?  ,T,Insignificant
+"I help out when I can, like with chores and stuff.  ",P,Current Functional Status
+That’s important. Have you communicated with them about how they feel you’re doing?  ,T,Insignificant
+Not really. I guess I’m afraid of what they might say.  ,P,Insignificant
+It’s natural to have that fear. Would you like to practice how you might approach that conversation?  ,T,Insignificant
+"Yeah, that could help.  ",P,Insignificant
+"Okay, let’s role-play. You can start the conversation.  ",T,Insignificant
+"Um, hey family, I just wanted to check in and see how you feel about my support.  ",P,Insignificant
+"That’s a good start! Now, how do you think they might respond?  ",T,Insignificant
+"They might say I’m doing fine, but I’m worried they’ll say I’m not enough.  ",P,Insignificant
+"It’s okay to have those worries. Remember, their feedback can help you grow.  ",T,Insignificant
+"Yeah, I see that.  ",P,Insignificant
+Do you feel ready to have that conversation?  ,T,Insignificant
+I think so.  ,P,Insignificant
+That’s great! Let’s set that as a goal for the week.  ,T,Next Steps
+Sounds good!  ,P,Insignificant
+"Before we wrap up, is there anything else you want to discuss?  ",T,Insignificant
+"No, I think that’s it for today.  ",P,Insignificant
+"Okay, thank you for sharing your thoughts and feelings. I look forward to hearing how your conversation with your family goes next time!  ",T,Insignificant
+"Yeah, me too. Thanks!  ",P,Insignificant
+You’re welcome. Take care!  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! Welcome back. How did your week go with the mindfulness exercise and your communication goals?,T,Insignificant
+"Hey, Ellie! It went pretty well. I tried the breathing exercise a few times, and it really helped me calm down.",P,History of Present Illness (HPI)
+That’s fantastic! How did it feel to incorporate that into your routine?,T,Insignificant
+"It was refreshing. I felt more centered during conversations, especially with my friends while working on the mural.",P,History of Present Illness (HPI)
+That’s great to hear! Did you notice any changes in how you communicated with them?,T,Insignificant
+"Yeah, I was definitely more present. I listened more and didn’t interrupt as much.",P,History of Present Illness (HPI)
+That’s a significant improvement! How did your friends respond to that change?,T,Insignificant
+"They seemed to appreciate it. It made our discussions more productive, and we ended up with some great ideas for the mural.",P,Current Functional Status
+That’s wonderful! It sounds like you’re building stronger connections. Have you had a chance to talk to Jackrabbit about your feelings?,T,Insignificant
+I did! I told her how much I appreciate her and how she inspires me. It felt good to open up.,P,History of Present Illness (HPI)
+That’s a big step! How did she respond?,T,Insignificant
+"She was really sweet about it. She said she feels the same way, which made me really happy.",P,History of Present Illness (HPI)
+That’s beautiful! It sounds like your connection is deepening. How do you feel about that relationship now?,T,Insignificant
+I feel excited! It’s nice to have someone who understands me.,P,History of Present Illness (HPI)
+That’s wonderful! It’s important to have those connections. How about your family? Have there been any updates there?,T,Insignificant
+"I called my mom last week. We had a decent conversation, and I tried to be more patient with her.",P,History of Present Illness (HPI)
+That’s a positive step! How did that feel for you?,T,Insignificant
+"It felt good. I didn’t get as frustrated as I usually do, so that was a win.",P,History of Present Illness (HPI)
+It sounds like you’re making progress in that relationship too. What other areas would you like to explore today?,T,Insignificant
+"I wanted to talk about my motivation. While I feel inspired, I still struggle to follow through on projects.",P,Presenting Problem / Chief Complaint
+That’s a common challenge. What do you think is holding you back from following through?,T,Insignificant
+"I think I get overwhelmed by the scope of the project, and then I avoid it.",P,History of Present Illness (HPI)
+"It’s understandable to feel overwhelmed. Have you tried breaking projects down into smaller, manageable tasks?",T,Insignificant
+I haven’t really done that. I usually just dive in and then get lost.,P,History of Present Illness (HPI)
+Breaking tasks down can help make them feel less daunting. Would you like to try that for your mural project?,T,Therapeutic Interventions
+"Yeah, I think that could work. I’ll give it a shot.",P,Insignificant
+Great! Let’s also touch on your sleep habits. Have you been able to maintain a consistent bedtime?,T,Insignificant
+"I’ve been trying! I set a reminder on my phone, and it’s helped a lot.",P,Physiological Observations
+That’s excellent! How have you been feeling overall with your sleep?,T,Insignificant
+"I’ve been waking up feeling more refreshed, which is a nice change.",P,Physiological Observations
+That’s wonderful to hear! Consistent sleep can have a big impact on your mood and energy levels. Is there anything else you’d like to work on today?,T,Insignificant
+"I think I want to focus on my self-doubt. Sometimes I feel like I’m not good enough, especially in my art.",P,Presenting Problem / Chief Complaint
+Self-doubt can be challenging. What triggers those feelings for you?,T,Insignificant
+I think it’s when I compare myself to others or when I feel like my work isn’t as good as theirs.,P,History of Present Illness (HPI)
+Comparison can be a slippery slope. Have you considered focusing on your own journey and progress instead?,T,Insignificant
+"I’ve tried, but it’s hard to shake off that feeling of inadequacy.",P,History of Present Illness (HPI)
+It’s understandable. Perhaps you could keep a journal of your accomplishments and positive feedback from others to remind yourself of your growth.,T,Therapeutic Interventions
+That sounds like a good idea! I’ll start writing down my achievements.,P,Insignificant
+"That’s a great step! Remember, everyone has their own unique path. You have your own strengths and talents to celebrate. ",T,Insignificant
+"Thanks, Ellie. I appreciate that reminder.",P,Insignificant
+"Of course! As we wrap up, what’s one thing you’d like to focus on before our next session?",T,Insignificant
+I want to keep working on my motivation and try to journal my achievements.,P,Next Steps
+That sounds like a solid plan! I look forward to hearing about your progress next time. Thank you for sharing today.,T,Insignificant
+"Thanks, Ellie! See you next time!",P,Insignificant

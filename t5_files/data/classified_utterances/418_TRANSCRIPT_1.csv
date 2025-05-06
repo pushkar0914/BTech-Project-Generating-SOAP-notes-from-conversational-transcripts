@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it’s good to see you again. How have you been since our last session?",T,Insignificant
+"Hi, I've been okay, just trying to manage the stress from the move and everything.",P,History of Present Illness (HPI)
+I remember you mentioned feeling anxious about the expenses involved. Have you found any coping strategies that help?,T,History of Present Illness (HPI)
+"A little bit. I’ve been trying to stick to a budget and keep track of my spending, but it’s still overwhelming sometimes.",P,History of Present Illness (HPI)
+That sounds like a positive step. How do you feel when you stick to your budget?,T,Insignificant
+"It feels good, but then I worry about unexpected expenses popping up.",P,History of Present Illness (HPI)
+That’s understandable. It’s hard to feel secure when there are so many variables. Have you had any unexpected expenses since we last spoke?,T,History of Present Illness (HPI)
+"Yes, I had to buy a new couch because the old one was falling apart. It was more expensive than I planned.",P,History of Present Illness (HPI)
+That can definitely add to the stress. How did you handle that situation emotionally?,T,Insignificant
+"I felt frustrated, but I tried to remind myself that it’s just a part of life. I didn’t want to let it ruin my day.",P,Mental Health Observations
+That’s a great mindset to have. It sounds like you’re working on managing your emotions well. What else have you been doing to take care of yourself?,T,Insignificant
+"I’ve been listening to more music and watching some horror movies, which helps me relax.",P,Current Functional Status
+That sounds like a good outlet. Is there a particular movie or song that you’ve enjoyed lately?,T,Insignificant
+I watched this new horror movie called “The Conjuring.” It was really intense!,P,Insignificant
+That’s a popular one! How did it make you feel while watching it?,T,Insignificant
+"I was on the edge of my seat! It was exciting, but I also felt a bit anxious afterward.",P,Mental Health Observations
+It’s interesting how horror can evoke such strong emotions. Do you think it helps you process your own feelings in any way?,T,Insignificant
+"I think so. It distracts me from my worries, and sometimes I think about the characters and their struggles, which makes me reflect on my own life.",P,History of Present Illness (HPI)
+That’s a valuable insight. Reflecting on characters can sometimes help us gain perspective on our own experiences. Have you had any moments of reflection that stood out to you?,T,Insignificant
+"I was thinking about the characters’ fears and how they dealt with them. It reminded me of how I’ve been trying to face my own fears, like the anxiety around money.",P,History of Present Illness (HPI)
+"That’s a powerful connection. Facing fears can be daunting, but it sounds like you’re making progress. What are some specific fears you’re working on?",T,Insignificant
+I guess the fear of not being able to provide for myself or my kids. It’s always in the back of my mind.,P,Risk Assessment
+"That’s a significant fear, especially as a parent. Have you thought about ways to address that fear?",T,Insignificant
+"I’ve been considering looking for a part-time job, but I’m worried about managing my time and energy with my health issues.",P,History of Present Illness (HPI)
+It’s understandable to feel torn. Balancing work and health can be challenging. What do you think would be the ideal situation for you?,T,Insignificant
+"Ideally, I’d find something flexible that allows me to work from home. That way, I could manage my time better.",P,Next Steps
+That sounds like a reasonable goal. Have you looked into any specific opportunities or resources for remote work?,T,Insignificant
+"I’ve looked at a few job boards, but I haven’t applied to anything yet. I guess I’m just hesitant.",P,History of Present Illness (HPI)
+"It’s normal to feel hesitant, especially with the added stress. What do you think is holding you back from applying?",T,Insignificant
+"I think it’s the fear of rejection and not being good enough. I haven’t worked for a while, and I worry I won’t measure up.",P,Risk Assessment
+Those feelings are valid. It can be hard to put ourselves out there. What if we explored some affirmations or self-compassion techniques to help combat those thoughts?,T,Therapeutic Interventions
+That could be helpful. I often find myself being too critical of myself.,P,Insignificant
+"Let’s start with an affirmation. How about something like, “I am capable and deserving of opportunities”? Would you be willing to try repeating that?",T,Therapeutic Interventions
+"Yeah, I can try that. I like the idea of reminding myself that I’m capable.",P,Insignificant
+"Great! We can also work on a self-compassion exercise. Whenever you notice those critical thoughts, try to acknowledge them and respond with kindness, as if you were speaking to a friend.",T,Therapeutic Interventions
+I like that idea. I’m often harder on myself than I would be on others.,P,Insignificant
+"It’s a common struggle. Remember that it’s okay to be imperfect. We all have our challenges. How do you feel about setting a small goal for the week, like applying for one job?",T,Next Steps
+I think I can do that. Just one application feels more manageable.,P,Next Steps
+That sounds like a solid plan. Let’s check in on that next time. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now. I feel a bit lighter after talking about it.,P,Insignificant
+"I’m glad to hear that! Remember, progress takes time, and you’re doing well. I look forward to hearing about your job applications next session. ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

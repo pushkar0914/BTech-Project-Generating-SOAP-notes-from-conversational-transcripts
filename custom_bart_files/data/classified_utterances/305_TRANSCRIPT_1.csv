@@ -1,0 +1,57 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's good to see you. How have you been since our last session?",T,Insignificant
+"Hey, Ellie. I've been okay, I guess. Just trying to keep busy with job applications and stuff.",P,Current Functional Status
+That’s good to hear you’re staying active. Did you hear back from Ralphs?,T,Insignificant
+"Yeah, I did! They actually offered me a part-time position. I start next week.",P,Current Functional Status
+That’s fantastic! Congratulations! How do you feel about starting this new job?,T,Insignificant
+I’m excited but also a bit nervous. It’s been a while since I worked in a structured environment.,P,History of Present Illness (HPI)
+That’s completely understandable. What are you most looking forward to about it?,T,Insignificant
+"I think just getting back into a routine. Plus, it'll be nice to have some income coming in again.",P,Current Functional Status
+"Absolutely, having that routine can be really beneficial. How do you think this job might impact your relationship with your girlfriend?",T,Insignificant
+I hope it helps. I think being employed will ease some of the tension. I’ve been feeling a bit like a burden lately.,P,History of Present Illness (HPI)
+It’s great that you’re aware of that. Have you discussed these feelings with her?,T,Insignificant
+Not really. I don’t want her to worry more. I just try to put on a brave face.,P,History of Present Illness (HPI)
+"I can see why you’d feel that way, but sharing your feelings might actually strengthen your relationship. How do you think she would respond?",T,Insignificant
+"I think she’d be understanding. She’s supportive, but I just don’t want to add to her stress.",P,History of Present Illness (HPI)
+That's a valid concern. It might help to express that you’re working on things and that you appreciate her support. ,T,Insignificant
+"Yeah, that makes sense. I’ll think about it.",P,Insignificant
+Great. Have you had any moments of anxiety or frustration since we last talked?,T,History of Present Illness (HPI)
+"A bit, yeah. Mostly when I think about my past and how it affects my job search.",P,History of Present Illness (HPI)
+Can you tell me more about that?,T,Insignificant
+"Well, I still have that nagging doubt that employers will judge me for my history. It feels like a shadow that follows me.",P,History of Present Illness (HPI)
+"That sounds really tough. It’s understandable to feel that way, especially when you’re trying to start fresh.",T,Insignificant
+"Yeah, I just wish I could shake it off. ",P,History of Present Illness (HPI)
+Have you tried any strategies to cope with those feelings?,T,Insignificant
+"Sometimes I just distract myself with painting or cooking. It helps, but it’s not always enough.",P,Therapeutic Interventions
+Those are great outlets. Would you be open to trying mindfulness techniques to help you stay grounded in those moments?,T,Therapeutic Interventions
+"Sure, I’m willing to try that.",P,Therapeutic Interventions
+"One technique is to focus on your breathing. When you feel overwhelmed, take a moment to breathe deeply, in through your nose and out through your mouth. ",T,Therapeutic Interventions
+I can do that. I’ve heard about mindfulness before but never really practiced it.,P,Therapeutic Interventions
+It’s all about being present and acknowledging your thoughts without judgment. You might find it helpful.,T,Therapeutic Interventions
+I’ll give it a shot. ,P,Therapeutic Interventions
+Good. Let’s check in on your sleep. Has it improved at all since we last spoke?,T,Physiological Observations
+"A little, I guess. I’m still waking up a lot, but I’m managing to fall asleep faster.",P,Physiological Observations
+That’s progress! Have you been using any techniques to help with that?,T,Insignificant
+I’ve been trying to limit screen time before bed. It seems to help a bit.,P,Physiological Observations
+That’s a great strategy. Have you noticed any specific thoughts that keep you awake at night?,T,Insignificant
+"Yeah, I often start thinking about my past mistakes and what could have been different.",P,History of Present Illness (HPI)
+It’s common to ruminate on those thoughts. Would you like to explore ways to challenge those thoughts?,T,Therapeutic Interventions
+"Sure, I’d like that. ",P,Therapeutic Interventions
+One approach is to ask yourself if those thoughts are based on facts or feelings. Can you identify any cognitive distortions?,T,Therapeutic Interventions
+"I think I do that “all-or-nothing” thing a lot. Like, I feel like I’m either completely successful or a total failure.",P,History of Present Illness (HPI)
+That’s a significant realization. It’s important to recognize that life is often more nuanced than that. ,T,Insignificant
+"Yeah, I need to remind myself that it’s okay to have setbacks.",P,Insignificant
+"Exactly! Every step you take, even if it feels small, is still progress. ",T,Insignificant
+I like that. ,P,Insignificant
+Let’s set a goal for the next week. How about practicing mindfulness for a few minutes each day?,T,Next Steps
+I can do that. ,P,Next Steps
+Wonderful! And perhaps you can also try to share your feelings with your girlfriend about your job search and how you feel.,T,Next Steps
+That sounds doable. I’ll try to talk to her this weekend.,P,Next Steps
+Great! I’m looking forward to hearing how that goes. ,T,Insignificant
+"Me too. Thanks for the support, Ellie.",P,Insignificant
+Of course! I’m here for you. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that’s about it for now. ,P,Insignificant
+"Alright, thank you for sharing today. I’m proud of the steps you’re taking. ",T,Insignificant
+"Thanks, I appreciate it.",P,Insignificant
+See you next time!,T,Insignificant
+Bye!,P,Insignificant

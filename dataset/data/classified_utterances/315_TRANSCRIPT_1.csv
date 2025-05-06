@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hey, I've been alright. Just busy with work and family stuff.",P,Insignificant
+That sounds like a lot on your plate. Have you had a chance to reflect on our last conversation about your parenting and discipline views?,T,Insignificant
+"Yeah, I have. I’ve been trying to communicate better with my girlfriend about how we want to raise our daughter.",P,History of Present Illness (HPI)
+That’s a positive step. How has that conversation gone?,T,Insignificant
+"It was a bit rocky at first. We both have strong opinions, but we managed to talk it out without arguing this time.",P,History of Present Illness (HPI)
+That’s great to hear! What strategies did you use to keep the conversation calm?,T,Insignificant
+"I tried to listen more and not interrupt, which is hard for me sometimes. I also took a few deep breaths before responding.",P,History of Present Illness (HPI)
+Deep breathing is a helpful tool. Have you noticed any changes in your feelings during these discussions?,T,Insignificant
+"Yeah, I felt less angry this time. I think being more patient helped.",P,History of Present Illness (HPI)
+That’s a significant improvement! How did your girlfriend respond to your efforts?,T,Insignificant
+She noticed I was trying and appreciated it. It felt good to have a constructive conversation.,P,History of Present Illness (HPI)
+It sounds like you’re making progress together. Are there any specific topics you want to address next time?,T,Insignificant
+I think we need to talk about discipline strategies more. I want to be on the same page with her.,P,History of Present Illness (HPI)
+That’s a good goal. Would you like to explore some discipline techniques together?,T,Insignificant
+"Yeah, that would be helpful.",P,Insignificant
+Great! We can look into age-appropriate strategies that align with your values. How do you feel about that?,T,Insignificant
+I feel good about it. I want to ensure we’re both comfortable with how we discipline her.,P,History of Present Illness (HPI)
+That’s important. It could also benefit your daughter to see you both united. How do you think she’d respond to consistent discipline?,T,Insignificant
+"I think it would help her understand boundaries better. Kids need that structure, I believe.",P,History of Present Illness (HPI)
+Absolutely. Structure can provide a sense of security for children. Have you thought about what specific boundaries you want to set?,T,Insignificant
+"I want to focus on being clear about expectations, especially with schoolwork and respect.",P,History of Present Illness (HPI)
+Those are solid areas to focus on. How do you feel about your ability to enforce those boundaries?,T,Insignificant
+"I think I can do it, but I worry about being too strict. I don’t want to push her away.",P,Risk Assessment
+That’s a valid concern. Balancing discipline with warmth is key. What are some ways you can show her love while setting limits?,T,Insignificant
+"Maybe I can spend more quality time with her, like doing fun activities together after we address the serious stuff.",P,Therapeutic Interventions
+That’s a wonderful idea! Engaging in enjoyable activities can strengthen your bond. What activities do you think she would enjoy?,T,Insignificant
+"She loves art, so maybe we can do some painting together. ",P,Therapeutic Interventions
+"That sounds lovely! Art can be a great way to express feelings, too. Have you noticed how she reacts to your guidance in her schoolwork?",T,Insignificant
+She seems a bit overwhelmed sometimes. I think she needs more encouragement.,P,History of Present Illness (HPI)
+Encouragement can make a big difference! What are some ways you could encourage her when she feels overwhelmed?,T,Insignificant
+I could praise her efforts more and remind her that it’s okay to make mistakes.,P,Therapeutic Interventions
+That’s a fantastic approach. Reinforcing the idea that mistakes are part of learning can help her feel more secure. How do you feel about your own experiences with mistakes?,T,Insignificant
+I still struggle with that. I get frustrated when I mess up.,P,History of Present Illness (HPI)
+It’s common to feel that way. Would you like to explore how to manage those feelings when they arise?,T,Insignificant
+"Yeah, that would be helpful.",P,Insignificant
+We can work on reframing how you view mistakes and develop coping strategies. How does that sound?,T,Therapeutic Interventions
+Sounds good to me.,P,Insignificant
+"Excellent! For our next session, let’s plan to discuss specific discipline strategies and how to encourage your daughter. Does that work for you?",T,Next Steps
+"Yes, that works. ",P,Next Steps
+"Great! I’m looking forward to our next conversation. Remember, progress takes time, and you’re doing well.",T,Insignificant
+"Thanks, I appreciate it.",P,Insignificant
+You’re welcome! Take care until then.,T,Insignificant
+Bye!,P,Insignificant

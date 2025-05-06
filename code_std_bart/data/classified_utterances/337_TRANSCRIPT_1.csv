@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. It's great to see you back today. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, a bit anxious, to be honest. ",P,History of Present Illness (HPI)
+I remember you mentioned feeling anxious about work and stability. Has anything specific triggered those feelings recently?,T,History of Present Illness (HPI)
+"Yeah, I had a couple of shifts at the call center that were really tough. A lot of pressure from management, and I worry about my performance. ",P,History of Present Illness (HPI)
+That sounds stressful. Can you tell me more about what happened during those shifts?,T,Insignificant
+"Well, there were a lot of calls, and I felt like I was juggling too many things at once. I ended up making a mistake on one of the calls, and I just felt terrible afterward.",P,History of Present Illness (HPI)
+"Mistakes can feel overwhelming, especially in high-pressure environments. How did you cope with that feeling afterward?",T,Insignificant
+"I tried to shake it off, but I kept replaying the situation in my head. I felt like I let everyone down.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. It sounds like you’re being quite hard on yourself. What would you say to a friend in a similar situation?,T,Insignificant
+I’d probably tell them that everyone makes mistakes and that it doesn’t define their worth. ,P,Insignificant
+Exactly! It’s important to extend that same compassion to yourself. How might you apply that perspective to your own situation?,T,Insignificant
+I guess I could remind myself that it’s just one call and that I usually do well at my job.,P,Insignificant
+That’s a great insight! What do you think would help you manage those anxious feelings when they arise?,T,Insignificant
+Maybe I could practice some mindfulness techniques or breathing exercises. ,P,Therapeutic Interventions
+That sounds like a good plan. Have you tried any mindfulness techniques before?,T,Insignificant
+I’ve read about them but haven’t really practiced. ,P,Insignificant
+How about we explore a simple technique together? We can start with a breathing exercise. Would you be open to that?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+Great! Let’s take a deep breath in through your nose for a count of four… hold it for a moment… and then exhale slowly through your mouth for a count of six. Let’s do that a few times together.,T,Therapeutic Interventions
+*breathes in and out* ,P,Insignificant
+How do you feel after that?,T,Insignificant
+"A bit calmer, actually. ",P,Mental Health Observations
+That’s wonderful to hear! You can use this technique anytime you feel overwhelmed. ,T,Insignificant
+I’ll definitely try to remember that. ,P,Insignificant
+"Good! Now, let’s talk about your goals. You mentioned wanting to focus more on your singing and performing. Have you made any progress toward that?",T,Insignificant
+"I’ve been looking for more local gigs, but they’re hard to come by. ",P,History of Present Illness (HPI)
+It can be challenging to find opportunities in the performing arts. Have you thought about networking or connecting with other performers?,T,Insignificant
+I haven’t really. I guess I could reach out to some people I know in the industry.,P,Next Steps
+That could be a great way to open doors. Networking can lead to unexpected opportunities. ,T,Insignificant
+"Yeah, that makes sense. ",P,Insignificant
+How do you feel about taking that step?,T,Insignificant
+"A bit nervous, but I know it’s necessary. ",P,History of Present Illness (HPI)
+It’s completely normal to feel nervous. Maybe we can set a small goal for you to reach out to one person this week?,T,Next Steps
+That sounds manageable. I can do that.,P,Next Steps
+Perfect! Let’s check in about it in our next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now. ,P,Insignificant
+"Alright, it’s been great talking with you. Remember, be kind to yourself, and I look forward to hearing about your progress next time!",T,Insignificant
+"Thank you, Ellie. See you next week!",P,Insignificant
+Goodbye!,T,Insignificant

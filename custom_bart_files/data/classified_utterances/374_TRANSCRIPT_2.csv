@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back! How has your week been?,T,Insignificant
+"Hi, Ellie! It’s been a mixed bag, honestly. I did some of the things we talked about, but I still feel a bit stuck.",P,History of Present Illness (HPI)
+That’s completely okay. Let’s dive into it. What did you manage to accomplish this week?,T,Insignificant
+I wrote down my strengths and sent out a couple more resumes. But I still feel anxious about the whole job search.,P,History of Present Illness (HPI)
+"That’s great to hear you took those steps! It’s understandable to feel anxious, especially when it’s something so important to you. What specifically is causing that anxiety?",T,Insignificant
+"I think it’s just the uncertainty of it all. I keep thinking, “What if I don’t hear back?” or “What if I get rejected again?”",P,History of Present Illness (HPI)
+Those are common worries in a job search. Have you noticed how those thoughts affect your mood or motivation?,T,Insignificant
+"Yeah, when I think about it too much, I just want to give up. It feels like I’m stuck in this cycle.",P,History of Present Illness (HPI)
+Recognizing that cycle is a big step. What do you think you could do to break that cycle when you notice it happening?,T,Insignificant
+"Maybe I could take a break from job searching for a bit, do something fun instead?",P,Insignificant
+That sounds like a good idea! Engaging in enjoyable activities can help reset your mindset. What’s something you enjoy doing?,T,Insignificant
+"I love watching movies, of course! Maybe I could have a movie night or something.",P,Insignificant
+That sounds perfect! It could be a nice way to unwind. How about your sleep? Have you noticed any changes since we last spoke?,T,Physiological Observations
+"I’ve been trying the deep breathing before bed, and it’s helping a bit, but I still wake up sometimes.",P,Physiological Observations
+It’s great that you’re trying the breathing exercises. It might take time to see consistent improvements. Have you thought about keeping a sleep journal to track patterns?,T,Next Steps
+"No, I haven’t. That could be interesting to see what’s affecting my sleep.",P,Insignificant
+It could be very insightful! You might discover triggers or patterns that you can address. Would you be willing to give that a shot?,T,Next Steps
+"Yeah, I can try that.",P,Next Steps
+Wonderful! You mentioned feeling stuck. Have there been any new developments in your job search that might have contributed to that feeling?,T,Insignificant
+"Not really. I haven’t heard back from any of the places I applied to, which is frustrating.",P,History of Present Illness (HPI)
+That’s understandable. It can feel discouraging when you’re putting in effort but not seeing immediate results. How do you usually cope with that frustration?,T,Insignificant
+"I try to distract myself, but sometimes it just lingers. ",P,History of Present Illness (HPI)
+"It’s important to acknowledge those feelings. Would it help to talk about your feelings of frustration in a more constructive way, perhaps through journaling or art?",T,Next Steps
+"I think that could be useful. I used to write a lot, but I haven’t done it in a while.",P,History of Present Illness (HPI)
+Writing can be a powerful outlet for processing emotions. Would you consider setting aside some time each week to write about your feelings and experiences?,T,Next Steps
+"Yes, I think I’ll try that. ",P,Next Steps
+"Great! As we wrap up today, let’s summarize what you want to focus on for the upcoming week. You’ll continue job searching, enjoy some movie time, practice deep breathing, keep a sleep journal, and start writing again. How does that sound?",T,Next Steps
+That sounds like a solid plan!,P,Next Steps
+"I’m excited to hear about your progress next time. Remember, it’s okay to take things one step at a time.",T,Insignificant
+"Thank you, Ellie. I appreciate your support!",P,Insignificant
+"You’re very welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant

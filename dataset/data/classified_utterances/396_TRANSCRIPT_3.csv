@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been?  ,T,Insignificant
+"Hi, Ellie! I’ve been okay, a bit up and down with everything.  ",P,History of Present Illness (HPI)
+That’s understandable. How did journaling go for you?  ,T,Insignificant
+"It was helpful. I wrote down my feelings, and it felt good to get it out.  ",P,Therapeutic Interventions
+That’s wonderful to hear! What did you find most helpful about the process?  ,T,Insignificant
+Just being able to see my thoughts on paper made them feel more manageable.  ,P,Therapeutic Interventions
+"That’s a great insight. Sometimes, externalizing our thoughts can reduce their power over us. Have you noticed any recurring themes in your writing?  ",T,Insignificant
+Mostly just worry about my mother-in-law and how it’s affecting my wife.  ,P,History of Present Illness (HPI)
+That makes sense. It’s a heavy burden to carry. How has your wife been coping through all of this?  ,T,Insignificant
+"She has her good days and bad days. I try to be there for her, but sometimes I feel helpless.  ",P,History of Present Illness (HPI)
+It’s tough when we want to support loved ones but feel powerless. Have you discussed how you can support each other?  ,T,Insignificant
+"We’ve talked a bit, but I think we could communicate more.  ",P,History of Present Illness (HPI)
+That’s a good observation. Keeping the lines of communication open is essential. How do you feel about scheduling regular check-ins with each other?  ,T,Insignificant
+I think that could help.  ,P,Next Steps
+Great! It could be a time for both of you to express your feelings and needs. How about your back injury? Have you taken any steps towards physical therapy?  ,T,Insignificant
+I scheduled an appointment for next week.  ,P,Current Functional Status
+That’s fantastic! How are you feeling about that?  ,T,Insignificant
+"A bit nervous, but also hopeful.  ",P,History of Present Illness (HPI)
+"It’s natural to feel that way. Remember, it’s a step towards taking care of yourself. Have you thought about any specific goals you’d like to achieve with the therapy?  ",T,Insignificant
+I’d like to regain some strength and be able to hike without pain.  ,P,Next Steps
+Those are excellent goals! We can revisit them as you progress. How has your sleep been since practicing the breathing techniques?  ,T,Insignificant
+It’s improved a bit. I’ve been able to fall asleep faster.  ,P,Physiological Observations
+That’s great news! Consistency can lead to better sleep quality. Have you noticed any changes in your mood during the day?  ,T,Insignificant
+"I feel a little more balanced, but I still have moments of anxiety.  ",P,History of Present Illness (HPI)
+"That’s understandable, especially with everything going on. Have you found any specific triggers for that anxiety?  ",T,Insignificant
+Mostly when I think about the future and what might happen.  ,P,History of Present Illness (HPI)
+It’s normal to feel anxious about uncertainty. One technique that might help is grounding exercises. Would you like to try one?  ,T,Insignificant
+"Sure, I’d like that.  ",P,Insignificant
+"Okay, let’s do a quick exercise. Look around the room and name five things you can see.  ",T,Insignificant
+"I see the chair, a plant, a picture on the wall, a book, and the window.  ",P,Insignificant
+"Great! Now, can you name four things you can touch?  ",T,Insignificant
+"The chair, my phone, my shirt, and the table.  ",P,Insignificant
+"Excellent. Now, three things you can hear.  ",T,Insignificant
+"The sound of traffic outside, my breathing, and your voice.  ",P,Insignificant
+Perfect! This exercise can help bring you back to the present moment. Would you like to incorporate this into your routine?  ,T,Insignificant
+"Yes, I think it could help during anxious moments.  ",P,Therapeutic Interventions
+That’s a great plan. Let’s check in on that next time. Is there anything else on your mind today?  ,T,Insignificant
+Just feeling a bit overwhelmed with everything.  ,P,History of Present Illness (HPI)
+That’s understandable. It’s a lot to handle. Remember to take things one step at a time. You’re doing well.  ,T,Insignificant
+"Thanks, Ellie. I appreciate your support.  ",P,Insignificant
+You’re welcome! I’m here for you. Let’s continue to work together on these goals. Take care until next time!  ,T,Insignificant
+Bye!,P,Insignificant

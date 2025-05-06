@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?",T,Insignificant
+"Hi, I’ve been alright, just busy with school and work.",P,Insignificant
+"That’s understandable. Last time, you mentioned feeling under pressure. Have those feelings changed at all?",T,History of Present Illness (HPI)
+"A little bit, I guess. I still feel stressed about work and school, but I’m managing it better.",P,History of Present Illness (HPI)
+That’s good to hear. Can you share what strategies you’ve been using to manage that stress?,T,History of Present Illness (HPI)
+"I’ve been trying to stick to a schedule and make sure I have some time for myself, like working out or listening to music.",P,History of Present Illness (HPI)
+That sounds like a solid plan. How has sticking to a schedule helped you?,T,History of Present Illness (HPI)
+"It helps me feel more organized. When I have a plan, I feel less overwhelmed.",P,History of Present Illness (HPI)
+Excellent! Structure can be really beneficial. Have you found any particular times of day that are more stressful for you?,T,History of Present Illness (HPI)
+"Yeah, mornings are tough. I feel rushed to get everything done before work.",P,History of Present Illness (HPI)
+Mornings can be hectic. Have you considered any techniques to ease your morning routine?,T,History of Present Illness (HPI)
+I’ve thought about waking up a little earlier to give myself more time.,P,History of Present Illness (HPI)
+That’s a great idea! Allowing yourself extra time can really set a positive tone for the day. How do you think you’ll feel if you try that?,T,History of Present Illness (HPI)
+I think I’d feel less anxious and more prepared.,P,History of Present Illness (HPI)
+That sounds promising. Let’s explore how you can implement that change. What time do you usually wake up?,T,History of Present Illness (HPI)
+I usually wake up around 6:30 AM.,P,Insignificant
+"If you woke up at 6:00 AM instead, what would you do with that extra half hour?",T,Insignificant
+"I could stretch, maybe have a light breakfast, and just take my time.",P,Insignificant
+That sounds like a wonderful way to start your day! How do you feel about trying that this week?,T,Next Steps
+I’m willing to give it a shot.,P,Next Steps
+"Great! Now, last time you mentioned that not playing football for a while has affected your mood. Have you had any opportunities to play recently?",T,History of Present Illness (HPI)
+Not really. I’ve been too busy. I miss it a lot.,P,History of Present Illness (HPI)
+"Missing something you enjoy can definitely impact your mood. Would you be open to scheduling some time to play or practice, even if it’s just for a short period?",T,Next Steps
+"Yeah, I think that would help. I need to find a way to fit it into my schedule.",P,Next Steps
+That’s a positive step. Perhaps you could set aside a specific time each week dedicated to football. How does that sound?,T,Next Steps
+That sounds good. I’ll try to make it work.,P,Next Steps
+Awesome. Let’s talk about your parenting. You mentioned it can be challenging. Have there been any recent moments with your son that made you feel proud?,T,History of Present Illness (HPI)
+Yes! He learned to ride his bike without training wheels. I was really proud of him.,P,History of Present Illness (HPI)
+That’s wonderful! How did you support him during that process?,T,History of Present Illness (HPI)
+"I encouraged him a lot, told him he could do it. I think that helped.",P,History of Present Illness (HPI)
+Encouragement is so important! How did that experience make you feel as a parent?,T,History of Present Illness (HPI)
+It felt good. I love seeing him succeed.,P,History of Present Illness (HPI)
+That’s beautiful. It sounds like you’re doing a great job supporting him. What are some other ways you can encourage him in the future?,T,Next Steps
+I could help him with his homework more. He struggles sometimes.,P,Next Steps
+That’s a great idea! Being involved in his education can really boost his confidence. How do you feel about being more present in that area?,T,Next Steps
+I think it’s important. I want him to do well.,P,Next Steps
+That’s a wonderful commitment. Let’s also revisit the topic of sleep. You mentioned that getting a good night’s sleep is hard for you. Have you noticed any changes since our last session?,T,History of Present Illness (HPI)
+Not really. I still struggle to fall asleep.,P,History of Present Illness (HPI)
+Have you tried any techniques to help you wind down before bed?,T,History of Present Illness (HPI)
+"I’ve tried reading, but I usually end up falling asleep with the book in my hands.",P,History of Present Illness (HPI)
+That’s a common challenge! How about establishing a specific bedtime routine? Something relaxing you can do consistently before bed?,T,Next Steps
+I could try that. Maybe some light stretching or listening to calming music.,P,Next Steps
+That sounds perfect! Consistency can help signal to your body that it’s time to wind down. Would you be willing to try that this week?,T,Next Steps
+"Yes, I’ll give it a shot.",P,Next Steps
+Wonderful! It sounds like you have some great goals for the week ahead. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think that covers it for now.",P,Insignificant
+"Great! I look forward to hearing how your week goes. Remember, it’s all about small steps. Take care!",T,Insignificant
+Thank you! See you next time.,P,Insignificant

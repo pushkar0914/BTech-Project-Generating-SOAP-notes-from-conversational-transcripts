@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! It’s great to see you again. How have things been since our last session?,T,Insignificant
+"Hi! I’ve been trying out the mindfulness exercise before bed, and I think it’s helping a bit.",P,History of Present Illness (HPI)
+That’s fantastic to hear! How has it impacted your sleep or your overall stress levels?,T,History of Present Illness (HPI)
+"I’ve noticed I fall asleep a little faster, and I feel less anxious about the day ahead. ",P,History of Present Illness (HPI): Physiological Observations
+That’s a significant improvement! It sounds like you’re making progress. Have you had a chance to start working on your grad school application?,T,Insignificant
+"Yes, I’ve started drafting my personal statement. It’s still a work in progress, but I feel good about it.",P,Current Functional Status
+That’s excellent! What part of the process has felt the most challenging so far?,T,Insignificant
+I think it’s just finding the right words to express my experiences and aspirations. It feels daunting.,P,History of Present Illness (HPI)
+It can be tough to articulate our thoughts and feelings. Would you like to brainstorm some ideas together?,T,Insignificant
+"Sure, I’d appreciate that.",P,Insignificant
+Let’s start with your motivations for pursuing grad school. Why is this important to you?,T,Insignificant
+"Well, I want to deepen my knowledge in physics and contribute to research. I also want to teach at a higher level.",P,History of Present Illness (HPI): Psychosocial History
+Those are great motivations! How about sharing a personal story that illustrates your passion for physics? ,T,Insignificant
+I could talk about my experience in that physics class in high school. ,P,Insignificant
+That sounds like a strong starting point! How did that experience shape your path?,T,Insignificant
+My teacher really inspired me to think critically and explore concepts deeply. It made me realize I wanted to share that passion with others.,P,History of Present Illness (HPI): Psychosocial History
+That’s a powerful narrative. Incorporating that into your personal statement could resonate well with admission committees. How do you feel about that approach?,T,Insignificant
+I like it! It feels authentic and true to my journey.,P,Insignificant
+"Perfect! Remember, authenticity is key. Now, have you considered who you might ask for feedback on your draft?",T,Insignificant
+I was thinking of asking a couple of colleagues who have gone through the process themselves.,P,Current Functional Status
+That’s a great idea! They can provide valuable insights. Are you feeling more comfortable reaching out to them now?,T,Insignificant
+"Yes, I think so. I feel like I have a better grasp on what I want to ask.",P,Current Functional Status
+"That’s wonderful! It’s a sign of growth. How about we role-play that request again, just to reinforce your confidence?",T,Insignificant
+"Sure! “Hey, I’m working on my personal statement for grad school, and I’d love your feedback on it when you have time.”",P,Insignificant
+"That’s a solid approach! You could also add, “I’m looking for specific insights on how I can improve my narrative.” How does that feel?",T,Insignificant
+That feels even better. It gives them a clearer idea of what I need.,P,Insignificant
+"Exactly! You’re doing great. Now, shifting gears again, how has your sleep been since we last spoke?",T,Insignificant
+"It’s been pretty good! I’m still using the mindfulness technique, and I think it’s really helping.",P,History of Present Illness (HPI): Physiological Observations
+That’s excellent to hear! Have you noticed any changes in your mood or energy levels during the day?,T,Insignificant
+I feel more focused and less irritable. It’s a nice change.,P,Physiological Observations
+That’s fantastic! It seems like the mindfulness practice is positively affecting your overall well-being. Is there anything else you’d like to explore today?,T,Insignificant
+I think I’m good for now. I feel more equipped to tackle my application and keep working on my sleep.,P,Current Functional Status
+"I’m glad to hear that! Remember, progress takes time, and you’re doing wonderfully. I look forward to hearing how everything goes in our next session.",T,Insignificant
+Thank you! I appreciate your help.,P,Insignificant
+"You’re welcome! Take care, and see you next time!",T,Insignificant
+Goodbye!,P,Insignificant

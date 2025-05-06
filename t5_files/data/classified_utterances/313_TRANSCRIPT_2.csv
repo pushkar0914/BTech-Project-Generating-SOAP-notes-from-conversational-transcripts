@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s good to see you again. How have things been since our last session?,T,Insignificant
+"Hey, Ellie. Honestly, it’s been a bit of a rollercoaster. I’ve had some good days, but the stress is still there.",P,History of Present Illness (HPI)
+I appreciate your honesty. What do you think has contributed to the good days?,T,Insignificant
+I’ve been trying to stick to my morning routine and the breathing exercises we talked about.,P,History of Present Illness (HPI)
+That’s fantastic to hear! How has that impacted your mood?,T,Insignificant
+"I think it helps a little. I feel more grounded, but it’s still tough when work gets hectic.",P,History of Present Illness (HPI)
+"It sounds like you’re making progress, even if it’s not perfect. What has been the most challenging part of your routine?",T,Insignificant
+"I still forget to do the exercises sometimes, especially when I’m busy.",P,History of Present Illness (HPI)
+That’s understandable. Would it help to make those exercises a non-negotiable part of your morning?,T,Insignificant
+"Yeah, I think so. Maybe I could set a specific time for them.",P,Next Steps
+"That sounds like a solid plan. You could also try pairing it with another habit, like brushing your teeth or drinking your coffee.",T,Next Steps
+I’ll definitely give that a try.,P,Next Steps
+"Great! Now, how about your conversations with your friends? Have you had a chance to talk to them about how you’ve been feeling?",T,Insignificant
+"Yes, I talked to my best friend, and it went surprisingly well. He was really supportive.",P,History of Present Illness (HPI)
+That’s wonderful to hear! How did it feel to open up to him?,T,Insignificant
+"It felt good, actually. I was nervous at first, but it was nice to share what I’ve been going through.",P,History of Present Illness (HPI)
+I’m glad you found it helpful. It can be a relief to share your feelings with someone who understands. Did he offer any advice or insights?,T,Insignificant
+He just reminded me that it’s okay to ask for help and that I’m not alone in this.,P,History of Present Illness (HPI)
+That’s valuable advice. It’s important to remember that everyone struggles at times. How has that perspective shifted your feelings about reaching out?,T,Insignificant
+I think I’m feeling more open to it now. I realize it’s not a burden.,P,History of Present Illness (HPI)
+That’s a positive change! Let’s talk about your goals again. Have you made any progress on researching businesses or networking?,T,Insignificant
+"I started looking into some online resources, and I joined a couple of forums. It feels good to take those steps.",P,Current Functional Status
+That’s excellent! It sounds like you’re making strides toward your dream. How do you feel about the progress you’re making?,T,Insignificant
+"I feel more motivated, actually. It’s nice to have something to focus on outside of work stress.",P,History of Present Illness (HPI)
+That’s wonderful to hear! Focusing on your goals can provide a sense of purpose. Is there anything specific you’d like to explore regarding your business ideas?,T,Insignificant
+I’d like to brainstorm some ideas and maybe figure out what steps I need to take next.,P,Next Steps
+Absolutely! We can outline some actionable steps for you to take. What type of business are you most interested in?,T,Insignificant
+"I’m really interested in starting an online business, maybe something related to fitness or wellness.",P,Next Steps
+That aligns well with your interests! Have you thought about what niche you’d like to focus on within that area?,T,Insignificant
+I’m not entirely sure yet. Maybe something that combines fitness with mental wellness?,P,Next Steps
+"That sounds like a valuable niche, especially given your experiences. You could explore creating content around that theme or even offering coaching services.",T,Next Steps
+That’s a great idea! I hadn’t thought of coaching.,P,Next Steps
+It could be fulfilling to share your journey and help others. Would you like to explore how you could start small with that?,T,Next Steps
+"Yes, I’d love to!",P,Next Steps
+We could brainstorm some content ideas or even consider starting a blog or social media presence to share your insights. ,T,Next Steps
+That sounds doable. I think I could start with social media.,P,Next Steps
+Perfect! Social media can be a powerful platform to connect with others. How do you feel about sharing your experiences there?,T,Insignificant
+"I feel a bit nervous, but I also think it could be really rewarding.",P,History of Present Illness (HPI)
+"It’s completely normal to feel nervous. Remember, you can start small and gradually share more as you feel comfortable.",T,Insignificant
+That makes sense. I’ll keep that in mind.,P,Insignificant
+"Fantastic! For our next session, we can check in on your progress with the exercises, your networking efforts, and how you’re feeling overall.",T,Next Steps
+Sounds good to me. I’m looking forward to it.,P,Insignificant
+"Me too! Keep taking care of yourself, and remember to reach out if you need support.",T,Insignificant
+"Thanks, Ellie. I appreciate everything.",P,Insignificant
+You’re welcome! See you next time!,T,Insignificant

@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's good to see you. How have you been since our last session?  ",T,Insignificant
+"I've been okay, just trying to keep busy with work and everything.  ",P,Insignificant
+"That's good to hear. Last time, you mentioned feeling tired and having trouble sleeping. Have there been any changes in that?  ",T,History of Present Illness (HPI)
+"A little bit, but I still struggle to sleep well. I think it's the cold weather and my situation.  ",P,History of Present Illness (HPI)
+I see. Have you tried any strategies to help improve your sleep?  ,T,History of Present Illness (HPI)
+"I’ve tried to keep a routine, but it’s hard when I’m not in a stable place.  ",P,History of Present Illness (HPI)
+That makes sense. A consistent routine can be tough to maintain. Would you like to explore some additional strategies together?  ,T,Insignificant
+"Sure, I’m open to suggestions.  ",P,Insignificant
+Great! One thing we can try is mindfulness or relaxation exercises before bed. Have you ever practiced mindfulness?  ,T,Therapeutic Interventions
+"No, I haven’t really done that.  ",P,Insignificant
+It can be quite helpful. It involves focusing on your breath and being present in the moment. Would you like to try a brief exercise now?  ,T,Therapeutic Interventions
+"Okay, I can try that.  ",P,Insignificant
+"Alright, let's take a deep breath in through your nose... and out through your mouth. How does that feel?  ",T,Therapeutic Interventions
+It feels nice to slow down for a moment.  ,P,Mental Health Observations
+Good! You can use that technique whenever you feel overwhelmed or before going to sleep.  ,T,Therapeutic Interventions
+I’ll give it a shot.  ,P,Insignificant
+Excellent. You mentioned feeling a bit down sometimes about not starting things sooner. Can you tell me more about that?  ,T,History of Present Illness (HPI)
+"Yeah, I just think about how much I could’ve accomplished if I had started earlier.  ",P,History of Present Illness (HPI)
+It’s common to have those thoughts. How do you typically cope with those feelings?  ,T,Insignificant
+I just try to push through and focus on what I can do now.  ,P,History of Present Illness (HPI)
+That’s a positive approach. Focusing on the present can help alleviate some of that regret. Have you set any new goals for yourself recently?  ,T,Insignificant
+I want to finish my insurance licenses. That’s my main goal right now.  ,P,Presenting Problem / Chief Complaint
+That’s a great goal! What steps are you taking to achieve it?  ,T,Insignificant
+I’m studying whenever I can and trying to stay organized with my time.  ,P,Current Functional Status
+Fantastic! Staying organized can really help. Is there anything specific you find challenging while studying?  ,T,Insignificant
+"Sometimes I get distracted easily, especially when I’m tired.  ",P,History of Present Illness (HPI)
+That’s understandable. Would it help to set specific times for studying or break it into smaller sections?  ,T,Insignificant
+"Yeah, breaking it down sounds like a good idea.  ",P,Insignificant
+Perfect! You could also reward yourself after completing a study session. What do you think?  ,T,Insignificant
+I like that idea. I could treat myself to a good book or something.  ,P,Insignificant
+"That sounds like a great reward! Speaking of books, what’s the last book you read?  ",T,Insignificant
+I read a mystery novel a few weeks ago. I really enjoyed it.  ,P,Insignificant
+Mysteries can be engaging! What do you enjoy most about reading?  ,T,Insignificant
+It helps me escape and forget about everything for a while.  ,P,Mental Health Observations
+That’s a wonderful benefit of reading. Have you considered joining a book club or discussing books with others?  ,T,Insignificant
+"I haven’t thought about that, but it could be fun.  ",P,Insignificant
+It might be a great way to connect with people too. You mentioned enjoying talking to others.  ,T,Insignificant
+"Yeah, I do like meeting new people.  ",P,Insignificant
+That’s excellent! Building connections can be beneficial for your well-being. What other activities do you enjoy that involve socializing?  ,T,Insignificant
+"I used to go to some community events, but I haven’t in a while.  ",P,Psychosocial History
+Would you be interested in looking for events in your area?  ,T,Insignificant
+"I might, if I can find the time.  ",P,Insignificant
+It could be a nice way to get out and meet people. Let’s set a goal for you to look up some events this week. How does that sound?  ,T,Next Steps
+Sounds good! I’ll look into it.  ,P,Insignificant
+"Great! Before we wrap up, is there anything else on your mind today?  ",T,Insignificant
+"No, I think we covered a lot.  ",P,Insignificant
+I’m glad to hear that. Remember to practice the mindfulness exercise and look into those events. I look forward to hearing about your progress next time!  ,T,Next Steps
+"Thank you, I appreciate it.  ",P,Insignificant
+"You’re welcome! Take care, and see you soon.  ",T,Insignificant
+Bye!  ,P,Insignificant

@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been doing a bit better, I think. I managed to go to the beach again.",P,History of Present Illness (HPI)
+That’s wonderful! How was your experience this time?,T,Insignificant
+It was really nice. I took a walk and just enjoyed the weather. ,P,Insignificant
+That sounds lovely. Did you feel any different being there compared to the first time?,T,Insignificant
+"Yeah, I felt more relaxed. I was able to clear my mind a bit.",P,History of Present Illness (HPI)
+That’s great to hear! It seems like you’re finding some peace in those moments. Have you had a chance to look into any painting classes?,T,Insignificant
+I did! I found a local community center that offers classes. I’m thinking about signing up.,P,Current Functional Status
+That’s exciting! How do you feel about taking that step?,T,Insignificant
+"A little nervous, but mostly excited. I think it could be fun.",P,Psychosocial History
+"It’s completely normal to feel nervous about new experiences. Remember, everyone in the class will be there to learn too. Have you thought about what you’d like to create in the class?",T,Insignificant
+I want to try painting landscapes. I love nature.,P,Psychosocial History
+"That’s a beautiful choice! Nature can be so inspiring. Speaking of inspiration, how has your writing been going?",T,Insignificant
+I’ve started writing again. I wrote about my feelings after my beach trip.,P,History of Present Illness (HPI)
+That’s wonderful! How did that feel for you?,T,Insignificant
+It felt good to get it out. I realized I was holding onto a lot of stress.,P,History of Present Illness (HPI)
+That’s a significant realization. Writing can really help in processing those emotions. Have you noticed any patterns in what you write about?,T,Insignificant
+"Yeah, I keep coming back to my financial worries and feeling lonely.",P,History of Present Illness (HPI)
+It’s important to acknowledge those feelings. Have you thought about how you might address the loneliness when it comes up?,T,Insignificant
+"I guess I could reach out to some old friends, but I’m not sure how they’d respond.",P,Psychosocial History
+"Reaching out can be daunting, but it can also lead to reconnections. Would you like to set a small goal to reach out to one friend this week?",T,Insignificant
+I think I could do that. Maybe just a text to see how they’re doing.,P,Next Steps
+That sounds like a manageable step! It’s all about taking small actions. How do you feel about that plan?,T,Insignificant
+I feel okay about it. I’ll give it a try.,P,Next Steps
+"Great! It’s all about progress, not perfection. Let’s also check in on your job search. Have you had any new developments there?",T,Insignificant
+"I applied to a couple of places, but no responses yet.",P,History of Present Illness (HPI)
+That’s completely normal in job searching. It can take time. Have you considered tailoring your resume for each application?,T,Insignificant
+"No, I haven’t done that. I just used the same one.",P,Current Functional Status
+Customizing your resume can make a big difference. It shows employers you’re genuinely interested in their position. Would you be open to working on that for your next applications?,T,Insignificant
+"Yeah, I can do that. I’ll look into it.",P,Next Steps
+"Wonderful! It sounds like you’re taking proactive steps. As we wrap up today, is there anything else you want to explore or discuss?",T,Insignificant
+I think I’m good. I feel like I have a plan now.,P,Next Steps
+"I’m glad to hear that! Remember, it’s all about taking small steps. I look forward to hearing about your progress in our next session.",T,Insignificant
+Thank you! See you next time!,P,Insignificant
+You’re welcome! Take care and have a great week ahead.,T,Insignificant
+Bye!,P,Insignificant

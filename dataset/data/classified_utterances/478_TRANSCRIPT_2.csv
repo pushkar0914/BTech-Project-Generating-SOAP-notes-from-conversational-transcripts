@@ -1,0 +1,38 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing well, thanks. I actually reached out to a couple of friends!",P,Psychosocial History
+That’s fantastic! How did that go?,T,Insignificant
+It went really well! We’re planning to get together next weekend.,P,Psychosocial History
+That’s wonderful to hear! How does it feel to reconnect with them?,T,Insignificant
+I’m really excited. It’s nice to have something to look forward to.,P,Mental Health Observations
+That’s a great perspective. Social connections can really enhance our well-being. Have you thought about what you’d like to cook for them?,T,Insignificant
+I’m thinking about making a pasta dish and maybe a dessert from the cookbook.,P,Insignificant
+That sounds delicious! It’s great that you’re incorporating something you enjoy into this gathering. How has your mood been leading up to the reunion?,T,Insignificant
+"I’ve been feeling a mix of excitement and a bit of anxiety, but mostly good.",P,Mental Health Observations
+It’s normal to feel both excited and anxious about social gatherings. What strategies are you using to manage that anxiety?,T,Insignificant
+I’ve been practicing my breathing exercises and reminding myself that it’s okay to feel nervous.,P,Therapeutic Interventions
+Those are excellent strategies. It’s important to acknowledge your feelings while also finding ways to cope with them. Have you noticed any changes in your anxiety levels since we started talking about these gatherings?,T,Insignificant
+"I think I’m becoming more comfortable with the idea of socializing. It’s still a bit daunting, but I feel more prepared.",P,Progress Evaluation
+That’s a significant step forward! It shows that you’re working on building your confidence. How do you feel about your progress overall?,T,Insignificant
+"I feel proud. I’ve been pushing myself out of my comfort zone, and it’s nice to see some positive results.",P,Progress Evaluation
+That’s a wonderful realization. It’s important to celebrate those small victories. How about your meditation practice? Have you been able to keep up with it?,T,Insignificant
+"Yes! I’ve been consistent with it, and I think it’s really helping with my sleep.",P,Physiological Observations
+I’m glad to hear that! Consistency can make a big difference. Have you noticed any other benefits from your meditation practice?,T,Insignificant
+I feel calmer during the day and more focused at work.,P,Mental Health Observations
+That’s fantastic! It sounds like you’re finding a good balance between work and self-care. How has work been for you lately?,T,Insignificant
+"It’s been busy, but manageable. I’m trying to stay organized, which helps.",P,Current Functional Status
+Staying organized can alleviate a lot of stress. Are there any particular challenges you’re facing at work right now?,T,Insignificant
+"Just the usual deadlines, but I’m handling them better than I used to.",P,Progress Evaluation
+That’s great to hear! It sounds like you’re developing effective coping strategies. Have you thought about any new goals you might want to set for yourself in the coming weeks?,T,Insignificant
+I’d like to continue being proactive about socializing and maybe try to join a class or group.,P,Next Steps
+That sounds like a wonderful goal! Engaging in new activities can lead to new friendships and experiences. What type of class or group are you considering?,T,Insignificant
+I’m thinking about a cooking class or maybe a hiking group.,P,Next Steps
+Both sound like excellent options! Cooking classes could be a fun way to learn new skills and meet people with similar interests. How do you feel about taking that step?,T,Insignificant
+"I’m a bit nervous, but I think it would be fun to try.",P,Mental Health Observations
+"It’s completely normal to feel nervous about new experiences. Remember, you can take it one step at a time. Would you like to set a timeline for exploring these options?",T,Insignificant
+I’d like to look into classes this week and see what’s available.,P,Next Steps
+"That sounds like a perfect plan! I’m excited to hear about what you find. Before we finish today, is there anything else you’d like to discuss?",T,Insignificant
+"No, I think we’ve covered everything. Thank you for your support!",P,Insignificant
+You’re very welcome! I’m proud of the progress you’re making. I look forward to our next session and hearing about your experiences. Take care until then!,T,Insignificant
+"Thanks, Ellie! Bye!",P,Insignificant
+Goodbye!,T,Insignificant

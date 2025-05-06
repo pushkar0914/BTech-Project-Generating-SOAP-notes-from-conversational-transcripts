@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been feeling a bit better, thank you. I had a family dinner last weekend.",P,History of Present Illness (HPI)
+That’s wonderful to hear! How did it go?,T,Insignificant
+"It was really nice. We had a lot of fun, and I played some jazz music. The grandkids loved it.",P,Insignificant
+That sounds like a lovely evening. It’s great to hear you’re taking steps to connect with your family. Did you feel any different during the dinner compared to previous gatherings?,T,Insignificant
+"I felt more relaxed. I think I was really present this time, and it made a difference.",P,History of Present Illness (HPI)
+That’s fantastic! Being present can really enhance those moments. Did anything surprising happen during the dinner?,T,Insignificant
+"Well, my granddaughter shared her plans for college, and I was really proud of her.",P,Insignificant
+That’s amazing! It must have felt good to hear about her ambitions. How did you respond?,T,Insignificant
+I told her how proud I was and that she could always count on me for support.,P,Insignificant
+"That’s beautiful. Encouraging her like that can strengthen your bond. Speaking of support, how have you been feeling about your past relationships, especially your second marriage, since we last discussed it?",T,History of Present Illness (HPI)
+I’ve been reflecting on it a lot. I realize now that I was really set in my ways.,P,History of Present Illness (HPI)
+It’s insightful that you recognize that. What do you think contributed to that rigidity?,T,Insignificant
+I think it was partly fear. I was afraid of losing control or being vulnerable.,P,History of Present Illness (HPI)
+That’s a common feeling in relationships. Vulnerability can be challenging. How do you feel about vulnerability now?,T,Insignificant
+I think I’m starting to see the value in it. Being vulnerable can lead to deeper connections.,P,History of Present Illness (HPI)
+"Absolutely! It takes courage to be vulnerable, but it can foster intimacy and trust. How do you think you could practice being more vulnerable in your current relationships?",T,Insignificant
+Maybe by sharing more of my feelings with my daughters and granddaughters.,P,Next Steps
+That’s a great idea! Sharing your feelings can help them understand you better and encourage them to open up too. Is there a specific feeling you’d like to share with them?,T,Insignificant
+I think I’d like to share how much I appreciate them and how proud I am of them.,P,Next Steps
+That sounds like a meaningful conversation. Would you like to practice how you might express that?,T,Insignificant
+"Sure, I’d like that.",P,Insignificant
+"You might say something like, “I just want you to know how much you mean to me and how proud I am of everything you’re achieving.” ",T,Insignificant
+That feels good. I can see how that would be meaningful to them.,P,Insignificant
+"Definitely! It’s a heartfelt message. As we continue exploring your past, is there anything specific you’d like to address about your second marriage?",T,Insignificant
+I think I want to understand why I was so resistant to change back then.,P,History of Present Illness (HPI)
+"That’s a valuable exploration. Sometimes, our past experiences shape our responses. Would you like to reflect on any particular events or moments that stand out?",T,Insignificant
+I remember a few arguments we had about wanting different things in life. I just wouldn’t budge.,P,History of Present Illness (HPI)
+That’s a significant realization. It sounds like there were unmet needs on both sides. How do you think you could approach disagreements differently now?,T,Insignificant
+I think I could listen more and try to understand her perspective instead of just defending my own.,P,Next Steps
+That’s a great approach! Listening is key in any relationship. It can help create a space for understanding and compromise. How do you feel about that shift in perspective?,T,Insignificant
+I feel hopeful. I want to learn from my past and do better in the future.,P,History of Present Illness (HPI)
+"That’s a wonderful mindset to have. Growth often comes from reflecting on our experiences. As we wrap up today, do you have any goals for our next session?",T,Insignificant
+I’d like to explore more about how I can improve my communication with my family.,P,Next Steps
+That sounds like a fantastic goal. We can work on some strategies together. Thank you for sharing so openly today. ,T,Insignificant
+"Thank you, Ellie. I appreciate your help.",P,Insignificant
+"It’s my pleasure! Take care, and I look forward to our next session.",T,Insignificant
+"Bye, Ellie.",P,Insignificant

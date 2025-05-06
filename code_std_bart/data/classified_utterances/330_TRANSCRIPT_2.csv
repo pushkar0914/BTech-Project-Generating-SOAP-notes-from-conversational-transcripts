@@ -1,0 +1,38 @@
+﻿Utterance,Type,Classified_Subsection
+Hi Ellie!,P,Insignificant
+Hi! Welcome back! How has your week been?,T,Insignificant
+"It’s been alright. I reached out to my mentor, and we had a good chat.",P,Psychosocial History
+That’s great to hear! How did that conversation go?,T,Insignificant
+They were really encouraging and helped me prioritize my tasks.,P,Psychosocial History
+That sounds very helpful! Did you find it easier to manage your workload after that?,T,Insignificant
+"Yes, I did. I started breaking things down more, and it feels less overwhelming.",P,History of Present Illness (HPI)
+Wonderful! Have you noticed any changes in how you feel about your tasks now?,T,Insignificant
+"I feel more in control, and I’m not as anxious about them.",P,History of Present Illness (HPI)
+That’s a significant improvement! What do you think contributed to that change?,T,Insignificant
+I think having a plan and knowing I have support made a big difference.,P,History of Present Illness (HPI)
+Absolutely! Having a support system and a plan can really help reduce anxiety. Have you been able to reward yourself for completing tasks?,T,Insignificant
+Yes! I treated myself to a nice meal after finishing my project.,P,Current Functional Status
+That’s fantastic! Celebrating your achievements is so important. How did that feel for you?,T,Insignificant
+It felt really good. I think I need to do that more often.,P,Current Functional Status
+I agree! It’s a great way to reinforce positive behavior. Are there any other goals you’d like to set for the upcoming week?,T,Insignificant
+I want to keep working on my time management and maybe start studying for my upcoming exams.,P,Next Steps
+That’s a smart goal! How do you plan to approach studying for those exams?,T,Insignificant
+I think I’ll create a study schedule and stick to it.,P,Next Steps
+Sounds like a solid plan! What will be the first step in creating that schedule?,T,Insignificant
+I’ll look at the syllabus and see what topics I need to cover.,P,Next Steps
+Excellent! How does that feel to you?,T,Insignificant
+"It feels manageable, like I can actually do it.",P,Mental Health Observations
+That’s a great mindset to have. Is there anything that you think might challenge you while studying?,T,Insignificant
+"I sometimes get distracted easily, especially with my phone.",P,History of Present Illness (HPI)
+It’s easy to get distracted in today’s world. Have you thought about strategies to minimize those distractions?,T,Insignificant
+Maybe I could put my phone in another room while I study.,P,Next Steps
+That’s a great idea! Creating a distraction-free environment can really help with focus. Would you like to try that this week?,T,Insignificant
+"Yes, I think I will.",P,Next Steps
+Fantastic! I’m excited to hear how that goes. You’ve made some great progress. How do you feel about your overall mental health right now?,T,Insignificant
+"I feel like I’m in a better place. I’m still working on some things, but I’m more aware of what I need to do.",P,Mental Health Observations
+That’s an important realization! Being aware of what you need is a big step towards improvement. Is there anything specific you’d like to work on in our next session?,T,Insignificant
+I’d like to explore my feelings of being overwhelmed a bit more.,P,Presenting Problem / Chief Complaint
+"Absolutely, we can definitely do that. It’s important to understand the root of those feelings. Is there anything else you’d like to touch on today?",T,Insignificant
+"No, I think that’s it for now. Thank you!",P,Insignificant
+"You’re very welcome! I’m looking forward to our next session. Keep up the great work, and remember to be kind to yourself. Goodbye for now!",T,Insignificant
+Goodbye!,P,Insignificant

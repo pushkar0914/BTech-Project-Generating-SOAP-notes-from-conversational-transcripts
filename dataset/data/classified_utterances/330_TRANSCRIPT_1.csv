@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh> hi,P,Insignificant
+"Hi, welcome back! It’s good to see you again. How have you been since our last session?",T,Insignificant
+"I've been okay, mostly just busy with school.",P,Psychosocial History
+That’s understandable. You mentioned last time that you were feeling a bit overwhelmed. Have those feelings changed at all?,T,History of Present Illness (HPI)
+"Um, I think they’ve been a little better, but I still feel some pressure.",P,History of Present Illness (HPI)
+That’s good to hear there’s been some improvement. Can you tell me what’s been helping you feel a bit better?,T,Insignificant
+I’ve been trying to take more walks and listen to music when I feel stressed.,P,Therapeutic Interventions
+Those are great coping strategies! Have you noticed any specific situations or tasks that trigger those feelings of pressure?,T,History of Present Illness (HPI)
+"Yeah, sometimes it’s just the amount of work I have. I feel like I’m juggling too much.",P,History of Present Illness (HPI)
+"It sounds like you’re managing a lot. Have you considered breaking down your tasks into smaller, more manageable pieces?",T,Insignificant
+"I’ve tried that a bit, but it’s hard to stay motivated sometimes.",P,History of Present Illness (HPI)
+Motivation can be tricky. What do you think would help boost your motivation?,T,Insignificant
+Maybe setting smaller goals or rewards for myself would help.,P,Next Steps
+That sounds like a solid plan. What kind of rewards do you think would motivate you?,T,Insignificant
+Maybe treating myself to a nice meal or a new book after I finish a project.,P,Next Steps
+Those sound like nice rewards! Let’s set a goal for the next week. How about picking one task to break down and reward yourself after completing it?,T,Next Steps
+"Okay, I can do that. I have a project due next week that I can work on.",P,Next Steps
+Perfect! What’s the first step you can take towards that project?,T,Next Steps
+I think I can start by outlining what I need to do.,P,Next Steps
+Great idea! How does that feel to you?,T,Insignificant
+"It feels manageable, I think.",P,Current Functional Status
+"That’s wonderful to hear. Now, you mentioned feeling down at times. Have you noticed any patterns with those feelings?",T,History of Present Illness (HPI)
+Sometimes it happens when I feel like I’m not making progress.,P,History of Present Illness (HPI)
+That makes sense. It’s common to feel down when we perceive a lack of progress. What do you think you can do when those feelings arise?,T,Insignificant
+I guess I could remind myself of what I’ve accomplished so far.,P,Therapeutic Interventions
+Yes! Reflecting on your achievements can be very helpful. Is there a specific achievement you’re proud of that you can think of?,T,Insignificant
+"I completed a tough math course last semester, and I did well.",P,Psychosocial History
+That’s an excellent achievement! Celebrating those successes can help shift your mindset. Would you like to incorporate that into your next week’s goals?,T,Next Steps
+"Sure, I can write it down and remind myself of it.",P,Next Steps
+That sounds like a great idea. How do you feel about sharing that with someone close to you?,T,Insignificant
+I think I could tell my mentor about it.,P,Psychosocial History
+That’s a wonderful choice! Sharing our successes with others can reinforce those positive feelings. Have you spoken to your mentor recently?,T,Insignificant
+Not in the last week. I should reach out.,P,Psychosocial History
+That could be a great way to reconnect. What would you like to discuss with them?,T,Insignificant
+I’d like to talk about my goals and maybe get some advice on managing my workload.,P,Psychosocial History
+That’s a productive conversation to have. How do you think they would respond?,T,Insignificant
+They’re usually really supportive and give good advice.,P,Psychosocial History
+That’s fantastic. It sounds like you have a strong support system. How do you feel about leaning on that support when you’re feeling overwhelmed?,T,Insignificant
+I think I should do that more often. I tend to keep things to myself.,P,Psychosocial History
+"It’s understandable to want to handle things alone, but reaching out can be very beneficial. What’s one thing you can do this week to reach out more?",T,Insignificant
+I can send them a message and see if they’re free to chat.,P,Next Steps
+Excellent! That’s a proactive step. Let’s check in on that next time. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we covered a lot. Thank you.",P,Insignificant
+You’re very welcome! I’m looking forward to hearing how your week goes. Remember to take things one step at a time. Goodbye for now!,T,Insignificant
+Goodbye!,P,Insignificant

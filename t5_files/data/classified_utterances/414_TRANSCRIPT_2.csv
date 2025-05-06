@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+Hey! I’ve been doing okay. I actually tried writing down some ideas like we talked about.,P,History of Present Illness (HPI)
+That’s wonderful! How did that go for you?,T,Insignificant
+It felt really freeing. I just wrote whatever came to mind without worrying about it being perfect.,P,History of Present Illness (HPI)
+That’s a fantastic approach! Did any specific ideas stand out to you during that process?,T,Insignificant
+"Yeah, I came up with a couple of funny sketches. One is about a guy who can’t stop getting stuck in awkward situations.",P,History of Present Illness (HPI)
+That sounds hilarious! Have you thought about how you might develop that further?,T,Insignificant
+I was thinking of maybe writing a script for it. Just to see how it flows.,P,History of Present Illness (HPI)
+That’s a great next step. How do you feel about sharing your ideas with others once you have them written down?,T,Insignificant
+I’m a little nervous about that. What if they don’t find it funny?,P,History of Present Illness (HPI)
+"It’s natural to feel that way, but remember that feedback can be constructive. It can help you grow as a creator. ",T,Insignificant
+True. I guess I just need to remind myself that not everyone will like everything.,P,Insignificant
+"Exactly! It’s part of the creative journey. Speaking of journeys, how has your sleep routine been since we last spoke?",T,Insignificant
+"It’s been a bit better! I started watching lighter shows before bed, and it seems to help.",P,Physiological Observations
+That’s great news! Have you noticed any changes in your dreams or sleep quality?,T,Insignificant
+"Yeah, I’ve had fewer nightmares, which is a relief. I still have some vivid dreams, but they’re not as scary.",P,Physiological Observations
+That’s a significant improvement. It sounds like you’re making progress. Are there any other strategies you’ve been using to help with your sleep?,T,Insignificant
+"I’ve been trying to stick to a bedtime routine, like reading a book before bed instead of jumping straight into a show.",P,Physiological Observations
+That’s a wonderful practice. Establishing a calming routine can signal your body that it’s time to wind down. ,T,Insignificant
+I think it helps. I feel more relaxed when I do it.,P,Physiological Observations
+Excellent! Have you been able to maintain your communication with Ryan?,T,Insignificant
+"We’ve been checking in more regularly, and it’s been nice. We’re still working on rebuilding that trust.",P,Psychosocial History
+That’s a positive development. It’s great to hear you’re taking steps to mend that friendship. How do you feel about the progress you’re making in your relationships overall?,T,Insignificant
+"I feel hopeful. I’m learning to be more open and honest, which is nice.",P,Psychosocial History
+"That’s a valuable lesson. Remember, building strong relationships takes time and effort, but it sounds like you’re on the right path. ",T,Insignificant
+Thanks! I feel like I’m starting to understand that better.,P,Insignificant
+"I’m glad to hear that. As we continue our sessions, is there a specific area you’d like to focus on today?",T,Insignificant
+I think I’d like to talk more about managing my emotions. I still feel overwhelmed sometimes.,P,Presenting Problem / Chief Complaint
+That’s an important topic. Can you identify any specific triggers that lead to those overwhelming feelings?,T,Insignificant
+I think it’s mostly stress from school and my relationships. Sometimes it just feels like too much.,P,History of Present Illness (HPI)
+That’s understandable. Balancing school and personal life can be challenging. Have you tried any coping strategies when you start to feel overwhelmed?,T,Insignificant
+"I’ve been trying to take breaks and step back when I need to, but it doesn’t always work.",P,Current Functional Status
+It’s good that you’re aware of the need for breaks. Would it help to create a list of activities you enjoy that you can turn to when you’re feeling stressed?,T,Insignificant
+That sounds like a good idea. I could use that as a reminder.,P,Insignificant
+Absolutely! It can serve as a quick reference to help you decompress. What activities would you consider adding to that list?,T,Insignificant
+"I like going for walks, watching comedies, or even just doodling.",P,Insignificant
+Those are all great options! Let’s work on creating that list together. It can be a helpful tool for you to have.,T,Insignificant
+I’d like that. It’ll be nice to have something to refer to when I’m feeling overwhelmed.,P,Insignificant
+"Perfect! We can also explore some mindfulness techniques in our next session, which may help you manage those overwhelming feelings in the moment. ",T,Therapeutic Interventions
+That sounds interesting. I’d love to learn more about that.,P,Insignificant
+"Great! We’ll dive into that next time. For now, let’s summarize what you’d like to focus on for the upcoming week.",T,Insignificant
+"I’ll work on my sleep routine, continue writing my sketches, and create that list of activities for stress relief.",P,Next Steps
+That sounds like a solid plan! I’m looking forward to hearing about your progress next session. ,T,Insignificant
+"Me too! Thanks for all your help, Ellie.",P,Insignificant
+"You’re welcome! It’s always a pleasure to chat with you. Take care, and I’ll see you next week!",T,Insignificant
+Bye! See you!,P,Insignificant

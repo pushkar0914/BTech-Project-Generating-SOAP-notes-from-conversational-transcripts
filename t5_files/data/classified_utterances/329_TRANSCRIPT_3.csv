@@ -1,0 +1,29 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s so nice to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi! I’ve been really good. I practiced saying no a couple of times, and it felt great!  ",P,History of Present Illness (HPI)
+That’s amazing! Can you share how those experiences went for you?  ,T,Insignificant
+"Sure! I told a friend I couldn’t make it to an event, and they were really understanding.  ",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re becoming more comfortable with setting boundaries. How did that feel?  ,T,Insignificant
+It felt empowering. I realized I don’t have to please everyone all the time.  ,P,History of Present Illness (HPI)
+Exactly! It’s about prioritizing your own needs. Have you faced any challenges while practicing this?  ,T,Insignificant
+"A little. I still feel guilty sometimes, but I’m working on it.  ",P,History of Present Illness (HPI):Risk Assessment
+"That’s a normal feeling, especially when it’s new. It’s important to remind yourself that your needs are valid. Have you found any strategies to cope with that guilt?  ",T,Insignificant
+"I’ve been trying to reframe my thoughts, like reminding myself that I’m allowed to take care of myself.  ",P,Therapeutic Interventions
+That’s a great strategy! Reframing can help shift your perspective. How has your meditation practice been going?  ,T,Insignificant
+"I tried a new technique called loving-kindness meditation, and I really liked it.  ",P,Therapeutic Interventions
+That’s wonderful! Loving-kindness meditation can be a beautiful way to cultivate compassion. How did it impact you?  ,T,Insignificant
+It made me feel more connected to myself and others. I found it really soothing.  ,P,History of Present Illness (HPI)
+That’s a lovely outcome. Would you like to incorporate this technique more regularly into your routine?  ,T,Insignificant
+"Yes, I think I’ll do that!  ",P,Next Steps
+Great! It sounds like you’re making significant strides in your self-care practices. Is there anything else you’d like to work on today?  ,T,Insignificant
+I want to continue exploring how to balance work and personal life.  ,P,Presenting Problem / Chief Complaint
+Absolutely! What specific challenges are you facing in that area?  ,T,Insignificant
+"I often find myself working late, and it cuts into my personal time.  ",P,History of Present Illness (HPI)
+That’s a common struggle. Have you thought about setting specific work hours for yourself?  ,T,Insignificant
+"I have, but I’m worried about falling behind.  ",P,History of Present Illness (HPI):Risk Assessment
+"It’s understandable to feel that way, but setting boundaries can actually enhance your productivity. How about we set a goal for you to establish a work cut-off time this week?  ",T,Next Steps
+That sounds like a good idea. I’ll try to stop working by 6 PM.  ,P,Next Steps
+Perfect! Let’s discuss how that goes in our next session. Thank you for sharing your progress today.  ,T,Insignificant
+Thank you! I’m feeling more empowered with each session.  ,P,Progress Evaluation
+"I’m so glad to hear that! Take care, and I look forward to seeing you next time!  ",T,Insignificant
+Goodbye!,P,Insignificant

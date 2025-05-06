@@ -1,0 +1,55 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it’s great to see you again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, I guess. Still working through some things.",P,Insignificant
+"That’s understandable. Last time, you mentioned feeling immobilized by your agoraphobia. Have you had any experiences with that since we last spoke?",T,History of Present Illness (HPI)
+"Yes, I tried going for a short walk outside. It was challenging, but I managed to do it.",P,History of Present Illness (HPI)
+That’s a big step! How did it feel to be outside?,T,Insignificant
+It was kind of freeing but also terrifying. I felt really anxious at first.,P,History of Present Illness (HPI)
+It’s completely normal to feel that way. What strategies did you use to cope with the anxiety during your walk?,T,Insignificant
+I practiced some deep breathing exercises before I left. I also reminded myself that I could turn back if it got too overwhelming.,P,Therapeutic Interventions
+That sounds like a good plan. How effective were those strategies for you?,T,Insignificant
+"They helped somewhat, but I still felt a lot of panic. It’s like my mind is always racing.",P,History of Present Illness (HPI)
+I can see how that would be difficult. Have you noticed any specific thoughts that trigger your panic during these moments?,T,History of Present Illness (HPI)
+"Yes, I often think about what could go wrong, like getting lost or having a panic attack in public.",P,History of Present Illness (HPI)
+Those thoughts can be quite distressing. Would you be open to trying some cognitive restructuring techniques to challenge those thoughts?,T,Therapeutic Interventions
+"Sure, I’m willing to give it a try.",P,Insignificant
+"Great! Let’s start by identifying one of those negative thoughts. For example, if you think, “I’ll get lost,” what evidence do you have to support that thought?",T,Insignificant
+"Well, I mean, I have gotten lost before, but it wasn’t that bad.",P,Insignificant
+And what happened when you got lost? Did you manage to find your way back?,T,Insignificant
+"Yes, I did. I just had to ask someone for directions.",P,Insignificant
+So it sounds like you were able to handle the situation. How could you reframe that thought into something more positive?,T,Insignificant
+"Maybe I could think, “If I get lost, I can ask for help.” ",P,Therapeutic Interventions
+That’s a fantastic reframe! How does that make you feel compared to the original thought?,T,Insignificant
+It feels a bit more manageable. Like I have a plan.,P,Insignificant
+Exactly! Having a plan can reduce anxiety. Would you like to practice this technique a bit more with other thoughts?,T,Insignificant
+"Yes, let’s do that.",P,Insignificant
+"Okay, what’s another thought that comes up for you when you’re feeling anxious about going out?",T,Insignificant
+"I often think, “What if I have a panic attack?”",P,History of Present Illness (HPI)
+Let’s break that down. What evidence do you have that supports that thought?,T,Insignificant
+"I’ve had panic attacks before, and they were really scary.",P,History of Present Illness (HPI)
+That’s valid. But have you also noticed that you’ve survived those panic attacks? ,T,Insignificant
+"Yes, I have. It was awful, but I did get through it.",P,Insignificant
+So how could you reframe that thought?,T,Insignificant
+"I could say, “Even if I have a panic attack, I can manage it.” ",P,Therapeutic Interventions
+That’s a strong reframe! How does that feel?,T,Insignificant
+It feels empowering. Like I’m not completely helpless.,P,Insignificant
+Exactly! Empowerment is key. Do you think you can use this technique when you feel anxious next time?,T,Insignificant
+I think I can try.,P,Insignificant
+That’s great to hear! What other coping strategies have you found helpful recently?,T,Insignificant
+"I’ve been reading a lot more, which helps distract me.",P,Current Functional Status
+That’s wonderful! What have you been reading?,T,Insignificant
+I’ve been diving into some self-help books and some fiction. It helps me escape reality a bit.,P,Current Functional Status
+Escaping into a good book can be very therapeutic. Have you found any particular themes in your reading that resonate with your experiences?,T,Insignificant
+"Yes, actually. I read about characters overcoming fears, and it inspires me to think I can do the same.",P,Current Functional Status
+"That’s a powerful connection! It’s important to remind ourselves that we can overcome our challenges. Have you thought about setting small, achievable goals for yourself based on what you’ve read?",T,Next Steps
+"Yes, I’d like to set a goal to go for a walk every week.",P,Next Steps
+That’s a fantastic goal! How do you plan to approach it?,T,Insignificant
+I think I’ll start with just a few minutes at a time and gradually increase it.,P,Next Steps
+That sounds very reasonable. How will you celebrate your achievements along the way?,T,Insignificant
+Maybe I could treat myself to a nice coffee or a new book.,P,Next Steps
+That’s a lovely idea! Celebrating small victories is important. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now. I feel a bit more hopeful.,P,Insignificant
+"I’m glad to hear that! Remember, it’s all about taking small steps. I’m looking forward to hearing about your progress next time. ",T,Insignificant
+"Thank you, Ellie. I appreciate your help.",P,Insignificant
+You’re welcome! Take care until we meet again.,T,Insignificant
+Bye!,P,Insignificant

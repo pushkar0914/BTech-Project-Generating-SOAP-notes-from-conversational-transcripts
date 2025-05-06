@@ -1,0 +1,57 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How have you been since our last session?,T,Insignificant
+Hi! I’ve been alright. I actually tried putting my phone away before bed like we discussed.,P,History of Present Illness (HPI)
+That’s great to hear! How did it go?,T,Insignificant
+"It was a bit hard at first, but I think it helped me fall asleep faster.",P,Physiological Observations
+That’s a positive outcome! Have you noticed any changes in how you feel during the day?,T,Insignificant
+"I think I feel a little less drained. I’m still tired sometimes, but it’s better.",P,Physiological Observations
+That’s encouraging! Consistency can make a big difference over time. Have you continued with the mindfulness exercises as well?,T,Insignificant
+"Yes, I’ve been doing them in the morning. It helps me start my day on a better note.",P,Current Functional Status
+Wonderful! It sounds like you’re making some meaningful changes. Have you faced any challenges with these new routines?,T,Insignificant
+"Sometimes I forget to do the mindfulness. Life gets busy, and I skip it.",P,History of Present Illness (HPI)
+That’s understandable. It might help to set a reminder for yourself. Would you like to brainstorm ways to make it easier to remember?,T,Insignificant
+"Yeah, maybe I could set an alarm or something.",P,Insignificant
+"That could work well. You could also try linking it to another habit, like having your morning coffee or breakfast. ",T,Insignificant
+That’s a good idea! I’ll try that.,P,Insignificant
+"Excellent! Now, how did your communication with your mom go after our last session?",T,Insignificant
+"It went better! I used the approach we practiced, and it felt good to express my thoughts.",P,Progress Evaluation
+I’m glad to hear that! How did your mom respond?,T,Insignificant
+"She listened, and we had a decent conversation. We still disagreed, but it was less tense.",P,Current Functional Status
+"That’s a big step forward! It’s important to have those open lines of communication, even if you don’t agree on everything. ",T,Insignificant
+"Yeah, I feel like it’s a start.",P,Insignificant
+Absolutely! What would you like to focus on today? ,T,Insignificant
+I’ve been thinking about my ambitions again. I still feel stuck.,P,Presenting Problem / Chief Complaint
+It’s common to feel that way at times. What specific ambitions are you feeling stuck about?,T,Insignificant
+"I want to pursue something more fulfilling, but I’m not sure what that is.",P,Presenting Problem / Chief Complaint
+Exploring your passions can be a journey. Have you thought about what makes you feel fulfilled?,T,Insignificant
+"I love helping people, but I don’t know how to turn that into a career.",P,Presenting Problem / Chief Complaint
+That’s a valuable insight. Have you considered volunteering or getting involved in community work to explore that passion further?,T,Insignificant
+"I haven’t, but that could be a good idea. ",P,Insignificant
+It could give you a chance to see what you enjoy and what you might want to pursue further. Would you like to set a goal around that?,T,Insignificant
+"Yeah, I could look for local opportunities and see what’s available.",P,Next Steps
+That sounds like a great plan! Let’s set a timeline for that. How about aiming to find one opportunity by our next session?,T,Next Steps
+"Okay, I can do that.",P,Next Steps
+Great! I’m looking forward to hearing about what you find. Is there anything else on your mind today?,T,Insignificant
+I’ve been feeling a bit anxious about the future. ,P,Presenting Problem / Chief Complaint
+It’s normal to feel anxious about the unknown. Can you tell me more about what specifically is causing that anxiety?,T,Insignificant
+I guess it’s just the uncertainty about my career and life direction. ,P,History of Present Illness (HPI)
+That’s understandable. Sometimes focusing on what you can control can help. Would you like to explore some coping strategies for anxiety together?,T,Insignificant
+"Yes, I’d like that.",P,Insignificant
+"One technique is to challenge negative thoughts. When you notice anxious thoughts, try to ask yourself if they are based on facts or assumptions. ",T,Therapeutic Interventions
+That sounds helpful. I tend to jump to the worst-case scenario.,P,History of Present Illness (HPI)
+That’s a common tendency. Remember to look for evidence that contradicts those thoughts. Would you like to practice this technique now?,T,Therapeutic Interventions
+"Sure, let’s do it.",P,Insignificant
+Great! What’s a recent anxious thought you’ve had?,T,Insignificant
+I was worried that I’d never find a job that makes me happy.,P,History of Present Illness (HPI)
+"Okay, let’s break that down. What evidence do you have that supports that thought?",T,Insignificant
+"Well, I haven’t found anything yet.",P,History of Present Illness (HPI)
+And what evidence do you have that contradicts that thought?,T,Insignificant
+"I guess I have taken steps to look for opportunities, and I’ve learned new things.",P,Progress Evaluation
+"Exactly! You’re actively working towards your goals, which is a positive step. How does reframing that thought feel?",T,Insignificant
+It feels a bit lighter. I guess I’m not completely stuck.,P,Progress Evaluation
+"You’re making progress, and that’s important to recognize. Keep practicing this technique, and it can help reduce your anxiety over time.",T,Therapeutic Interventions
+I will. Thank you for this.,P,Insignificant
+"You’re welcome! I’m proud of the work you’re doing. Let’s check in on your goals next time, and we can continue to explore your ambitions.",T,Next Steps
+Sounds good! See you next time.,P,Insignificant
+Take care!,T,Insignificant
+Bye!,P,Insignificant

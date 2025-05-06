@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s nice to see you. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I've been okay, I guess. Still feeling a bit tired and unmotivated.",P,Physiological Observations
+I’m glad you came in today. Have you had a chance to reflect on our last conversation about your feelings of depression?,T,Insignificant
+"Yeah, I’ve thought about it a bit. It’s just hard to shake off that feeling, you know?",P,History of Present Illness (HPI)
+I understand. You mentioned that you felt more at ease and confident after therapy before. What do you think has changed since then?,T,Insignificant
+"I think I just got overwhelmed again. The little things started piling up, and it feels heavy.",P,History of Present Illness (HPI)
+That sounds tough. Can you share what specific things have been overwhelming for you lately?,T,Insignificant
+"Just work stuff, or the lack of it, really. I feel stuck and it’s frustrating. ",P,History of Present Illness (HPI)
+It sounds like your job situation is a significant source of stress. Have you considered any steps to address that?,T,Insignificant
+"I’ve thought about looking for new jobs, but I just can’t find the energy to do it.",P,History of Present Illness (HPI)
+"It’s understandable to feel drained, especially with everything else going on. What do you think would help you find the motivation to start job hunting?",T,Insignificant
+Maybe if I had a clearer idea of what I want. I feel lost.,P,History of Present Illness (HPI)
+That’s a good insight. Would it be helpful to explore what your ideal job looks like? ,T,Insignificant
+"Yeah, I think so. I want something creative, but I also want it to be stable.",P,History of Present Illness (HPI)
+That’s a great starting point. What creative aspects are most important to you in a job?,T,Insignificant
+"I want to be able to express myself, maybe through writing or film. Something that allows me to tell stories.",P,History of Present Illness (HPI)
+Storytelling is a powerful way to connect with others. Have you considered any projects or outlets where you could start practicing that?,T,Insignificant
+"I used to write a lot, but I haven’t in a while. I guess I could start again.",P,History of Present Illness (HPI)
+That sounds like a wonderful idea! Writing could also be a therapeutic outlet for you. How do you feel about setting a goal to write something once a week?,T,Therapeutic Interventions
+That feels manageable. I think I could do that.,P,Next Steps
+Great! It could help you regain some motivation and clarity. How about we check in on that next session?,T,Next Steps
+"Sure, I’d like that.",P,Insignificant
+"Wonderful! Now, let’s talk about your feelings of tiredness and sluggishness. Have you noticed any patterns or triggers for those feelings?",T,Insignificant
+I think it’s when I’m not doing much or when I’m just stuck at home. ,P,History of Present Illness (HPI)
+It sounds like being active or engaged helps combat those feelings. Would you be open to trying some small daily activities to break that cycle?,T,Therapeutic Interventions
+"Yeah, I could try that. Maybe going for a walk or doing yoga more regularly.",P,Next Steps
+That’s a great plan! How about setting a goal to do one of those activities several times a week?,T,Next Steps
+"Okay, I can aim for three times a week.",P,Next Steps
+Perfect! We’ll check in on that as well. Is there anything else you want to discuss today?,T,Insignificant
+I think that covers it for now. ,P,Insignificant
+"Alright, thank you for sharing. I look forward to hearing about your writing and activities next time. Take care!",T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant

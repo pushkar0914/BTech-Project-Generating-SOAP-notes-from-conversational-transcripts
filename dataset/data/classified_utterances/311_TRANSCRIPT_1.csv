@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's nice to see you. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I've been okay, I guess. A bit up and down.",P,History of Present Illness (HPI)
+I'm glad to hear you're here. Can you tell me more about what’s been up and down for you?,T,Insignificant
+"Well, I've had some good days, but there are moments when I feel really low again.",P,History of Present Illness (HPI)
+That’s understandable. What do you think triggers those low moments?,T,Insignificant
+"Sometimes it’s just little things, like hearing a noise at night or feeling overwhelmed with everything.",P,History of Present Illness (HPI)
+It sounds like those disturbances can impact your mood significantly. Have you noticed any patterns?,T,Insignificant
+"Yeah, I think when I'm tired, everything feels worse. Like I can't handle anything.",P,Physiological Observations
+Sleep seems to be a recurring issue for you. Have you tried any strategies since our last talk to improve your sleep?,T,Insignificant
+"I’ve been trying to go to bed earlier, but I still wake up a lot.",P,Physiological Observations
+Have you thought about creating a bedtime routine that might help you relax before sleeping?,T,Insignificant
+I haven’t really tried that. I usually just go to bed and hope for the best.,P,Therapeutic Interventions
+That’s a common approach. Maybe we can explore some relaxation techniques together that you could incorporate into a routine?,T,Therapeutic Interventions
+"Sure, I’d be open to that.",P,Insignificant
+Great! One technique could be mindfulness meditation. It can help calm your mind before bed. Would you like to try that?,T,Therapeutic Interventions
+I can try it. I’ve heard about it but never really done it.,P,Insignificant
+"It’s simple. You can start with just a few minutes a day, focusing on your breath and letting your thoughts drift. Would you like me to guide you through a short practice right now?",T,Insignificant
+"Okay, that sounds nice.",P,Insignificant
+"Alright, let’s take a moment. Close your eyes if you’re comfortable. Take a deep breath in… and out. Focus on the sensation of your breath. ",T,Insignificant
+*breathes deeply* ,P,Insignificant
+"Good. If your mind wanders, gently bring your focus back to your breath. How does that feel so far?",T,Insignificant
+It feels calming. I didn’t realize how much I needed to just breathe.,P,Therapeutic Interventions
+That’s wonderful to hear. Mindfulness can be a valuable tool. How do you think you could incorporate this into your nightly routine?,T,Insignificant
+I could set aside a few minutes before bed to do this. It might help me unwind.,P,Therapeutic Interventions
+"Absolutely! It can also help with the anxiety you mentioned feeling at times. Speaking of anxiety, have you experienced any moments of anxiety recently?",T,Insignificant
+"Yes, actually. I had an argument with my neighbor last week.",P,History of Present Illness (HPI)
+I’m sorry to hear that. What happened?,T,Insignificant
+"They were being loud again, and I just snapped. I yelled at them.",P,History of Present Illness (HPI)
+It sounds frustrating. How did you feel after the argument?,T,Insignificant
+"I felt bad. I don’t like being confrontational, but they push my buttons.",P,Psychosocial History
+That’s understandable. How do you usually cope after such incidents?,T,Insignificant
+"I usually just try to avoid them more, but it makes me feel isolated.",P,Psychosocial History
+"It’s a tough balance, wanting to avoid conflict but also feeling alone. Have you thought about ways to address the situation differently next time?",T,Insignificant
+Maybe I could talk to them calmly instead of yelling. I just get so frustrated.,P,Therapeutic Interventions
+That’s a great insight! Practicing assertive communication could help. Would you like to role-play how that conversation might go?,T,Therapeutic Interventions
+"Sure, that could be helpful.",P,Insignificant
+"Alright, let’s imagine you’re approaching your neighbor. How would you start the conversation?",T,Insignificant
+"I’d say something like, “Hey, can we talk? I’ve been feeling overwhelmed by the noise.”",P,Therapeutic Interventions
+That’s a good start! It’s direct but not aggressive. How do you think they might respond?,T,Insignificant
+They might get defensive. They usually do.,P,Psychosocial History
+"That’s possible. If they do, how can you remain calm and stick to your feelings?",T,Insignificant
+I guess I could just keep repeating how their noise affects me without blaming them.,P,Therapeutic Interventions
+Exactly! Focusing on your feelings rather than accusations can help keep the conversation constructive. How do you feel about giving that a try?,T,Insignificant
+I feel a bit more confident about it now. Thanks!,P,Insignificant
+"You’re welcome! Remember, it’s a process. How about we check in on this next time?",T,Insignificant
+Sounds good. I’ll try to practice the mindfulness and the conversation.,P,Next Steps
+Perfect! I look forward to hearing how it goes. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think that’s it for now.",P,Insignificant
+"Alright! Thank you for sharing today. Take care of yourself, and I’ll see you next time.",T,Insignificant
+"Thank you, Ellie. See you!",P,Insignificant

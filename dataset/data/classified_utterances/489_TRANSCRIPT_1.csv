@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I’ve been doing pretty well, thanks for asking.",P,Insignificant
+"That’s good to hear. Last time, you mentioned you were happy most of the time. Have there been any moments since then that stood out to you?",T,Insignificant
+"Actually, yes! I went to a really great concert last weekend. The energy was amazing.",P,History of Present Illness (HPI)
+That sounds wonderful! What did you enjoy most about it?,T,Insignificant
+Just being surrounded by people who love the same music. It felt really uplifting.,P,History of Present Illness (HPI)
+Music seems to play a significant role in your life. How does it make you feel overall?,T,Insignificant
+"It’s like therapy for me. I can express myself through it, and it helps me relax.",P,History of Present Illness (HPI)
+That’s a powerful connection. Have you had any moments recently where music helped you through a tough time?,T,Insignificant
+"Hmm, I think so. There was a day I felt a bit stressed about work, and I put on some of my favorite songs. It really shifted my mood.",P,History of Present Illness (HPI)
+That’s a great coping strategy. It sounds like you’re aware of what helps you. Have you been able to use that strategy more often?,T,Insignificant
+"Yes, I’ve been trying to incorporate music into my daily routine, especially when I feel overwhelmed.",P,Current Functional Status
+That’s fantastic! It’s important to have those tools. You also mentioned playing golf and swimming. Have you had the chance to engage in those activities?,T,Insignificant
+I played golf last weekend too! It was a nice way to unwind.,P,Current Functional Status
+How did that feel for you?,T,Insignificant
+It felt refreshing. Being outdoors really helps clear my mind.,P,Current Functional Status
+It sounds like you have a good balance of activities that support your well-being. Are there any challenges you’ve faced recently?,T,Insignificant
+I’ve been a bit stressed about some upcoming projects at work. It feels like there’s a lot on my plate.,P,History of Present Illness (HPI)
+That’s understandable. How do you typically manage that stress?,T,Insignificant
+"I try to break things down into smaller tasks, but sometimes it feels overwhelming.",P,Current Functional Status
+Breaking things down is a great strategy. Have you considered setting specific time blocks for each task?,T,Insignificant
+I haven’t really done that. I usually just tackle things as they come.,P,Current Functional Status
+It might be worth trying. Setting aside dedicated time for each project could help you feel more in control. How do you think you would feel about implementing that?,T,Insignificant
+I think it could help. I like the idea of having a clear plan.,P,Next Steps
+Great! Let’s set that as a goal for the week. We can check in on how it worked for you next time. ,T,Next Steps
+Sounds good! ,P,Insignificant
+You also mentioned your family last time. Have you had any recent interactions with them?,T,Insignificant
+"Yes, I visited my parents last weekend. It was nice to catch up.",P,History of Present Illness (HPI)
+That’s wonderful. How did that go?,T,Insignificant
+"We had a great time. We talked about everything, and it felt good to connect.",P,History of Present Illness (HPI)
+It’s nice to have that support. Do you feel comfortable expressing your feelings with them?,T,Insignificant
+"Yes, I do. It’s always been an open relationship.",P,Psychosocial History
+That’s a blessing. It’s important to have that kind of support system. Is there anything specific you’d like to work on in our future sessions?,T,Insignificant
+Maybe exploring more coping strategies for stress and anxiety. I think it could be beneficial.,P,Next Steps
+Absolutely! We can focus on that. Would you be open to trying some mindfulness exercises in our next session?,T,Next Steps
+"Yes, I’d like that!",P,Next Steps
+Perfect! I’ll prepare some techniques for us to explore. Is there anything else on your mind today?,T,Insignificant
+"No, I think that covers it for now.",P,Insignificant
+Alright! Thank you for sharing today. I look forward to hearing about your week and how the new strategies work for you. ,T,Insignificant
+"Thank you, Ellie! I appreciate it.",P,Insignificant
+"Take care, and see you next time!",T,Insignificant
+Bye!,P,Insignificant

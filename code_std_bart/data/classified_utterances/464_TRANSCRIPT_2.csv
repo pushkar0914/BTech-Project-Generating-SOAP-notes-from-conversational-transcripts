@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>  ,P,Insignificant
+Hi! It’s nice to see you again. How did that conversation with your family go?  ,T,Insignificant
+Hey! It went better than I expected.  ,P,Insignificant
+That’s great to hear! What did they say?  ,T,Insignificant
+"They told me they appreciate my help and support, but they also mentioned a few areas where I could do more.  ",P,History of Present Illness (HPI)
+That sounds constructive. How did you feel hearing their feedback?  ,T,Insignificant
+"I felt relieved, honestly. I was worried they’d be more critical.  ",P,History of Present Illness (HPI)
+It’s wonderful that you felt relief. Did you take any specific steps based on their feedback?  ,T,Insignificant
+"Yeah, I’ve been trying to spend more quality time with them, like having dinner together.  ",P,Current Functional Status
+That’s a lovely way to connect! How has that been for you?  ,T,Insignificant
+It’s been nice. We’ve had some good conversations.  ,P,Current Functional Status
+That’s fantastic! Have you noticed any changes in your family dynamics?  ,T,Insignificant
+"Yeah, it feels more open now. We’re talking about things we used to avoid.  ",P,History of Present Illness (HPI)
+That’s a significant step forward. How does that make you feel?  ,T,Insignificant
+It makes me feel more connected to them.  ,P,History of Present Illness (HPI)
+Excellent! Are there any challenges you’re currently facing in maintaining that connection?  ,T,Insignificant
+Sometimes I still feel anxious about bringing up deeper topics.  ,P,History of Present Illness (HPI):Risk Assessment
+That’s understandable. Would you like to explore some strategies for approaching those conversations?  ,T,Insignificant
+"Yeah, that would help.  ",P,Insignificant
+"One approach is to use “I” statements. For example, “I feel anxious when we don’t talk about our feelings.” Would you like to practice?  ",T,Therapeutic Interventions
+"Sure! Um, I feel anxious when we don’t talk about our feelings.  ",P,Therapeutic Interventions
+That’s a great start! How do you think your family would respond to that?  ,T,Insignificant
+"They’d probably be understanding, but I worry they might not know how to respond.  ",P,Risk Assessment
+That’s a valid concern. Would it help to express that too?  ,T,Insignificant
+"Yeah, I could say I just want to create a safe space for us to talk.  ",P,Therapeutic Interventions
+Exactly! Creating that safe space is key. Do you feel ready to try that in your next family conversation?  ,T,Insignificant
+I think so.  ,P,Insignificant
+Wonderful! Is there anything else you’d like to discuss today?  ,T,Insignificant
+I’ve been feeling a bit down lately.  ,P,History of Present Illness (HPI)
+I’m sorry to hear that. Can you pinpoint what might be contributing to those feelings?  ,T,Insignificant
+I think it’s a mix of stress from work and just feeling a bit lost about my art.  ,P,History of Present Illness (HPI)
+That sounds tough. Have you been able to paint during this time?  ,T,Insignificant
+Not as much as I’d like. I feel like I’m in a creative rut.  ,P,History of Present Illness (HPI)
+Creative ruts can be frustrating. Would you like to brainstorm some ways to reignite your creativity?  ,T,Insignificant
+"Yeah, I’d appreciate that.  ",P,Insignificant
+"One idea is to set small, achievable goals for your art. For example, you could try painting for just ten minutes a day.  ",T,Therapeutic Interventions
+That sounds doable.  ,P,Insignificant
+Another approach is to explore new mediums or styles. Have you ever tried mixed media?  ,T,Therapeutic Interventions
+"No, I haven’t. That could be fun!  ",P,Insignificant
+It can be a great way to break out of a rut. You could combine painting with collage or photography.  ,T,Therapeutic Interventions
+I like that idea!  ,P,Insignificant
+Fantastic! How about setting a goal to try a mixed media piece by our next session?  ,T,Next Steps
+I’ll definitely do that!  ,P,Next Steps
+Great! Is there anything else you want to cover before we finish up?  ,T,Insignificant
+"No, I think I’m good.  ",P,Insignificant
+"Alright, thank you for sharing your thoughts today. I’m looking forward to hearing about your mixed media project!  ",T,Insignificant
+Thanks! I appreciate your help.  ,P,Insignificant
+"You’re welcome! Take care, and see you next time!  ",T,Insignificant
+Bye!  ,P,Insignificant
+Bye!,T,Insignificant

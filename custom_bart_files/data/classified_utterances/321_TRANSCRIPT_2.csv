@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi! I’ve been okay. I made an effort to spend time with my granddaughter, and it was nice.",P,Psychosocial History
+That’s wonderful to hear! What did you do together?,T,Insignificant
+"We went to the zoo, and she loved it. It was fun to see her excitement.",P,Psychosocial History
+That sounds like a fantastic experience! How did you feel during and after the visit?,T,Insignificant
+I felt really happy. It was a nice distraction from everything else.,P,History of Present Illness (HPI)
+"That’s great! It’s important to have those moments of joy. Have you been able to incorporate any self-care activities, like reading or watching movies?",T,Insignificant
+"Yes! I set aside some time last weekend to watch a movie, and it felt good to relax.",P,Current Functional Status
+That’s fantastic! It’s great to hear you’re making time for yourself. How did that impact your mood?,T,Insignificant
+I felt lighter afterward. It was nice to escape into a different world for a bit.,P,History of Present Illness (HPI)
+That’s the power of self-care. It can help recharge your emotional batteries. Have you continued practicing any mindfulness techniques?,T,Insignificant
+"I tried it a few more times, and it’s getting easier to focus. ",P,Progress Evaluation
+"That’s excellent progress! Remember, it’s all about practice. Is there anything that still feels challenging?",T,Insignificant
+"I still struggle with sleep. I wake up a lot, and it’s frustrating.",P,History of Present Illness (HPI)
+"Sleep can be tricky, especially when there’s a lot on your mind. Have you tried any new strategies for improving your sleep?",T,Insignificant
+"I’ve been trying to limit screen time before bed, but it’s hard to stick to.",P,Current Functional Status
+That’s a great step! It can also help to establish a calming bedtime routine. Would you like to brainstorm some ideas together?,T,Insignificant
+Sure! What do you suggest?,P,Insignificant
+"You could try reading a book, listening to calming music, or even doing some gentle stretches before bed. ",T,Therapeutic Interventions
+Those sound good. I like the idea of stretching.,P,Insignificant
+Great! Stretching can help release tension in your body. Would you like to commit to trying that this week?,T,Insignificant
+"Yes, I can do that.",P,Next Steps
+Wonderful! Let’s check in on your feelings regarding your daughter. How has that been since our last talk?,T,Insignificant
+I finally talked to her about my feelings. She was really understanding.,P,Psychosocial History
+That’s a big step! How did it feel to share your feelings with her?,T,Insignificant
+It felt relieving. I think it helped strengthen our connection.,P,History of Present Illness (HPI)
+That’s fantastic! Communication can really make a difference in relationships. Have you noticed any changes in how you both interact since then?,T,Insignificant
+"Yes, we’ve been more open with each other. It feels good.",P,History of Present Illness (HPI)
+I’m so happy to hear that. Building that trust is essential. Is there anything else you’d like to work on today?,T,Insignificant
+I think I want to focus on my feelings of depression. Sometimes I feel overwhelmed.,P,Presenting Problem / Chief Complaint
+That’s valid. It’s important to acknowledge those feelings. What do you think triggers those feelings of overwhelm?,T,Insignificant
+I think it’s a mix of worrying about my daughter and feeling stuck in my own life.,P,History of Present Illness (HPI)
+That makes sense. It’s tough to carry both of those burdens. Have you found any coping mechanisms that help when you start feeling overwhelmed?,T,Insignificant
+"Sometimes talking to friends helps, but I haven’t done that much lately.",P,History of Present Illness (HPI)
+Reaching out to friends can be really beneficial. Would you like to set a goal to connect with a friend this week?,T,Next Steps
+"Yes, I think that would help.",P,Next Steps
+Great! It could be a simple phone call or even a coffee date. Just something to connect with someone who supports you.,T,Next Steps
+I’ll try to do that.,P,Next Steps
+"Excellent! Remember, you’re not alone in this. You have support around you. ",T,Insignificant
+Thank you for reminding me.,P,Insignificant
+"You’re welcome. I think we’ve made some great progress today. Let’s recap: you’ll practice mindfulness, incorporate stretching into your bedtime routine, spend time with your granddaughter, and reach out to a friend.",T,Next Steps
+Sounds good to me!,P,Insignificant
+I’m excited to hear about your experiences in our next session. Take care of yourself!,T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Bye!,T,Insignificant

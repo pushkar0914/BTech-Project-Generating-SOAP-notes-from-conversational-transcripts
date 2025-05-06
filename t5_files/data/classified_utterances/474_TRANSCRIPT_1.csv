@@ -1,0 +1,58 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?  ,T,Insignificant
+"I've been okay, I guess. Just trying to adjust to the new job.  ",P,History of Present Illness (HPI)
+That’s good to hear! How has the transition been for you?  ,T,Insignificant
+"It’s definitely different. I feel a bit out of my element, but I think it’s getting better.  ",P,History of Present Illness (HPI)
+What specifically has felt different?  ,T,Insignificant
+"Well, the pace is faster, and I feel like I need to prove myself more.  ",P,History of Present Illness (HPI)
+That’s understandable. Starting a new job can be stressful. Have you found any strategies to cope with that stress?  ,T,Insignificant
+I’ve been trying to take breaks and go for walks during lunch. It helps clear my head.  ,P,Therapeutic Interventions
+That sounds like a great idea! How do you feel after those walks?  ,T,Insignificant
+Much better! It’s like I can breathe again and focus.  ,P,Physiological Observations
+Excellent! It seems like you’re being proactive about managing your stress. Have you felt any anxiety about fitting in with your new coworkers?  ,T,Insignificant
+"A little, yeah. I’m worried they might think I’m not good enough.  ",P,Risk Assessment
+That’s a common concern. What do you think might help you feel more confident in those interactions?  ,T,Insignificant
+Maybe just reminding myself that everyone was new once.  ,P,Therapeutic Interventions
+Absolutely! That perspective can be really helpful. Have you been able to connect with anyone at work?  ,T,Insignificant
+"A couple of people have been friendly, which is nice.  ",P,Psychosocial History
+That’s great! Building those connections can help ease the transition. Have you had any moments where you felt particularly proud of yourself at work?  ,T,Insignificant
+Yes! I actually contributed to a project and got some positive feedback from my boss.  ,P,Progress Evaluation
+That’s wonderful! Celebrating those small victories is important. How did that make you feel?  ,T,Insignificant
+"It felt really good. Like, maybe I do belong here after all.  ",P,History of Present Illness (HPI)
+That’s a powerful realization. Have you noticed any changes in your mood since starting the job?  ,T,Insignificant
+"I think I’m a bit more tired, but overall, I feel motivated.  ",P,Mental Health Observations
+Good to hear! How are you managing your sleep with this new schedule?  ,T,Insignificant
+"I’m trying to stick to a routine, but some nights it’s still hard to fall asleep.  ",P,Physiological Observations
+What do you think is causing the difficulty?  ,T,Insignificant
+I think my mind races with thoughts about work sometimes.  ,P,History of Present Illness (HPI)
+Have you tried any relaxation techniques before bed?  ,T,Insignificant
+"I’ve been listening to calming music, which helps a bit.  ",P,Therapeutic Interventions
+That’s a good start! Would you be open to trying a mindfulness exercise together today?  ,T,Insignificant
+"Sure, I’d like that.  ",P,Insignificant
+Great! Let’s take a moment to focus on your breath. Inhale deeply through your nose… and exhale slowly through your mouth.  ,T,Insignificant
+<inhales and exhales>  ,P,Insignificant
+"As you breathe, try to let go of any tension you’re holding in your body.  ",T,Insignificant
+"Okay, I’m trying.  ",P,Insignificant
+"Good. Just focus on the rhythm of your breath. If thoughts come up, acknowledge them and let them pass like clouds in the sky.  ",T,Insignificant
+I can do that.  ,P,Insignificant
+How does that feel for you?  ,T,Insignificant
+It feels nice. I can feel myself relaxing a bit.  ,P,Mental Health Observations
+Wonderful! This can be a helpful tool for when you’re feeling anxious. Would you like to set a goal for practicing this technique at home?  ,T,Insignificant
+"Yeah, maybe I can do it every night before bed.  ",P,Next Steps
+That sounds like a solid plan. Let’s check in about it next time. Is there anything else on your mind today?  ,T,Insignificant
+I guess I’m just still processing everything from the last session.  ,P,Insignificant
+That’s perfectly okay! It’s a lot to reflect on. Are there any specific memories or feelings that have come up for you?  ,T,Insignificant
+I’ve been thinking about my family and how we don’t talk as often as I’d like.  ,P,Psychosocial History
+Family dynamics can be complex. What do you wish was different in those relationships?  ,T,Insignificant
+I just wish we were closer and communicated more regularly.  ,P,Psychosocial History
+Would you be open to exploring ways to improve those connections?  ,T,Insignificant
+"Yes, I think I’d like that.  ",P,Insignificant
+Great! We can brainstorm some ideas for reaching out and building those relationships.  ,T,Next Steps
+That sounds good.  ,P,Insignificant
+I’m glad! Let’s make that a goal for our next session. How does that sound?  ,T,Next Steps
+Sounds perfect.  ,P,Insignificant
+"Excellent. Remember to practice your breathing exercise, and I look forward to hearing about your progress next time.  ",T,Next Steps
+"Thanks, Ellie!  ",P,Insignificant
+"You’re welcome! Take care, and see you soon!  ",T,Insignificant
+Bye!  ,P,Insignificant

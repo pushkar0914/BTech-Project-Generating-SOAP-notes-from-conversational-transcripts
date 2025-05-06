@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s good to see you again. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. Just trying to keep things together.",P,Psychosocial History
+"I’m glad to hear you're holding up. Last time, we talked about some of the challenges you face with anger and trust issues. Have you had any situations come up where you felt those emotions?",T,History of Present Illness (HPI)
+"Yes, actually. I had an argument with a neighbor. They were playing loud music late at night, and I just lost it.",P,History of Present Illness (HPI)
+That sounds frustrating. What happened during that argument?,T,Insignificant
+"I yelled at them, told them to turn it down. I felt so angry, like they were disrespecting my space.",P,History of Present Illness (HPI)
+"It sounds like your boundaries were crossed, and that triggered a strong reaction. How did you feel afterward?",T,Insignificant
+"Pretty guilty, honestly. I know I shouldn’t react that way, but it’s like I can’t help it sometimes.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Recognizing those feelings is an important step. Have you had a chance to use any of the coping strategies we discussed last time?,T,Therapeutic Interventions
+"I tried to breathe deeply and count to ten before responding, but in the heat of the moment, I just forgot.",P,Therapeutic Interventions
+That’s completely normal. It can be tough to remember those techniques when emotions are running high. Maybe we can practice some of those strategies together today?,T,Insignificant
+"Sure, that sounds good.",P,Insignificant
+"Great! Let’s start with a simple breathing exercise. Inhale deeply for four counts, hold for four, and exhale for four. Ready? ",T,Insignificant
+"Okay, let’s do it.",P,Insignificant
+"Inhale... 1, 2, 3, 4. Hold... 1, 2, 3, 4. Exhale... 1, 2, 3, 4. How did that feel?",T,Insignificant
+It felt nice. I could feel myself calming down a bit.,P,Physiological Observations
+That’s excellent! Practicing these techniques can help create a pause before you react. Is there a specific situation you’d like to work on together today?,T,Insignificant
+I think I need to work on how to handle disrespect from people without lashing out. ,P,Presenting Problem / Chief Complaint
+That’s a great focus. Let’s explore what “disrespect” means to you. Can you describe a specific situation where you felt disrespected recently?,T,Insignificant
+"Well, there was a time at the store when someone bumped into me and didn’t even apologize. I felt so angry.",P,History of Present Illness (HPI)
+I can see how that would be upsetting. What thoughts went through your mind in that moment?,T,Insignificant
+"I thought, “How rude! Why can’t people just be polite?” I felt like I wanted to say something, but I didn’t.",P,History of Present Illness (HPI)
+"It’s good that you didn’t lash out, but it sounds like that feeling of anger was still there. What do you think could help you express your feelings without getting angry?",T,Insignificant
+"Maybe I could just say something calmly? Like, “Excuse me, that wasn’t very nice.”",P,Therapeutic Interventions
+Absolutely! Expressing yourself calmly can help you feel heard without escalating the situation. Would you like to practice that scenario with me?,T,Insignificant
+"Sure, I can try.",P,Insignificant
+Great! I’ll be the person who bumped into you. Ready? ,T,Insignificant
+Okay.,P,Insignificant
+"*bump* Oh, excuse me!",T,Insignificant
+"Uh, excuse me, that wasn’t very nice.",P,Insignificant
+I’m sorry! I didn’t mean to. ,T,Insignificant
+"See, that felt better than yelling.",P,Insignificant
+Exactly! You communicated your feelings without losing control. How do you feel about that approach?,T,Insignificant
+I feel like I could actually try that next time. ,P,Progress Evaluation
+"That’s a positive step! It’s all about practice and gradually building your confidence. As we move forward, how can we incorporate this into your daily life?",T,Insignificant
+Maybe I could set reminders on my phone to practice these responses when I’m home. ,P,Next Steps
+That’s a great idea! Consistent practice can make it easier to respond calmly in the moment. How do you feel about your progress so far?,T,Insignificant
+I think I’m starting to understand myself better. I just need to keep working on it.,P,Progress Evaluation
+That’s a healthy mindset! Recognizing your triggers is a significant step. Do you have any specific goals for our next session?,T,Insignificant
+I’d like to talk more about my trust issues and how they affect my relationships.,P,Presenting Problem / Chief Complaint
+"Absolutely, we can dive deeper into that. Trust is a big topic, and it’s important for your emotional well-being. Is there anything else you’d like to cover today?",T,Insignificant
+"No, I think that’s it for now. I feel good about what we talked about.",P,Progress Evaluation
+"I’m glad to hear that! Remember, it’s all about progress, not perfection. Keep practicing the techniques we discussed, and I look forward to our next session.",T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant
+Take care! Goodbye!,T,Insignificant

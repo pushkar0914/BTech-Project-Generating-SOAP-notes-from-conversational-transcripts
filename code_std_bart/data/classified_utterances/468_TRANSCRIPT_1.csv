@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey Ellie! I've been okay, just dealing with finals and everything. A bit stressed, but I’m excited to be done with school soon.",P,History of Present Illness (HPI)
+That’s understandable. How did your finals go?,T,Insignificant
+"They went alright, I think. I was really nervous, but I tried to manage my time better this time around.",P,History of Present Illness (HPI)
+That’s great to hear! Managing time can be a huge factor in reducing stress. What strategies did you use?,T,Insignificant
+"I made a study schedule and stuck to it. I also tried to take regular breaks, which helped a lot.",P,History of Present Illness (HPI)
+Sounds like you were proactive! Did you find any particular study techniques that worked better for you?,T,Insignificant
+"Yeah, I found that studying in groups was really helpful. We could quiz each other and explain things that we didn’t understand.",P,History of Present Illness (HPI)
+That’s a great approach! It sounds like you have a good support system with your friends. How did you feel after finishing your finals?,T,Insignificant
+A huge relief! I felt like a weight was lifted off my shoulders. I’m looking forward to my trip to Maui.,P,History of Present Illness (HPI)
+That sounds exciting! What are you most looking forward to about the trip?,T,Insignificant
+"Just relaxing on the beach, spending time with my girlfriend, and exploring the island. It’s been a while since we had a vacation together.",P,History of Present Illness (HPI)
+That sounds wonderful. How do you usually feel when you’re on vacation?,T,Insignificant
+I feel free and happy. It’s nice to escape from everyday life and just enjoy the moment.,P,History of Present Illness (HPI)
+I can imagine! Do you find it easy to stay present during those moments?,T,Insignificant
+"Sometimes, but I can get caught up in thinking about what’s next, like work or school.",P,History of Present Illness (HPI)
+That’s common. Have you ever practiced mindfulness or grounding techniques to help stay present?,T,Insignificant
+I’ve heard about mindfulness but haven’t really tried it. I’m not sure how to start.,P,History of Present Illness (HPI)
+Mindfulness can be as simple as focusing on your breath or observing your surroundings. Would you like to try a brief exercise together?,T,Therapeutic Interventions
+"Sure, that sounds interesting!",P,Insignificant
+"Okay, let’s take a moment. Close your eyes if you’re comfortable. Take a deep breath in… and out. Focus on the sensation of your breath. ",T,Therapeutic Interventions
+<deep breath> ,P,Insignificant
+"Great. Now, notice any sounds around you. What do you hear?",T,Therapeutic Interventions
+I hear the air conditioning and some birds outside.,P,Insignificant
+Perfect. Just allow those sounds to be there without judgment. How does that feel?,T,Therapeutic Interventions
+"It feels calming, actually. I didn’t realize how much I was holding onto.",P,History of Present Illness (HPI)
+That’s a wonderful realization. Mindfulness can help you release tension. Would you be open to practicing it more regularly?,T,Therapeutic Interventions
+"Yeah, I’d like that. I think it could help with my stress.",P,History of Present Illness (HPI)
+Great! Let’s set a goal for you to practice mindfulness for a few minutes each day. How does that sound?,T,Next Steps
+That sounds doable! I’ll give it a try.,P,Next Steps
+"Awesome! Now, you mentioned some stress about work earlier. How is that going?",T,Insignificant
+"It’s alright. I’m still working part-time at the law firm, and it’s been busy. I’m trying to balance that with school.",P,History of Present Illness (HPI)
+Balancing work and school can be challenging. How do you manage your time between the two?,T,Insignificant
+"I try to prioritize my assignments and communicate with my boss about my availability. It’s not always easy, though.",P,History of Present Illness (HPI)
+Communication is key. Have you felt overwhelmed at work lately?,T,History of Present Illness (HPI)
+"A bit, especially when there are tight deadlines. I sometimes feel like I’m juggling too much.",P,History of Present Illness (HPI):Risk Assessment
+It’s important to recognize those feelings. Have you considered any coping strategies when you feel overwhelmed?,T,Insignificant
+"Not really. I usually just push through it, but maybe I should look into some techniques.",P,History of Present Illness (HPI)
+"That’s a good idea! We can explore some coping strategies together. For instance, taking short breaks can really help reset your mind.",T,Therapeutic Interventions
+I can see how that would be helpful. I’ll try to implement that.,P,Next Steps
+Excellent! Let’s also talk about your relationship with your girlfriend. How is that going?,T,Insignificant
+"It’s going really well! We’re excited about the trip, and we’ve been spending a lot of time together lately.",P,Psychosocial History
+That’s great to hear! Have there been any challenges in your relationship that you’d like to address?,T,Insignificant
+"Not really. We communicate well, but sometimes I worry about not being as motivated as I used to be.",P,Psychosocial History
+It’s natural to have fluctuations in motivation. Have you talked to her about how you’re feeling?,T,Insignificant
+I haven’t yet. I don’t want her to worry.,P,Psychosocial History:Risk Assessment
+"It’s understandable to feel that way, but sharing your feelings could strengthen your bond. Would you consider discussing it with her?",T,Next Steps
+"Yeah, I think I should. It might help to talk it out.",P,Next Steps
+Absolutely! Open communication is vital in any relationship. Is there anything specific you’d like to share with her?,T,Insignificant
+Maybe just how I’m feeling a bit lost after graduation and how I want to find my motivation again.,P,History of Present Illness (HPI)
+"That sounds like a good starting point. Remember, it’s okay to be vulnerable. It can lead to deeper connections.",T,Insignificant
+I’ll keep that in mind. Thanks for the encouragement!,P,Insignificant
+"You’re welcome! Before we wrap up, are there any other topics or concerns you’d like to discuss today?",T,Insignificant
+I think we covered a lot! I feel good about setting some goals for mindfulness and communication.,P,Insignificant
+"I’m glad to hear that! For our next session, we can check in on your mindfulness practice and how the conversation with your girlfriend went. Does that sound good?",T,Next Steps
+"Yes, that sounds perfect!",P,Insignificant
+Great! I look forward to hearing about your progress. Take care until then!,T,Insignificant
+"Thank you, Ellie! See you next time!",P,Insignificant

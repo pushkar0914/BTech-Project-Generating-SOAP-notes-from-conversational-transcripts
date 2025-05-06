@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing well, actually. I joined that hiking group, and it was amazing!",P,Psychosocial History
+That’s fantastic! Tell me more about your experience.,T,Insignificant
+"I met some really nice people, and the hike was beautiful. It felt great to be outdoors.",P,Psychosocial History
+That sounds like a wonderful experience! How did it feel to connect with new people?,T,Insignificant
+"It felt refreshing! Everyone was friendly, and we shared some laughs along the way.",P,Psychosocial History
+Laughter is such a great way to bond. Did you feel any anxiety during the hike?,T,History of Present Illness (HPI)
+"Surprisingly, no! I felt pretty relaxed, which is a nice change.",P,History of Present Illness (HPI)
+That’s wonderful progress! It seems like you’re taking positive steps towards managing your anxiety. Have you been able to maintain that feeling of relaxation since then?,T,Progress Evaluation
+"Mostly, yes. I’ve been more mindful about taking breaks and enjoying my surroundings.",P,History of Present Illness (HPI):Progress Evaluation
+Mindfulness can be incredibly beneficial. Have you practiced any specific mindfulness techniques?,T,Insignificant
+I’ve been trying to focus on my breath when I feel overwhelmed. It helps me center myself.,P,Therapeutic Interventions
+That’s a great strategy! Breathing techniques can really ground us in the moment. Have you encountered any challenges since our last session?,T,Insignificant
+"Well, I did have a moment of anxiety when I had to deal with a rude customer at work.",P,History of Present Illness (HPI)
+That sounds tough. How did you handle that situation?,T,Insignificant
+I took a deep breath and tried to stay calm. I didn’t let it get to me as much as before.,P,Progress Evaluation
+That’s a significant improvement! It shows you’re applying what we’ve discussed. What did you do afterward to help yourself feel better?,T,Insignificant
+I took a short walk during my break and listened to music. It helped me reset.,P,Therapeutic Interventions
+That’s a great way to cope! Music and movement can be very therapeutic. Have you continued to reach out to friends as we discussed?,T,Insignificant
+"Yes! I called a friend last week, and we went out for coffee. It was nice to catch up.",P,Psychosocial History
+That’s wonderful! Social connections can really boost our mood. How did you feel during and after your coffee date?,T,Insignificant
+I felt happy and energized. It reminded me how important those connections are.,P,History of Present Illness (HPI)
+It’s great that you’re recognizing the value of social interactions. Are there any other friends you’d like to reconnect with?,T,Insignificant
+I’d like to reach out to another friend I haven’t seen in a while. I think I’ll do that this week.,P,Next Steps
+That sounds like a good plan! Setting that intention can help strengthen your relationships. Is there anything specific you’d like to talk about today?,T,Insignificant
+I want to explore my past relationships a bit more. I’ve been thinking about them a lot lately.,P,Presenting Problem / Chief Complaint
+"Okay, let’s dive into that. What specifically has been on your mind?",T,Insignificant
+"I keep comparing my past partners to what I want now, and it’s making me feel conflicted.",P,History of Present Illness (HPI)
+That’s understandable. It’s common to reflect on past experiences. What qualities from those relationships do you think you want to avoid in the future?,T,Insignificant
+I want to avoid partners who are overly critical or dismissive. I need someone supportive.,P,History of Present Illness (HPI)
+That’s a valuable insight. Recognizing what you don’t want can help you identify what you do want. How do you feel about your ability to set boundaries in future relationships?,T,Insignificant
+I think I’m getting better at it. I’ve learned to speak up for myself more.,P,Progress Evaluation
+That’s a significant step! Setting boundaries is essential for healthy relationships. How do you envision yourself doing that?,T,Insignificant
+I think I’ll be more upfront about my needs and expectations from the start.,P,Next Steps
+That sounds like a solid plan. Being open about your needs can foster better communication. Have you thought about what your ideal first date would look like?,T,Insignificant
+"I imagine something fun and casual, like going to an amusement park or a fun activity.",P,Next Steps
+That sounds exciting! Engaging in activities can help ease any pressure. What do you think would help you feel more confident going into a date?,T,Insignificant
+"Maybe reminding myself to just be myself and enjoy the moment, rather than overthinking everything.",P,Next Steps
+That’s a healthy mindset. Focusing on enjoying the experience can help reduce anxiety. Is there anything else you’d like to explore today?,T,Insignificant
+"I think I’m good for now. I appreciate your help, Ellie.",P,Insignificant
+I’m glad to hear that! I look forward to hearing about your next steps in our next session. Take care!,T,Insignificant
+You too! Bye!,P,Insignificant

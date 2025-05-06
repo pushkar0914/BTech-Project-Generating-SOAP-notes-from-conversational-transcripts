@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi again! How have you been since our last session?,T,Insignificant
+I’ve been good! I actually called my brother like we talked about.,P,History of Present Illness (HPI)
+That’s fantastic! How did it go?,T,Insignificant
+"It went better than I expected. We talked about some old stuff, and it felt good to clear the air.",P,History of Present Illness (HPI)
+That’s wonderful to hear! Did you feel any shifts in your relationship after the conversation?,T,Insignificant
+"Yeah, I think we’re on a better path now. We even made plans to hang out next week.",P,History of Present Illness (HPI)
+That’s a great step forward! How are you feeling about that?,T,Insignificant
+I’m excited but also a little nervous.,P,History of Present Illness (HPI)
+It’s natural to feel that way. What do you think might help ease those nerves?,T,Insignificant
+I guess just reminding myself that we’re working on things together.,P,History of Present Illness (HPI)
+Absolutely. Focusing on the positive aspects of your relationship can help. How about your fitness goals? How has that been going?,T,Insignificant
+I’ve been consistent with going to the gym and watching what I eat. I’ve lost a couple of pounds!,P,Current Functional Status
+That’s fantastic progress! How does that make you feel?,T,Insignificant
+It feels good to see some results. It motivates me to keep going.,P,Mental Health Observations
+That’s great! Have you noticed any changes in your energy levels or mood?,T,Insignificant
+"Yeah, I feel more energetic and less stressed overall.",P,Physiological Observations
+That’s a significant benefit! Have you had a chance to try any mindfulness exercises we discussed?,T,Insignificant
+"I did! I tried a short meditation before bed, and it helped me sleep better.",P,Physiological Observations
+That’s excellent! Consistent practice can really enhance your relaxation and stress management. Would you like to explore more mindfulness techniques today?,T,Insignificant
+"Yes, I’d love that.",P,Insignificant
+"Great! Let’s try a simple breathing exercise together. We’ll focus on taking deep, slow breaths. Ready?",T,Insignificant
+"Yes, let’s do it.",P,Insignificant
+Inhale deeply through your nose… hold for a moment… and exhale slowly through your mouth. Let’s do that a few times.,T,Insignificant
+<breathes> That feels nice.,P,Mental Health Observations
+I’m glad to hear that. How do you feel now after the exercise?,T,Insignificant
+I feel more relaxed and focused.,P,Mental Health Observations
+Wonderful! Incorporating these short exercises into your daily routine can help manage stress. Do you think you could try this daily?,T,Next Steps
+I think I can make time for it.,P,Next Steps
+That’s a great commitment! Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my career a lot lately. I’m not sure if I’m on the right path.,P,Presenting Problem / Chief Complaint
+That’s an important topic. What specifically makes you feel uncertain about your career?,T,Insignificant
+"I just feel like I could be doing more, but I’m not sure what that is.",P,Presenting Problem / Chief Complaint
+It’s common to feel that way. Have you considered exploring new opportunities or further education?,T,Insignificant
+I’ve thought about taking some online courses to enhance my skills.,P,Next Steps
+That sounds like a proactive approach! What kind of skills are you interested in developing?,T,Insignificant
+Maybe leadership or project management. I think that could help me move up in my career.,P,Next Steps
+Those are valuable skills. Would you like to set a goal to research some courses this week?,T,Next Steps
+"Yes, I can do that.",P,Next Steps
+Excellent! We can check in on your findings in our next session. Is there anything else you’d like to add before we wrap up?,T,Insignificant
+"No, I think we covered everything. Thanks for the help today!",P,Insignificant
+"You’re very welcome. I’m proud of the progress you’re making. Take care, and I’ll see you next time!",T,Insignificant
+"See you, Ellie!",P,Insignificant

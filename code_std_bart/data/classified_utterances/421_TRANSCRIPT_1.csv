@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It's great to see you again. How have you been since our last session?",T,Insignificant
+"Hi! I've been okay, I guess. Just the usual ups and downs.",P,Insignificant
+"I understand. Last time, we talked a bit about your feelings of anger and sadness related to your ex-husband. Have those feelings changed at all?",T,History of Present Illness (HPI)
+Not really. I still feel angry when I think about him and the situation. It's hard to let go.,P,History of Present Illness (HPI)
+That makes sense. Anger can be a tough emotion to process. Have you found any coping strategies that help you manage those feelings?,T,History of Present Illness (HPI)
+"I try to distract myself with music or spending time with my son, but it doesn’t always work.",P,History of Present Illness (HPI)
+It sounds like you're doing your best to cope. Would you be open to exploring some additional strategies together?,T,Insignificant
+"Sure, I’m open to that.",P,Insignificant
+Great! One technique that might help is mindfulness. It can help you stay present and reduce feelings of anger. Have you ever tried mindfulness exercises?,T,Therapeutic Interventions
+I’ve heard of it but never really tried it.,P,Insignificant
+Mindfulness can be as simple as focusing on your breath for a few minutes or observing your surroundings without judgment. Would you like to try a short exercise together now?,T,Therapeutic Interventions
+"Okay, I can try that.",P,Insignificant
+"Alright, let's take a moment. Close your eyes if you feel comfortable. Take a deep breath in... and out. Focus on the sensation of your breath. Notice how your body feels with each inhale and exhale.",T,Therapeutic Interventions
+"<pause> Okay, I’m doing that.",P,Insignificant
+"Good. If your mind wanders, gently bring your focus back to your breath. How does it feel to just focus on your breathing?",T,Therapeutic Interventions
+"It's... calming, actually. I can feel my shoulders loosening a bit.",P,Mental Health Observations
+That’s wonderful to hear! Mindfulness can be a good tool for when you feel overwhelmed. How do you think you might incorporate it into your daily routine?,T,Next Steps
+Maybe I could do it for a few minutes in the morning before the kids wake up.,P,Next Steps
+That sounds like a great idea! Starting your day with mindfulness could set a positive tone. Would you be willing to try that this week?,T,Next Steps
+"Yeah, I’ll give it a shot.",P,Next Steps
+"Fantastic! Now, last time you mentioned feeling down and irritable. Have you noticed any patterns or triggers for those feelings since we last spoke?",T,History of Present Illness (HPI)
+I think it mostly happens when I think about my ex or when I’m really tired. ,P,History of Present Illness (HPI)
+Sleep can definitely impact our mood. Have you been able to improve your sleep at all?,T,Physiological Observations
+Not really. I still wake up a lot at night. ,P,Physiological Observations
+Have you considered any changes to your nighttime routine that might help with your sleep?,T,Next Steps
+I haven’t really thought about it. I guess I just go to bed and hope for the best.,P,Insignificant
+That’s understandable. Sometimes small changes can make a big difference. Would you be open to discussing a few strategies for improving your sleep?,T,Next Steps
+"Sure, I’d like that.",P,Insignificant
+"One strategy could be to establish a calming bedtime routine. This might include activities like reading, gentle stretching, or limiting screen time before bed. What do you think?",T,Next Steps
+That sounds doable. I could try reading before bed instead of scrolling on my phone.,P,Next Steps
+That’s a great idea! Reading can be a wonderful way to wind down. Let’s set that as a goal for this week. ,T,Next Steps
+"Okay, I can do that.",P,Next Steps
+"Excellent! Now, you mentioned feeling proud of your son last time. How has he been doing?",T,Insignificant
+"He’s been great! We had a fun weekend together, just hanging out and playing games.",P,Insignificant
+That sounds lovely! It’s wonderful to hear that you’re creating positive experiences together. ,T,Insignificant
+"Yeah, it really helps me forget about everything else for a bit.",P,Insignificant
+That’s important. Finding joy in those moments can be very healing. Have you had any other positive experiences or interactions with friends lately?,T,Insignificant
+I did meet up with a friend for coffee last week. It was nice to talk and just relax.,P,Insignificant
+That’s great! Social support is crucial. How did you feel after your coffee date?,T,Insignificant
+"I felt lighter, like I could breathe again.",P,Mental Health Observations
+That’s wonderful! It sounds like spending time with friends can really uplift your mood. Would you like to plan another social outing this week?,T,Next Steps
+"Yes, I think I need that. I’ll reach out to another friend.",P,Next Steps
+Perfect! Connecting with others can help combat feelings of isolation. ,T,Insignificant
+I agree. ,P,Insignificant
+"Before we wrap up, let’s review the goals we’ve set for this week. You’re going to try mindfulness in the morning, establish a calming bedtime routine, and plan a social outing. How does that sound?",T,Next Steps
+That sounds manageable. I feel like I can do that.,P,Next Steps
+"I believe in you! Remember, it’s about progress, not perfection. ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+You’re very welcome! I look forward to hearing how everything goes in our next session. Take care!,T,Insignificant
+You too! Bye!,P,Insignificant
+Bye! ,T,Insignificant

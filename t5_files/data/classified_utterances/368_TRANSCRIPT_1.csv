@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Uh, hey Ellie. I’ve been okay, I guess. Just trying to keep myself busy, you know?",P,Insignificant
+I understand. You mentioned feeling overwhelmed last time. Have those feelings changed at all?,T,History of Present Illness (HPI)
+"A little. I mean, I’m still worried about my mom, but I’ve been trying to focus more on my workouts and guitar. It helps to distract me.",P,History of Present Illness (HPI)
+That sounds like a positive coping strategy. Have you been able to spend any time with your mom since she’s been in the hospital?,T,Insignificant
+"Not really. I went to visit, but she was asleep. I just... I don’t know. It’s hard seeing her like that.",P,History of Present Illness (HPI)
+It’s completely understandable to feel that way. How does it make you feel when you think about her health?,T,Insignificant
+"I feel anxious. Like, I can’t do anything to help her, and that frustrates me. I just want her to be okay.",P,History of Present Illness (HPI):Risk Assessment
+It’s tough to feel helpless in situations like that. Have you found any specific ways to manage that frustration?,T,Insignificant
+"I try to channel it into my running. When I run, I can just let everything out, you know? But sometimes, it feels like I’m just running away from my problems.",P,History of Present Illness (HPI):Therapeutic Interventions
+"Running can be a great release, but it sounds like you’re also aware that it might not be addressing the underlying feelings. What do you think you might be running from?",T,Insignificant
+"I guess... I’m running from the worry. The fear of losing her, losing my job, and just feeling stuck in life.",P,History of Present Illness (HPI):Risk Assessment
+That’s a lot to carry. It’s okay to acknowledge those fears. What do you think could help you face them instead of running from them?,T,Insignificant
+"I’m not sure. I guess talking about it helps, but I don’t want to dwell on it too much. I just want to be happy again.",P,History of Present Illness (HPI)
+Seeking happiness is a valid goal. What does happiness look like for you right now?,T,Insignificant
+"I think it would be just feeling content, you know? Like, being able to enjoy the little things without all this stress hanging over me.",P,History of Present Illness (HPI)
+That sounds like a wonderful goal. What little things bring you joy at the moment?,T,Insignificant
+"Playing guitar, spending time with my wife, and sometimes just enjoying a good meal. But I feel guilty about enjoying things when there’s so much going on.",P,History of Present Illness (HPI):Psychosocial History
+"It’s common to feel guilty about finding joy in hard times. Remember, it’s okay to allow yourself moments of happiness even when life is challenging. How do you think you could balance those feelings?",T,Insignificant
+"Maybe I could remind myself that it’s okay to be happy. I mean, my mom would want me to be happy, right?",P,Insignificant
+Absolutely. Your mom would likely want you to take care of yourself too. Have you had any conversations with her about how you’re feeling?,T,Insignificant
+Not really. I don’t want to burden her with my worries. I feel like she has enough on her plate.,P,History of Present Illness (HPI):Psychosocial History
+"It’s kind of you to think that way, but sharing your feelings could also strengthen your bond. It might help her feel less alone too. What do you think?",T,Insignificant
+That makes sense. I just don’t want to add to her stress. ,P,Insignificant
+I understand. It’s a delicate balance. Would you be open to trying a small exercise for our next session where you share your feelings with her?,T,Therapeutic Interventions
+"Sure, I can try that. It’ll be hard, but I’ll give it a shot.",P,Next Steps
+That’s a great step forward. We can work on how to express those feelings together. What else would you like to focus on today?,T,Insignificant
+I guess I want to talk about my job search. It’s been really frustrating.,P,Presenting Problem / Chief Complaint
+Of course. What specifically has been frustrating about it?,T,Insignificant
+I just feel like I’m sending out applications into a black hole. I hardly get any responses.,P,History of Present Illness (HPI)
+That must feel discouraging. Have you considered any alternative approaches to your job search?,T,Insignificant
+"I haven’t really thought about it. I just keep applying to the same types of jobs, hoping something will stick.",P,History of Present Illness (HPI)
+It might be helpful to broaden your search or even network with people in your field. Have you reached out to anyone?,T,Insignificant
+Not really. I feel awkward asking for help.,P,History of Present Illness (HPI):Psychosocial History
+"It’s completely normal to feel that way, but many people appreciate being asked for support. Would you consider reaching out to a colleague or friend to explore opportunities?",T,Insignificant
+I could do that. I just need to get over this weird feeling I have about it.,P,Insignificant
+It’s understandable. Maybe you could start with a casual conversation to ease into it. Would you like to set a goal for that before our next session?,T,Next Steps
+"Yeah, that sounds good. I can try to reach out to one person.",P,Next Steps
+Great! I’m proud of you for taking that step. Let’s also check in on your coping strategies. You mentioned you’ve been exercising—how’s that going?,T,Insignificant
+"It’s been good. I feel better after I run, but sometimes I skip it when I’m feeling really low.",P,Current Functional Status:Physiological Observations
+It’s okay to have off days. What do you think you could do to motivate yourself on those tougher days?,T,Insignificant
+"Maybe I could set a smaller goal, like just going for a short walk instead of a full run.",P,Next Steps
+That sounds like a realistic approach. Small victories can lead to bigger ones. How does that sound to you?,T,Insignificant
+"Yeah, I can do that. I think I’ll try to remember that.",P,Next Steps
+Wonderful! It sounds like you’re making great strides in being kinder to yourself. Is there anything else on your mind today?,T,Insignificant
+"No, I think we covered a lot. Thanks for helping me sort through everything.",P,Insignificant
+"You’re very welcome. I’m glad we could talk. Remember, it’s okay to take things one step at a time. I’ll see you next week!",T,Insignificant
+"See you, Ellie. Thanks again!",P,Insignificant

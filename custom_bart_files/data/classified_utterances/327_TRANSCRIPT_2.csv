@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve been doing okay. I actually signed up for that painting class!  ",P,Psychosocial History
+That’s fantastic news! How was your first class?  ,T,Insignificant
+"It was really fun! I met some nice people, and I enjoyed painting.  ",P,Current Functional Status
+That’s wonderful to hear! Making connections while doing something you love is so important.  ,T,Insignificant
+"Yes, and it felt good to express myself creatively.  ",P,History of Present Illness (HPI)
+I’m glad you found that outlet. Have you been able to practice any mindfulness or breathing exercises since we last spoke?  ,T,Insignificant
+"Yes! I’ve been doing them before bed, and it’s helped me sleep better.  ",P,Physiological Observations
+That’s great progress! How has your sleep been since then?  ,T,Insignificant
+I’d say it’s improved to about 75% of the time I sleep well now.  ,P,Physiological Observations
+That’s a significant improvement! What do you think contributed to that change?  ,T,Insignificant
+"I think the combination of reading, breathing exercises, and not using my phone before bed has helped.  ",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re really taking charge of your well-being. Have you had a chance to talk to your daughters about your worries?  ,T,Insignificant
+"Yes, I did! I opened up to them, and it felt really good.  ",P,Psychosocial History
+That’s wonderful to hear! How did they respond?  ,T,Insignificant
+They were really understanding. It made me feel closer to them.  ,P,Psychosocial History
+That’s so important for your relationship. It’s great that you took that step.  ,T,Insignificant
+Thank you! I feel like I’m making progress.  ,P,Progress Evaluation
+You absolutely are! Are there any other areas in your life where you’d like to focus on or improve?  ,T,Insignificant
+I think I’d like to work on my social skills a bit more.  ,P,Presenting Problem / Chief Complaint
+That’s a great goal. What specific aspects of social interaction would you like to improve?  ,T,Insignificant
+Maybe feeling more confident in starting conversations with new people.  ,P,Presenting Problem / Chief Complaint
+Building confidence in social situations can be very beneficial. Would you like to practice some conversational skills here?  ,T,Insignificant
+"Yes, that would help!  ",P,Insignificant
+Great! Let’s role-play a scenario where you meet someone new at the painting class. How would you start a conversation?  ,T,Insignificant
+"Um, I guess I could say something like, “Hi, what do you think of the class so far?”  ",P,Insignificant
+That’s a good opener! It’s friendly and inviting. How do you think the other person might respond?  ,T,Insignificant
+They might say they’re enjoying it or ask me what I like to paint.  ,P,Insignificant
+Exactly! And that opens the door for further conversation. Would you like to try another scenario?  ,T,Insignificant
+Sure!  ,P,Insignificant
+Let’s say you’re at a coffee shop. How would you approach someone sitting alone?  ,T,Insignificant
+"I could say, “Hi, is this seat taken?”  ",P,Insignificant
+Perfect! That’s a simple and effective way to start. How does practicing these scenarios make you feel?  ,T,Insignificant
+"A little nervous, but I think it’s helpful to think about it.  ",P,Insignificant
+"It’s completely normal to feel nervous. The more you practice, the easier it will become.  ",T,Insignificant
+I hope so!  ,P,Insignificant
+Would you like to set a goal to try starting a conversation with someone new this week?  ,T,Insignificant
+"Yes, I’ll try to do that!  ",P,Next Steps
+"Excellent! Remember to be kind to yourself, regardless of the outcome.  ",T,Insignificant
+I will.  ,P,Insignificant
+Is there anything else you’d like to discuss today?  ,T,Insignificant
+I think that covers it for now.  ,P,Insignificant
+Great! I’m proud of the progress you’re making. Let’s check in again next week on your goals and experiences.  ,T,Next Steps
+"Thank you, Ellie!  ",P,Insignificant
+"Take care, and I look forward to hearing all about it!  ",T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!  ,T,Insignificant

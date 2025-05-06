@@ -1,0 +1,66 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh> ,P,Insignificant
+Hi again! It's great to see you. How have you been since our last session? ,T,Insignificant
+"Um, okay, I guess. ",P,Insignificant
+Just okay? Anything in particular on your mind? ,T,Insignificant
+"Just the same stuff, you know, work and money. ",P,History of Present Illness (HPI)
+I understand. Have you had a chance to reflect more on our conversation about your job situation? ,T,Insignificant
+"Yeah, I've been thinking about it. ",P,Insignificant
+What thoughts have come up for you? ,T,Insignificant
+"Well, I still feel stuck. I want to find something better, but I don’t know where to start. ",P,History of Present Illness (HPI)
+That’s a common feeling. What kind of job would you ideally like to pursue? ,T,Insignificant
+"I want to be a personal trainer, but I also want to get into real estate. ",P,History of Present Illness (HPI)
+Have you taken any steps toward that? ,T,Insignificant
+Not really. I’m just busy with my current job. ,P,Current Functional Status
+It sounds like time is a big barrier for you. Would it help to break it down into smaller steps? ,T,Insignificant
+Maybe. ,P,Insignificant
+What if we set a small goal for this week? Something you could do that would get you closer to those dreams? ,T,Insignificant
+Like what? ,P,Insignificant
+Perhaps researching personal training certifications or real estate courses? ,T,Next Steps
+That sounds doable. ,P,Insignificant
+Great! How about we check in on that next session? ,T,Insignificant
+Sure. ,P,Insignificant
+How have you been managing your stress lately? ,T,Insignificant
+"I’ve been working out more, which helps. ",P,History of Present Illness (HPI): Physiological Observations
+That’s excellent! Exercise is a great way to relieve stress. Do you find it helps your mood? ,T,Insignificant
+"Yeah, it does. ",P,History of Present Illness (HPI): Physiological Observations
+Have you noticed any changes in your sleep since we last talked? ,T,Insignificant
+"A little better, but still not great. ",P,Physiological Observations
+What do you think is affecting your sleep? ,T,Insignificant
+I think it’s just my mind racing about work and money. ,P,History of Present Illness (HPI)
+Have you tried any relaxation techniques before bed? ,T,Insignificant
+Not really. ,P,Insignificant
+Would you be open to trying some mindfulness exercises? ,T,Therapeutic Interventions
+I guess I could try. ,P,Insignificant
+Mindfulness can help you calm your mind. How about starting with just five minutes of deep breathing each night? ,T,Therapeutic Interventions
+I can do that. ,P,Insignificant
+Awesome! Let’s make that another goal for this week. ,T,Next Steps
+Okay. ,P,Insignificant
+You mentioned feeling guilty about your financial stability. Can you elaborate on that? ,T,Insignificant
+It just feels like I’m always struggling to keep up. ,P,History of Present Illness (HPI)
+That sounds really tough. Have you thought about creating a budget? ,T,Insignificant
+"I’ve tried, but it’s hard to stick to it. ",P,History of Present Illness (HPI)
+I understand. What do you think makes it hard to stick to a budget? ,T,Insignificant
+I guess I don’t always have control over my spending. ,P,History of Present Illness (HPI)
+That’s a valid concern. Would you be open to setting small spending limits for certain categories? ,T,Next Steps
+"Yeah, I could try that. ",P,Insignificant
+Great! Let’s aim for one category this week. How about dining out? ,T,Next Steps
+That sounds reasonable. ,P,Insignificant
+How do you feel about your relationships with friends and family? ,T,Insignificant
+They’re good. I’ve been hanging out with friends more. ,P,Psychosocial History
+That’s wonderful! Social support is so important. Have you talked to them about your job struggles? ,T,Insignificant
+Not really. I don’t want to burden them. ,P,Psychosocial History
+"It’s understandable to feel that way, but sometimes sharing can help lighten the load. ",T,Insignificant
+Maybe. ,P,Insignificant
+How do you think they would respond if you opened up? ,T,Insignificant
+They’d probably be supportive. ,P,Psychosocial History
+Would you consider reaching out to one friend this week to share how you’ve been feeling? ,T,Next Steps
+I might. ,P,Insignificant
+That sounds like a good step. ,T,Insignificant
+Yeah. ,P,Insignificant
+"As we wrap up, what are the three main goals you want to focus on for next week? ",T,Insignificant
+"Research personal training, try mindfulness breathing, and set a dining out budget. ",P,Next Steps
+Those sound like great goals! I’m looking forward to hearing how it goes. ,T,Insignificant
+Me too. ,P,Insignificant
+"Thanks for sharing today, and I’ll see you next week! ",T,Insignificant
+Bye. ,P,Insignificant

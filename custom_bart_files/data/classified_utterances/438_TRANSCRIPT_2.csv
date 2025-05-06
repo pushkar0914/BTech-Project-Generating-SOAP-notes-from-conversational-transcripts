@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+"hi, ellie",P,Insignificant
+Hi! It’s great to see you again. How have the past few weeks been for you?,T,Insignificant
+"They’ve been a bit of a rollercoaster, to be honest.",P,History of Present Illness (HPI)
+I’m here to listen. What’s been going on?,T,Insignificant
+"Well, I tried the open-ended questions with my son, and it worked a little. He opened up about some school stress, but he still shuts down at times.",P,History of Present Illness (HPI)
+That’s a positive step forward! It’s normal for him to have ups and downs. How did you feel when he shared his stress with you?,T,Insignificant
+"I felt relieved that he talked to me, but also worried about how much pressure he’s under.",P,History of Present Illness (HPI)
+It’s natural to feel that way. Have you discussed ways he can manage that pressure?,T,Insignificant
+"We talked about taking breaks and finding time for fun, but I think he still feels overwhelmed.",P,History of Present Illness (HPI)
+It might be helpful to explore specific activities he enjoys that could serve as a break. Have you asked him what he likes to do for fun?,T,Insignificant
+Not really. I usually just suggest things I think he’d like.,P,Insignificant
+Asking him directly could empower him to take ownership of his leisure time. What do you think?,T,Insignificant
+That makes sense. I’ll try to ask him what he wants to do.,P,Insignificant
+Good! And how about your schoolwork? Did you reach out to classmates for help?,T,Insignificant
+"Yes! I formed a small study group, and it’s been really helpful.",P,Current Functional Status
+That’s fantastic! What have you enjoyed most about studying with others?,T,Insignificant
+I like the different perspectives they bring. It helps me understand things better.,P,Current Functional Status
+That’s a great insight. Collaboration can really enhance learning. Have you noticed any changes in your confidence since joining the group?,T,Insignificant
+Definitely! I feel more supported and less isolated.,P,Mental Health Observations
+That’s wonderful! Feeling supported can make a big difference. Have you had any challenges with the group?,T,Insignificant
+"Just a little bit of scheduling conflicts, but we’re working it out.",P,Current Functional Status
+That’s a common issue. Communication about availability can help. How do you feel about handling those conflicts?,T,Insignificant
+I think I can manage it. I just need to be proactive about it.,P,Current Functional Status
+"Exactly! Being proactive is key. Shifting gears a bit, how are your self-care practices going?",T,Insignificant
+"I’ve been going to the beach more often, and it’s been great. I even started journaling about my feelings.",P,History of Present Illness (HPI)
+That’s fantastic! Journaling can be a powerful tool for self-reflection. How has it felt to write down your thoughts?,T,Insignificant
+It’s been really cathartic. I didn’t realize how much I had bottled up.,P,History of Present Illness (HPI)
+That’s an important realization. Have you found any recurring themes in your journaling?,T,Insignificant
+Mostly just worries about the future and my kids. I also write about my dreams and goals.,P,History of Present Illness (HPI)
+That’s a healthy balance. Acknowledging worries while also focusing on your aspirations can help you move forward. What’s one dream or goal you’d like to focus on next?,T,Insignificant
+I want to explore more about pursuing a career in counseling. I think it could be a good fit for me.,P,History of Present Illness (HPI)
+That’s a wonderful goal! Have you thought about what steps you might take to explore that path?,T,Insignificant
+I’ve considered looking into volunteer opportunities or internships to get some experience.,P,Next Steps
+That’s a great idea! Gaining experience can help you determine if it’s the right fit. Would you feel comfortable researching some local opportunities?,T,Insignificant
+"Yes, I think I could do that. I’ll make a list of places to check out.",P,Next Steps
+"Perfect! I’m excited to hear what you find. Remember, taking small steps can lead to big changes.",T,Insignificant
+"Thanks for the encouragement, Ellie. I really appreciate it.",P,Insignificant
+You’re doing great work! I look forward to hearing about your progress in our next session.,T,Insignificant
+Me too! Bye for now.,P,Insignificant
+Bye! Take care.,T,Insignificant

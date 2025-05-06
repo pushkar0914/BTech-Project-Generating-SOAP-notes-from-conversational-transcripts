@@ -1,0 +1,36 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s so nice to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing better. I started using a planner for my tasks.",P,History of Present Illness (HPI)
+That’s fantastic! How has that been working for you?,T,Insignificant
+It’s really helped me feel more organized. I can see what I need to do each day.,P,History of Present Illness (HPI)
+That’s great to hear! Being organized can significantly reduce stress. Have you noticed any changes in your work performance or your feelings about work?,T,History of Present Illness (HPI)
+"Yes, I feel less overwhelmed, and I’m able to focus more on my tasks.",P,History of Present Illness (HPI)
+That’s wonderful! It sounds like you’re making great strides. How about your interactions with your boss? Have you had a chance to practice assertiveness?,T,Insignificant
+I did! I spoke up during a meeting when he made a belittling comment. I told him it wasn’t fair.,P,History of Present Illness (HPI)
+That’s a huge step! How did he respond?,T,Insignificant
+He seemed surprised but didn’t push back. I felt really proud of myself.,P,History of Present Illness (HPI)
+You should be proud! Standing up for yourself is a significant achievement. How did it feel to assert yourself like that?,T,Insignificant
+It felt empowering. I think I’ll be more confident moving forward.,P,History of Present Illness (HPI)
+That’s fantastic! Confidence can have a ripple effect in various areas of your life. Have you had any other interactions with your coworkers since then?,T,Insignificant
+"Yes, I’ve been trying to engage more with them. It’s nice to feel more connected.",P,History of Present Illness (HPI)
+"That’s wonderful! Building those connections can enhance your work experience. Now, let’s talk about your family. Have you continued to reflect on your parents and the letters you wrote?",T,Insignificant
+"Yes, I think about them often, especially when I’m feeling down. Writing those letters has helped.",P,History of Present Illness (HPI)
+I’m glad to hear that. It’s a healthy way to process your emotions. Have you thought about creating a small ritual to honor their memory?,T,Insignificant
+I have! I’m considering visiting their favorite places when I can.,P,History of Present Illness (HPI)
+"That sounds like a lovely idea. It can be a meaningful way to feel connected to them. As we continue to explore your feelings, have you experienced any moments of sadness recently?",T,Insignificant
+"I have, but it’s more manageable now. I think I’m learning to cope better.",P,History of Present Illness (HPI)
+That’s a positive sign. It’s natural to have ups and downs. How have you been using your coping strategies during those moments?,T,Insignificant
+I’ve been practicing mindfulness and journaling. It helps me process my feelings.,P,History of Present Illness (HPI)
+That’s great! Mindfulness can be especially helpful during tough times. Let’s also talk about your social activities. Have you been able to go out dancing or meet new friends?,T,Insignificant
+Yes! I went to a salsa night last week and had a blast. I met a few new people.,P,Current Functional Status
+That’s wonderful! It sounds like you’re building a supportive network. How do you feel about your social life now compared to when you first moved to L.A.?,T,Insignificant
+I feel much more connected now. I’m glad I pushed myself to socialize.,P,Current Functional Status
+"That’s fantastic progress! As we wrap up today, what goals would you like to focus on for our next session?",T,Insignificant
+I want to keep working on my assertiveness and maybe explore more about my feelings of sadness.,P,Next Steps
+Those are excellent goals. We can delve deeper into those feelings and continue to strengthen your assertiveness skills. Does that sound good to you?,T,Insignificant
+"Yes, I’m looking forward to it.",P,Insignificant
+I’m excited too! Remember to keep practicing your strategies and reach out to your new friends. You’re doing great work here.,T,Insignificant
+"Thank you, Ellie. I really appreciate your support.",P,Insignificant
+"You’re welcome! Have a wonderful week, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

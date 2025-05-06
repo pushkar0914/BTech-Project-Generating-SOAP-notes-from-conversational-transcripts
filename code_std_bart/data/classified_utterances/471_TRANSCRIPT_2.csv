@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>  ,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?  ,T,Insignificant
+"I’ve been okay, working on the meditation and the letter for my brother.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear! How did the letter go?  ,T,Insignificant
+"I wrote it, but I haven’t sent it yet.  ",P,History of Present Illness (HPI)
+That’s alright. Writing it is a big step. How did it feel to express your thoughts on paper?  ,T,Insignificant
+"It felt good, but I’m nervous about sending it.  ",P,History of Present Illness (HPI)
+It’s understandable to feel that way. What are your concerns about sending it?  ,T,Insignificant
+"I’m worried he won’t respond, and that will hurt.  ",P,History of Present Illness (HPI)
+"That’s a valid concern. Sometimes, people need time to process their feelings. Sending the letter could open a door for communication, even if it takes time.  ",T,Insignificant
+I guess that makes sense.  ,P,Insignificant
+Have you thought about how you might feel if he doesn’t respond?  ,T,Insignificant
+I think I’d feel sad but also relieved that I reached out.  ,P,History of Present Illness (HPI)
+"That’s a healthy perspective. It’s about expressing your care, regardless of the outcome. Would you like to set a goal for when you might send it?  ",T,Next Steps
+Maybe by the end of this week?  ,P,Next Steps
+"That sounds like a great plan. Now, how has the meditation been going?  ",T,Insignificant
+"I’ve been doing it most nights, and it’s really helped with my sleep.  ",P,Physiological Observations
+That’s fantastic! It sounds like you’re making progress. Have you noticed any changes in your overall mood?  ,T,Insignificant
+I think I’m feeling a bit more at peace.  ,P,Mental Health Observations
+That’s wonderful to hear. It’s great that you’re finding ways to manage your anxiety. Have you tried any other coping strategies?  ,T,Insignificant
+I’ve been going out for bike rides more often.  ,P,Current Functional Status
+That’s excellent! Exercise can be a great way to boost your mood. How does it feel to be more active?  ,T,Insignificant
+It feels freeing. I love being outdoors.  ,P,Mental Health Observations
+That’s so important. Nature has a way of refreshing our minds. Have you considered any new activities that might combine your love for the outdoors and exercise?  ,T,Insignificant
+I’ve thought about trying kayaking.  ,P,Insignificant
+That sounds like a fun idea! It could be a great way to explore new areas. Would you like to set a goal to try kayaking sometime?  ,T,Next Steps
+"Yes, I think I’ll look into it for next month.  ",P,Next Steps
+"Perfect! Setting those kinds of goals can help keep you motivated. Now, how has your relationship with your friends been?  ",T,Insignificant
+"It’s been okay, but I feel a bit distant from them lately.  ",P,Psychosocial History
+"That’s understandable, especially with everything you’re going through. Have you been able to connect with them?  ",T,Insignificant
+Not really. I’ve been more focused on my own stuff.  ,P,Psychosocial History
+"It’s okay to prioritize yourself, but maintaining those connections can also be beneficial. Would you like to think about ways to reconnect with them?  ",T,Insignificant
+Maybe I could invite them for a bike ride.  ,P,Next Steps
+That’s a great idea! It’s a casual way to spend time together. How do you think they’d respond?  ,T,Insignificant
+I think they’d be excited.  ,P,Insignificant
+"That’s fantastic! It sounds like a good opportunity to strengthen those friendships. As we wrap up, is there anything else you want to discuss today?  ",T,Insignificant
+I think we’ve covered a lot again.  ,P,Insignificant
+I agree! You’ve made some great progress. Remember to send that letter and consider your biking plans. I look forward to hearing how it all goes next time!  ,T,Insignificant
+"Thank you, Ellie.  ",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.  ",T,Insignificant
+Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

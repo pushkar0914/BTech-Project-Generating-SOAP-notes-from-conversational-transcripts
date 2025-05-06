@@ -1,0 +1,36 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it’s Ellie again. How have you been since our last session?",T,Insignificant
+"Hi! I’ve been okay, a bit anxious about the hearing, but I did manage to write down my feelings.",P,Presenting Problem / Chief Complaint
+That’s great to hear! How did the journaling go for you?,T,Insignificant
+It was really helpful. I wrote about my worries and even some positive things that have happened.,P,History of Present Illness (HPI)
+That’s wonderful! Reflecting on the positive can really shift our mindset. What positives did you write about?,T,Insignificant
+I wrote about the small gigs I’ve had and how nice it was to reconnect with an old client.,P,History of Present Illness (HPI)
+"That’s fantastic! It’s important to celebrate those wins, no matter how small. How did reaching out feel?",T,Insignificant
+It felt good! She was really supportive and encouraged me to keep pushing forward.,P,History of Present Illness (HPI)
+That’s so encouraging! It sounds like you’re building a supportive network. Have you thought about any other connections you’d like to make?,T,Insignificant
+I’ve been thinking about reaching out to some local photographers for potential collaborations.,P,History of Present Illness (HPI)
+That’s a brilliant idea! Collaborations can open up new opportunities. ,T,Insignificant
+"Yes, I think it could be a fun way to create something new.",P,Insignificant
+Absolutely! How about your daughters? Have you been able to give them some space as we discussed?,T,Insignificant
+"Yes, I’ve tried to plan some solo activities. I went to an art class and it was amazing!",P,Current Functional Status
+That’s wonderful! How did it feel to engage in something creative?,T,Insignificant
+It was refreshing. I forgot how much I loved painting. It brought back a lot of joy.,P,Current Functional Status
+I’m so glad to hear that! It’s great that you’re rediscovering your creative side. ,T,Insignificant
+"Yes, it feels like I’m reconnecting with myself.",P,History of Present Illness (HPI)
+That’s an important part of healing. How has your anxiety been regarding the disability hearing?,T,Insignificant
+"It’s still there, but I’ve been trying to manage it with meditation and journaling.",P,History of Present Illness (HPI)
+Those are excellent strategies. How do you feel about the upcoming hearing now?,T,Insignificant
+"I’m still nervous, but I feel a bit more prepared. Writing helped me organize my thoughts.",P,History of Present Illness (HPI)
+"That’s a great approach! Remember, it’s okay to feel anxious. How about practicing some positive affirmations leading up to the hearing?",T,Insignificant
+That could be helpful. I’ll try to remind myself of my strengths.,P,Next Steps
+Absolutely! Focusing on your strengths can empower you. What strengths would you like to highlight?,T,Insignificant
+"I’m resilient and creative. Despite everything, I keep pushing forward.",P,History of Present Illness (HPI)
+Those are powerful strengths! Keep reminding yourself of that resilience. ,T,Insignificant
+"Thank you, Ellie. I really appreciate your support.",P,Insignificant
+I’m here for you! Is there anything else you’d like to discuss today?,T,Insignificant
+I think I’m good for now. I’m feeling more hopeful.,P,History of Present Illness (HPI)
+That’s great to hear! Let’s keep building on that hope. ,T,Insignificant
+"Yes, I’m excited to see what comes next.",P,Insignificant
+Me too! Let’s check in again next week. ,T,Insignificant
+Sounds good! Bye for now!,P,Insignificant
+Bye! Take care!,T,Insignificant

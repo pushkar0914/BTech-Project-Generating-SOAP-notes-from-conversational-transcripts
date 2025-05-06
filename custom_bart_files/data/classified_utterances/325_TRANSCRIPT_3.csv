@@ -1,0 +1,36 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you! How have things been since our last session?,T,Insignificant
+Hi! I’ve been pretty good. I sent that email to the conservation organization!,P,Presenting Problem / Chief Complaint
+That’s amazing! How did it feel to send it?,T,Insignificant
+"Honestly, it felt really good. I was nervous, but I’m glad I did it.",P,History of Present Illness (HPI)
+That’s a huge step! Have you heard back from them yet?,T,Insignificant
+"Not yet, but I’m trying to be patient.",P,History of Present Illness (HPI)
+"Patience can be tough, especially when you’re eager to start something new. How are you managing those feelings of waiting?",T,Insignificant
+"I’ve been keeping busy with hiking and reading, so that helps.",P,Psychosocial History
+That’s a great strategy! It’s important to stay engaged while you wait. Have you had a chance to talk with your boyfriend about checking in with each other?,T,Insignificant
+"Yes! We talked about it, and he was really supportive. We agreed to set aside time each week to catch up.",P,Psychosocial History
+That’s wonderful to hear! Open communication can strengthen your relationship. How do you feel after having that conversation?,T,Insignificant
+It felt good to be open with him. I think it’ll help both of us.,P,Psychosocial History
+"Absolutely. It’s a positive step forward. Now, how has your sleep been lately?",T,Insignificant
+"I’ve been sticking to my routine pretty well, and I think I’m sleeping a bit better.",P,Physiological Observations
+That’s great progress! Are you still using the relaxation techniques before bed?,T,Insignificant
+"Yeah, I’m trying to remember to do the deep breathing exercises.",P,Medical and Psychiatric History
+Excellent! It sounds like you’re building some healthy habits. Have you noticed any changes in your mood during the day?,T,Insignificant
+"I think I’m feeling a bit more balanced. I still have some tough moments, but I’m managing them better.",P,History of Present Illness (HPI)
+"That’s a positive sign! It’s all about progress, and it sounds like you’re making strides. Is there anything specific that’s been challenging for you lately?",T,Insignificant
+I’m still worried about finding a job. I feel like I’m just waiting and not knowing what’s next.,P,History of Present Illness (HPI)
+That’s understandable. Job searching can be a lengthy process. Have you thought about any other ways to enhance your skills or experiences while you wait?,T,Insignificant
+I was thinking about taking an online course related to marine biology or conservation.,P,Next Steps
+That’s a fantastic idea! It could help you feel more productive and enhance your resume. Would you like to research some courses together?,T,Insignificant
+"Yes, that would be helpful!",P,Next Steps
+Great! Let’s look into some reputable platforms that offer courses in marine biology or conservation. ,T,Insignificant
+I know there are a few good ones out there.,P,Next Steps
+"Yes, and it could be a great way to connect with others in the field too. How do you feel about that idea?",T,Insignificant
+I feel excited about the possibility. It would give me something to focus on.,P,Next Steps
+Perfect! Let’s set a goal for you to find at least two courses you’re interested in by our next session.,T,Next Steps
+I can do that!,P,Next Steps
+"You’re doing so well. I’m proud of you for taking these steps. Remember, it’s okay to feel uncertain, but you’re actively working toward your goals.",T,Insignificant
+Thank you! I really appreciate your support.,P,Insignificant
+Of course! I’m here for you. Let’s check in again soon and see how everything is progressing.,T,Insignificant
+Sounds good! Bye for now!,P,Insignificant
+Goodbye!,T,Insignificant

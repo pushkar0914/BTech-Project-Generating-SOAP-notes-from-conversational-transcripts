@@ -1,0 +1,31 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been pretty good. I actually wrote my story for the website!",P,Presenting Problem / Chief Complaint
+That’s amazing! How did that process go for you?,T,Insignificant
+"It was a bit emotional, but I felt really good afterward. It was nice to reflect on my journey.",P,History of Present Illness (HPI)
+I’m glad to hear that! Reflecting on your experiences can be therapeutic. How do you feel about sharing that story with others now?,T,Insignificant
+I feel excited! I think it adds a personal touch to my website.,P,Psychosocial History
+Absolutely! Personal stories can resonate deeply with others. Have you had a chance to add any photos to your website yet?,T,Insignificant
+"Yes, I uploaded a few of my favorite nature shots. I think they complement the story well.",P,Psychosocial History
+That sounds wonderful! It must feel rewarding to see your hard work come together. How has the response been from your friends or family about the updates?,T,Insignificant
+They’ve been really supportive! A couple of them even offered to share my website with their networks.,P,Psychosocial History
+That’s fantastic! Building a support network can really help in getting your work noticed. Have you thought about how you might promote your website further?,T,Insignificant
+"I’m thinking about using social media more actively, maybe doing a little campaign to share my work.",P,Psychosocial History
+That sounds like a great idea! Social media can be a powerful tool for reaching a wider audience. How do you feel about creating that campaign?,T,Insignificant
+"I’m a bit nervous about putting myself out there, but I think it’s worth it.",P,Risk Assessment
+"It’s natural to feel nervous, but remember that you’re sharing something you’re passionate about. What would you say to someone else who might feel the same way?",T,Insignificant
+I would tell them to embrace their passion and just go for it!,P,Psychosocial History
+Exactly! Embracing your passion can lead to wonderful opportunities. How can you apply that encouragement to yourself as you move forward?,T,Insignificant
+I guess I should remind myself that it’s okay to take risks and that not everyone will judge me.,P,Risk Assessment
+That’s a healthy mindset! Taking risks can lead to growth and new connections. Is there anything else you’d like to discuss today?,T,Insignificant
+"I’ve been feeling a bit overwhelmed with everything, though. Juggling the website, my finances, and parenting can be a lot.",P,Presenting Problem / Chief Complaint
+It sounds like you have a lot on your plate. How are you managing those feelings of overwhelm?,T,Insignificant
+"I’ve been trying to take breaks and focus on one thing at a time, but it’s still tough.",P,History of Present Illness (HPI)
+It’s great that you’re recognizing the need for breaks. Have you thought about any specific self-care practices you could incorporate into your routine?,T,Insignificant
+I’ve been meaning to get back into meditation. I used to find it really helpful.,P,History of Present Illness (HPI)
+Meditation can be a wonderful way to center yourself. How about setting a goal to practice meditation a few times this week?,T,Insignificant
+That sounds doable. I’ll aim for at least three sessions.,P,Next Steps
+"Perfect! Remember, self-care is essential, especially when you’re managing multiple responsibilities. I’m looking forward to hearing about your experiences next time.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Keep up the great work, and see you next time!",T,Insignificant
+Bye!,P,Insignificant

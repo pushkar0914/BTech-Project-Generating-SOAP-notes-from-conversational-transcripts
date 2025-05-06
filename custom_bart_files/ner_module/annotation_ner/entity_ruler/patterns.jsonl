@@ -1,0 +1,1859 @@
+{"label":"ANXIETY DISORDERS","pattern":"specific phobia"}
+{"label":"ANXIETY DISORDERS","pattern":"Anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"PANIC"}
+{"label":"ANXIETY DISORDERS","pattern":"Social phobiaseparation anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"separation anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"panic disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"SOCIAL ANXIETY"}
+{"label":"ANXIETY DISORDERS","pattern":"panic"}
+{"label":"ANXIETY DISORDERS","pattern":"PHOBIA"}
+{"label":"ANXIETY DISORDERS","pattern":"SOCIAL PHOBIA"}
+{"label":"ANXIETY DISORDERS","pattern":"Panic"}
+{"label":"ANXIETY DISORDERS","pattern":"SEPARATION ANXIETY"}
+{"label":"ANXIETY DISORDERS","pattern":"separation anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"Agoraphobia"}
+{"label":"ANXIETY DISORDERS","pattern":"selective mutism"}
+{"label":"ANXIETY DISORDERS","pattern":"Generalized anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"Generalized anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"AGORAPHOBIA"}
+{"label":"ANXIETY DISORDERS","pattern":"SPECIFIC PHOBIA"}
+{"label":"ANXIETY DISORDERS","pattern":"social anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"social anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"GENERALIZED ANXIETY DISORDER"}
+{"label":"ANXIETY DISORDERS","pattern":"SOCIAL ANXIETY DISORDER"}
+{"label":"ANXIETY DISORDERS","pattern":"Social anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"SELECTIVE MUTISM"}
+{"label":"ANXIETY DISORDERS","pattern":"generalized anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"SOCIAL PHOBIASEPARATION ANXIETY DISORDER"}
+{"label":"ANXIETY DISORDERS","pattern":"PANIC DISORDER"}
+{"label":"ANXIETY DISORDERS","pattern":"social phobiaseparation anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"SEPARATION ANXIETY DISORDER"}
+{"label":"ANXIETY DISORDERS","pattern":"GENERALIZED ANXIETY"}
+{"label":"ANXIETY DISORDERS","pattern":"phobia"}
+{"label":"ANXIETY DISORDERS","pattern":"Separation anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"Social anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"anxiety"}
+{"label":"ANXIETY DISORDERS","pattern":"Panic disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"Selective mutism"}
+{"label":"ANXIETY DISORDERS","pattern":"agoraphobia"}
+{"label":"ANXIETY DISORDERS","pattern":"generalized anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"ANXIETY"}
+{"label":"ANXIETY DISORDERS","pattern":"Social phobia"}
+{"label":"ANXIETY DISORDERS","pattern":"Separation anxiety disorder"}
+{"label":"ANXIETY DISORDERS","pattern":"Phobia"}
+{"label":"ANXIETY DISORDERS","pattern":"social phobia"}
+{"label":"ANXIETY DISORDERS","pattern":"Specific phobia"}
+{"label":"BIPOLAR DISORDERS","pattern":"BIPOLAR"}
+{"label":"BIPOLAR DISORDERS","pattern":"BIPOLAR I DISORDER"}
+{"label":"BIPOLAR DISORDERS","pattern":"Cyclothymia"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar ii disorderbipolar i disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"BIPOLAR II DISORDERBIPOLAR I DISORDER"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar ii disorderbipolar i disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"cyclothymic disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar disorder not otherwise specified"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar I disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"BIPOLAR DISORDER"}
+{"label":"BIPOLAR DISORDERS","pattern":"cyclothymia"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"BIPOLAR DISORDER NOT OTHERWISE SPECIFIED"}
+{"label":"BIPOLAR DISORDERS","pattern":"CYCLOTHYMIA"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar ii disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar I disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar II disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"CYCLOTHYMIC DISORDER"}
+{"label":"BIPOLAR DISORDERS","pattern":"Cyclothymic disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"Cyclothymic Disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar disorder not otherwise specified"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar ii disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar II disorderbipolar i disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar i disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar"}
+{"label":"BIPOLAR DISORDERS","pattern":"bipolar"}
+{"label":"BIPOLAR DISORDERS","pattern":"Bipolar i disorder"}
+{"label":"BIPOLAR DISORDERS","pattern":"BIPOLAR II DISORDER"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"premenstrual dysphoria"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"MAJOR DEPRESSIVE DISORDER (MDD)"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"mdd"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"PREMENSTRUAL DYSPHORIC DISORDER"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"PERSISTENT DEPRESSIVE DISORDER"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Mdd"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Major Depressive Disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"PERSISTENT DEPRESSION"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Major depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"MAJOR DEPRESSIVE DISORDER"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Premenstrual Dysphoria"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Premenstrual dysphoria"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"persistent depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"major depressive disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"TREATMENT-RESISTANT DEPRESSION"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Dysphoria"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"MAJOR DEPRESSION"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Dysthymia"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"DYSTHYMIA"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"DYSPHORIA"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"major depressive disorder (mdd)"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Persistent depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"treatment-resistant depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"major depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"premenstrual dysphoric disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Dysphoriamajor depressive disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"PREMENSTRUAL DYSPHORIA"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Major depressive disorder (MDD)"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Major Depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"dysphoria"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Premenstrual dysphoric disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"DEPRESSION"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Premenstrual Dysphoric Disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Treatment-resistant depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"MDD"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"dysphoriamajor depressive disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"persistent depressive disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Persistent Depression"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Major depressive disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Persistent Depressive Disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Persistent depressive disorder"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"DYSPHORIAMAJOR DEPRESSIVE DISORDER"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"dysthymia"}
+{"label":"DEPRESSIVE DISORDERS","pattern":"Major depressive disorder (mdd)"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"conduct disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"intermittent explosive"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"pyromania"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"DISRUPTIVE MOOD DYSREGULATION DISORDER"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"kleptomania"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Disruptive mood dysregulation"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"INTERMITTENT EXPLOSIVE DISORDER"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Intermittent explosive disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"MOOD DYSREGULATION"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Conduct disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Oppositional defiant"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"CONDUCT DISORDER"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Antisocial personality disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Disruptive mood"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Kleptomania"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Oppositional defiant disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"DISRUPTIVE MOOD"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"OPPOSITIONAL DEFIANT"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"defiant disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"mood dysregulation"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"DISRUPTIVE MOOD DYSREGULATION"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"disruptive mood dysregulation disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"ANTISOCIAL PERSONALITY DISORDER"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"ANTISOCIAL PERSONALITY"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"antisocial personality disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"KLEPTOMANIA"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Mood dysregulation"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Defiant disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"disruptive moodoppositional defiant disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"disruptive mood"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Pyromania"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Intermittent explosive"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"oppositional defiant disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"intermittent explosive disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Antisocial personality"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"disruptive mood dysregulation"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"OPPOSITIONAL DEFIANT DISORDER"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"DISRUPTIVE MOODOPPOSITIONAL DEFIANT DISORDER"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Disruptive mood dysregulation disorder"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"DEFIANT DISORDER"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"PYROMANIA"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"antisocial personality"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"INTERMITTENT EXPLOSIVE"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"oppositional defiant"}
+{"label":"DISRUPTIVE IMPULSE-CONTROL, AND CONDUCT DISORDERS","pattern":"Disruptive moodoppositional defiant disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"depersonalization disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Depersonalization Disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Depersonalization-derealization disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"psychogenic amnesia"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Psychogenic seizures"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"UNSPECIFIED DISSOCIATIVE DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Multiple Personality Disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DEPERSONALIZATION-DEREALIZATION DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"psychogenic non-epileptic seizures"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DEPERSONALIZATION-DEREALIZATIONDISSOCIATIVE IDENTITY DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"dissociative identity disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative neurological symptom disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Depersonalization"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"derealization disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Other specified dissociative disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Depersonalization-derealization"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative fugue"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative identity"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DEREALIZATION DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DEPERSONALIZATION DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"dissociative identity"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"multiple personality disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"PSYCHOGENIC NON-EPILEPTIC SEIZURES"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DISSOCIATIVE IDENTITY DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative Identity"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"depersonalization"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DISSOCIATIVE FUGUE"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Derealization Disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Osdd"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"osdd"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DEREALIZATION"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Psychogenic amnesia"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"other specified dissociative disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Psychogenic non-epileptic seizures"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Multiple personality disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DISSOCIATIVE IDENTITY"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"MULTIPLE PERSONALITY"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Multiple personality"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"psychogenic seizures"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"GANSER SYNDROME"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"dissociative amnesia"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"dissociative neurological symptom disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"MULTIPLE PERSONALITY DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"depersonalization-derealization"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DISSOCIATIVE NEUROLOGICAL SYMPTOM DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"dissociative fugue"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Unspecified dissociative disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"unspecified dissociative disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"multiple personality"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DISSOCIATIVE AMNESIA"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Depersonalization-derealizationdissociative identity disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative identity disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Derealization disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DEPERSONALIZATION"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"derealization"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"PSYCHOGENIC SEIZURES"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"ganser syndrome"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"OTHER SPECIFIED DISSOCIATIVE DISORDER"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Multiple Personality"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative Identity Disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"OSDD"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"depersonalization-derealization disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"PSYCHOGENIC AMNESIA"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Depersonalization disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Derealization"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative amnesia"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"DEPERSONALIZATION-DEREALIZATION"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"depersonalization-derealizationdissociative identity disorder"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Ganser syndrome"}
+{"label":"DISSOCIATIVE DISORDERS","pattern":"Dissociative Amnesia"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Am-1235"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Harmaline"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"5f-3-pyridinoylindole"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Buscaline"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Pti-2"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"MANDY"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"5F-APINACA"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"5F-3-PYRIDINOYLINDOLE"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"AM-1235"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"tetrahydrocannabinol (thc)"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"mandy"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"LEVONANTRADOL"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"buscaline"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"harmaline"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Salvinorin a"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"INDOMETHACIN"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"1-valeryl-d-lysergic acid diethylamide"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"HARMALINE"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"FAB-144"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"PTI-2"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"2C-I"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"adbica"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"THC-O-PHOSPHATE"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"7,N,N-TMT"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"TETRAHYDROCANNABINOL (THC)"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"ADBICA"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"pti-2"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"2c-i"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Jwh-398"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"7,n,n-tmt"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"SALVINORIN A"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Indomethacin"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"JWH-398"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Levonantradol"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"5f-apinaca"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"BUSCALINE"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"4-CAB"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"4-cab"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"jwh-398"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"levonantradol"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"thc-o-phosphate"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"1-VALERYL-D-LYSERGIC ACID DIETHYLAMIDE"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"THC-O-phosphate"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"am-1235"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Mandy"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"TOM"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"urb-597"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"tom"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Adbica"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Tetrahydrocannabinol (thc)"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"5-IODO-2-AMINOINDANE"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Tom"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"URB-597"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"indomethacin"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Thc-o-phosphate"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"fab-144"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"5-iodo-2-aminoindane"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Fab-144"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"salvinorin a"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"1-valeryl-D-lysergic acid diethylamide"}
+{"label":"PSYCHEDELIC DRUGS","pattern":"Urb-597"}
+{"label":"EATING DISORDERS","pattern":"Osfed"}
+{"label":"EATING DISORDERS","pattern":"Restrictive food intake disorder"}
+{"label":"EATING DISORDERS","pattern":"PICA DISORDER"}
+{"label":"EATING DISORDERS","pattern":"binge-eating"}
+{"label":"EATING DISORDERS","pattern":"Binge-Eating Disorder"}
+{"label":"EATING DISORDERS","pattern":"Diabulimia"}
+{"label":"EATING DISORDERS","pattern":"Rumination syndrome"}
+{"label":"EATING DISORDERS","pattern":"Night eating syndrome"}
+{"label":"EATING DISORDERS","pattern":"AVOIDANT FOOD INTAKE DISORDER"}
+{"label":"EATING DISORDERS","pattern":"rumination syndrome"}
+{"label":"EATING DISORDERS","pattern":"anorexia"}
+{"label":"EATING DISORDERS","pattern":"bulimia nervosa"}
+{"label":"EATING DISORDERS","pattern":"BINGE EATING"}
+{"label":"EATING DISORDERS","pattern":"binge-eating disorder"}
+{"label":"EATING DISORDERS","pattern":"RUMINATION SYNDROME"}
+{"label":"EATING DISORDERS","pattern":"orthorexia"}
+{"label":"EATING DISORDERS","pattern":"binge eating"}
+{"label":"EATING DISORDERS","pattern":"rumination"}
+{"label":"EATING DISORDERS","pattern":"Avoidant food intake"}
+{"label":"EATING DISORDERS","pattern":"ORTHOREXIA NERVOSA"}
+{"label":"EATING DISORDERS","pattern":"Rumination"}
+{"label":"EATING DISORDERS","pattern":"Eating disorder"}
+{"label":"EATING DISORDERS","pattern":"avoidant food intake disorder"}
+{"label":"EATING DISORDERS","pattern":"BULIMIA"}
+{"label":"EATING DISORDERS","pattern":"AVOIDANT FOOD INTAKE"}
+{"label":"EATING DISORDERS","pattern":"pica"}
+{"label":"EATING DISORDERS","pattern":"OSFED"}
+{"label":"EATING DISORDERS","pattern":"Binge eating"}
+{"label":"EATING DISORDERS","pattern":"RUMINATION"}
+{"label":"EATING DISORDERS","pattern":"Bulimia nervosa"}
+{"label":"EATING DISORDERS","pattern":"BULIMIA NERVOSA"}
+{"label":"EATING DISORDERS","pattern":"Purging disorder"}
+{"label":"EATING DISORDERS","pattern":"binge-eatingpica disorder"}
+{"label":"EATING DISORDERS","pattern":"purging"}
+{"label":"EATING DISORDERS","pattern":"EATING DISORDER"}
+{"label":"EATING DISORDERS","pattern":"restrictive food intake"}
+{"label":"EATING DISORDERS","pattern":"Binge-eating disorder"}
+{"label":"EATING DISORDERS","pattern":"eating disorder"}
+{"label":"EATING DISORDERS","pattern":"Other specified feeding or eating disorder"}
+{"label":"EATING DISORDERS","pattern":"ORTHOREXIA"}
+{"label":"EATING DISORDERS","pattern":"osfed"}
+{"label":"EATING DISORDERS","pattern":"Purging"}
+{"label":"EATING DISORDERS","pattern":"BINGE-EATINGPICA DISORDER"}
+{"label":"EATING DISORDERS","pattern":"purging disorder"}
+{"label":"EATING DISORDERS","pattern":"Orthorexia"}
+{"label":"EATING DISORDERS","pattern":"Binge-eatingpica disorder"}
+{"label":"EATING DISORDERS","pattern":"ANOREXIA NERVOSA"}
+{"label":"EATING DISORDERS","pattern":"bulimia"}
+{"label":"EATING DISORDERS","pattern":"Pica disorder"}
+{"label":"EATING DISORDERS","pattern":"avoidant food intake"}
+{"label":"EATING DISORDERS","pattern":"night eating syndrome"}
+{"label":"EATING DISORDERS","pattern":"OTHER SPECIFIED FEEDING OR EATING DISORDER"}
+{"label":"EATING DISORDERS","pattern":"PURGING"}
+{"label":"EATING DISORDERS","pattern":"DIABULIMIA"}
+{"label":"EATING DISORDERS","pattern":"anorexia nervosa"}
+{"label":"EATING DISORDERS","pattern":"Binge eating disorder"}
+{"label":"EATING DISORDERS","pattern":"Restrictive food intake"}
+{"label":"EATING DISORDERS","pattern":"BINGE-EATING DISORDER"}
+{"label":"EATING DISORDERS","pattern":"RESTRICTIVE FOOD INTAKE"}
+{"label":"EATING DISORDERS","pattern":"orthorexia nervosa"}
+{"label":"EATING DISORDERS","pattern":"binge eating disorder"}
+{"label":"EATING DISORDERS","pattern":"NIGHT EATING SYNDROME"}
+{"label":"EATING DISORDERS","pattern":"Anorexia nervosa"}
+{"label":"EATING DISORDERS","pattern":"PICA"}
+{"label":"EATING DISORDERS","pattern":"Pica"}
+{"label":"EATING DISORDERS","pattern":"Avoidant food intake disorder"}
+{"label":"EATING DISORDERS","pattern":"BINGE-EATING"}
+{"label":"EATING DISORDERS","pattern":"RESTRICTIVE FOOD INTAKE DISORDER"}
+{"label":"EATING DISORDERS","pattern":"Binge-Eatingpica disorder"}
+{"label":"EATING DISORDERS","pattern":"restrictive food intake disorder"}
+{"label":"EATING DISORDERS","pattern":"ANOREXIA"}
+{"label":"EATING DISORDERS","pattern":"other specified feeding or eating disorder"}
+{"label":"EATING DISORDERS","pattern":"Binge-eating"}
+{"label":"EATING DISORDERS","pattern":"PURGING DISORDER"}
+{"label":"EATING DISORDERS","pattern":"Anorexia"}
+{"label":"EATING DISORDERS","pattern":"Bulimia"}
+{"label":"EATING DISORDERS","pattern":"pica disorder"}
+{"label":"EATING DISORDERS","pattern":"diabulimia"}
+{"label":"EATING DISORDERS","pattern":"Orthorexia nervosa"}
+{"label":"EATING DISORDERS","pattern":"BINGE EATING DISORDER"}
+{"label":"ELIMINATION DISORDERS","pattern":"nocturnal enuresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"Involuntary defecation"}
+{"label":"ELIMINATION DISORDERS","pattern":"INVOLUNTARY DEFECATION"}
+{"label":"ELIMINATION DISORDERS","pattern":"INVOLUNTARY URINATION"}
+{"label":"ELIMINATION DISORDERS","pattern":"involuntary urination"}
+{"label":"ELIMINATION DISORDERS","pattern":"INVOLUNTARY DEFECATIONENURESIS"}
+{"label":"ELIMINATION DISORDERS","pattern":"Encopresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"ENURESIS"}
+{"label":"ELIMINATION DISORDERS","pattern":"involuntary defecationenuresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"ENCOPRESIS"}
+{"label":"ELIMINATION DISORDERS","pattern":"Nocturnal enuresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"Involuntary urination"}
+{"label":"ELIMINATION DISORDERS","pattern":"NOCTURNAL ENURESIS"}
+{"label":"ELIMINATION DISORDERS","pattern":"Involuntary defecationenuresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"encopresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"enuresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"Enuresis"}
+{"label":"ELIMINATION DISORDERS","pattern":"involuntary defecation"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Chronic traumatic encephalopathy"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Traumatic brain injury"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"dementia"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"hiv-associated neurocognitive disorder"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Dementia"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Delirium"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"delirium"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"neurocognitive disorder"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"neurocognitive disorder delirium"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"HIV-associated neurocognitive disorder"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"hand"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"NEUROCOGNITIVE DISORDER"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Amnesia"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"amnesia"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"HAND"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"DEMENTIA"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Agnosia"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Hand"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"traumatic brain injury"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"CHRONIC ENCEPHALOPATHY"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"HIV-ASSOCIATED NEUROCOGNITIVE DISORDER"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"AGNOSIA"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"NEUROCOGNITIVE DISORDER DELIRIUM"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Hiv-associated neurocognitive disorder"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"AMNESIA"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"CHRONIC TRAUMATIC ENCEPHALOPATHY"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"chronic traumatic encephalopathy"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Neurocognitive disorder delirium"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"DELIRIUM"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"agnosia"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Chronic encephalopathy"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"chronic encephalopathy"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"Neurocognitive disorder"}
+{"label":"NEURO-COGNITIVE DISORDERS","pattern":"TRAUMATIC BRAIN INJURY"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Nvld"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"RETT"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Autism Spectrum"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Tic"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"asperger syndrome"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"asperger"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Autism spectrum disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"tic disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"social communication disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"AUTISM"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Language disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"dysgraphia"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"DYSGRAPHIA"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Nld"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"NONVERBAL LEARNING DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Stuttering"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Asperger"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"autism spectrum"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"nld"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"NLDINTELLECTUAL DISABILITY"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Rett syndrome"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"classic autism"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"STUTTERING"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"SOCIAL COMMUNICATION DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"speech sound disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"nvld"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"tic"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Autism spectrum"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Nldintellectual disability"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"intellectual disability"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Tourette"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"ASPERGER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"RETT SYNDROME"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"developmental coordination disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"dyslexia"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"CLASSIC AUTISM"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Communication disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Dyscalculia"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Autism Spectrum Disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Specific Learning Disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"NLD"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Motor"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"NLDintellectual disability"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"hyperactivity"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"AUTISM SPECTRUM DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"DYSLEXIA"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"motor"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"stuttering"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Nonverbal learning disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"SPEECH SOUND DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"rett"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"adhd"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Dyslexia"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"attention-deficit"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"ADHD"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Rett"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"HYPERACTIVITY"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"TOURETTE SYNDROME"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"specific learning disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Hyperactivity"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"ASPERGER SYNDROME"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"AUTISM SPECTRUM"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"TIC"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"nonverbal learning disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"SPECIFIC LEARNING DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"DEVELOPMENTAL COORDINATION DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Social communication disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"NVLD"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Autism"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"communication disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Developmental coordination disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"MOTOR"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"language disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"tourette"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Nonverbal learning Disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Specific learning disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Speech sound disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"tourette syndrome"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Intellectual Disability"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Intellectual disability"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"TIC DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"dyscalculia"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Communication Disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"TOURETTE"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"DYSCALCULIA"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"ATTENTION-DEFICIT"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Asperger syndrome"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"nldintellectual disability"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"autism"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Adhd"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Classic autism"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Tourette syndrome"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Attention-deficit"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"INTELLECTUAL DISABILITY"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"COMMUNICATION DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"LANGUAGE DISORDER"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"rett syndrome"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Dysgraphia"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Tic disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"autism spectrum disorder"}
+{"label":"NEURO-DEVELOPMENTAL DISORDERS","pattern":"Attention-Deficit"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Shopping addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"food addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"internet addiction disorder"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"INTERNET ADDICTION DISORDER"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"GAMBLING DISORDER"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"ADDICTION TO SOCIAL MEDIA"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"FOOD ADDICTION"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"addiction to social media"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Sexual addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Internet addiction disorder"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Gambling addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"gambling disorder"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"video game addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"sexual addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Video game addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"VIDEO GAME ADDICTION"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"SEXUAL ADDICTION"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"pornography addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Food addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Gambling disorder"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"SHOPPING ADDICTION"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"gambling addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"PORNOGRAPHY ADDICTION"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Addiction to social media"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"Pornography addiction"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"GAMBLING ADDICTION"}
+{"label":"NON-SUBSTANCE RELATED DISORDERS","pattern":"shopping addiction"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"ocd"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"BODY INTEGRITY DYSPHORIA"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"TRICHOTILLOMANIA"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Obsessive-Compulsive"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Excoriation"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"primarily obsessional obsessive-compulsive disorderobsessive-compulsive disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"excoriation disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"BODY DYSMORPHIC"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Hoarding disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"OCD"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"OBSESSIVE-COMPULSIVE"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Obsessive-compulsive disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Trichotillomania"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"body-focused repetitive behavior"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"skin-picking disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"body dysmorphic"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Compulsive hoarding"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Obsessive-Compulsive Disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"body dysmorphic disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"trichotillomania"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"body integrity dysphoria"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"hair-pulling disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"obsessive-compulsive"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"excoriation"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"EXCORIATION"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Obsessive-compulsive"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"hoarding disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Primarily obsessional obsessive-compulsive disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"BODY DYSMORPHIC DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"SKIN-PICKING DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Ocd"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"body-focused repetitive behavior disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"COMPULSIVE HOARDING"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Primarily obsessional obsessive-compulsive disorderobsessive-compulsive disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"HOARDING DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"obsessive-compulsive disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body Dysmorphic Disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Olfactory reference syndrome"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"PRIMARILY OBSESSIONAL OBSESSIVE-COMPULSIVE DISORDEROBSESSIVE-COMPULSIVE DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body Dysmorphic"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"OBSESSIVE-COMPULSIVE DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"PRIMARILY OBSESSIONAL OBSESSIVE-COMPULSIVE DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body-focused repetitive behavior"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"compulsive hoarding"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"EXCORIATION DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Skin-Picking Disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Excoriation Disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body dysmorphic disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Hoarding Disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"BODY DYSMORPHIA"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"BODY-FOCUSED REPETITIVE BEHAVIOR DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"body dysmorphia"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body Dysmorphia"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body integrity dysphoria"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"olfactory reference syndrome"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"BODY-FOCUSED REPETITIVE BEHAVIOR"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body dysmorphia"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body-focused repetitive behavior disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Hair-Pulling Disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Hair-pulling disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Body dysmorphic"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Excoriation disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"HAIR-PULLING DISORDER"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"primarily obsessional obsessive-compulsive disorder"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"OLFACTORY REFERENCE SYNDROME"}
+{"label":"OBSESSIVE-COMPULSIVE AND RELATED DISORDERS","pattern":"Skin-picking disorder"}
+{"label":"OTHER DISORDERS","pattern":"medication-induced movement disorders"}
+{"label":"OTHER DISORDERS","pattern":"MEDICATION-INDUCED MOVEMENT DISORDERS"}
+{"label":"OTHER DISORDERS","pattern":"GENDER INCONGRUENCE"}
+{"label":"OTHER DISORDERS","pattern":"Medication-induced movement disorders"}
+{"label":"OTHER DISORDERS","pattern":"gender incongruence"}
+{"label":"OTHER DISORDERS","pattern":"CATATONIA"}
+{"label":"OTHER DISORDERS","pattern":"catatoniagender dysphoria"}
+{"label":"OTHER DISORDERS","pattern":"GENDER DYSPHORIA"}
+{"label":"OTHER DISORDERS","pattern":"Catatoniagender dysphoria"}
+{"label":"OTHER DISORDERS","pattern":"Gender integrity disorder"}
+{"label":"OTHER DISORDERS","pattern":"Catatonia"}
+{"label":"OTHER DISORDERS","pattern":"GENDER INTEGRITY DISORDER"}
+{"label":"OTHER DISORDERS","pattern":"CATATONIAGENDER DYSPHORIA"}
+{"label":"OTHER DISORDERS","pattern":"gender dysphoria"}
+{"label":"OTHER DISORDERS","pattern":"Gender dysphoria"}
+{"label":"OTHER DISORDERS","pattern":"Gender incongruence"}
+{"label":"OTHER DISORDERS","pattern":"catatonia"}
+{"label":"OTHER DISORDERS","pattern":"gender integrity disorder"}
+{"label":"PARAPHILIAS","pattern":"paraphilic disorder"}
+{"label":"PARAPHILIAS","pattern":"SEXUAL MASOCHISM"}
+{"label":"PARAPHILIAS","pattern":"FROTTEURISTIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"exhibitionistic disorder"}
+{"label":"PARAPHILIAS","pattern":"Fetishism"}
+{"label":"PARAPHILIAS","pattern":"transvestism"}
+{"label":"PARAPHILIAS","pattern":"sexual masochism disorder"}
+{"label":"PARAPHILIAS","pattern":"Sexual sadism"}
+{"label":"PARAPHILIAS","pattern":"Fetishistic disorder"}
+{"label":"PARAPHILIAS","pattern":"EXHIBITIONISM"}
+{"label":"PARAPHILIAS","pattern":"OTHER SPECIFIED PARAPHILIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"Exhibitionistic disorder"}
+{"label":"PARAPHILIAS","pattern":"EXHIBITIONISTIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"Frotteuristic disorder"}
+{"label":"PARAPHILIAS","pattern":"Transvestic disorder"}
+{"label":"PARAPHILIAS","pattern":"Paraphilic disordervoyeuristic disorder"}
+{"label":"PARAPHILIAS","pattern":"exhibitionism"}
+{"label":"PARAPHILIAS","pattern":"sexual masochism"}
+{"label":"PARAPHILIAS","pattern":"PARAPHILIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"Sexual sadism disorder"}
+{"label":"PARAPHILIAS","pattern":"frotteuristic disorder"}
+{"label":"PARAPHILIAS","pattern":"sexual sadism"}
+{"label":"PARAPHILIAS","pattern":"pedophilia"}
+{"label":"PARAPHILIAS","pattern":"Sexual masochism"}
+{"label":"PARAPHILIAS","pattern":"Paraphilia"}
+{"label":"PARAPHILIAS","pattern":"PEDOPHILIA"}
+{"label":"PARAPHILIAS","pattern":"VOYEURISTIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"Pedophilia"}
+{"label":"PARAPHILIAS","pattern":"Exhibitionism"}
+{"label":"PARAPHILIAS","pattern":"SEXUAL SADISM DISORDER"}
+{"label":"PARAPHILIAS","pattern":"sexual sadism disorder"}
+{"label":"PARAPHILIAS","pattern":"FETISHISM"}
+{"label":"PARAPHILIAS","pattern":"Transvestism"}
+{"label":"PARAPHILIAS","pattern":"Other specified paraphilic disorder"}
+{"label":"PARAPHILIAS","pattern":"fetishistic disorder"}
+{"label":"PARAPHILIAS","pattern":"SEXUAL MASOCHISM DISORDER"}
+{"label":"PARAPHILIAS","pattern":"PARAPHILIC DISORDERVOYEURISTIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"Paraphilic disorder"}
+{"label":"PARAPHILIAS","pattern":"transvestic disorder"}
+{"label":"PARAPHILIAS","pattern":"paraphilia"}
+{"label":"PARAPHILIAS","pattern":"voyeuristic disorder"}
+{"label":"PARAPHILIAS","pattern":"other specified paraphilic disorder"}
+{"label":"PARAPHILIAS","pattern":"FETISHISTIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"SEXUAL SADISM"}
+{"label":"PARAPHILIAS","pattern":"TRANSVESTIC DISORDER"}
+{"label":"PARAPHILIAS","pattern":"paraphilic disordervoyeuristic disorder"}
+{"label":"PARAPHILIAS","pattern":"PARAPHILIA"}
+{"label":"PARAPHILIAS","pattern":"Voyeuristic disorder"}
+{"label":"PARAPHILIAS","pattern":"fetishism"}
+{"label":"PARAPHILIAS","pattern":"Sexual masochism disorder"}
+{"label":"PARAPHILIAS","pattern":"TRANSVESTISM"}
+{"label":"PERSONALITY DISORDERS","pattern":"Schizotypal personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"PARANOID PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"narcissistic personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"paranoid personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"NARCISSISTIC PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"avoidant personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"borderline personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"OBSESSIVE\u2013COMPULSIVE PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"personality disorderparanoid personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Borderline"}
+{"label":"PERSONALITY DISORDERS","pattern":"schizoid personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"schizotypal personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"DEPENDENT PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"DEPENDENT PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"PARANOID PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"SCHIZOID PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"obsessive\u2013compulsive personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Avoidant personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Borderline personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"antisocial personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"obsessive\u2013compulsive personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"paranoid personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Paranoid personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"Histrionic personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"BORDERLINE PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"Borderline personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"SCHIZOTYPAL PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"Schizoid personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"histrionic personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"Narcissistic personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"AVOIDANT PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"OBSESSIVE\u2013COMPULSIVE PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"Narcissistic personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"schizoid personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"SCHIZOID PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"HISTRIONIC PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"Antisocial personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Histrionic personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"BORDERLINE"}
+{"label":"PERSONALITY DISORDERS","pattern":"dependent personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"histrionic personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Obsessive\u2013compulsive personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"HISTRIONIC PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"borderline personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Obsessive\u2013compulsive personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"schizotypal personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"Dependent personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"ANTISOCIAL PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"BORDERLINE PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"ANTISOCIAL PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"SCHIZOTYPAL PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"antisocial personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"AVOIDANT PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"Personality disorderparanoid personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Dependent personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"Avoidant personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"avoidant personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Antisocial personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"Schizotypal personality"}
+{"label":"PERSONALITY DISORDERS","pattern":"Paranoid personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"borderline"}
+{"label":"PERSONALITY DISORDERS","pattern":"PERSONALITY DISORDERPARANOID PERSONALITY DISORDER"}
+{"label":"PERSONALITY DISORDERS","pattern":"narcissistic personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"NARCISSISTIC PERSONALITY"}
+{"label":"PERSONALITY DISORDERS","pattern":"dependent personality disorder"}
+{"label":"PERSONALITY DISORDERS","pattern":"Schizoid personality"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"BRIEF PSYCHOTIC DISORDER"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"schizophrenia"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"SCHIZOAFFECTIVE DISORDER"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"delusional disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Brief psychotic"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"schizoaffective disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Schizophrenia"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"brief psychoticdelusional disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"DELUSIONAL DISORDER"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"schizophreniform disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Delusional disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Schizophreniform disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"SCHIZOPHRENIA"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Brief psychoticdelusional disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"BRIEF PSYCHOTICDELUSIONAL DISORDER"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Brief psychotic disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"PSYCHOGENIC DISORDER"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Psychogenic disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"psychogenic disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"brief psychotic"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"BRIEF PSYCHOTIC"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"SCHIZOPHRENIFORM DISORDER"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"Schizoaffective disorder"}
+{"label":"SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS","pattern":"brief psychotic disorder"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual Arousal Disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"premature ejaculation"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"sexual dysfunction"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Female sexual arousal disorder"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"SEXUAL DYSFUNCTIONSEXUAL DESIRE DISORDERS"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"female sexual arousal"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"SEXUAL DYSFUNCTION"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual dysfunction"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"delayed ejaculation"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Female sexual arousal"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"DELAYED EJACULATION"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"SEXUAL DESIRE DISORDERS"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Male hypoactive sexual desire disorder"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"erectile dysfunction"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"DYSPAREUNIA"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"vaginismus"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"MALE HYPOACTIVE SEXUAL DESIRE DISORDER"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual pain disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"PREMATURE EJACULATION"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"VAGINISMUS"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Premature ejaculation"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"male hypoactive sexual desire"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Anorgasmia"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"sexual desire disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Delayed ejaculation"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual dysfunctionsexual desire disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"male hypoactive sexual desire disorder"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"anorgasmia"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Erectile dysfunction"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Vaginismus"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"orgasmic disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"FEMALE SEXUAL AROUSAL"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"sexual pain disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual Desire Disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"FEMALE SEXUAL AROUSAL DISORDER"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"MALE HYPOACTIVE SEXUAL DESIRE"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual arousal disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"ANORGASMIA"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Orgasmic disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"dyspareunia"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"sexual dysfunctionsexual desire disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"SEXUAL AROUSAL DISORDERS"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"ORGASMIC DISORDERS"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual desire disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Dyspareunia"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"sexual arousal disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Orgasmic Disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"SEXUAL PAIN DISORDERS"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Male hypoactive sexual desire"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"Sexual Pain Disorders"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"ERECTILE DYSFUNCTION"}
+{"label":"SEXUAL DYSFUNCTIONS","pattern":"female sexual arousal disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Rapid eye movement sleep behavior disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"restless legs syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"JET LAG"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"short-term insomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"circadian rhythm sleep-wake disorder caused by irregular work shifts"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"circadian rhythm sleep-wake disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Sleepwalking"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"non-24-hour sleep\u2013wake disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"CONFUSIONAL AROUSALS"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"NIGHTMARE DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"idiopathic hypersomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Parasomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"INSUFFICIENT SLEEP SYNDROME"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"INSOMNIA DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"IDIOPATHIC HYPERSOMNIA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Hypnagogic hallucinations"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"EXPLODING HEAD SYNDROME"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"RESTLESS LEGS SYNDROME"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"RAPID EYE MOVEMENT SLEEP DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"rapid eye movement sleep behavior disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"PARASOMNIA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Chronic insomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"HYPNAGOGIC HALLUCINATIONS"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Insomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Kleine\u2013Levin syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"CIRCADIAN RHYTHM SLEEP DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"SLEEPWALKING"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Restless legs"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"ADVANCED SLEEP PHASE DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Irregular sleep\u2013wake rhythm"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"NON-24-HOUR SLEEP\u2013WAKE DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"sleepwalking"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"insufficient sleep syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"CIRCADIAN RHYTHM SLEEP-WAKE DISORDER CAUSED BY IRREGULAR WORK SHIFTS"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"circadian rhythm sleep-wake disorderinsomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"insomnia disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Restless legs syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"NIGHT TERRORS"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"SHORT-TERM INSOMNIA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Delayed sleep phase disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"CIRCADIAN RHYTHM SLEEP-WAKE DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"SLEEP APNEA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Sleep terrors"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"hypersomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"narcolepsy"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"NARCOLEPSY"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Jet lag"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"circadian rhythm sleep disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"KLEINE\u2013LEVIN SYNDROME"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Hypersomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"SLEEP TERRORS"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"irregular sleep\u2013wake rhythm"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Short-term insomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"DELAYED SLEEP PHASE DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"confusional arousals"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Idiopathic hypersomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"chronic insomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"sleep terrors"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"delayed sleep phase"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"HYPERSOMNIA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Insomnia Disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Non-24-hour sleep\u2013wake disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Confusional arousals"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"hypnagogic hallucinations"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"insomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Exploding head syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Circadian rhythm sleep-wake disorderinsomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Insomnia disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"nightmare disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"CHRONIC INSOMNIA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"INSOMNIA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Nightmare disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Delayed sleep phase"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"restless legs"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Sleep apnea"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"night terrors"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Kleine\u2013levin syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Insufficient sleep syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"RAPID EYE MOVEMENT SLEEP BEHAVIOR DISORDER"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Circadian rhythm sleep-wake disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Circadian rhythm sleep-wake disorder caused by irregular work shifts"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Rapid eye movement sleep disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"CIRCADIAN RHYTHM SLEEP-WAKE DISORDERINSOMNIA"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"rapid eye movement sleep disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"IRREGULAR SLEEP\u2013WAKE RHYTHM"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"parasomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"kleine\u2013levin syndrome"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Circadian Rhythm Sleep-Wake Disorderinsomnia"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"jet lag"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Narcolepsy"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Circadian rhythm sleep disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"DELAYED SLEEP PHASE"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"advanced sleep phase disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Advanced sleep phase disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"sleep apnea"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"RESTLESS LEGS"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"Night terrors"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"delayed sleep phase disorder"}
+{"label":"SLEEP-WAKE DISORDERS","pattern":"exploding head syndrome"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Factitious Disorderhypochondriasis"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Hypochondriasis"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Factitious disorderhypochondriasis"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"PAIN DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"HYPOCHONDRIASIS"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"munchausen syndrome"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"MUNCHAUSEN BY PROXY"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"factitious disorder imposed on self"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"somatization disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"PAIN SYNDROMES"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"functional neurological symptom disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Conversion disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Functional neurological symptom disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Somatization disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"FACTITIOUS DISORDER IMPOSED ON ANOTHER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Factitious disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Munchausen syndrome"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"hypochondriasis"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"CONVERSION DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"FACTITIOUS DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"CHRONIC PAIN"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"factitious disorder imposed on another"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"conversion disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"FUNCTIONAL NEUROLOGICAL SYMPTOM DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Pain syndrome"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"MUNCHAUSEN SYNDROME"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Somatic symptom disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"FACTITIOUS DISORDERHYPOCHONDRIASIS"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"SOMATIZATION DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"CHRONIC PAIN DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Pain syndromes"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"pain syndromes"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"FUNCTIONAL NEUROLOGICAL SYMPTOM"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"pain syndrome"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Factitious disorder imposed on another"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Somatic Symptom Disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Chronic pain"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"chronic pain disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"FACTITIOUS DISORDER IMPOSED ON SELF"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"ILLNESS ANXIETY DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Factitious disorder imposed on self"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"factitious disorderhypochondriasis"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"PAIN SYNDROME"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Munchausen by proxy"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"factitious disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"somatic symptom disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"SOMATIC SYMPTOM DISORDER"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Chronic pain disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"functional neurological symptom"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Pain disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Functional Neurological Symptom Disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Functional neurological symptom"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"chronic pain"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"illness anxiety disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Functional Neurological Symptom"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Illness anxiety disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"munchausen by proxy"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"Illness Anxiety Disorder"}
+{"label":"SOMATIC SYMPTOM RELATED DISORDERS","pattern":"pain disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine induced ocd"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"KETAMINE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE-INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hypnotic induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DEMENTIA DUE TO USE OF HYPNOTICS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF CAFFEINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis-induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabinoid dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Anxiolytic withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"USE OF COCAINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cannabinoid intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Sedative induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ANXIOLYTIC DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF ALCOHOL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CANNABINOID INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF SEDATIVE, HYPNOTIC OR ANXIOLYTIC"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DEMENTIA DUE TO USE OF SEDATIVES"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIATE ADDICTIONS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dissociative drugs intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE-INDUCED PSYCHOSIS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE-INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CAFFEINE INDUCED ANXIETY DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis-induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF ALCOHOL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful use of Opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"volatile inhalants induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of caffeine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"USE OF VOLATILE INHALANTS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF VOLATILE INHALANTS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF CANNABIS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HALLUCINOGENS DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HALLUCINOGENS INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines induced impulse control disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of Amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabinoids induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"KETAMINE DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"NICOTINE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL USE OF OPIOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hypnotic withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hallucinogens induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabinoid dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Volatile inhalants induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HYPNOTIC INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF NICOTINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Alcoholic hallucinosis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines induced impulse control disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOIDS INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cannabinoids induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Ketamine delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HYPNOTIC WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SEDATIVE INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF VOLATILE INHALANTS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dissociative drugs dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opiate addiction"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine induced anxietysubstance-induced disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis-induced psychosis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance-induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of caffeine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabinoids induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"USE OF AMPHETAMINES"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HYPNOTIC DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ketamine induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ketamine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of alcohol"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"nicotine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amnestic disorder due to use of sedatives"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE-INDUCED DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CAFFEINE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF DISSOCIATIVE DRUGS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"KETAMINE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABINOIDS INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis-induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of dissociative drugs"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioid Use"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CANNABINOIDS INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISSOCIATIVE DRUGS INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISSOCIATIVE DRUGS INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioid use"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF NICOTINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Stimulant Use Disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF SEDATIVE, HYPNOTIC OR ANXIOLYTIC"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SEDATIVE INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of Amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SEDATIVE INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis-induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HALLUCINOGENS INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dissociative drugs induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE USE DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"alcohol use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hallucinogens induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabinoids induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone induced ocd"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMNESTIC DISORDER DUE TO USE OF ANXIOLYTICS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISSOCIATIVE DRUGS INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOIDS WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF VOLATILE INHALANTS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dissociative drugs induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"stimulant use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"tobacco use"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Caffeine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hypnotic withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine induced impulse control disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance-induced psychosis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of dissociative drugs"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Sedative withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Ketamine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of Amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dissociative drugs withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hallucinogens dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"NICOTINE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioids withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of hallucinogens"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioids induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amnestic disorder due to use of anxiolytics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Tobacco use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES INDUCED OCD"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SUBSTANCE DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioids induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Nicotine addiction"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"caffeine induced anxiety disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amnestic disorder due to use of hypnotics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF AMPHETAMINES"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis-induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF OPIOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Ketamine induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES INDUCED IMPULSE CONTROL DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioids induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"anxiolytic dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"NICOTINE ADDICTION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CAFFEINE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SEDATIVE INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ALCOHOL USE DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Caffeine induced anxiety disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF SYNTHETIC CATHINONE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of hallucinogens"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of dissociative drugs"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cannabinoids withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis-induced psychosis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dissociative drugs induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amnestic disorder due to use of anxiolytics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance-induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ANXIOLYTIC INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Tobacco Use Disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOID INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE INDUCED OCD"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cannabinoids induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dementia due to use of hypnotics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioid dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"sedative induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine induced OCD"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ketamine delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opiate addictions"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"nicotine addiction"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hallucinogen persisting perception disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CANNABINOID DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CANNABINOIDS INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cannabinoids induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Sedative intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMNESTIC DISORDER DUE TO USE OF HYPNOTICS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of Opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CAFFEINE-INDUCED SLEEP DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"USE OF SYNTHETIC CATHINONE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF COCAINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dissociative drugs dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis Use Disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hallucinogens induced anxiety disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOIDS INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Volatile inhalants withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF DISSOCIATIVE DRUGS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF OPIOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ANXIOLYTIC INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cannabinoids induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cannabinoids induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ALCOHOL WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS-INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amnestic disorder due to use of sedatives"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF COCAINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of Amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hallucinogen persisting perception disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ketamine induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"TOBACCO USE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"KETAMINE INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of cannabis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hypnotic induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioids induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Anxiolytic induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF SYNTHETIC CANNABINOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF HALLUCINOGENS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS-INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HALLUCINOGEN INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF HALLUCINOGENS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioids withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF NICOTINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ALCOHOLISM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"nicotine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF AMPHETAMINES"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of alcohol"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioids induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABINOID DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of dissociative drugs"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hallucinogens dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Ketamine induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dementia due to use of hypnotics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of Cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF SYNTHETIC CANNABINOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"tobacco use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Nicotine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CANNABINOIDS INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opiate addictions"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dementia due to use of sedatives"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"alcoholism"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cannabinoid dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE INDUCED OCD"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Caffeine-induced sleep disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of caffeine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CANNABINOIDS INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of dissociative drugs"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Nicotine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioid intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of Cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of dissociative drugs"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF SYNTHETIC CANNABINOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hypnotic intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"sedative induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CANNABINOIDS WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOID DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hypnotic induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Caffeine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISSOCIATIVE DRUGS INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of Sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SEDATIVE DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioid use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance-induced psychosis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"alcoholic hallucinosis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOIDS INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Ketamine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF OPIOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance-induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HYPNOTIC INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opiate addiction"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cannabinoid dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SEDATIVE WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Ketamine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine induced anxietysubstance-induced disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hypnotic induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ANXIOLYTIC INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HYPNOTIC INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Alcohol withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ALCOHOLIC HALLUCINOSIS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"caffeine-induced sleep disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dissociative drugs induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Volatile inhalants induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cannabinoids induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cannabis intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Volatile inhalants induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of Cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of caffeine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hypnotic intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Stimulant use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hallucinogens induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of alcohol"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMNESTIC DISORDER DUE TO USE OF SEDATIVES"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS-INDUCED PSYCHOSIS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dissociative drugs induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HALLUCINOGEN PERSISTING PERCEPTION DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Anxiolytic dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dissociative drugs induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of Sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone induced impulse control disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"KETAMINE INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"KETAMINE INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Alcoholism"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioids induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioid use"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Ketamine induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"alcohol withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"USE OF SYNTHETIC CANNABINOIDS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine induced ocd"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hallucinogens induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of cannabis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance-induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Nicotine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of cannabis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE INDUCED IMPULSE CONTROL DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"substance-induced disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ANXIOLYTIC WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dissociative drugs induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of cannabis"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISSOCIATIVE DRUGS DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabinoids induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ketamine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hypnotic induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"volatile inhalants induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SYNTHETIC CATHINONE DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"anxiolytic induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"VOLATILE INHALANTS INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cannabinoids induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amnestic disorder due to use of hypnotics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOIDS INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABINOIDS INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"anxiolytic withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dissociative drugs withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Anxiolytic induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioids induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF CAFFEINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF CANNABIS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of hallucinogens"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"VOLATILE INHALANTS INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF AMPHETAMINES"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF HALLUCINOGENS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cannabinoid intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF SEDATIVE, HYPNOTIC OR ANXIOLYTIC"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF SYNTHETIC CATHINONE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dementia due to use of anxiolytics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dissociative drugs induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hallucinogen induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioid intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hypnotic induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"volatile inhalants induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE INDUCED IMPULSE CONTROL DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Anxiolytic induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone induced OCD"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"dementia due to use of sedatives"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"volatile inhalants induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioid dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HARMFUL PATTERN OF USE OF SYNTHETIC CATHINONE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Sedative dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"sedative intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HYPNOTIC INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Tobacco use"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ANXIOLYTIC INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of hallucinogens"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"anxiolytic intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of hallucinogens"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Tobacco Use"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioid use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"volatile inhalants withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of alcohol"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hallucinogen induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Opioid Use Disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"caffeine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISSOCIATIVE DRUGS INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines induced ocd"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Anxiolytic intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Sedative induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HALLUCINOGENS INDUCED ANXIETY DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF COCAINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"AMPHETAMINES INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of sedative, hypnotic or anxiolytic"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOID USE DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hypnotic induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Sedative induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines induced OCD"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISSOCIATIVE DRUGS WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hypnotic dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"KETAMINE DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"sedative induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Alcohol use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Phencyclidine delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIATE ADDICTION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Alcohol Use Disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Volatile inhalants induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"USE OF NICOTINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"synthetic cathinone induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"NICOTINE DEPENDENCE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Sedative induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"harmful pattern of use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Anxiolytic induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of caffeine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS USE DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"anxiolytic induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of synthetic cannabinoids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"sedative dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"COCAINE INDUCED MOOD DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hypnotic induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of amphetamines"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone induced ocd"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"episode of harmful use of caffeine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"nicotine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"OPIOID USE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Hallucinogens induced anxiety disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of synthetic cathinone"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis-induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DEMENTIA DUE TO USE OF ANXIOLYTICS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cocaine induced impulse control disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dissociative drugs intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ANXIOLYTIC INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"VOLATILE INHALANTS INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cannabinoids induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of Cocaine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Cannabis use disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"VOLATILE INHALANTS INDUCED PSYCHOTIC DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"STIMULANT USE DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"DISORDERS DUE TO USE OF DISSOCIATIVE DRUGS"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"sedative induced psychotic disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cathinone induced impulse control disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of hallucinogens"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"cocaine withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"SEDATIVE INTOXICATION"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"caffeine intoxication"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"amphetamines induced ocd"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"opioids induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"HYPNOTIC INDUCED ANXIETY"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ketamine dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"EPISODE OF HARMFUL USE OF CAFFEINE"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"hypnotic dependence"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"phencyclidine delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Disorders due to use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"VOLATILE INHALANTS WITHDRAWAL"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"TOBACCO USE DISORDER"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Harmful pattern of use of Opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Dementia due to use of anxiolytics"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"anxiolytic induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"disorders due to use of opioids"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"use of nicotine"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Amphetamines induced anxiety"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Substance-induced disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Synthetic cannabinoids withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"ketamine induced mood disorder"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"sedative withdrawal"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"CANNABIS-INDUCED DELIRIUM"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"Episode of harmful use of volatile inhalants"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"anxiolytic induced delirium"}
+{"label":"SUBSTANCE-RELATED DISORDERS","pattern":"PHENCYCLIDINE INDUCED ANXIETYSUBSTANCE-INDUCED DISORDER"}
+{"label":"SYMPTOMS","pattern":"FLASHBACKS"}
+{"label":"SYMPTOMS","pattern":"palinopsia"}
+{"label":"SYMPTOMS","pattern":"chronic lower back pain (clbp)"}
+{"label":"SYMPTOMS","pattern":"Nightmares"}
+{"label":"SYMPTOMS","pattern":"impaired concentration"}
+{"label":"SYMPTOMS","pattern":"loss of interest"}
+{"label":"SYMPTOMS","pattern":"EMOTIONAL NUMBNESS"}
+{"label":"SYMPTOMS","pattern":"OBSESSION"}
+{"label":"SYMPTOMS","pattern":"WITHDRAWAL-RELATED IRRITABILITY"}
+{"label":"SYMPTOMS","pattern":"POST-HALLUCINOGEN FLASHBACK"}
+{"label":"SYMPTOMS","pattern":"HALLUCINATIONS"}
+{"label":"SYMPTOMS","pattern":"NIGHTMARES"}
+{"label":"SYMPTOMS","pattern":"Impaired concentration"}
+{"label":"SYMPTOMS","pattern":"Impaired memory"}
+{"label":"SYMPTOMS","pattern":"racing thoughts"}
+{"label":"SYMPTOMS","pattern":"paranoia"}
+{"label":"SYMPTOMS","pattern":"Physical symptoms"}
+{"label":"SYMPTOMS","pattern":"risk-taking behavior"}
+{"label":"SYMPTOMS","pattern":"Obsession"}
+{"label":"SYMPTOMS","pattern":"cognitive impairments"}
+{"label":"SYMPTOMS","pattern":"Paranoia"}
+{"label":"SYMPTOMS","pattern":"Cravings"}
+{"label":"SYMPTOMS","pattern":"loss of interest in activities"}
+{"label":"SYMPTOMS","pattern":"chronic lower back pain"}
+{"label":"SYMPTOMS","pattern":"Numbness"}
+{"label":"SYMPTOMS","pattern":"Risk-taking behavior"}
+{"label":"SYMPTOMS","pattern":"Guilt"}
+{"label":"SYMPTOMS","pattern":"disinhibition"}
+{"label":"SYMPTOMS","pattern":"Impaired judgment"}
+{"label":"SYMPTOMS","pattern":"agitation"}
+{"label":"SYMPTOMS","pattern":"Chronic back pain"}
+{"label":"SYMPTOMS","pattern":"DISINHIBITION"}
+{"label":"SYMPTOMS","pattern":"Hallucinations"}
+{"label":"SYMPTOMS","pattern":"Sad"}
+{"label":"SYMPTOMS","pattern":"apathy"}
+{"label":"SYMPTOMS","pattern":"cravings"}
+{"label":"SYMPTOMS","pattern":"clbp"}
+{"label":"SYMPTOMS","pattern":"Post-hallucinogen flashback"}
+{"label":"SYMPTOMS","pattern":"obsession"}
+{"label":"SYMPTOMS","pattern":"MANIA"}
+{"label":"SYMPTOMS","pattern":"irritability"}
+{"label":"SYMPTOMS","pattern":"IMPAIRED MEMORY"}
+{"label":"SYMPTOMS","pattern":"Management of stress"}
+{"label":"SYMPTOMS","pattern":"PSYCHOTIC SYMPTOMS"}
+{"label":"SYMPTOMS","pattern":"headache"}
+{"label":"SYMPTOMS","pattern":"HOPELESSNESS"}
+{"label":"SYMPTOMS","pattern":"psychomotor retardation"}
+{"label":"SYMPTOMS","pattern":"Insomnia"}
+{"label":"SYMPTOMS","pattern":"FLASHBACK"}
+{"label":"SYMPTOMS","pattern":"worthlessness"}
+{"label":"SYMPTOMS","pattern":"PANIC ATTACKS"}
+{"label":"SYMPTOMS","pattern":"Hypomania"}
+{"label":"SYMPTOMS","pattern":"DELUSIONS"}
+{"label":"SYMPTOMS","pattern":"hopelessness"}
+{"label":"SYMPTOMS","pattern":"Photophobia"}
+{"label":"SYMPTOMS","pattern":"Psychomotor retardation"}
+{"label":"SYMPTOMS","pattern":"delusions"}
+{"label":"SYMPTOMS","pattern":"Disordered thinking"}
+{"label":"SYMPTOMS","pattern":"Loss of interest"}
+{"label":"SYMPTOMS","pattern":"Shame"}
+{"label":"SYMPTOMS","pattern":"suicidal thoughts"}
+{"label":"SYMPTOMS","pattern":"Restlessness"}
+{"label":"SYMPTOMS","pattern":"Apathy"}
+{"label":"SYMPTOMS","pattern":"psychomotor agitation"}
+{"label":"SYMPTOMS","pattern":"impaired memory"}
+{"label":"SYMPTOMS","pattern":"visual snow"}
+{"label":"SYMPTOMS","pattern":"Headache"}
+{"label":"SYMPTOMS","pattern":"Chronic lower back pain"}
+{"label":"SYMPTOMS","pattern":"helplessness"}
+{"label":"SYMPTOMS","pattern":"DEMORALIZATION-SYMPTOMS"}
+{"label":"SYMPTOMS","pattern":"panic attacks"}
+{"label":"SYMPTOMS","pattern":"withdrawal-related irritability"}
+{"label":"SYMPTOMS","pattern":"MIGRAINE WITH AURA"}
+{"label":"SYMPTOMS","pattern":"Cognitive impairments"}
+{"label":"SYMPTOMS","pattern":"Flashbacks"}
+{"label":"SYMPTOMS","pattern":"PSYCHOTIC SYMPTOM"}
+{"label":"SYMPTOMS","pattern":"psychotic symptom"}
+{"label":"SYMPTOMS","pattern":"Emotional numbness"}
+{"label":"SYMPTOMS","pattern":"LOSS OF INTEREST"}
+{"label":"SYMPTOMS","pattern":"Helplessness"}
+{"label":"SYMPTOMS","pattern":"hallucinationsanxiety"}
+{"label":"SYMPTOMS","pattern":"SAD"}
+{"label":"SYMPTOMS","pattern":"LOSS OF INTEREST IN ACTIVITIES"}
+{"label":"SYMPTOMS","pattern":"SHAME"}
+{"label":"SYMPTOMS","pattern":"sad"}
+{"label":"SYMPTOMS","pattern":"PHOTOPHOBIA"}
+{"label":"SYMPTOMS","pattern":"Sleep disturbance"}
+{"label":"SYMPTOMS","pattern":"mania"}
+{"label":"SYMPTOMS","pattern":"HALLUCINATIONSANXIETY"}
+{"label":"SYMPTOMS","pattern":"APPETITE LOSS"}
+{"label":"SYMPTOMS","pattern":"CHRONIC LOWER BACK PAIN (CLBP)"}
+{"label":"SYMPTOMS","pattern":"demoralization-symptoms"}
+{"label":"SYMPTOMS","pattern":"GUILT"}
+{"label":"SYMPTOMS","pattern":"Mania"}
+{"label":"SYMPTOMS","pattern":"PSYCHOMOTOR AGITATION"}
+{"label":"SYMPTOMS","pattern":"Psychotic symptom"}
+{"label":"SYMPTOMS","pattern":"anger"}
+{"label":"SYMPTOMS","pattern":"Psychomotor agitation"}
+{"label":"SYMPTOMS","pattern":"intoxication"}
+{"label":"SYMPTOMS","pattern":"Psychosis"}
+{"label":"SYMPTOMS","pattern":"chronic back pain"}
+{"label":"SYMPTOMS","pattern":"SOCIAL WITHDRAWAL"}
+{"label":"SYMPTOMS","pattern":"photophobia"}
+{"label":"SYMPTOMS","pattern":"PHYSICAL SYMPTOMS"}
+{"label":"SYMPTOMS","pattern":"Agitation"}
+{"label":"SYMPTOMS","pattern":"chronic lower back pain (CLBP)"}
+{"label":"SYMPTOMS","pattern":"HYPERSEXUALITY"}
+{"label":"SYMPTOMS","pattern":"Anxiety"}
+{"label":"SYMPTOMS","pattern":"Migraine"}
+{"label":"SYMPTOMS","pattern":"ANGER"}
+{"label":"SYMPTOMS","pattern":"flashback"}
+{"label":"SYMPTOMS","pattern":"Worthlessness"}
+{"label":"SYMPTOMS","pattern":"entoptic phenomena"}
+{"label":"SYMPTOMS","pattern":"AGITATION"}
+{"label":"SYMPTOMS","pattern":"impulsivity"}
+{"label":"SYMPTOMS","pattern":"Racing thoughts"}
+{"label":"SYMPTOMS","pattern":"WORTHLESSNESS"}
+{"label":"SYMPTOMS","pattern":"psychosis"}
+{"label":"SYMPTOMS","pattern":"Impulsivity"}
+{"label":"SYMPTOMS","pattern":"PSYCHOMOTOR RETARDATION"}
+{"label":"SYMPTOMS","pattern":"FATIGUE"}
+{"label":"SYMPTOMS","pattern":"Migraine with aura"}
+{"label":"SYMPTOMS","pattern":"migraine"}
+{"label":"SYMPTOMS","pattern":"Suicidal thoughts"}
+{"label":"SYMPTOMS","pattern":"Withdrawal-related irritability"}
+{"label":"SYMPTOMS","pattern":"psychotic symptoms"}
+{"label":"SYMPTOMS","pattern":"emotional numbness"}
+{"label":"SYMPTOMS","pattern":"NUMBNESS"}
+{"label":"SYMPTOMS","pattern":"MIGRAINE"}
+{"label":"SYMPTOMS","pattern":"Impaired decision-making"}
+{"label":"SYMPTOMS","pattern":"MANAGEMENT OF STRESS"}
+{"label":"SYMPTOMS","pattern":"CRAVINGS"}
+{"label":"SYMPTOMS","pattern":"insomnia"}
+{"label":"SYMPTOMS","pattern":"RACING THOUGHTS"}
+{"label":"SYMPTOMS","pattern":"CLBP"}
+{"label":"SYMPTOMS","pattern":"hallucinations"}
+{"label":"SYMPTOMS","pattern":"RISK-TAKING BEHAVIOR"}
+{"label":"SYMPTOMS","pattern":"appetite loss"}
+{"label":"SYMPTOMS","pattern":"hypomania"}
+{"label":"SYMPTOMS","pattern":"VISUAL SNOW"}
+{"label":"SYMPTOMS","pattern":"ADDICTION"}
+{"label":"SYMPTOMS","pattern":"CHRONIC LOWER BACK PAIN"}
+{"label":"SYMPTOMS","pattern":"flashbacks"}
+{"label":"SYMPTOMS","pattern":"IMPULSIVITY"}
+{"label":"SYMPTOMS","pattern":"nightmares"}
+{"label":"SYMPTOMS","pattern":"Appetite loss"}
+{"label":"SYMPTOMS","pattern":"INTOXICATION"}
+{"label":"SYMPTOMS","pattern":"SUICIDAL THOUGHTS"}
+{"label":"SYMPTOMS","pattern":"INSOMNIA"}
+{"label":"SYMPTOMS","pattern":"IMPAIRED CONCENTRATION"}
+{"label":"SYMPTOMS","pattern":"Irritability"}
+{"label":"SYMPTOMS","pattern":"Intoxication"}
+{"label":"SYMPTOMS","pattern":"hypersexuality"}
+{"label":"SYMPTOMS","pattern":"APATHY"}
+{"label":"SYMPTOMS","pattern":"shame"}
+{"label":"SYMPTOMS","pattern":"CHRONIC BACK PAIN"}
+{"label":"SYMPTOMS","pattern":"restlessness"}
+{"label":"SYMPTOMS","pattern":"guilt"}
+{"label":"SYMPTOMS","pattern":"PAIN RELIEF"}
+{"label":"SYMPTOMS","pattern":"Visual symptoms"}
+{"label":"SYMPTOMS","pattern":"Palinopsia"}
+{"label":"SYMPTOMS","pattern":"PARANOIA"}
+{"label":"SYMPTOMS","pattern":"impaired decision-making"}
+{"label":"SYMPTOMS","pattern":"Chronic lower back pain (clbp)"}
+{"label":"SYMPTOMS","pattern":"Psychotic symptoms"}
+{"label":"SYMPTOMS","pattern":"HEADACHE"}
+{"label":"SYMPTOMS","pattern":"SUICIDAL IDEATION"}
+{"label":"SYMPTOMS","pattern":"management of stress"}
+{"label":"SYMPTOMS","pattern":"Panic attacks"}
+{"label":"SYMPTOMS","pattern":"impaired executive function"}
+{"label":"SYMPTOMS","pattern":"Loss of interest in activities"}
+{"label":"SYMPTOMS","pattern":"SLEEP DISTURBANCE"}
+{"label":"SYMPTOMS","pattern":"Anger"}
+{"label":"SYMPTOMS","pattern":"Hopelessness"}
+{"label":"SYMPTOMS","pattern":"Visual snow"}
+{"label":"SYMPTOMS","pattern":"post-hallucinogen flashback"}
+{"label":"SYMPTOMS","pattern":"HELPLESSNESS"}
+{"label":"SYMPTOMS","pattern":"PALINOPSIA"}
+{"label":"SYMPTOMS","pattern":"Flashback"}
+{"label":"SYMPTOMS","pattern":"IMPAIRED EXECUTIVE FUNCTION"}
+{"label":"SYMPTOMS","pattern":"RESTLESSNESS"}
+{"label":"SYMPTOMS","pattern":"Pain relief"}
+{"label":"SYMPTOMS","pattern":"disordered thinking"}
+{"label":"SYMPTOMS","pattern":"addiction"}
+{"label":"SYMPTOMS","pattern":"COGNITIVE IMPAIRMENTS"}
+{"label":"SYMPTOMS","pattern":"DISORDERED THINKING"}
+{"label":"SYMPTOMS","pattern":"fatigue"}
+{"label":"SYMPTOMS","pattern":"Entoptic phenomena"}
+{"label":"SYMPTOMS","pattern":"intrusive thoughts"}
+{"label":"SYMPTOMS","pattern":"Hallucinationsanxiety"}
+{"label":"SYMPTOMS","pattern":"Intrusive thoughts"}
+{"label":"SYMPTOMS","pattern":"numbness"}
+{"label":"SYMPTOMS","pattern":"Impaired executive function"}
+{"label":"SYMPTOMS","pattern":"IMPAIRED DECISION-MAKING"}
+{"label":"SYMPTOMS","pattern":"Social withdrawal"}
+{"label":"SYMPTOMS","pattern":"Disinhibition"}
+{"label":"SYMPTOMS","pattern":"VISUAL SYMPTOMS"}
+{"label":"SYMPTOMS","pattern":"social withdrawal"}
+{"label":"SYMPTOMS","pattern":"sleep disturbance"}
+{"label":"SYMPTOMS","pattern":"impaired judgment"}
+{"label":"SYMPTOMS","pattern":"visual symptoms"}
+{"label":"SYMPTOMS","pattern":"Fatigue"}
+{"label":"SYMPTOMS","pattern":"Clbp"}
+{"label":"SYMPTOMS","pattern":"INTRUSIVE THOUGHTS"}
+{"label":"SYMPTOMS","pattern":"ENTOPTIC PHENOMENA"}
+{"label":"SYMPTOMS","pattern":"IRRITABILITY"}
+{"label":"SYMPTOMS","pattern":"Demoralization-symptoms"}
+{"label":"SYMPTOMS","pattern":"Nyctalopia"}
+{"label":"SYMPTOMS","pattern":"physical symptoms"}
+{"label":"SYMPTOMS","pattern":"Delusions"}
+{"label":"SYMPTOMS","pattern":"PSYCHOSIS"}
+{"label":"SYMPTOMS","pattern":"IMPAIRED JUDGMENT"}
+{"label":"SYMPTOMS","pattern":"anxiety"}
+{"label":"SYMPTOMS","pattern":"HYPOMANIA"}
+{"label":"SYMPTOMS","pattern":"NYCTALOPIA"}
+{"label":"SYMPTOMS","pattern":"nyctalopia"}
+{"label":"SYMPTOMS","pattern":"ANXIETY"}
+{"label":"SYMPTOMS","pattern":"Addiction"}
+{"label":"SYMPTOMS","pattern":"suicidal ideation"}
+{"label":"SYMPTOMS","pattern":"Suicidal ideation"}
+{"label":"SYMPTOMS","pattern":"migraine with aura"}
+{"label":"SYMPTOMS","pattern":"Hypersexuality"}
+{"label":"SYMPTOMS","pattern":"pain relief"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"POSTTRAUMATIC STRESS DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Acute Stress Disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"PROLONGED GRIEF"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Posttraumatic Stress Disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"disinhibited social engagement"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"COMPLEX POST-TRAUMATIC STRESS DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Posttraumatic Stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Reactive attachment disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Adjustment disorders"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"POST-TRAUMATIC STRESS DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Adjustment Disorders"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"PROLONGED GRIEFPOSTTRAUMATIC STRESS DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"adjustment disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"prolonged grief"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Reactive Attachment"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"reactive attachment"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Posttraumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"reactive attachment disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"POST-TRAUMATIC STRESS"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"post-traumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Disinhibited Social Engagement"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Adjustment disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Complex post-traumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Post-traumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"ptsd"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Acute stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"prolonged grief disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Ptsd"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Reactive attachment"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"PROLONGED GRIEF DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Post-traumatic stress disorder (ptsd)"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"adjustment disorders"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"posttraumatic stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"POST-TRAUMATIC STRESS DISORDER (PTSD)"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"prolonged griefposttraumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Trauma"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"acute stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"ACUTE STRESS DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"post-traumatic stress disorder (ptsd)"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Post-traumatic stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"c-ptsd"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"DISINHIBITED SOCIAL ENGAGEMENT"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"C-ptsd"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Prolonged grief"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"DISINHIBITED SOCIAL ENGAGEMENT DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Acute Stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"C-PTSD"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"complex post-traumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Disinhibited Social Engagement Disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Prolonged grief disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Disinhibited social engagement"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"POSTTRAUMATIC STRESS"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Prolonged griefposttraumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Posttraumatic stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"trauma"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"TRAUMA"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Reactive Attachment Disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"ACUTE STRESS"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"ADJUSTMENT DISORDER"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"post-traumatic stress disorder (PTSD)"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"acute stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"REACTIVE ATTACHMENT"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"post-traumatic stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Acute stress"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"ADJUSTMENT DISORDERS"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"disinhibited social engagement disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"PTSD"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"posttraumatic stress disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"Disinhibited social engagement disorder"}
+{"label":"TRAUMA AND STRESS RELATED DISORDERS","pattern":"REACTIVE ATTACHMENT DISORDER"}

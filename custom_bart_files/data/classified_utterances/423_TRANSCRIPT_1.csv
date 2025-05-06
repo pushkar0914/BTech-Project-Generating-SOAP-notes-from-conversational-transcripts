@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+"Hi, welcome back! It’s nice to see you again. How have you been since our last session?",T,Insignificant
+"I've been okay, a bit stressed, but managing.",P,History of Present Illness (HPI)
+"I'm glad to hear you're managing. Last time, you mentioned feeling a little stressed. What do you think has been causing that stress for you?",T,History of Present Illness (HPI)
+"Just the usual things, you know? Job searching and trying to figure out my next steps.",P,History of Present Illness (HPI)
+That sounds challenging. Have you had any new experiences or insights in your job search since we last spoke?,T,Insignificant
+"I applied to a few places, but I haven't heard back yet. It's a bit disheartening.",P,History of Present Illness (HPI)
+It can be tough waiting for responses. How do you cope with that waiting period?,T,Insignificant
+"I try to keep myself busy, but sometimes I just feel anxious about it.",P,History of Present Illness (HPI)
+Anxiety can be difficult to manage. What do you do when you start to feel anxious?,T,Insignificant
+"I usually listen to meditation tapes or go for walks, like I mentioned last time.",P,Therapeutic Interventions
+Those sound like good strategies. Have you found those techniques to be effective lately?,T,Insignificant
+"Sometimes, but other times it feels like my mind just races.",P,History of Present Illness (HPI)
+"It’s normal for the mind to race, especially when you’re under stress. Would you like to explore some techniques to help calm that racing mind?",T,Insignificant
+"Sure, that would be helpful.",P,Insignificant
+Great! One technique we could try is mindfulness meditation. Have you ever practiced mindfulness before?,T,Therapeutic Interventions
+"I’ve heard of it, but I’ve never really tried it.",P,Insignificant
+Mindfulness involves focusing on the present moment without judgment. It can help reduce anxiety. Would you like to try a brief mindfulness exercise together?,T,Therapeutic Interventions
+"Okay, I’m willing to try.",P,Insignificant
+"Alright, let’s take a moment to focus on our breath. Inhale deeply through your nose… hold it for a moment… and exhale slowly through your mouth. Let’s do that a few times together.",T,Therapeutic Interventions
+*inhales and exhales* ,P,Insignificant
+"Good. As you breathe, try to notice any sensations in your body. If thoughts come to mind, acknowledge them and gently bring your focus back to your breath.",T,Therapeutic Interventions
+*pauses* I feel a little more relaxed.,P,Mental Health Observations
+That’s wonderful to hear! Mindfulness can be a powerful tool. How do you think you might incorporate this practice into your daily routine?,T,Insignificant
+I could set aside a few minutes each day to just breathe and focus.,P,Next Steps
+That sounds like a great plan. It’s all about consistency. What other coping strategies do you think you could use alongside mindfulness?,T,Insignificant
+Maybe journaling? I’ve thought about writing down my thoughts and feelings.,P,Therapeutic Interventions
+Journaling is an excellent idea! It can help you process your emotions and provide clarity. Have you ever journaled before?,T,Insignificant
+"I tried it a few times, but I never kept it up.",P,History of Present Illness (HPI)
+That’s common. It can be helpful to set a specific time each day or week to write. Would you like to set a goal for your journaling practice?,T,Next Steps
+"I could aim for writing once a week, maybe on Sundays.",P,Next Steps
+That sounds like a manageable goal. How do you feel about that?,T,Insignificant
+I feel good about it. It’s something I can commit to.,P,Insignificant
+"Wonderful! Let’s check in about that in our next session. Now, I’d like to revisit something we talked about last time—the relationship you mentioned. How have you been feeling about it recently?",T,Insignificant
+"I’ve been trying to let go, but it’s still hard sometimes.",P,History of Present Illness (HPI)
+It’s understandable. Letting go of a long-term relationship can take time. What specific feelings come up for you when you think about it?,T,Insignificant
+"I feel a mix of sadness and relief, I guess. Sadness because of the memories, but relief because I know it’s for the best.",P,History of Present Illness (HPI)
+That’s a very insightful reflection. It’s okay to feel both emotions at once. Have you found any ways to honor those memories while also moving forward?,T,Insignificant
+"I’ve thought about creating a small ritual, like lighting a candle and reflecting on the good times.",P,Therapeutic Interventions
+That sounds like a beautiful way to honor the past while also allowing yourself to heal. Would you like to try that for the next week?,T,Next Steps
+"Yes, I think I will.",P,Insignificant
+Great! Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+I’ve been feeling a bit lonely since I don’t have many close friends.,P,History of Present Illness (HPI)
+Loneliness can be tough to navigate. Have you considered reaching out to old friends or joining new social groups?,T,Insignificant
+"I’ve thought about it, but I’m not sure where to start.",P,Insignificant
+How about starting with a hobby or interest you enjoy? That could be a great way to meet new people.,T,Insignificant
+That’s a good idea. I love crafting; maybe I could join a local class.,P,Next Steps
+That sounds like a fantastic plan! Classes can provide a supportive environment to meet others with similar interests. How does that make you feel?,T,Insignificant
+"Excited, actually. I think I’ll look into it.",P,Insignificant
+I’m glad to hear that! It’s important to take small steps toward building connections. Let’s aim to discuss your experiences with that in our next session. ,T,Next Steps
+Sounds good. Thank you for the support.,P,Insignificant
+"Of course! I’m here for you. Remember to practice your mindfulness and journaling, and I look forward to hearing about your progress next time. Take care!",T,Insignificant
+You too! Goodbye.,P,Insignificant

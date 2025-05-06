@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's Ellie. How have you been since our last session?",T,Insignificant
+"Hey, um, I've been okay I guess. A bit more stressed than I was before, but managing.",P,History of Present Illness (HPI)
+I'm glad to hear you're managing. What do you think has contributed to that increased stress?,T,History of Present Illness (HPI)
+I think work has been a bit more demanding lately. Just a lot of pressure to meet targets.,P,History of Present Illness (HPI)
+That sounds challenging. How do you usually cope with work-related stress?,T,Insignificant
+"I try to hit the gym more often, but sometimes I just feel overwhelmed and don't go.",P,History of Present Illness (HPI): Current Functional Status
+It's understandable to feel that way. Have you had a chance to go to the gym since we last talked?,T,Insignificant
+"Yeah, I did go a couple of times, but then I fell off again. It’s like I have a hard time sticking to routines.",P,Current Functional Status
+That can be tough. Would you like to explore ways to help you maintain that routine?,T,Insignificant
+"Yeah, I think that would be helpful.",P,Insignificant
+Great! What do you think has made it difficult for you to stick to that routine?,T,Insignificant
+"I guess I just lose motivation when I’m feeling down or stressed. Plus, sometimes I just don't have the energy.",P,History of Present Illness (HPI): Physiological Observations
+It sounds like your mood and energy levels play a big role in your motivation. How have you been feeling emotionally overall?,T,Insignificant
+"I’ve been feeling more irritable and down, like I mentioned last time. ",P,History of Present Illness (HPI)
+I remember you saying that. Have you noticed any specific triggers for those feelings?,T,Insignificant
+"Yeah, definitely when I feel overwhelmed at work or when I have financial worries. ",P,History of Present Illness (HPI): Risk Assessment
+Those are significant stressors. Have you thought about any strategies to manage those feelings when they arise?,T,Insignificant
+"I’ve tried deep breathing exercises, but I don’t always remember to do them when I need them.",P,Current Functional Status
+That’s a common challenge. Would it help to set reminders or incorporate those exercises into your daily routine?,T,Insignificant
+"Yeah, that could work. Maybe I could set a reminder on my phone.",P,Next Steps
+"That sounds like a solid plan. You could also consider pairing the exercises with something you already do daily, like your morning coffee or before bed.",T,Therapeutic Interventions
+"That’s a good idea. I usually have coffee every morning, so that could work.",P,Insignificant
+Excellent! Let’s also talk about your feelings of irritability. How have those affected your relationships?,T,Insignificant
+"I think I’ve been a bit snappier with friends and family. I don’t mean to be, but I can’t help it sometimes.",P,History of Present Illness (HPI): Psychosocial History
+It’s understandable to feel that way when you're under pressure. Have you had any conversations with them about how you’re feeling?,T,Insignificant
+Not really. I guess I don’t want them to worry or think I’m complaining.,P,History of Present Illness (HPI): Psychosocial History
+"That’s a valid concern. However, sharing your feelings might help them understand your behavior better. Would you be open to trying that?",T,Next Steps
+"Yeah, I think I could try talking to my best friend about it. He usually gets it.",P,Next Steps
+That’s a great step! It sounds like he’s a positive influence in your life. How do you think he would respond?,T,Insignificant
+He’d probably be supportive. He’s good at listening.,P,Insignificant
+That’s wonderful. Having someone to talk to can be really beneficial. Do you feel like you have a support system in place?,T,Insignificant
+"I think so. I have friends and family, but I just don’t always reach out.",P,Psychosocial History
+"It can be tough to reach out, especially when you're feeling down. What do you think holds you back from reaching out more often?",T,Insignificant
+I guess I feel like I should handle things on my own. Like it’s a burden to others.,P,Psychosocial History
+"It’s common to feel that way, but remember that friends often want to support you. It can strengthen your relationships when you share what you’re going through.",T,Insignificant
+That makes sense. I’ll try to remember that.,P,Insignificant
+"Good! Let’s also talk about your goals. Last time, you mentioned wanting to own several businesses. How are you feeling about that dream now?",T,Insignificant
+"Honestly, it feels a bit far off right now. With everything going on, it’s hard to stay focused on that.",P,History of Present Illness (HPI)
+It’s understandable to feel that way when you’re dealing with stress. What small steps could you take to get closer to that goal?,T,Insignificant
+Maybe I could start by researching the types of businesses I’m interested in or networking with people in those fields.,P,Next Steps
+That sounds like a great idea! Even small steps can help you feel more connected to your goals. ,T,Insignificant
+"Yeah, I think I could do that.",P,Insignificant
+Wonderful! It sounds like you have a plan forming. Is there anything specific you want to focus on for our next session?,T,Insignificant
+I’d like to have a clearer plan for managing my stress and maybe talk more about my goals.,P,Next Steps
+That sounds perfect. We can work on stress management techniques and break down your goals into actionable steps. ,T,Therapeutic Interventions
+Sounds good to me.,P,Insignificant
+Great! I’m looking forward to our next session. Remember to take care of yourself in the meantime.,T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+You’re welcome! See you next time.,T,Insignificant

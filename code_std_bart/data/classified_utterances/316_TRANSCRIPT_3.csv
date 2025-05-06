@@ -1,0 +1,32 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s wonderful to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing a bit better. I actually called my family last week.",P,History of Present Illness (HPI)
+That’s fantastic! How did that go?,T,Insignificant
+"It was really nice. We talked for a long time, and it felt good to reconnect.",P,History of Present Illness (HPI)
+I’m so glad to hear that! It sounds like that connection brought you some joy. How did it impact your mood afterward?,T,Insignificant
+"I felt more grounded, like I wasn’t so alone. It was comforting.",P,History of Present Illness (HPI)
+That’s wonderful progress. Have you been able to keep up with your painting as well?,T,Insignificant
+"Yes, I painted again! I did a piece inspired by our conversation about sunsets.",P,Current Functional Status
+That’s amazing! It seems like you’re finding ways to express yourself creatively. How did that make you feel?,T,Insignificant
+It felt liberating. I think I’m starting to enjoy the process more than worrying about the outcome.,P,History of Present Illness (HPI)
+That’s a significant shift! Embracing the process can be very therapeutic. Have you noticed any changes in your motivation or energy levels since incorporating these activities?,T,Insignificant
+"I think so. I still have my low days, but I feel like I have more tools to cope with them now.",P,History of Present Illness (HPI):Current Functional Status
+That’s a great insight. It’s important to recognize that progress isn’t always linear. Are there any particular coping strategies that have worked best for you?,T,Insignificant
+The mindfulness exercises have been helpful. I’ve been trying to remember to practice them every morning.,P,Therapeutic Interventions
+That’s excellent! Consistency can really help solidify those habits. How do you feel when you practice mindfulness?,T,Insignificant
+I feel more centered and ready to face the day. It helps clear my mind.,P,History of Present Illness (HPI):Current Functional Status
+I’m really proud of you for committing to that practice. Is there anything you’d like to explore further today?,T,Insignificant
+I’ve been thinking about my job search again. I feel a bit overwhelmed at times.,P,History of Present Illness (HPI)
+"It’s understandable to feel overwhelmed. Have you broken down your job search into smaller, manageable steps?",T,Insignificant
+I haven’t really. I think I just look at the big picture and get stressed.,P,History of Present Illness (HPI)
+Let’s try breaking it down together. What are some small steps you could take this week?,T,Insignificant
+Maybe I could spend some time updating my resume and applying to one or two jobs.,P,Next Steps
+"That sounds like a great plan! Setting small, achievable goals can help reduce that feeling of overwhelm. ",T,Insignificant
+I like that idea. I think I can handle that.,P,Insignificant
+"Fantastic! Let’s check in about how that goes in our next session. Remember to celebrate those small victories, no matter how minor they may seem.",T,Next Steps
+I will. Thank you for the reminder.,P,Insignificant
+You’re doing great work. I’m here to support you through this process. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think that covers it for now.",P,Insignificant
+Alright! I’m looking forward to hearing about your progress next time. Take care of yourself.,T,Insignificant
+"Thanks, Ellie! See you next time!",P,Insignificant
+Bye!,T,Insignificant

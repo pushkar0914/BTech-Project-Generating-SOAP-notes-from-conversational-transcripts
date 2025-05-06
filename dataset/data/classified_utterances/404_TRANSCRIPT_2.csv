@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s nice to see you. How have you been since we last met?,T,Insignificant
+"Hi, Ellie! I’ve been doing well. I tried the breathing exercises we talked about.",P,Progress Evaluation
+That’s great to hear! How did it go for you?,T,Insignificant
+"It helped a lot, especially before conversations. I felt less anxious.",P,Progress Evaluation: History of Present Illness (HPI)
+That’s fantastic! Did you have a chance to express your feelings in a conversation?,T,Insignificant
+"Yes, I did! I talked to my friend about how I felt when we argued about plans.",P,History of Present Illness (HPI)
+How did that go?,T,Insignificant
+"It went really well. She listened, and we ended up having a really good conversation.",P,Progress Evaluation
+That’s wonderful! It sounds like your practice is paying off. What did you learn from that experience?,T,Insignificant
+I learned that it’s okay to be vulnerable. It actually brought us closer.,P,Progress Evaluation
+That’s a significant realization. Vulnerability can strengthen connections. How does that make you feel about future conversations?,T,Insignificant
+I feel more confident now. I think I can express myself more often.,P,Progress Evaluation
+That’s a great shift in perspective. Are there any challenges you’re still facing?,T,Insignificant
+I still struggle with guilt about my bird. It lingers sometimes.,P,History of Present Illness (HPI): Psychosocial History
+It’s normal for those feelings to come and go. Have you found any strategies that help you cope with that guilt?,T,Insignificant
+I’ve been trying to remind myself that I did what I thought was best at the time.,P,Progress Evaluation
+That’s a healthy approach. It’s important to be compassionate towards yourself. Would you like to explore ways to honor your bird’s memory?,T,Insignificant
+"Yes, I think that could help.",P,Insignificant
+One idea could be to create a small ritual or a memory space for your bird. What do you think?,T,Insignificant
+That sounds nice. Maybe I could plant a flower or something in its memory.,P,Therapeutic Interventions
+That’s a beautiful idea. It could be a way to celebrate its life while also allowing you to process your feelings. How does that resonate with you?,T,Insignificant
+It feels comforting. I like the idea of having a place to remember it.,P,Insignificant
+I’m glad to hear that. Would you like to set a goal around creating that memory space?,T,Next Steps
+"Yes, I’ll aim to do that by next month.",P,Next Steps
+"That sounds perfect. As we continue to work on your feelings of guilt and your relationships, is there anything else you’d like to discuss today?",T,Insignificant
+I’ve been thinking about my family dynamics. I still feel torn between wanting to spend time with them and needing my own space.,P,History of Present Illness (HPI): Psychosocial History
+That’s a common struggle. How do you currently navigate that balance?,T,Insignificant
+"I often end up giving in to their needs, even when I need time alone.",P,History of Present Illness (HPI)
+It sounds like you’re putting others before yourself. Would you like to explore ways to communicate your needs to your family?,T,Insignificant
+"Yes, I think that would be helpful.",P,Insignificant
+One approach could be to set boundaries. Have you ever tried discussing your need for personal time with them?,T,Insignificant
+Not really. I worry they might take it personally.,P,History of Present Illness (HPI)
+That’s understandable. It might help to frame it as a way for you to recharge so you can be more present when you are with them. Would you feel comfortable trying that?,T,Insignificant
+I think I could try that. I want them to understand that it’s not about them.,P,Therapeutic Interventions
+That’s a great mindset. Setting boundaries can be a healthy way to maintain relationships. How do you feel about taking that step?,T,Insignificant
+"I feel nervous, but I also think it’s necessary.",P,History of Present Illness (HPI)
+"It is necessary for your well-being. Remember, it’s okay to prioritize yourself. What’s one thing you can do this week to start that conversation?",T,Insignificant
+I could talk to my mom this weekend about needing some time for myself.,P,Next Steps
+That sounds like a good plan. How do you feel about approaching that conversation?,T,Insignificant
+"A bit anxious, but I think it’s time.",P,History of Present Illness (HPI)
+"It is time. You’re making great strides in your self-awareness and communication. As we wrap up today, what’s one takeaway you’d like to carry with you?",T,Insignificant
+"I want to focus on being honest about my needs, both with myself and my family.",P,Next Steps
+That’s a powerful takeaway. I’m proud of the progress you’re making. I look forward to hearing how it goes next time. Take care!,T,Insignificant
+"Thank you, Ellie. I appreciate your support. See you next time!",P,Insignificant

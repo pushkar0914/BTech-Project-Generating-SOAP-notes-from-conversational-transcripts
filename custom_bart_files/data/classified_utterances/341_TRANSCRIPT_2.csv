@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How has your week been?,T,Insignificant
+"Hi, Ellie! It’s been a bit hectic, but I’m managing. I started planning out my study schedule.",P,History of Present Illness (HPI)
+That’s fantastic! How did that go for you?,T,Insignificant
+"It was a bit overwhelming at first, but once I got it down, it felt good to have a plan.",P,History of Present Illness (HPI)
+That’s great to hear! What did you include in your schedule?,T,Insignificant
+"I set aside three evenings a week for studying, and I also added in breaks for self-care.",P,Current Functional Status
+That sounds balanced. How do you feel about the time you’ve allocated for self-care?,T,Insignificant
+"I think it’s important. I included time for walks and reading, which helps me unwind.",P,Current Functional Status
+Those are excellent self-care activities. Have you been able to stick to your schedule so far?,T,Insignificant
+"Mostly, but I did miss one study session because my son had a rough day.",P,History of Present Illness (HPI)
+That’s understandable. How did you handle that situation?,T,Insignificant
+I just shifted my study time to the next day and made sure to give him extra attention.,P,Current Functional Status
+That’s a healthy response. It shows you’re being flexible while also prioritizing your son’s needs.,T,Insignificant
+Thanks! I’m trying to find that balance.,P,Insignificant
+"It’s a process, and it sounds like you’re doing well. Have you noticed any changes in your motivation or mood since starting your studies?",T,Insignificant
+"I feel more energized, actually. Having a goal is really motivating for me.",P,History of Present Illness (HPI)
+That’s wonderful! It’s great to see how setting goals can positively impact your mood. Have you had a chance to talk to your mom about your boundaries?,T,Insignificant
+"Yes, I did! It was a bit awkward, but I think she got my point.",P,History of Present Illness (HPI)
+How did she respond?,T,Insignificant
+"She was defensive at first, but I think she realized I wasn’t trying to push her away. ",P,History of Present Illness (HPI)
+That’s a positive outcome. It sounds like you both are making progress in your communication.,T,Insignificant
+"Yeah, I think so. I just hope she continues to respect my boundaries.",P,History of Present Illness (HPI)
+"It may take time, but you’re setting a good foundation. Have you noticed any changes in your relationship since that conversation?",T,Insignificant
+"A little bit. She seems to be more supportive, which is nice.",P,History of Present Illness (HPI)
+That’s great to hear! It’s important to acknowledge those small changes. Is there anything else on your mind today?,T,Insignificant
+I’ve been feeling a bit anxious about going back to school. What if I can’t handle it?,P,Presenting Problem / Chief Complaint
+It’s completely normal to feel anxious about new challenges. What specifically worries you?,T,Insignificant
+I’m just afraid of failing or not being able to keep up with everything.,P,Presenting Problem / Chief Complaint
+Those thoughts can be daunting. Have you considered reframing those fears into more positive thoughts?,T,Insignificant
+I haven’t really thought about it. What do you mean?,P,Insignificant
+"Instead of focusing on the possibility of failure, you could remind yourself of your strengths and past successes. ",T,Insignificant
+That makes sense. I have done well in my courses before.,P,History of Present Illness (HPI)
+Exactly! It’s about recognizing your capabilities. You’ve already shown resilience in parenting and your studies.,T,Insignificant
+"Thanks, that helps me feel a bit better.",P,Insignificant
+"I’m glad to hear that. Remember, it’s okay to take things one step at a time. ",T,Insignificant
+I will! I think breaking it down will help me feel less overwhelmed.,P,Insignificant
+That’s a great strategy. Would you like to set a specific goal for your studies this week?,T,Insignificant
+Sure! I want to finish the first module of my course.,P,Next Steps
+That’s a solid goal. How will you track your progress?,T,Insignificant
+I’ll use a planner to check off tasks as I complete them.,P,Next Steps
+That sounds effective. It can be very rewarding to see your progress visually.,T,Insignificant
+I’m excited to get started!,P,Insignificant
+That’s the spirit! Remember to celebrate those small victories along the way.,T,Insignificant
+"I will! Thank you for your support, Ellie.",P,Insignificant
+You’re welcome! I’m here to help. I look forward to hearing about your progress next week.,T,Insignificant
+Me too! See you next time!,P,Insignificant
+Take care until then!,T,Insignificant

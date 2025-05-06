@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. It's nice to see you back today. How have you been since our last session?",T,Insignificant
+"Hey, Ellie. I've been okay, I guess. Just the usual tiredness and feeling down.",P,History of Present Illness (HPI)
+"I appreciate you sharing that. Last time, we talked about some of the challenges you've been facing, especially with your depression and feelings of fatigue. Have you noticed any changes since then?",T,History of Present Illness (HPI)
+"Not really. I still feel pretty unmotivated and just… stuck, you know?",P,History of Present Illness (HPI)
+"I understand. It can feel overwhelming when you're in that state. Have you had a chance to try any of the coping strategies we discussed, like setting small goals for yourself?",T,Therapeutic Interventions
+"I tried to set a goal to go for a walk every day, but I only managed it a couple of times. I just didn’t have the energy.",P,Current Functional Status
+"That’s completely understandable. It’s great that you attempted it, even if it didn’t happen every day. What do you think held you back from going for those walks?",T,Insignificant
+"I think it’s just the heaviness I feel. Some days, I just don’t want to get out of bed.",P,History of Present Illness (HPI)
+That heaviness can be really challenging. It sounds like it might be a mix of physical fatigue and emotional weight. How have you been feeling about your sleep lately?,T,Insignificant
+"Well, I’ve been sleeping a lot, but it’s not really restful. I wake up feeling just as tired.",P,Physiological Observations
+That can definitely contribute to your overall mood and energy levels. Have you noticed any specific thoughts or worries that come up before you sleep or when you wake up?,T,Insignificant
+"Yeah, I keep thinking about money and how I’m going to make it through the month. It’s really stressful.",P,History of Present Illness (HPI)
+Financial stress can be a significant burden. It’s understandable that it would affect your sleep and mood. Have you considered any strategies to help manage those financial worries?,T,Therapeutic Interventions
+"I’ve thought about budgeting, but it just feels like too much right now.",P,History of Present Illness (HPI)
+"That’s a common feeling, especially when you’re already feeling overwhelmed. Would it help if we broke it down into smaller steps together?",T,Therapeutic Interventions
+Maybe. I guess I could try that.,P,Insignificant
+Great! Let’s start with just identifying your essential expenses. What are the things you absolutely need to cover each month?,T,Insignificant
+"Well, I have rent, utilities, and food, of course. And I have to get my cigarettes, too.",P,History of Present Illness (HPI)
+"It sounds like you have a clear idea of your essentials. Once we identify those, we can look at what’s left and see if there are any areas where you might be able to save a little. How does that sound?",T,Insignificant
+That sounds okay. I just want to feel less anxious about it all.,P,History of Present Illness (HPI)
+"Absolutely, and taking small steps can help reduce that anxiety. Let’s also talk about your emotional well-being. Have you had any moments of joy or things that made you smile this past week?",T,Insignificant
+Hmm… I guess I enjoyed a couple of episodes of a show I like. That made me laugh.,P,History of Present Illness (HPI)
+"That’s wonderful! Finding those moments of joy, even in small things, is really important. Would you be willing to set a goal to watch something that makes you happy a few times a week?",T,Therapeutic Interventions
+"Yeah, I can do that. It’s nice to laugh.",P,Insignificant
+I’m glad to hear that! Laughter can be a great way to lift your spirits. Do you think there are other activities that might bring you joy or relaxation?,T,Insignificant
+"I used to enjoy crocheting and making jewelry, but I haven’t felt like doing that lately.",P,History of Present Illness (HPI)
+It sounds like you have some creative outlets that you used to enjoy. Would you be open to trying to set aside a little time for those activities again?,T,Therapeutic Interventions
+I guess I could try. Maybe it would help me feel better.,P,Insignificant
+"That’s the spirit! Remember, it’s about starting small. Even spending just a few minutes on something you enjoy can be beneficial. ",T,Therapeutic Interventions
+"Yeah, I’ll give it a shot.",P,Insignificant
+"Fantastic! As we wrap up today, let’s set a couple of goals for the week. One could be to watch a couple of episodes of your favorite show, and the other could be to try crocheting for a short time. How does that sound?",T,Next Steps
+Sounds good. I think I can manage that.,P,Next Steps
+"Great! I’m looking forward to hearing how it goes in our next session. Remember, it’s okay to take things one step at a time. You’re doing better than you think.",T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"You’re welcome! Take care of yourself, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

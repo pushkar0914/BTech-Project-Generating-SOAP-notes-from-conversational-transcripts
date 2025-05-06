@@ -1,0 +1,56 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, I guess. Just the usual ups and downs.",P,Insignificant
+"I understand. Last time, we talked about your feelings regarding your family and your current challenges with your child. Have there been any developments in that area?",T,History of Present Illness (HPI)
+"Well, I had a meeting with my lawyer about the custody situation. It was stressful, but I felt good about advocating for myself.",P,History of Present Illness (HPI)
+That sounds like a positive step. How did you feel during the meeting?,T,History of Present Illness (HPI)
+"I felt a mix of anxiety and determination. I was worried about how it would go, but I also felt empowered to speak up for what I believe is right for my son.",P,History of Present Illness (HPI)
+That’s great to hear. It sounds like you’re finding your voice. Did you use any of the relaxation techniques we discussed last time before the meeting?,T,History of Present Illness (HPI)
+I did! I took some time to meditate and just breathe. It helped me calm down a bit.,P,History of Present Illness (HPI)
+Wonderful! Meditation can be a powerful tool. How did you feel afterward?,T,History of Present Illness (HPI)
+"After the meeting, I felt relieved. I was proud of myself for standing up for my son, but then I also felt a wave of exhaustion afterward.",P,Physiological Observations
+That makes sense. Advocating for yourself can be draining. How are you coping with that exhaustion?,T,History of Present Illness (HPI)
+I’ve been trying to take more breaks and spend time with my dogs. They’re really soothing.,P,Current Functional Status
+That’s a good strategy. Animals can provide great emotional support. Have you noticed any changes in your mood since you’ve started focusing on self-care?,T,History of Present Illness (HPI)
+"A little, yeah. I feel lighter when I’m with them. But then I get hit with the reality of my situation, and it’s tough.",P,History of Present Illness (HPI)
+It’s completely normal to feel that way. It’s important to acknowledge those feelings. What do you think is contributing to the heaviness you feel?,T,History of Present Illness (HPI)
+I think it’s the constant worry about my son and the fear of losing him. It’s like this dark cloud that follows me around.,P,History of Present Illness (HPI):Risk Assessment
+"That’s a heavy burden to carry. Have you considered talking to someone else about your feelings, like a support group or a trusted friend?",T,History of Present Illness (HPI)
+"I’ve thought about it, but I’m not sure where to start. I don’t want to burden anyone.",P,History of Present Illness (HPI)
+"It’s understandable to feel that way, but remember that sharing can also lighten your load. Maybe you could start with a close friend or someone who has been through similar experiences?",T,History of Present Illness (HPI)
+"Yeah, that makes sense. I have a few friends who might understand. ",P,Current Functional Status
+That’s a positive step. Building a support system can really help. How do you feel about your relationship with your friends lately?,T,History of Present Illness (HPI)
+"It’s a bit rocky, to be honest. I feel like I’ve been distant because I’m so consumed with everything going on.",P,History of Present Illness (HPI)
+That’s common when we’re dealing with a lot. It can be hard to reach out. Is there a specific friend you feel comfortable reconnecting with?,T,History of Present Illness (HPI)
+"There’s one friend, Sarah. She’s always been there for me, but I haven’t talked to her in a while.",P,History of Present Illness (HPI)
+Reaching out to Sarah could be a great way to reconnect and relieve some of that burden. How do you think she would react?,T,History of Present Illness (HPI)
+I think she’d be supportive. She’s always been understanding about my struggles.,P,History of Present Illness (HPI)
+That’s encouraging. Maybe you could set a small goal to reach out to her this week? ,T,Next Steps
+"Yeah, I think I can do that. Just a text to check in.",P,Next Steps
+"That sounds like a manageable step. As we continue to explore your feelings about your family and your son, do you have any specific goals for our sessions moving forward?",T,Next Steps
+I want to work on managing my anxiety better and finding ways to cope with the stress of the custody battle.,P,Next Steps
+Those are excellent goals. We can definitely focus on anxiety management techniques. Have you tried any specific strategies for that yet?,T,Next Steps
+"I’ve been trying to practice mindfulness, but it’s hard to stay focused.",P,Next Steps
+"Mindfulness can be challenging, especially when your mind is racing. Would you like to try a guided mindfulness exercise together right now?",T,Therapeutic Interventions
+"Sure, that sounds good.",P,Therapeutic Interventions
+Great! Let’s take a moment to close our eyes and take a deep breath in… and out. Focus on the sensation of your breath moving in and out of your body. ,T,Therapeutic Interventions
+"Okay, I’m focusing.",P,Therapeutic Interventions
+"If your mind starts to wander, gently bring your attention back to your breath. Let’s do this for a minute.",T,Therapeutic Interventions
+<pause> It feels nice to just breathe and not think about everything.,P,Therapeutic Interventions
+Exactly. This can be a powerful tool to help ground you during stressful moments. How do you feel now?,T,Therapeutic Interventions
+A bit calmer. I like this.,P,Therapeutic Interventions
+I’m glad! Practicing this regularly can help you build resilience against anxiety. Would you like to incorporate this into your routine?,T,Next Steps
+"Yes, I think I will. ",P,Next Steps
+"Perfect! We can also explore other techniques, like journaling or physical exercise, to help manage your feelings. ",T,Therapeutic Interventions
+"That sounds good. I used to love running, but I haven’t done it in a while.",P,History of Present Illness (HPI)
+"Running can be a great way to release pent-up energy and stress. Perhaps you could set a goal to start running again, even if it’s just for a short time?",T,Next Steps
+"Yeah, I could start with a short jog. I do miss that feeling of freedom.",P,Next Steps
+That’s a great idea. Let’s set that as a goal for next week. How does that sound?,T,Next Steps
+Sounds doable. ,P,Next Steps
+"Excellent! I’m proud of you for taking these steps. Remember, it’s about progress, not perfection.",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+Of course! I’m here to help. Let’s check in again next week and see how things are going. ,T,Next Steps
+Sounds good. ,P,Insignificant
+"Take care, and remember to reach out to Sarah.",T,Next Steps
+I will. Bye!,P,Insignificant
+Bye!,T,Insignificant

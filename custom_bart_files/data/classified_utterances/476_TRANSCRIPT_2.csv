@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been good, actually. I started that gratitude journal, and it’s been really helpful.",P,History of Present Illness (HPI)
+That’s wonderful to hear! What have you been writing about?,T,Insignificant
+I’ve been focusing on the little victories in my music and the good times with my friends. It’s nice to reflect on those moments.,P,History of Present Illness (HPI)
+That’s fantastic! How does it feel to write those down?,T,Insignificant
+It feels rewarding. I didn’t realize how much I had to be grateful for until I started writing it down.,P,History of Present Illness (HPI)
+That’s a powerful realization. Have you noticed any changes in how you feel about yourself since starting the journal?,T,Insignificant
+I think I’m being kinder to myself. I’m not as harsh when I mess up.,P,History of Present Illness (HPI)
+That’s a significant shift! It sounds like you’re making great progress. Have you encountered any challenges while keeping the journal?,T,Insignificant
+Not really. I just sometimes forget to write in it.,P,History of Present Illness (HPI)
+That’s understandable. Would it help to set a specific time each week to remind yourself to write?,T,Insignificant
+"Yeah, I could set a reminder on my phone. ",P,Insignificant
+"That’s a great idea! Now, last time we discussed managing feelings of overwhelm. Have you had any opportunities to practice the breathing exercises we talked about?",T,Insignificant
+"Yes, I tried it a couple of times when I started feeling anxious about my music.",P,History of Present Illness (HPI)
+How did that go for you?,T,Insignificant
+It really helped! I felt a bit calmer and was able to focus better.,P,History of Present Illness (HPI)
+That’s excellent! It’s great to see you applying what we’ve discussed. Are there any other techniques you’d like to explore for managing anxiety?,T,Insignificant
+I think I’d like to learn more about mindfulness and maybe some grounding techniques.,P,Therapeutic Interventions
+Absolutely! Grounding techniques can be very effective. One simple method is the 5-4-3-2-1 technique. Would you like to try it together?,T,Therapeutic Interventions
+"Sure, I’m interested.",P,Insignificant
+Great! Let’s start by identifying five things you can see around you.,T,Insignificant
+"Um, I see my guitar, my phone, a plant, a window, and a picture on the wall.",P,Insignificant
+"Perfect! Now, what are four things you can touch?",T,Insignificant
+"My chair, my guitar, my notebook, and my hair.",P,Insignificant
+"Excellent. Now, can you name three things you can hear?",T,Insignificant
+"I can hear the clock ticking, some music in the background, and the sound of cars outside.",P,Insignificant
+"Good job! Now, can you identify two things you can smell?",T,Insignificant
+I can smell my coffee and a bit of fresh air from the window.,P,Insignificant
+"Great! And finally, one thing you can taste?",T,Insignificant
+Just a bit of coffee in my mouth.,P,Insignificant
+Fantastic! How do you feel after going through that exercise?,T,Insignificant
+I feel more present and less anxious. That was really helpful!,P,History of Present Illness (HPI)
+I’m glad to hear that! Practicing grounding techniques like this can help you in moments of anxiety. Would you like to incorporate this into your routine?,T,Therapeutic Interventions
+"Yeah, I think I’ll try to use it when I’m feeling overwhelmed, especially before performances.",P,Next Steps
+That sounds like a solid plan. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m still struggling a bit with the idea of being a part-time member of the band. I want to feel more secure in my role.,P,Presenting Problem / Chief Complaint
+That’s understandable. It’s tough when you don’t feel fully recognized. How has that affected your confidence?,T,Insignificant
+I think it makes me second-guess my abilities sometimes. I worry that I’m not good enough to be a full member.,P,History of Present Illness (HPI)
+"It’s natural to have those feelings, but remember that your worth is not defined by your role in the band. Have you communicated your feelings to your bandmates?",T,Insignificant
+Not really. I’m not sure how they’d react.,P,History of Present Illness (HPI)
+It might be worth exploring that conversation. Open communication can help clarify your position and strengthen your relationships. Would you feel comfortable discussing this with them?,T,Insignificant
+I think I could try. It might help to just get it off my chest.,P,Next Steps
+Absolutely! You deserve to feel secure in your contributions. How about setting a goal to have that conversation before our next session?,T,Next Steps
+"Yeah, I’ll aim for that.",P,Next Steps
+"Great! I’m looking forward to hearing how it goes. Remember, you’re making progress, and it’s okay to take your time with these feelings.",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+See you!,P,Insignificant

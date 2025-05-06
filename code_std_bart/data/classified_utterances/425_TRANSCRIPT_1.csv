@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, I guess. Still looking for a place, but I did apply for a few jobs.",P,History of Present Illness (HPI)
+That’s a positive step! How did the job applications go?,T,Insignificant
+"Well, I submitted a couple of applications. I haven’t heard back yet, which is a bit discouraging.",P,History of Present Illness (HPI)
+It's understandable to feel discouraged. Have you found any strategies to manage that feeling while you wait?,T,Insignificant
+"I’ve been trying to keep busy, you know? Watching shows, spending time with my son. It helps a little.",P,History of Present Illness (HPI)
+That sounds like a good approach. What kind of shows have you been watching?,T,Insignificant
+"Mostly those home improvement shows. They make me feel good, like there's potential for change.",P,History of Present Illness (HPI)
+It’s interesting how those shows can inspire hope. Do you find that you relate to the transformations they showcase?,T,Insignificant
+Definitely! I think I see my own life in those before-and-after scenarios. I just wish I could see that change in my own situation.,P,History of Present Illness (HPI)
+That longing for transformation is very human. What would your “after” look like in your life right now?,T,Insignificant
+"I think it would be having my own space, a job I enjoy, and feeling more settled overall.",P,Presenting Problem / Chief Complaint
+Those are meaningful goals. Let’s break them down. What’s the first step towards finding your own space?,T,Insignificant
+I guess I need to keep looking at listings and maybe reach out to some friends for recommendations.,P,Next Steps
+That sounds like a proactive plan. How do you feel about reaching out to friends for help?,T,Insignificant
+"I feel a little shy about it, but I know they would help if I asked.",P,History of Present Illness (HPI)
+It’s okay to feel shy. Sometimes sharing our needs can foster deeper connections. Would you like to practice how you might ask them?,T,Insignificant
+"Sure, I could try that. Maybe something like, “Hey, I’m looking for a place to live. Do you know of any openings?”",P,Therapeutic Interventions
+That’s a great start! You could also share how important it is for you to have your own space. That might encourage them to help even more.,T,Insignificant
+"Yeah, I like that idea. It makes it more personal.",P,Insignificant
+"Exactly! Now, how about your job search? What types of jobs are you applying for?",T,Insignificant
+Mostly administrative roles or personal assisting. I think those would fit my skills best.,P,History of Present Illness (HPI)
+Those sound like good fits. Have you updated your resume or practiced your interview skills?,T,Insignificant
+I haven’t done much with my resume yet. I feel a bit rusty.,P,History of Present Illness (HPI)
+That’s completely normal. Would it help to set a small goal to update your resume this week?,T,Next Steps
+"Yes, I think that would help. Just getting it done would ease my mind.",P,Next Steps
+Great! And how about interview practice? Would you feel comfortable doing a mock interview?,T,Insignificant
+I think that would be helpful too. It’s been a while since I’ve interviewed.,P,Therapeutic Interventions
+We can definitely do that. Let’s schedule some time for it in our next session. How does that sound?,T,Next Steps
+That sounds good to me.,P,Insignificant
+"Awesome! Now, you mentioned feeling low-level depressed. Have you noticed any changes in your mood since we last talked?",T,History of Present Illness (HPI)
+"I still have those days where I feel a bit down, especially when I think about my situation.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you found any coping strategies that work for you when those feelings arise?,T,Insignificant
+I’ve been trying to write in my journal more. It helps me process my thoughts.,P,Therapeutic Interventions
+Journaling can be a powerful tool. What have you been writing about lately?,T,Insignificant
+Mostly about my feelings regarding the job search and my living situation.,P,History of Present Illness (HPI)
+That’s a good focus. It might also help to write about what you’re grateful for or any small victories you encounter.,T,Therapeutic Interventions
+That’s a nice idea. I could definitely use more positivity.,P,Insignificant
+"Yes, even small moments of gratitude can shift our perspective. What’s something you’re grateful for right now?",T,Insignificant
+I’m grateful for my son. He’s been really supportive through all this.,P,Psychosocial History
+That’s wonderful to hear. It sounds like you have a strong support system. How does he help you?,T,Insignificant
+He listens to me and encourages me to keep trying. He’s really patient with me.,P,Psychosocial History
+That’s a beautiful relationship. It’s important to have someone who believes in you. How do you feel about sharing your goals with him?,T,Insignificant
+I think I’d like to share my job and housing goals with him. It could help me feel more accountable.,P,Next Steps
+Absolutely! Sharing your goals can reinforce your commitment to them. Would you like to set a time to discuss that with him?,T,Insignificant
+I could bring it up during dinner tonight.,P,Next Steps
+"That sounds perfect. Remember, it’s okay to express your fears and hopes. It can deepen your bond.",T,Insignificant
+I will. Thanks for the encouragement.,P,Insignificant
+You’re welcome! I’m looking forward to hearing how that conversation goes. Is there anything else you’d like to cover today?,T,Insignificant
+"No, I think we’ve covered a lot already. I feel a bit more motivated.",P,History of Present Illness (HPI)
+"That’s great to hear! I’ll see you next time, and we can work on that mock interview.",T,Next Steps
+"Sounds good. Thank you, Ellie. Goodbye!",P,Insignificant
+Goodbye!,T,Insignificant

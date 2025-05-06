@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it’s good to see you again! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I’ve been trying to practice the mindfulness you suggested. It’s been... interesting.",P,History of Present Illness (HPI)
+That’s great to hear! What has your experience been like with the mindfulness practice?,T,Insignificant
+"At first, it was hard to focus, but I started to feel a little more relaxed after a few tries.",P,History of Present Illness (HPI)
+That’s a positive sign! It’s normal for it to feel challenging at first. Have you noticed any changes in your mood or how you cope since starting?,T,History of Present Illness (HPI)
+"A little. I think I’m more aware of when I start to feel overwhelmed, which is a start.",P,History of Present Illness (HPI)
+"That’s a significant step! Awareness is key. When you notice those feelings, what do you do next?",T,Insignificant
+I try to take a moment to breathe and remind myself to stay in the present. It helps a bit.,P,Therapeutic Interventions
+"Excellent! That’s a great technique to ground yourself. Have you had a chance to share your feelings with your kids or friends, as we discussed?",T,Insignificant
+I did talk to my daughter a little. I told her I’ve been feeling down. She was really supportive.,P,History of Present Illness (HPI)
+That’s wonderful! How did it feel to share that with her?,T,Insignificant
+"It felt good. I was nervous at first, but it was nice to let some of it out.",P,History of Present Illness (HPI)
+I’m glad to hear that! Sharing can be so relieving. Are there any other thoughts or feelings you’d like to explore today?,T,Insignificant
+"I’m still struggling with feeling stuck, especially with work. I feel unmotivated.",P,History of Present Illness (HPI)
+That’s understandable. Work can be a significant source of stress. What specifically is making you feel unmotivated?,T,Insignificant
+"I think it’s just the same routine every day. It feels monotonous, and I don’t feel challenged anymore.",P,History of Present Illness (HPI)
+"That makes sense. Sometimes, a lack of challenge can lead to feeling unfulfilled. Have you considered discussing your feelings with your supervisor or looking for new responsibilities?",T,Insignificant
+I haven’t. I guess I’m just afraid of how they’ll react.,P,Risk Assessment
+It’s natural to feel that way. But expressing your desire for more challenges could open up opportunities. Would you feel comfortable drafting a plan to approach them about it?,T,Insignificant
+"Maybe. It sounds intimidating, but I see how it could help.",P,Insignificant
+How about we work together to create a plan? We can outline what you’d like to discuss and how you might frame it. ,T,Therapeutic Interventions
+That could be helpful. I could use some guidance.,P,Insignificant
+Absolutely! Let’s start with what you’d like to achieve in your role. What are some areas you feel passionate about or would like to explore?,T,Insignificant
+I think I’d like to take on more project management tasks. I enjoy organizing and leading.,P,History of Present Illness (HPI)
+That sounds like a great fit! How about we write down some specific examples of projects or responsibilities you’d like to discuss?,T,Insignificant
+Sure. I could say I want to help with team projects and maybe lead a few.,P,Insignificant
+Perfect! That gives you a concrete foundation to build on. Would you like to set a timeframe for when you want to approach your supervisor?,T,Insignificant
+Maybe in the next couple of weeks? I want to feel prepared.,P,Next Steps
+That sounds reasonable. Preparing will help you feel more confident. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that’s it for now. I feel a little more hopeful about things.,P,History of Present Illness (HPI)
+"I’m glad to hear that! Remember, it’s okay to take things one step at a time. You’re making progress, and I’m proud of you.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+You’re welcome! I look forward to hearing how your conversation with your supervisor goes. Take care!,T,Insignificant
+Bye!,P,Insignificant

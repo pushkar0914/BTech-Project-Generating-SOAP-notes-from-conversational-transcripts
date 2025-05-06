@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I've been okay, just keeping busy with work and family.",P,Psychosocial History
+"That’s good to hear. Last time, we talked about your desire to become a missionary and your relationship with your family. Have there been any updates on that front?",T,Insignificant
+"Well, we’re still planning on moving to Ecuador in the fall. We’ve been doing a lot of preparations, and it’s exciting but also a bit overwhelming.",P,History of Present Illness (HPI)
+It sounds like a significant change. What’s been the most overwhelming part for you?,T,Insignificant
+I think just the logistics of moving and making sure everything is in order for our kids. It’s a lot to think about.,P,History of Present Illness (HPI)
+That makes sense. Have you found any effective ways to manage that stress?,T,Insignificant
+"I’ve been trying to make lists and prioritize tasks. It helps to see everything laid out, but sometimes I still feel anxious about forgetting something important.",P,History of Present Illness (HPI):Mental Health Observations
+Creating lists is a great strategy. Have you considered any mindfulness techniques to help with the anxiety?,T,Insignificant
+"I’ve heard about mindfulness, but I haven’t really tried it. I’m not sure how to start.",P,Insignificant
+Mindfulness can be as simple as taking a few minutes to focus on your breath or being present in the moment. Would you like to try a short mindfulness exercise together now?,T,Therapeutic Interventions
+"Sure, I’d like to try that.",P,Insignificant
+"Great! Let’s take a deep breath in… and out. Focus on the sensation of your breath moving in and out of your body. If your mind wanders, gently bring it back to your breath. How does that feel?",T,Therapeutic Interventions
+It feels calming. I didn’t realize how much I needed that right now.,P,Mental Health Observations
+I’m glad to hear that. Practicing mindfulness regularly can help reduce anxiety. Do you think you could incorporate this into your daily routine?,T,Next Steps
+"I think I could try it, especially when I’m feeling overwhelmed.",P,Next Steps
+That’s a great plan. We also talked about your temper last time. Have you noticed any changes in how you manage your anger since our last session?,T,Insignificant
+"I’ve been more aware of it. I try to take a moment before reacting, especially with my wife. It’s been helpful.",P,Progress Evaluation
+That’s a positive step forward. Can you share a specific instance where you applied this awareness?,T,Insignificant
+"Just last week, my wife and I had a disagreement about our kids' bedtime. Instead of getting frustrated, I took a moment to breathe and then talked it through calmly.",P,Progress Evaluation
+That’s fantastic! How did that conversation go?,T,Insignificant
+It went really well. We ended up finding a solution that worked for both of us. I felt proud of how I handled it.,P,Progress Evaluation
+You should be proud! It sounds like you’re making progress in your communication skills. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my brother a lot. I feel guilty sometimes for not being closer to him.,P,History of Present Illness (HPI)
+It’s understandable to have those feelings. Can you elaborate on why you feel guilty?,T,Insignificant
+"I guess because I know he struggles, and I want to be there for him, but it’s hard with the way he is.",P,History of Present Illness (HPI)
+It’s commendable that you want to support him. Have you considered ways to connect with him that might feel more manageable?,T,Insignificant
+"I’ve thought about visiting him more often, maybe just spending time doing simple activities together.",P,Next Steps
+That sounds like a great idea. Simple activities can create meaningful connections. What do you think you could do together?,T,Insignificant
+Maybe just watching a movie or playing a game. Something low-pressure.,P,Next Steps
+That sounds perfect. How does that make you feel thinking about spending that time with him?,T,Insignificant
+"It makes me feel hopeful. I want to build that relationship, even if it’s just little by little.",P,History of Present Illness (HPI)
+"That’s a wonderful approach. Building relationships takes time, and it’s okay to take small steps. Is there anything else you’d like to discuss today?",T,Insignificant
+I think that covers it for now. I’m feeling more positive about things.,P,History of Present Illness (HPI):Progress Evaluation
+I’m glad to hear that. Let’s set a goal for you to practice mindfulness this week and maybe plan a visit with your brother. How does that sound?,T,Next Steps
+That sounds good to me.,P,Insignificant
+Great! I look forward to hearing how those go in our next session. Thank you for sharing today.,T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant
+Goodbye!,T,Insignificant

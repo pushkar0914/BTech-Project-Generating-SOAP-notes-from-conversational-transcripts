@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been pretty good. I’ve been trying to stick to my meditation and yoga goals.",P,History of Present Illness (HPI)
+That’s fantastic! How has that been going for you?,T,Insignificant
+"I’ve been able to meditate almost every morning, and I did a couple of yoga sessions at home. I feel more centered.",P,History of Present Illness (HPI)
+That’s wonderful to hear! It sounds like you’re making great strides in your practice. Have you noticed any changes in your mood or stress levels since you started?,T,Insignificant
+"Yes, I feel less anxious and more at peace. It’s like I’m able to handle challenges better.",P,History of Present Illness (HPI)
+That’s a significant improvement. It’s amazing how mindfulness practices can positively impact our mental health. Have you encountered any challenges while trying to maintain these practices?,T,Insignificant
+"Sometimes I struggle to find time, especially on busier days. But I remind myself that even a few minutes can help.",P,History of Present Illness (HPI)
+That’s a great mindset to have! Even short sessions can be beneficial. Have you found any strategies that help you fit these practices into your schedule?,T,Insignificant
+I try to wake up a little earlier or do a quick session right before bed.,P,Current Functional Status
+"That sounds like a solid plan. Consistency is key, and it’s great that you’re finding ways to incorporate these practices into your routine. Have you noticed any specific situations where your practices have helped you manage stress?",T,Insignificant
+"Definitely. The other day, I had a stressful meeting at work, and I took a few deep breaths and reminded myself to stay present. It really helped.",P,History of Present Illness (HPI)
+That’s an excellent example of applying mindfulness in real-life situations. It sounds like you’re becoming more adept at using these techniques. Have you had any other meaningful conversations or experiences recently?,T,Insignificant
+I had a heart-to-heart with a friend about our fears and insecurities. It felt liberating to be so honest.,P,Psychosocial History
+That’s wonderful! Vulnerability can deepen connections and foster understanding. How did that conversation impact your relationship with your friend?,T,Insignificant
+I feel like we’re closer now. It’s nice to know we’re not alone in our struggles.,P,Psychosocial History
+Absolutely. Sharing our fears can create a sense of camaraderie. Have you found that being open about your feelings has changed how you interact with others?,T,Insignificant
+"Yes, I think I’m more willing to express myself and ask for support when I need it.",P,Current Functional Status
+That’s a significant step forward. Seeking support is crucial for our well-being. Have you noticed any patterns in your emotional responses lately?,T,Insignificant
+I think I’m more aware of my emotions and can identify when I’m feeling overwhelmed. I try to take a step back and breathe.,P,Mental Health Observations
+That’s a valuable skill to have. Recognizing when you’re overwhelmed allows you to take proactive steps to manage your emotions. Is there anything specific you’d like to work on today?,T,Insignificant
+I’d like to explore more about managing stress and maybe some additional coping strategies.,P,Presenting Problem / Chief Complaint
+Great! We can discuss various techniques that can help you navigate stress more effectively. Have you ever tried journaling as a coping strategy?,T,Insignificant
+I’ve heard of it but never really tried it. How does it work?,P,Insignificant
+"Journaling can be a powerful tool for processing emotions and thoughts. It allows you to express yourself freely without judgment. You can write about your feelings, daily experiences, or even gratitude lists.",T,Therapeutic Interventions
+That sounds interesting! I think it could help me clarify my thoughts.,P,Insignificant
+Absolutely! It can also serve as a reflection tool to track your progress over time. Would you be willing to give it a try?,T,Next Steps
+"Yes, I’ll give it a shot. I think it could be beneficial.",P,Next Steps
+"Wonderful! We can also explore other techniques, like deep breathing exercises or grounding techniques, if you’re interested.",T,Therapeutic Interventions
+I’d love to learn more about grounding techniques. I think they could help me in stressful situations.,P,Next Steps
+Grounding techniques are great for bringing you back to the present moment. One simple method is the 5-4-3-2-1 technique. Would you like me to explain it?,T,Insignificant
+"Yes, please!",P,Insignificant
+"Alright! The idea is to engage your senses. You start by identifying five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. This helps anchor you in the present.",T,Therapeutic Interventions
+That sounds really helpful! I’ll definitely try that.,P,Insignificant
+Great! It can be particularly useful in moments of anxiety or overwhelm. Have you had any recent situations where you felt anxious or overwhelmed?,T,Insignificant
+"I had a family gathering that made me a bit anxious. There were a lot of people, and I felt a bit out of place.",P,History of Present Illness (HPI)
+Family gatherings can sometimes be challenging. How did you manage that anxiety during the event?,T,Insignificant
+I tried to focus on my breathing and remind myself that it was okay to feel uncomfortable. I also stepped outside for a few moments to regroup.,P,Mental Health Observations
+"That’s a fantastic strategy! Taking breaks and using breathing techniques can really help in those situations. How do you feel about family gatherings now, after having that experience?",T,Insignificant
+I think I’m learning to accept that it’s okay to feel anxious sometimes. I won’t let it stop me from attending.,P,Mental Health Observations
+That’s a great mindset! Acceptance can be a powerful tool in managing anxiety. Is there anything else you’d like to explore today?,T,Insignificant
+I think we’ve covered a lot already! I’m excited to try journaling and the grounding techniques.,P,Insignificant
+I’m glad to hear that! I look forward to hearing how those practices go for you in our next session. Thank you for sharing your thoughts and experiences today.,T,Insignificant
+"Thank you, Ellie. I appreciate your guidance.",P,Insignificant
+"Take care, and see you next time!",T,Insignificant
+Bye!,P,Insignificant

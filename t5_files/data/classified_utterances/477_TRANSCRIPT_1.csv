@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+"<sigh> Hi Ellie, it's nice to see you again.",P,Insignificant
+Hi! It’s great to see you too. How have you been since our last session?,T,Insignificant
+"I've been okay, just trying to get back into my routine after my trip.",P,History of Present Illness (HPI)
+I remember you mentioned struggling with getting back into your exercise routine. How has that been going?,T,History of Present Illness (HPI)
+"It's still a challenge. I went for a couple of walks, but I find it hard to motivate myself to go regularly.",P,History of Present Illness (HPI)
+"That’s understandable. Sometimes it takes a little push to get back into a habit. Have you thought about setting smaller, more achievable goals for yourself?",T,Insignificant
+"Yeah, I’ve been thinking about just starting with short walks, maybe 15-20 minutes a day, instead of trying to do longer hikes right away.",P,Next Steps
+That sounds like a great plan! Starting small can make it feel less overwhelming. Have you been able to incorporate that yet?,T,Insignificant
+"I did manage to go for a short walk yesterday. It felt good, but I still have to remind myself to keep it up.",P,Current Functional Status
+It’s a step in the right direction! How did you feel after your walk?,T,Insignificant
+"I felt relaxed and clear-headed, like it was a nice break from my work.",P,Mental Health Observations
+That’s wonderful to hear! Physical activity can be a great way to relieve stress. Are there any other activities that help you feel this way?,T,Insignificant
+"I’ve been meditating daily, and that really helps too. I feel more centered when I do it.",P,History of Present Illness (HPI)
+Meditation can be very beneficial. What type of meditation are you practicing?,T,Insignificant
+"I usually do guided meditations, focusing on my breath and letting go of thoughts.",P,Insignificant
+That sounds effective. Have you noticed any changes in your mood or anxiety levels since you started meditating?,T,History of Present Illness (HPI)
+"I think it has helped reduce my anxiety, especially when I feel overwhelmed with work.",P,Mental Health Observations
+That’s a positive outcome. What specifically at work has been causing you stress lately?,T,Insignificant
+"Well, it’s the busy season for our organization, and I feel a lot of pressure to make sure everything runs smoothly.",P,History of Present Illness (HPI)
+It’s understandable to feel that pressure. Have you found any strategies to manage that stress during this busy time?,T,Insignificant
+I’ve been trying to prioritize my tasks and break them down into smaller steps. It helps me feel less overwhelmed.,P,Current Functional Status
+That’s a great approach! Breaking tasks down can make them feel more manageable. How has that been working for you?,T,Insignificant
+"It’s been okay. Some days I stick to it, and other days I feel like I’m drowning in everything.",P,Current Functional Status
+"It’s normal to have ups and downs. On the days you feel overwhelmed, what do you do to help yourself?",T,Insignificant
+"I usually take a short break, step outside, or do a quick meditation to reset.",P,Therapeutic Interventions
+Those are excellent coping strategies. It’s important to take those breaks. Have you been able to communicate with your team about your workload?,T,Insignificant
+"I’ve mentioned it to my supervisor, and she’s been supportive, which helps.",P,Psychosocial History
+That’s good to hear. Having a supportive work environment can make a big difference. How do you feel about asking for help when you need it?,T,Insignificant
+I find it hard sometimes. I don't want to seem like I'm struggling.,P,Risk Assessment
+"It’s understandable to feel that way, but asking for help is a sign of strength, not weakness. Would it be helpful to practice how you might ask for support?",T,Insignificant
+"Yeah, that could be useful. Maybe I could approach it as a team effort.",P,Next Steps
+That sounds like a positive perspective! You could frame it as wanting to collaborate to ensure everyone’s workload is manageable. ,T,Insignificant
+I like that idea. I’ll try to keep that in mind next time I feel overwhelmed.,P,Next Steps
+Great! Let’s also revisit that dream you mentioned in our last session. Have you had it again since then?,T,Insignificant
+I did have it again last week. It was frustrating because it felt so real.,P,History of Present Illness (HPI)
+I can see why that would be distressing. Have you noticed any specific triggers that might lead to that dream?,T,Insignificant
+"Not really, but I’ve been feeling more anxious about work, so maybe that’s contributing.",P,History of Present Illness (HPI)
+That’s quite possible. Sometimes our subconscious reflects our waking anxieties. It might be worth exploring those feelings further. ,T,Insignificant
+"Yeah, I think I need to. I don’t want that dream to keep bothering me.",P,Next Steps
+Absolutely. Would you like to work on some techniques to address that anxiety before it manifests in your dreams?,T,Insignificant
+"Yes, I’d like that. ",P,Next Steps
+We could try some visualization techniques or journaling to express those feelings before bed. Would you be open to that?,T,Therapeutic Interventions
+"Definitely, I think that could help.",P,Next Steps
+Wonderful! Let’s set that as a goal for our next session. How about you try journaling your thoughts before sleep this week?,T,Next Steps
+Sounds good! I’ll give it a shot.,P,Next Steps
+Great! I’m looking forward to hearing how it goes. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers most of it. Thank you for the suggestions!,P,Insignificant
+You’re welcome! I’m glad to help. Let’s meet again next week to check in on your progress.,T,Next Steps
+Sounds good. See you then!,P,Insignificant
+Bye for now!,T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,58 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's good to see you back. How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been okay, just busy with work and the kids.",P,Psychosocial History
+That sounds like a lot to manage. Have you had any moments to relax or take care of yourself?,T,Insignificant
+"Not really, I feel like I’m always on the go. But I did manage to watch a movie with the kids last weekend.",P,Physiological Observations
+That’s great! Spending time with them can be a wonderful way to unwind. What movie did you watch?,T,Insignificant
+"We watched a Disney movie. They loved it, and it was nice to see them smile.",P,Insignificant
+That sounds like a lovely experience. How did it feel for you to see them happy?,T,Insignificant
+"It made me happy too. It’s nice to see them enjoying themselves, especially with everything going on.",P,History of Present Illness (HPI)
+"I can imagine. Last time, you mentioned feeling a bit overwhelmed with parenting. Have those feelings changed at all?",T,History of Present Illness (HPI)
+"I think I’m getting better at it, but some days are definitely harder than others.",P,History of Present Illness (HPI)
+What do you think has helped you feel a bit better about parenting?,T,Insignificant
+"I’ve been trying to focus on the positives more. Like, I remind myself that my son is doing his best, and so am I.",P,Therapeutic Interventions
+That’s a fantastic mindset. What strategies have you been using to stay positive?,T,Insignificant
+"I try to celebrate the little victories. Like when my son learns something new, I make a big deal out of it.",P,Therapeutic Interventions
+That’s a wonderful approach! Recognizing small successes can really help shift your perspective. Have you noticed any changes in your son as well?,T,Insignificant
+"Yeah, he seems more confident. It’s like he’s realizing he can do things, even if they’re challenging.",P,History of Present Illness (HPI)
+That’s incredible to hear! It sounds like you’re both making progress. Are there any challenges you’re currently facing that we can talk about?,T,Insignificant
+"Well, I still struggle with my mom. She keeps pushing me to do things her way, and it frustrates me.",P,History of Present Illness (HPI)
+It sounds like that’s still a source of stress for you. How do you usually handle those conversations with her?,T,Insignificant
+"I try to stay calm, but sometimes I just snap. It’s hard to keep my cool when she doesn’t respect my choices.",P,History of Present Illness (HPI)
+That’s understandable. It can be challenging when someone close to us doesn’t validate our decisions. Would you like to explore some coping strategies for those situations?,T,Therapeutic Interventions
+"Yes, I think that would help.",P,Insignificant
+One strategy could be to set boundaries. Have you thought about what boundaries you might want to establish with her?,T,Therapeutic Interventions
+I guess I could tell her that I need her to trust my decisions as a parent.,P,Therapeutic Interventions
+That’s a good start. Setting clear expectations can help reduce tension. How do you think she would respond to that?,T,Insignificant
+"She might be defensive at first, but I think she’ll come around eventually.",P,History of Present Illness (HPI)
+It’s great that you have hope for that. Would you like to practice how you might approach that conversation?,T,Therapeutic Interventions
+"Sure, that could be helpful.",P,Insignificant
+"Let’s role-play. You can start by expressing your feelings, and I’ll respond as your mom.",T,Insignificant
+"Okay, um, “Mom, I appreciate your advice, but I need you to trust my decisions as a parent.”",P,Insignificant
+“But I just want what’s best for you and the kids. I worry that you’re not doing enough.”,T,Insignificant
+"“I understand that, but I’m doing my best, and I need you to support me rather than criticize me.”",P,Insignificant
+"“I guess I can try to do that, but it’s hard for me to let go.”",T,Insignificant
+"“I know it’s hard, but I promise I’m trying to be the best mom I can be, and I need your support.”",P,Insignificant
+How did that feel for you?,T,Insignificant
+It felt good to voice my feelings. I hope she’ll understand.,P,Insignificant
+"That’s a positive step. Remember, it’s about expressing your needs while also being empathetic to her concerns. ",T,Therapeutic Interventions
+"Right, I’ll keep that in mind.",P,Insignificant
+Is there anything else you’d like to discuss today?,T,Insignificant
+I’ve been thinking about going back to school to further my psychology studies. ,P,Presenting Problem / Chief Complaint
+That sounds exciting! What’s motivating you to pursue that?,T,Insignificant
+"I feel like I need to challenge myself and grow. Plus, I want to be a better role model for my kids.",P,Presenting Problem / Chief Complaint
+That’s a great motivation. Have you thought about what steps you might take to get started?,T,Insignificant
+"I’ve looked into some online courses, but I’m worried about balancing everything.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Perhaps we can work on a plan to help you manage your time effectively.,T,Therapeutic Interventions
+That would be helpful! ,P,Insignificant
+Let’s set some realistic goals for you. How many hours a week do you think you could dedicate to studying?,T,Next Steps
+Maybe three to four hours? I could do a couple of evenings after the kids are in bed.,P,Next Steps
+That sounds reasonable. What about creating a schedule to keep track of your study times?,T,Next Steps
+"I could definitely try that. I’m a bit of a planner, so it might help me stay organized.",P,Next Steps
+That’s a great idea! Planning can help reduce anxiety about fitting everything in. ,T,Therapeutic Interventions
+I feel more motivated just talking about it!,P,Insignificant
+I’m glad to hear that. It’s important to nurture those feelings of motivation. ,T,Insignificant
+"Thank you for your help, Ellie. ",P,Insignificant
+You’re welcome! I’m looking forward to hearing about your progress next time. ,T,Insignificant
+Me too! See you next week!,P,Insignificant
+See you then! Take care.,T,Insignificant

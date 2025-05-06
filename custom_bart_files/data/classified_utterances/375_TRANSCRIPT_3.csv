@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie!  ",P,Insignificant
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"I’ve been good! I shared my artwork with some friends, and they loved it!  ",P,History of Present Illness (HPI)
+That’s fantastic! How did that feel for you?  ,T,Insignificant
+"It felt amazing! I was really nervous at first, but it went well.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear! What do you think helped you overcome your nerves?  ,T,Insignificant
+I just kept reminding myself that I created it for me first.  ,P,Insignificant
+That’s a powerful mindset! Have you created anything new since then?  ,T,Insignificant
+"Yes, I painted a piece inspired by my last trip to the beach.  ",P,History of Present Illness (HPI)
+That sounds beautiful! What colors did you use?  ,T,Insignificant
+Lots of blues and yellows. It reminds me of the sun and the ocean.  ,P,Insignificant
+I can picture that! How does it feel to express those memories through art?  ,T,Insignificant
+It’s really fulfilling. It makes me feel connected to those experiences.  ,P,History of Present Illness (HPI)
+That’s wonderful. Have you thought about any future art projects?  ,T,Insignificant
+I want to try a larger canvas next.  ,P,Next Steps
+That’s a great goal! What will you paint?  ,T,Insignificant
+I’m not sure yet. Maybe something abstract again.  ,P,Next Steps
+That sounds exciting! We can brainstorm ideas together if you’d like.  ,T,Insignificant
+"Yeah, I’d like that.  ",P,Insignificant
+Let’s also check in on your mindfulness practice. How’s that going?  ,T,Insignificant
+"I’ve been consistent, and I feel more calm throughout my day.  ",P,History of Present Illness (HPI)
+That’s excellent! Have you noticed any specific situations where it helped?  ,T,Insignificant
+"Yeah, during stressful moments at work. I take a few deep breaths.  ",P,Current Functional Status
+That’s a great strategy! It’s wonderful to see you applying what we’ve discussed.  ,T,Insignificant
+Thanks!  ,P,Insignificant
+How about your relationship with your brother? Any updates?  ,T,Insignificant
+"We’ve been talking more regularly, and it feels good.  ",P,History of Present Illness (HPI)
+That’s fantastic! Communication can really strengthen relationships.  ,T,Insignificant
+"Yeah, it’s nice to feel more connected.  ",P,History of Present Illness (HPI)
+Have you had any discussions about your family dynamics?  ,T,Insignificant
+A little. We talked about how we both feel misunderstood sometimes.  ,P,Psychosocial History
+That’s important to acknowledge. It can help you both feel validated in your feelings.  ,T,Insignificant
+Definitely.  ,P,Insignificant
+Is there anything else on your mind today?  ,T,Insignificant
+I’ve been thinking about my spending habits again.  ,P,History of Present Illness (HPI)
+Let’s dive into that. What specifically has been on your mind?  ,T,Insignificant
+"I feel like I’m doing better, but I still have moments of guilt when I buy things.  ",P,History of Present Illness (HPI)
+"It’s okay to treat yourself, especially if it brings you joy. Have you talked to your wife about it?  ",T,Insignificant
+Not yet. I think I should.  ,P,Next Steps
+Communication is key in relationships. It might help to set a budget together that allows for some personal spending.  ,T,Next Steps
+That sounds good.  ,P,Insignificant
+Would you like to set that as a goal for our next session?  ,T,Next Steps
+"Yes, I want to talk to her about it.  ",P,Next Steps
+That’s a great step. I’m proud of you for wanting to address it.  ,T,Insignificant
+Thanks!  ,P,Insignificant
+"Before we wrap up, is there anything else you’d like to focus on next time?  ",T,Insignificant
+Maybe we can explore some more mindfulness techniques.  ,P,Next Steps
+Absolutely! We can try some new exercises together.  ,T,Therapeutic Interventions
+I’d like that.  ,P,Insignificant
+Great! I’m looking forward to our next session. You’re making wonderful progress.  ,T,Progress Evaluation
+"Thanks, Ellie! See you next time!  ",P,Insignificant
+Take care!,T,Insignificant

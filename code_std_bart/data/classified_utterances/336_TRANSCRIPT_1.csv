@@ -1,0 +1,60 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it’s Ellie again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I’ve been okay, a bit overwhelmed with work stuff.",P,Presenting Problem / Chief Complaint
+I see. What specifically has been overwhelming for you?,T,Insignificant
+"Well, I’m trying to juggle my singing gigs and my regular job, and it feels like there’s just not enough time in the day.",P,History of Present Illness (HPI)
+That sounds challenging. Have you been able to find any balance between the two?,T,Insignificant
+Not really. I feel like I’m constantly rushing and not doing either one well.,P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you thought about any strategies to help manage your time better?,T,Insignificant
+"I’ve tried making schedules, but they never seem to stick. I get distracted easily.",P,History of Present Illness (HPI)
+What kinds of distractions do you find yourself facing?,T,Insignificant
+"Mostly social media and just... I don’t know, my mind wandering to other things.",P,History of Present Illness (HPI)
+That’s common. Have you tried setting specific time limits for those distractions?,T,Insignificant
+I haven’t really. I guess I just let it happen.,P,Insignificant
+"It might help to set boundaries for yourself. For example, you could allocate certain times for social media and stick to those.",T,Therapeutic Interventions
+"Yeah, I can see that. I just need to be more disciplined.",P,Insignificant
+Discipline can be tough. What do you think is holding you back from being more disciplined?,T,Insignificant
+I think it’s just my habit of procrastination. I tend to put things off until the last minute.,P,History of Present Illness (HPI)
+Procrastination can be a challenge. What do you usually do when you procrastinate?,T,Insignificant
+I end up binge-watching shows or scrolling through my phone instead of focusing on what I need to do.,P,History of Present Illness (HPI)
+It sounds like a way to escape the pressure you’re feeling. How do you feel after you’ve spent time procrastinating?,T,Insignificant
+Honestly? I feel guilty and stressed because I know I should be doing something else.,P,History of Present Illness (HPI)
+That’s a tough cycle to be in. Have you thought about trying to replace that procrastination with something more productive?,T,Insignificant
+I guess I could try. Maybe I could set a timer for short bursts of work and then reward myself with a break.,P,Therapeutic Interventions
+That’s a great idea! It’s often easier to focus for shorter periods. How long do you think you could work before needing a break?,T,Insignificant
+Maybe 25 minutes? That seems manageable.,P,Insignificant
+"That sounds perfect! You could use the Pomodoro technique. After 25 minutes, take a 5-minute break. How does that sound?",T,Therapeutic Interventions
+"Yeah, I think I could do that. I’ll give it a shot.",P,Insignificant
+Excellent! Let’s check in on that next session. How has your sleep been since we last talked?,T,Insignificant
+"It’s been a bit better, actually. My girlfriend has been helping me unwind at night.",P,History of Present Illness (HPI)
+That’s wonderful to hear! What does she do to help you unwind?,T,Insignificant
+She usually suggests we watch something light or do a meditation together.,P,History of Present Illness (HPI)
+That sounds lovely. Have you found that meditation helps you relax?,T,Insignificant
+"Yes, I think it does. It’s nice to have that time together, too.",P,History of Present Illness (HPI)
+Connection can be very grounding. Have you considered incorporating meditation into your daily routine?,T,Insignificant
+"I’ve thought about it, but I haven’t committed to it yet.",P,Insignificant
+"It might be helpful to set a specific time for it, maybe even right before bed. Would you be open to trying that?",T,Therapeutic Interventions
+"Yeah, I think I could try that. It might help me sleep better.",P,Insignificant
+Great! Let’s aim for that. How about your feelings of self-criticism? Have you noticed any changes since our last conversation?,T,Insignificant
+"I’ve been trying to be more aware of it. It’s still there, but I catch myself more often.",P,Progress Evaluation
+That’s a positive step forward! What do you do when you catch yourself being self-critical?,T,Insignificant
+"I try to remind myself of the good things I’ve accomplished, like my singing.",P,Therapeutic Interventions
+That’s a wonderful strategy. Celebrating your achievements can help shift your focus. Can you think of one recent accomplishment you’re proud of?,T,Insignificant
+"I had a small gig last week, and I felt really good about my performance.",P,History of Present Illness (HPI)
+That’s fantastic! How did it feel to perform?,T,Insignificant
+"It felt amazing, like I was in my element. I love connecting with the audience.",P,History of Present Illness (HPI)
+That connection is so important. How can you create more opportunities for that?,T,Insignificant
+"I could look for more gigs or open mic nights. I’ve been hesitant, but I think I need to push myself.",P,Next Steps
+It sounds like a great idea. What’s holding you back from pursuing more opportunities?,T,Insignificant
+"Fear of rejection, I guess. I worry that people won’t like my music.",P,Risk Assessment
+That’s a common fear among artists. How do you usually cope with that fear?,T,Insignificant
+"I try to avoid thinking about it, but it’s always in the back of my mind.",P,Insignificant
+"It might be helpful to reframe that fear. Instead of focusing on rejection, what if you viewed it as a chance to grow and learn?",T,Therapeutic Interventions
+That’s a good perspective. I’ll try to think of it that way.,P,Insignificant
+"Great! Remember, every performance is an opportunity to improve. How about we set a goal for you to find one new gig before our next session?",T,Next Steps
+I can do that! I’ll look into it.,P,Next Steps
+Wonderful! I’m excited to hear about it. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we covered a lot. Thank you!",P,Insignificant
+You’re welcome! I look forward to hearing about your progress next time.,T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Goodbye!,T,Insignificant

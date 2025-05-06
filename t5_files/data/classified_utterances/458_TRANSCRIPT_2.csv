@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How have you been since our last session? ,T,Insignificant
+"I’ve been okay. I tried the breathing technique before talking to my ex, and it helped a bit.",P,History of Present Illness (HPI)
+That’s wonderful to hear! Can you tell me more about that experience?,T,Insignificant
+"Well, I was feeling frustrated again, but I took a moment to breathe before responding. It kept me from getting too heated.",P,History of Present Illness (HPI)
+That’s a significant step forward. It sounds like you’re becoming more aware of your emotions in those moments.,T,Mental Health Observations
+"Yes, I think I am. It felt good to not let it escalate this time.",P,Mental Health Observations
+Excellent! How did your ex respond when you approached the conversation calmly?,T,Insignificant
+"He seemed surprised, honestly. It was different from our usual arguments.",P,History of Present Illness (HPI)
+That’s a positive outcome. It shows that your efforts are making a difference. How do you feel about continuing to use this technique?,T,Insignificant
+I definitely want to keep using it. It’s nice to feel more in control.,P,Mental Health Observations
+"That’s great to hear. Now, how has your studying for the real estate exam been going?",T,Insignificant
+"I’ve stuck to the study schedule, and I feel like I’m absorbing more information.",P,Current Functional Status
+Fantastic! Have you encountered any challenging topics that you’d like to discuss?,T,Insignificant
+"Yes, I’m struggling with some of the financing concepts. They’re a bit confusing.",P,History of Present Illness (HPI)
+That’s understandable. Would you like to dive deeper into those concepts together?,T,Insignificant
+"Yes, please. ",P,Insignificant
+Let’s break it down. What specifically about financing do you find confusing?,T,Insignificant
+I guess it’s the different types of mortgages and how they work.,P,History of Present Illness (HPI)
+That’s a common area of difficulty. Would it help to go over a few examples of different mortgages together?,T,Insignificant
+"Yes, that would be helpful.",P,Insignificant
+"Alright, let’s start with fixed-rate mortgages. They have a consistent interest rate over the life of the loan. How does that sound so far?",T,Insignificant
+That makes sense. ,P,Insignificant
+"Good! And then there are adjustable-rate mortgages, which can change over time. ",T,Insignificant
+"Right, I think I get that now. ",P,Insignificant
+"Great progress! As you study, remember to take notes on what you find challenging, and we can address those in future sessions.",T,Next Steps
+I’ll do that. ,P,Insignificant
+"Now, let’s shift gears a bit. You mentioned wanting to lose weight and be more active. How has that been going for you?",T,Insignificant
+"I’ve been trying to walk more, but it’s tough to stay motivated.",P,History of Present Illness (HPI)
+"Staying motivated can be challenging. Have you considered setting small, achievable goals for your physical activity?",T,Insignificant
+I haven’t really thought about that. ,P,Insignificant
+Setting goals can help you track your progress and keep you motivated. What if you aimed for a 20-minute walk a few times a week?,T,Next Steps
+That sounds doable. ,P,Insignificant
+Excellent! Let’s set that as a goal for your next session. How do you feel about that?,T,Insignificant
+I feel good about it. ,P,Insignificant
+"Wonderful! As we wrap up, remember to continue using your breathing techniques, stick to your study schedule, and start incorporating those walks. ",T,Next Steps
+I will. Thank you for your help!,P,Insignificant
+You’re welcome! I look forward to hearing about your progress next time. ,T,Insignificant
+Bye! ,P,Insignificant

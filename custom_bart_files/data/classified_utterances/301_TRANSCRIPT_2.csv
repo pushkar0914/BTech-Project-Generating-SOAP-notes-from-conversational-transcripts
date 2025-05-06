@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s Ellie. How have you been since our last session?,T,Insignificant
+Hey! I’ve been okay. I actually tried writing a song like we talked about.,P,History of Present Illness (HPI)
+That’s fantastic! How did that go for you?,T,Insignificant
+"It was a bit rough, but I enjoyed the process. I didn’t put too much pressure on myself, which helped.",P,History of Present Illness (HPI)
+That’s great to hear! Focusing on the process rather than the outcome is a huge step. What did you learn from it?,T,Insignificant
+"I learned that it’s okay to not be perfect. I had fun, and that’s what matters.",P,History of Present Illness (HPI)
+Absolutely! It’s wonderful that you found joy in the creative process. Are you planning to continue working on that project?,T,Insignificant
+"Yeah, I think I will. I want to keep exploring it, maybe even collaborate with some friends.",P,History of Present Illness (HPI)
+That sounds like a great idea! Collaboration can lead to new ideas and experiences. How do you feel about reaching out to your friends for input?,T,Insignificant
+I feel good about it. I think they’d be supportive.,P,History of Present Illness (HPI)
+"That’s wonderful! Now, let’s check in on your mindfulness practice. How has that been going for you?",T,Insignificant
+"I’ve been trying to do some breathing exercises, and it’s been surprisingly helpful.",P,History of Present Illness (HPI)
+I’m glad to hear that! Have you noticed any changes in how you handle stress or anger since starting those exercises?,T,Insignificant
+"Definitely. I feel like I’m more aware of my emotions now, and it’s easier to take a step back before reacting.",P,History of Present Illness (HPI)
+That’s a significant improvement! It sounds like you’re developing a better understanding of your triggers. Can you think of a specific situation where you applied mindfulness?,T,Insignificant
+"Yeah, there was a moment last week when I felt really stressed at work. Instead of snapping at someone, I took a few deep breaths and calmed down.",P,History of Present Illness (HPI)
+That’s an excellent example! You’re really making progress in managing your reactions. Is there anything else you’d like to work on today?,T,Insignificant
+I think I want to talk more about my relationships. I feel like I could improve my connections with friends.,P,Presenting Problem / Chief Complaint
+That’s a great topic. What aspects of your relationships do you feel could use improvement?,T,Insignificant
+I think I tend to isolate myself sometimes. I want to be more proactive in reaching out to friends.,P,History of Present Illness (HPI)
+That’s a positive realization. What do you think holds you back from reaching out?,T,Insignificant
+I guess sometimes I just assume they’re busy or that they won’t want to hang out.,P,History of Present Illness (HPI)
+"It’s natural to have those thoughts, but often people appreciate being invited. What if you made a plan to reach out to one friend this week?",T,Insignificant
+I could do that. Maybe I’ll invite someone to grab coffee or something.,P,Next Steps
+That sounds like a wonderful idea! Building those connections can be very fulfilling. How do you feel about setting that as a goal for this week?,T,Insignificant
+I feel good about it. I think it’ll help me feel more connected.,P,Next Steps
+"Excellent! I’m excited to hear how that goes. As we wrap up today, is there anything else on your mind?",T,Insignificant
+"No, I think we covered a lot today. I’m feeling pretty good.",P,Insignificant
+I’m glad to hear that! Remember to celebrate the small victories and keep working on those connections. I look forward to hearing about your progress next time.,T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Take care, and see you soon.",T,Insignificant
+Bye!,P,Insignificant

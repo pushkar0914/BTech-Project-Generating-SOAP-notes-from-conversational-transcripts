@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It’s great to see you again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I’ve been okay, just trying to adjust to everything.",P,History of Present Illness (HPI)
+"That’s understandable. Last time, we talked about your move to L.A. and some of the challenges you faced. Have there been any new experiences or feelings since then?",T,Insignificant
+"Yeah, I’ve been exploring a bit more. I went to a salsa dancing event last weekend.",P,History of Present Illness (HPI)
+That sounds fun! How did that go for you?,T,Insignificant
+It was really good! I met some nice people and felt more connected to the community.,P,History of Present Illness (HPI)
+That’s wonderful to hear! It seems like dancing is a way for you to relax and socialize. Would you say that helps you cope with any stress?,T,Insignificant
+Definitely. It’s like I can just forget about everything else when I’m dancing.,P,History of Present Illness (HPI)
+That’s a great outlet. Have you noticed any changes in your mood or energy levels since you’ve been more active socially?,T,Insignificant
+I think I feel a little happier. But I still have those nights where I can’t sleep well.,P,History of Present Illness (HPI): Physiological Observations
+I see. Sleep seems to be a recurring theme for you. What do you think is contributing to your sleeplessness?,T,Insignificant
+I still worry about work and the future. Sometimes I just can’t shut my mind off.,P,History of Present Illness (HPI)
+It sounds like those thoughts are quite persistent. Would you like to explore some techniques to help manage those racing thoughts before bed?,T,Insignificant
+"Yes, I think that could help.",P,Insignificant
+Great! One technique is mindfulness meditation. Have you ever tried it?,T,Insignificant
+I’ve heard of it but never really practiced it.,P,Insignificant
+It can be very beneficial. It involves focusing on your breath and being present in the moment. Would you be open to trying a short exercise together now?,T,Therapeutic Interventions
+"Sure, I’m willing to try.",P,Insignificant
+"Okay, let’s take a deep breath in… and out. Focus on your breath as you inhale… and exhale. If your mind wanders, gently bring it back to your breath. How does that feel for you?",T,Insignificant
+It feels calming. I can see how it might help.,P,Therapeutic Interventions
+I’m glad to hear that. Would you be willing to set aside a few minutes each night to practice this before bed?,T,Next Steps
+"Yes, I think I could do that.",P,Next Steps
+"Excellent! In addition to mindfulness, it might help to write down any worries before bed. This way, you can release them for the night. What do you think?",T,Therapeutic Interventions
+That sounds like a good idea. I often have a lot on my mind.,P,Next Steps
+"Perfect. Let’s make that part of your homework for the week. How do you feel about your current job situation, given your boss's behavior that you mentioned last time?",T,Insignificant
+"It’s still challenging. I try to ignore him, but it gets under my skin sometimes.",P,History of Present Illness (HPI)
+That’s understandable. Have you thought about setting boundaries or discussing your feelings with him?,T,Insignificant
+I haven’t really thought about that. I’m not sure how he would react.,P,Insignificant
+It’s definitely a delicate situation. Perhaps we can explore some assertiveness techniques together to help you feel more empowered in those interactions.,T,Therapeutic Interventions
+I’d like that. I want to feel more confident when dealing with him.,P,Insignificant
+Great! We can work on that. Let’s also discuss your feelings about your family. You mentioned your parents' passing before. How are you feeling about that now?,T,Insignificant
+"I think about them often, especially when I’m feeling lonely. It’s still hard sometimes.",P,History of Present Illness (HPI)
+It’s completely understandable to feel that way. Would you like to talk about some ways to honor their memory?,T,Insignificant
+"Yeah, I think that could be nice.",P,Insignificant
+Perhaps you could create a small ritual or write them letters expressing your thoughts and feelings. What do you think?,T,Therapeutic Interventions
+That sounds meaningful. I’d like to try that.,P,Next Steps
+"Wonderful! It seems like you’re making strides in processing these feelings. As we continue, let’s focus on building your coping strategies and enhancing your social connections. How does that sound?",T,Insignificant
+That sounds good to me.,P,Insignificant
+Excellent! I look forward to hearing about your experiences next time. Remember to practice your mindfulness and journaling this week. ,T,Next Steps
+"I will. Thank you, Ellie.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"I’ve been doing well! I tried the mindfulness exercise a few times, and it really helped.",P,Progress Evaluation:Therapeutic Interventions
+That’s wonderful to hear! How did it feel to incorporate mindfulness into your routine?,T,Insignificant
+"It was calming, especially during stressful moments. I felt more centered.",P,Mental Health Observations
+That’s great progress! Have you noticed any changes in your anxiety levels?,T,Insignificant
+"I think so. I’ve been less anxious about the move, which is a relief.",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re adapting well. How did your visit with your brother go?,T,Insignificant
+"We watched a movie together, and it felt nice to just hang out. I think it brought us a little closer.",P,Psychosocial History
+That’s a significant step! How did you feel during and after the visit?,T,Insignificant
+"I felt happy during the movie, and afterward, I was relieved. I realized that spending time with him doesn’t have to be complicated.",P,Mental Health Observations
+Exactly! Simple moments can create lasting connections. Do you think you’ll continue to make time for him?,T,Insignificant
+"Yes, I want to. I think I’ll try to visit him more often.",P,Next Steps
+"That’s a great intention. As you continue to build that relationship, how do you think it will impact you?",T,Insignificant
+I hope it will help me feel more connected to my family overall. It’s important to me.,P,Psychosocial History
+Absolutely. Family connections can be very fulfilling. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my upcoming move and how it’ll affect my kids.,P,Presenting Problem / Chief Complaint
+That’s a valid concern. What specific worries do you have regarding the move?,T,Insignificant
+I’m worried about how they’ll adjust to a new environment and school. I want them to feel secure.,P,History of Present Illness (HPI):Risk Assessment
+It’s understandable to want that for them. Have you thought about ways to help them during the transition?,T,Insignificant
+I think we’ll talk to them about it more and maybe visit the area before we move.,P,Next Steps
+Those are excellent ideas. Open communication can help them feel more secure. What else could you do to support them?,T,Insignificant
+Maybe involve them in the packing process and let them choose some things to bring. I think that would make them feel included.,P,Next Steps
+That’s a wonderful approach! Involving them can help them feel more in control of the situation. How are you feeling about the move overall?,T,Insignificant
+I’m feeling a mix of excitement and nervousness. I want it to be a positive experience for everyone.,P,Mental Health Observations
+That’s completely normal. Balancing excitement and nerves is part of major life changes. It sounds like you’re taking thoughtful steps to ensure a smooth transition.,T,Insignificant
+I hope so. I just want what’s best for my family.,P,Insignificant
+"Your intentions are clear, and that’s a great foundation. As we wrap up today, let’s set a goal for you to have an open conversation with your kids about the move and involve them in the packing process. How does that sound?",T,Next Steps
+That sounds perfect! I’ll make sure to do that.,P,Next Steps
+Excellent! I look forward to hearing how it goes in our next session. Thank you for sharing your thoughts today.,T,Insignificant
+"Thank you, Ellie. I appreciate it!",P,Insignificant
+Goodbye!,T,Insignificant
+Goodbye!,P,Insignificant

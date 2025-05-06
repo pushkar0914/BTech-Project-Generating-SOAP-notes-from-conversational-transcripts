@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! Welcome back! How have you been since our last session?,T,Insignificant
+"Hi! I’ve been okay. I did some research on local organizations, and I found a couple I’m interested in!",P,Psychosocial History
+That’s fantastic! Which organizations did you find?,T,Insignificant
+There’s one that focuses on marine conservation and another that works with local aquariums for educational programs.,P,Psychosocial History
+Great choices! Have you reached out to them yet?,T,Insignificant
+Not yet. I’m a bit nervous about contacting them.,P,History of Present Illness (HPI)
+That’s completely normal. Would it help to role-play how you might approach them?,T,Insignificant
+"Yeah, that could help.",P,Insignificant
+Let’s imagine you’re sending an email to the conservation organization. What would you say?,T,Insignificant
+"Um, I’d probably start with introducing myself and expressing my interest in their work. Then I’d ask if they have any volunteer opportunities.",P,Insignificant
+That sounds good! You could also mention your background in marine biology and your passion for conservation. ,T,Insignificant
+"Right, that would make it more personal.",P,Insignificant
+Exactly! How about we draft a quick email together?,T,Insignificant
+"Sure, that sounds helpful.",P,Insignificant
+"Let’s start with your introduction. “Hello, my name is [Your Name], and I recently graduated with a degree in marine biology…” ",T,Insignificant
+“I’m passionate about marine conservation and am eager to gain hands-on experience…”,P,Insignificant
+"Perfect! Now, how would you ask about volunteer opportunities?",T,Insignificant
+“I was wondering if you have any current or upcoming volunteer positions available?” ,P,Insignificant
+Great! How do you feel about that?,T,Insignificant
+I feel a bit more confident. ,P,History of Present Illness (HPI)
+Awesome! Would you like to set a goal to send that email by the end of the week?,T,Next Steps
+"Yes, I can do that!",P,Next Steps
+"Wonderful! Now, let’s talk about your sleep. How have things been since we last spoke?",T,Insignificant
+"I’ve been trying to stick to my bedtime routine, and I think it’s helping a little.",P,Physiological Observations
+That’s great to hear! Have you noticed any changes in how you feel during the day?,T,Insignificant
+"I think I’m a bit less anxious during the day, which is nice.",P,History of Present Illness (HPI)
+That’s a positive sign! How about your mood overall? ,T,Insignificant
+"I still have some ups and downs, but I feel like I’m managing it better.",P,History of Present Illness (HPI)
+"That’s progress! Remember, it’s okay to have fluctuations. It’s part of the human experience. ",T,Insignificant
+"Yeah, I’m trying to remind myself of that.",P,Insignificant
+"Good. If you ever feel overwhelmed, you can always return to your breathing exercises or your hiking routine to help ground yourself.",T,Therapeutic Interventions
+I’ll keep that in mind. ,P,Insignificant
+Is there anything else on your mind today that you’d like to talk about?,T,Insignificant
+I’ve been thinking about my relationship with my boyfriend. Sometimes I feel like I’m leaning on him too much for support.,P,Psychosocial History
+It’s healthy to reflect on relationships. Can you tell me more about that?,T,Insignificant
+"I just worry that I’m relying on him to help me feel better, and I don’t want to burden him.",P,Psychosocial History
+"It’s important to have support, but it’s also essential to find balance. How can you ensure you’re both supporting each other?",T,Insignificant
+I guess I could try to be more open with him about how I’m feeling instead of just venting all the time.,P,Next Steps
+That’s a great idea. Communication is key in any relationship. Perhaps you could set aside time to check in with each other about how you’re both feeling?,T,Next Steps
+"Yeah, I think that would help.",P,Insignificant
+Excellent! Let’s set that as a goal for you to discuss with him. ,T,Next Steps
+"Okay, I’ll bring it up.",P,Next Steps
+"You’re doing really well. Remember, it’s all about taking small steps. ",T,Insignificant
+"Thanks, Ellie. I feel like I’m making progress.",P,Progress Evaluation
+You absolutely are! I’m proud of you for facing these challenges. Let’s touch base again soon and see how everything is going.,T,Insignificant
+Sounds good! Bye for now!,P,Insignificant
+Goodbye!,T,Insignificant

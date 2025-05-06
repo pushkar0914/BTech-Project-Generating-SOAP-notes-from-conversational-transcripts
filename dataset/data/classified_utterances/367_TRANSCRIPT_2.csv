@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+Hi! Welcome back. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I’ve been alright. I drafted that message to my family, but I haven’t sent it yet.",P,History of Present Illness (HPI)
+That’s okay! Drafting it is a significant step. How did it feel to write it?,T,Insignificant
+It was emotional. I felt a mix of relief and anxiety while writing it.,P,History of Present Illness (HPI)
+That’s completely understandable. It’s a big step to express those feelings. What’s holding you back from sending it?,T,Insignificant
+I think I’m just scared of their reaction. What if they don’t respond?,P,Risk Assessment
+"It’s natural to fear rejection, but remember that you can’t control their response. You can only control your willingness to reach out.",T,Insignificant
+You’re right. I just need to remind myself that I’m taking a brave step.,P,Insignificant
+"Exactly! And regardless of their response, you’re prioritizing your healing. Have you thought about what you would want to say next if they do respond?",T,Insignificant
+I guess I’d want to express how much I miss them and how I’m trying to work on myself.,P,History of Present Illness (HPI)
+"That sounds like a heartfelt message. It’s clear you care about them, and that’s important to convey.",T,Insignificant
+"Yeah, I just hope they can see that.",P,Insignificant
+"They might surprise you! Now, let’s talk about your job search. Have you made any progress there?",T,Insignificant
+"I actually reached out to a couple of former colleagues. It felt good to reconnect, but I still haven’t found anything yet.",P,Current Functional Status
+"That’s a positive step! Networking can take time, but it’s great that you’re putting yourself out there. How did those conversations go?",T,Insignificant
+They were supportive. One of them even offered to keep an eye out for openings.,P,Current Functional Status
+That’s fantastic! Support can make a big difference during this process. How did it feel to hear that from them?,T,Insignificant
+It felt nice to know that someone cares and is willing to help.,P,Insignificant
+It’s important to have that support. Have you considered following up with them after some time?,T,Insignificant
+"I haven’t, but that’s a good idea. I should keep the connection alive.",P,Insignificant
+"Absolutely! Regular follow-ups can show your interest and keep you on their radar. Now, how’s your writing going?",T,Insignificant
+I’ve been writing a bit more. I think the backstory is finally coming together.,P,Current Functional Status
+That’s great to hear! It sounds like you’re making progress. How do you feel about the direction of your story?,T,Insignificant
+I’m excited about it! I think it’s taking on a life of its own.,P,Insignificant
+That’s wonderful! Writing can be such a rewarding experience. Have you considered sharing your work with anyone?,T,Insignificant
+"I’ve thought about it, but I’m nervous. What if they don’t like it?",P,Risk Assessment
+It’s normal to feel that way. But sharing can also provide valuable feedback and encouragement. You might be surprised by the support you receive.,T,Insignificant
+That’s true. Maybe I’ll share a chapter with a friend.,P,Next Steps
+That sounds like a good plan! It can help you gain confidence in your writing. What else is on your mind today?,T,Insignificant
+I think I just want to keep working on my mental health and finding ways to cope better.,P,Presenting Problem / Chief Complaint
+That’s a great goal. Have you been able to practice mindfulness regularly?,T,Insignificant
+"I have, and it’s been helping. I try to do it every morning.",P,Current Functional Status
+That’s excellent! Consistency can really enhance its effectiveness. How do you feel after your mindfulness sessions?,T,Insignificant
+I usually feel more centered and ready to face the day.,P,Physiological Observations
+That’s wonderful! It sounds like you’re developing a healthy routine. Have you noticed any changes in how you manage stress since starting these practices?,T,Insignificant
+"Yeah, I think I’m handling stress better. I’m less reactive than I used to be.",P,Progress Evaluation
+That’s a significant improvement! It shows that you’re making strides in your journey. Is there anything specific you’d like to focus on for our next session?,T,Insignificant
+Maybe we can dive deeper into my feelings about my past relationships. I think there’s still a lot to unpack there.,P,Presenting Problem / Chief Complaint
+Absolutely! That sounds like a valuable topic to explore. Thank you for sharing that with me today. I look forward to continuing our work together.,T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

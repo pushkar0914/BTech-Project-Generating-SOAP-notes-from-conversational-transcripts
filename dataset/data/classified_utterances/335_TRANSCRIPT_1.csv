@@ -1,0 +1,56 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you back. How have you been since our last session?  ,T,Insignificant
+"Hi, Ellie! I’ve been okay, I guess. Just dealing with everything with my dad and trying to balance my work.  ",P,Presenting Problem / Chief Complaint
+I appreciate you sharing that. How has the situation with your dad been?  ,T,Insignificant
+"It’s been tough. Some days are better than others. I try to stay positive, but it wears on you, you know?  ",P,History of Present Illness (HPI)
+"Absolutely, that makes sense. Have you found any coping strategies that help you during those tougher days?  ",T,Insignificant
+"Well, I’ve been trying to meditate a bit more. It helps me calm down when I feel overwhelmed.  ",P,Therapeutic Interventions
+That’s great to hear! Mindfulness can be very beneficial. How has that practice been for you?  ,T,Insignificant
+"It’s been good! I’m still getting the hang of it, but I feel a little more centered afterward.  ",P,Progress Evaluation
+That’s a positive step. Are there specific thoughts or feelings that come up during meditation that you’d like to explore?  ,T,Insignificant
+"Sometimes I think about my dad a lot, and it makes me anxious. I worry about what will happen next.  ",P,History of Present Illness (HPI)
+Those worries are completely understandable. Have you had any conversations with your dad about how he’s feeling?  ,T,Insignificant
+"A little, but he doesn’t like to talk about it much. He wants to stay strong for us.  ",P,Psychosocial History
+It’s common for people to want to protect their loved ones from difficult discussions. How does that affect you?  ,T,Insignificant
+"It makes me feel helpless sometimes. I want to support him, but it’s hard when he shuts me out.  ",P,History of Present Illness (HPI)
+That sounds challenging. Have you considered ways to express your feelings to him?  ,T,Insignificant
+I’ve thought about writing him a letter. I could say everything I want to without putting him on the spot.  ,P,Therapeutic Interventions
+That’s a wonderful idea! Writing can be a powerful way to communicate. Would you like to explore what you might want to include in that letter?  ,T,Insignificant
+Sure! I want to tell him how much I love him and how I’m here for him no matter what.  ,P,Therapeutic Interventions
+That’s beautiful. You could also express your own feelings about the situation. How do you feel about your dad’s illness?  ,T,Insignificant
+"I feel scared and sad, honestly. It’s hard to watch him go through this.  ",P,History of Present Illness (HPI)
+Those feelings are valid. It’s natural to feel scared when a loved one is unwell. Have you found any outlets for those emotions?  ,T,Insignificant
+I’ve been talking to my friends more about it. They help me feel less alone.  ,P,Psychosocial History
+That’s great to hear! Having a support system is important. Do you feel comfortable sharing with them what you’re experiencing?  ,T,Insignificant
+"I do, mostly. I think they understand, but sometimes I don’t want to burden them.  ",P,History of Present Illness (HPI)
+"It’s understandable to feel that way, but remember, friends often appreciate being let in. It can strengthen your connection.  ",T,Insignificant
+"Yeah, I guess I just don’t want to seem like I’m complaining all the time.  ",P,History of Present Illness (HPI)
+It’s okay to share your struggles. It doesn’t mean you’re complaining; it’s about being honest with those you trust.  ,T,Insignificant
+That makes sense. I’ll try to be more open.  ,P,Progress Evaluation
+"That’s a positive step. Speaking of openness, how have you been feeling about your dreams since we last spoke?  ",T,Insignificant
+"They’ve been pretty much the same. Still those stress dreams, mostly about my dad.  ",P,History of Present Illness (HPI)
+Have you noticed any patterns in the dreams? Maybe certain triggers that lead to them?  ,T,Insignificant
+"Not really, but I think they come when I’m feeling particularly anxious or overwhelmed.  ",P,History of Present Illness (HPI)
+That’s insightful. It sounds like your subconscious is processing your feelings. Have you tried any techniques to cope with those dreams?  ,T,Insignificant
+I’ve been trying to write them down when I wake up. It helps to get them out of my head.  ,P,Therapeutic Interventions
+That’s a great strategy! Writing can help externalize those feelings. Have you found it helpful?  ,T,Insignificant
+"Yeah, it feels a bit like I’m releasing them, even if just a little.  ",P,Progress Evaluation
+That’s wonderful! It’s a form of catharsis. Would you like to explore any other coping strategies today?  ,T,Insignificant
+Maybe some relaxation techniques? I could use some more tools to help me unwind.  ,P,Therapeutic Interventions
+Absolutely! Have you tried progressive muscle relaxation before?  ,T,Insignificant
+"No, I haven’t. What’s that?  ",P,Insignificant
+It involves tensing and then relaxing different muscle groups in your body. It can help alleviate physical tension and promote relaxation.  ,T,Therapeutic Interventions
+That sounds interesting!  ,P,Insignificant
+"Great! Let’s practice it together. You can start by taking a deep breath in… and as you exhale, let your shoulders drop.  ",T,Therapeutic Interventions
+"Okay, I’m doing that.  ",P,Insignificant
+"Now, let’s tense your shoulders for a few seconds… and release. How does that feel?  ",T,Insignificant
+That feels nice!  ,P,Insignificant
+Wonderful! You can practice this technique whenever you feel tension building. It’s a great way to reconnect with your body.  ,T,Therapeutic Interventions
+I’ll definitely try that.  ,P,Insignificant
+"I’m glad to hear that! As we wrap up today, what’s one goal you’d like to focus on before our next session?  ",T,Insignificant
+I’d like to write that letter to my dad and practice some of the relaxation techniques we discussed.  ,P,Next Steps
+Those sound like excellent goals! I’m looking forward to hearing how that goes.  ,T,Insignificant
+"Thanks, Ellie! I appreciate your help.  ",P,Insignificant
+"You’re very welcome! Take care of yourself, and I’ll see you next time.  ",T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

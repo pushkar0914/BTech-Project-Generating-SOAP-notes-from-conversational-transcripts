@@ -1,0 +1,54 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay, but I had a rough day yesterday.",P,History of Present Illness (HPI)
+I’m sorry to hear that. What happened?,T,Insignificant
+I just felt really overwhelmed with work again. It got to me more than usual.,P,History of Present Illness (HPI)
+That sounds tough. What do you think triggered those feelings?,T,Insignificant
+"I had a deadline approaching, and I felt like I was drowning in tasks. ",P,History of Present Illness (HPI)
+It’s understandable to feel that way when the pressure builds. How did you cope with those feelings yesterday?,T,Insignificant
+"I tried to take a break and go for a walk, but I just ended up feeling more anxious.",P,History of Present Illness (HPI)
+"Sometimes breaks can be hard to navigate, especially when you’re feeling overwhelmed. What do you think made the walk feel unhelpful?",T,Insignificant
+I think I was just too in my head about everything. I couldn’t clear my mind.,P,History of Present Illness (HPI)
+"That’s a common experience. When we’re anxious, it can be hard to focus on the present. Have you thought about using your breathing exercises during those moments?",T,Insignificant
+"I haven’t, but that might help. ",P,Therapeutic Interventions
+It could be a good way to ground yourself. Would you like to practice a quick breathing exercise together now?,T,Therapeutic Interventions
+"Sure, that sounds good.",P,Therapeutic Interventions
+"Okay, let’s take a deep breath in through your nose... hold it for a moment... and now exhale slowly through your mouth. ",T,Therapeutic Interventions
+*inhales deeply* … *exhales slowly* ,P,Insignificant
+Great! Let’s do that a couple more times. Inhale... hold... and exhale. ,T,Therapeutic Interventions
+*repeats* ,P,Insignificant
+How does that feel?,T,Insignificant
+It feels a bit calming. ,P,Physiological Observations
+That’s wonderful to hear. You can use that technique whenever you start to feel overwhelmed at work. ,T,Therapeutic Interventions
+I’ll definitely try to remember that.,P,Next Steps
+"Good! Now, how did your letter to your mom go?",T,Insignificant
+"I wrote it, and it was really cathartic. I felt a mix of sadness and relief.",P,History of Present Illness (HPI)
+That’s a beautiful way to honor her memory. Writing can be such a powerful release. ,T,Insignificant
+"Yeah, I didn’t expect it to feel that way.",P,Insignificant
+It’s great that you were able to express those feelings. Have you thought about making it a regular practice?,T,Next Steps
+I think I might. It helped me process my emotions.,P,Next Steps
+That sounds like a healthy outlet. How have your other coping strategies been working for you?,T,Insignificant
+I’ve been trying to stick to my hiking and journaling. They both help.,P,Therapeutic Interventions
+That’s excellent! It sounds like you’re building a solid toolkit for managing your emotions.,T,Insignificant
+I think so. I just need to keep reminding myself to use them.,P,Next Steps
+Consistency is key. Have you had any moments lately where you’ve felt a sense of joy or contentment?,T,Insignificant
+I did feel happy when I was hiking last weekend. It was a nice escape.,P,History of Present Illness (HPI)
+That’s wonderful! Finding those moments of joy is so important for your well-being. ,T,Insignificant
+"Yeah, I need to focus on those more.",P,Insignificant
+Absolutely! Is there anything else you’d like to explore today?,T,Insignificant
+I’d like to talk about my anger. I feel like it’s been bubbling up more lately.,P,Presenting Problem / Chief Complaint
+Anger can be a difficult emotion to navigate. What do you think is triggering that anger for you?,T,Insignificant
+I think it’s a combination of work stress and my grief. Sometimes I just snap at people.,P,History of Present Illness (HPI)
+"It’s understandable to feel that way, especially when you’re carrying so much. How do you usually express that anger?",T,Insignificant
+"I tend to just let it out in the moment, which I regret later.",P,History of Present Illness (HPI)
+That’s common. Would you be open to exploring some healthier ways to express that anger?,T,Insignificant
+"Yeah, I think I need that.",P,Insignificant
+"One option could be finding a physical outlet, like exercise or even hitting a pillow. It can help release pent-up energy.",T,Therapeutic Interventions
+I like that idea. I could use my hiking time to let out some frustration.,P,Next Steps
+That sounds like a great plan! You could also try journaling your feelings when you’re angry to help process them. ,T,Therapeutic Interventions
+I’ll give that a shot.,P,Next Steps
+"Wonderful! Remember, anger is a normal emotion, and it’s okay to feel it. It’s how we express it that matters.",T,Insignificant
+"Thanks, Ellie. I appreciate your help with this.",P,Insignificant
+You’re welcome! I’m proud of the progress you’re making. Let’s keep building on that. ,T,Insignificant
+I will. See you next time!,P,Insignificant
+See you soon! Take care!,T,Insignificant

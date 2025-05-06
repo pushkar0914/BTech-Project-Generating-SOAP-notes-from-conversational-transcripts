@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, I'm glad to see you back today. How have you been since our last session?",T,Insignificant
+"Hey, Ellie. I've been okay, I guess. Just trying to figure things out.",P,Insignificant
+"That sounds like a lot to handle. Last time, we talked about your job search and how challenging it’s been. Have there been any updates on that front?",T,History of Present Illness (HPI)
+"Well, I did get a couple of callbacks, but nothing solid yet. It’s just frustrating.",P,History of Present Illness (HPI)
+I can imagine. It’s tough when you’re putting in so much effort and not seeing the results you want. How did you feel when you received those callbacks?,T,History of Present Illness (HPI)
+"I felt a glimmer of hope, but it faded quickly when nothing came through. ",P,History of Present Illness (HPI)
+That makes sense. It’s like a rollercoaster of emotions. Have you had any moments of self-care since we last spoke?,T,Insignificant
+"Yeah, I went for a long skate the other day. It felt good to be out, even if it was just for a little while.",P,Current Functional Status
+That’s great to hear! Engaging in activities you enjoy can really help. Did you find it easier to meditate while skating?,T,Insignificant
+Definitely. The movement helps clear my mind. ,P,Mental Health Observations
+That’s wonderful. Mindfulness through movement can be very effective. Have you practiced any specific mindfulness techniques lately?,T,Insignificant
+"I’ve been trying to focus on my breath more, especially when I start to feel overwhelmed.",P,Therapeutic Interventions
+That’s a great strategy. Focusing on your breath can ground you in the moment. Have you noticed any changes in your mood when you practice this?,T,Insignificant
+"Sometimes it helps, but other times it feels like it’s just too much to handle.",P,History of Present Illness (HPI)
+"It’s okay to feel that way. Emotions can be complex and change quickly. When you feel overwhelmed, what do you usually do?",T,Insignificant
+"I tend to just shut down or isolate myself. It’s easier that way, you know?",P,History of Present Illness (HPI)
+"I understand. It can feel safer to withdraw, but it can also increase feelings of loneliness. Have you thought about reaching out to anyone for support?",T,Insignificant
+"I don't really have anyone I can talk to. My family is not really supportive, and I don’t want to burden anyone else.",P,Psychosocial History
+"That’s understandable. It can be tough to feel like you’re burdening others. However, having someone to share your feelings with can be beneficial. Would you be open to exploring support groups or community resources?",T,Next Steps
+I guess I could look into that. I just don’t know where to start.,P,Next Steps
+That’s okay. We can brainstorm together. There are often local resources for job seekers and mental health support. Would you like to explore some options?,T,Next Steps
+"Yeah, that sounds helpful. ",P,Next Steps
+Great! We can also talk about some coping strategies for when you feel low. What have you done in the past that has helped when you’re feeling down?,T,Insignificant
+I used to write a lot. Journaling helped me sort through my thoughts.,P,Therapeutic Interventions
+Writing can be a powerful tool for processing emotions. Would you be willing to try journaling again?,T,Therapeutic Interventions
+I could try. It’s just hard to get started sometimes.,P,Insignificant
+"Perhaps you could set a small goal, like writing for just five minutes a day? It doesn’t have to be perfect; just let your thoughts flow.",T,Next Steps
+That sounds doable. I can try that.,P,Next Steps
+"Excellent! I’d love to hear how it goes in our next session. Now, let’s talk about your feelings of depression. Have you noticed any changes in your mood recently?",T,History of Present Illness (HPI)
+"It’s been a bit of a mixed bag. Some days are better, but I still have those dark moments.",P,History of Present Illness (HPI)
+"Those fluctuations are normal, especially given everything you’re experiencing. Have you had any thoughts of self-harm or suicide lately?",T,Risk Assessment
+"No, I haven't thought about that in a while. It’s more just feeling hopeless.",P,Risk Assessment
+"I’m glad to hear that. Hopelessness can feel heavy, though. It’s important to acknowledge those feelings. Would you like to discuss some ways to cope with that hopelessness?",T,Next Steps
+"Yeah, I think that would help.",P,Next Steps
+"One approach could be to focus on small, achievable goals. What’s one small thing you could do this week that would give you a sense of accomplishment?",T,Next Steps
+"Maybe I could apply for a couple of jobs, even if they’re not ideal.",P,Next Steps
+That’s a great idea! Taking small steps can help build momentum. How does that sound to you?,T,Insignificant
+It sounds good. I feel like I can handle that.,P,Insignificant
+Perfect! Let’s set that as a goal for the week. We can check in on your progress next time. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think that covers it. Thanks for helping me sort through this.",P,Insignificant
+"You’re welcome! I’m glad you’re here. Remember, it’s okay to take things one step at a time. I look forward to hearing how your week goes.",T,Insignificant
+"Me too. Bye, Ellie.",P,Insignificant
+Goodbye!,T,Insignificant

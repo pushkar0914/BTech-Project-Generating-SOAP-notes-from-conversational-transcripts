@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+Hi! I’ve been okay. I actually started doing a few minutes of yoga like we talked about.,P,Current Functional Status
+That’s fantastic! How did it feel to get back into it?,T,Insignificant
+"It was nice. I felt a bit more relaxed afterward, but I still struggled with motivation on some days.",P,History of Present Illness (HPI):Current Functional Status
+It’s great that you made the effort! It’s normal to have ups and downs with motivation. What do you think might help on those tougher days?,T,Insignificant
+Maybe setting a specific time each day for it? Like making it part of my routine.,P,Next Steps
+That’s a solid idea! Routines can help create consistency. Have you thought about what time might work best for you?,T,Insignificant
+I think in the morning might be good. I usually feel a bit more energized then.,P,Physiological Observations
+Morning yoga sounds like a wonderful plan! Let’s set that as a goal for the next week. How does that sound?,T,Next Steps
+Sounds good! I’ll give it a shot.,P,Insignificant
+Great! I’m looking forward to hearing how it goes. You mentioned last time about exploring volunteer opportunities. Have you had a chance to look into that?,T,Insignificant
+"I did! I found a few places that work with kids, and I’m thinking of reaching out to them.",P,Current Functional Status
+That’s excellent progress! What’s holding you back from reaching out?,T,Insignificant
+I guess I’m a little nervous about it. What if they don’t want me or if I don’t fit in?,P,Risk Assessment
+"It’s completely normal to feel nervous about new experiences. Remember, you’re bringing valuable skills and a willingness to help. Would it help to think about what you can offer them?",T,Insignificant
+"Yeah, I suppose I could focus on that instead of my fears.",P,Insignificant
+Absolutely! Shifting your focus can help ease some of that anxiety. What do you think you can contribute to the organization?,T,Insignificant
+I think I can bring a lot of patience and creativity. I used to love planning activities for kids.,P,Current Functional Status
+Those are wonderful qualities! It sounds like you have a lot to offer. Would you like to set a goal to reach out to one organization this week?,T,Next Steps
+"Yes, that sounds doable. I’ll try to do it by the end of the week.",P,Next Steps
+"Perfect! I’m excited for you. Now, how have you been feeling overall? Any changes in your mood or thoughts?",T,Insignificant
+"I think I’m feeling a little more hopeful lately, but I still have those days where I feel really low.",P,History of Present Illness (HPI)
+It’s encouraging to hear that you’re feeling more hopeful. It’s also okay to have low days; they’re part of the process. Have you noticed anything in particular that helps lift your mood on those tougher days?,T,Insignificant
+I’ve been trying to connect with some old friends. Talking to them helps remind me that I’m not alone.,P,Current Functional Status
+That’s a great strategy! Maintaining connections can provide support and comfort. How has reconnecting with them felt?,T,Insignificant
+"It’s been nice. A couple of them even want to meet up soon, which I’m looking forward to.",P,Current Functional Status
+That sounds wonderful! Making plans with friends can be a great motivator. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I just want to keep working on feeling better. I want to find that sense of purpose again.,P,Presenting Problem / Chief Complaint
+"That’s a meaningful goal. Remember, it’s a journey, and you’re taking steps in the right direction. We can continue to explore ways to help you find that purpose.",T,Insignificant
+Thank you. I appreciate the support.,P,Insignificant
+Of course! I’m here to help you through this process. Let’s check in next week about your yoga routine and your volunteering outreach. Sound good?,T,Next Steps
+"Yes, I’m looking forward to it!",P,Insignificant
+"Great! Take care of yourself, and I’ll see you soon.",T,Insignificant
+Bye!,P,Insignificant

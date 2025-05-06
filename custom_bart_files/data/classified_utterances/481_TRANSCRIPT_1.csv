@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey, thanks! I've been okay, just trying to process everything we talked about last time.",P,History of Present Illness (HPI)
+That's good to hear. What stands out to you the most from our last conversation?,T,Insignificant
+I think the part about my music and how I feel about it. I realized I have a lot of expectations and pressure on myself.,P,History of Present Illness (HPI)
+That’s a significant insight. Can you elaborate on those expectations?,T,Insignificant
+"Well, I feel like I have to be successful right away, or else I’m wasting my time. I put a lot of pressure on myself to make it big.",P,History of Present Illness (HPI)
+That sounds quite stressful. What do you think contributes to that pressure?,T,Insignificant
+I guess it’s a mix of wanting to prove myself and the fear of disappointing my family. They have their own ideas of what success looks like.,P,History of Present Illness (HPI)
+I see. Balancing your aspirations with family expectations can be tough. How do you usually cope with that pressure?,T,Insignificant
+"I try to distract myself with music or meditation, but sometimes it just feels overwhelming.",P,History of Present Illness (HPI)
+Have you noticed any specific situations that trigger that overwhelming feeling?,T,Insignificant
+"Yeah, when I think about my future, like what I’m going to do next or if I’ll ever get to where I want to be.",P,History of Present Illness (HPI)
+That’s understandable. Future uncertainties can create anxiety. Have you tried any specific techniques to manage that anxiety?,T,Insignificant
+"I’ve been doing some mindfulness exercises, but I still find it hard to stay focused. My mind wanders a lot.",P,History of Present Illness (HPI)
+Mindfulness can take time to develop. Would you be open to trying some grounding techniques together?,T,Insignificant
+"Sure, I’d like that.",P,Insignificant
+Great! Let’s start with a simple exercise. Close your eyes and take a deep breath in... hold it for a moment... and now exhale slowly. How does that feel?,T,Insignificant
+"It feels calming, actually. I think I needed that.",P,Mental Health Observations
+Good! You can use that technique whenever you feel overwhelmed. What else might help you feel more grounded?,T,Insignificant
+Maybe writing down my thoughts? I used to keep a journal.,P,Therapeutic Interventions
+That’s a wonderful idea! Journaling can help you process your feelings and thoughts. Would you be willing to commit to writing a little each day?,T,Next Steps
+"Yeah, I think I can do that. It might help clear my mind.",P,Next Steps
+Excellent! Let’s aim for a few minutes each day. How about we check in on this in our next session?,T,Next Steps
+Sounds like a plan!,P,Insignificant
+"Now, regarding your music, have you made any progress or changes since we last spoke?",T,Insignificant
+"I’ve been working on some new songs, feeling a bit more inspired lately. It’s like I’m channeling my feelings into my music.",P,History of Present Illness (HPI)
+That’s fantastic! Channeling emotions into creativity can be very therapeutic. How does that make you feel?,T,Insignificant
+It feels good! It’s like I’m releasing some of that pressure. But then I worry if it’s good enough.,P,History of Present Illness (HPI)
+It’s common to doubt our creative work. Do you find that those doubts affect your motivation?,T,Insignificant
+"Sometimes, yeah. I’ll start a project and then get discouraged and abandon it.",P,History of Present Illness (HPI)
+How about we explore those doubts? What specifically makes you feel like it’s not good enough?,T,Insignificant
+"I guess I compare myself to others a lot. I see other musicians who are more successful, and I feel like I’m falling behind.",P,History of Present Illness (HPI)
+Comparison can be a thief of joy. What would happen if you focused on your unique journey instead?,T,Insignificant
+I think I’d feel less stressed. I just need to remind myself that everyone has their own timeline.,P,History of Present Illness (HPI)
+Absolutely! It’s important to honor your path. Would you like to set a goal around that for the next week?,T,Insignificant
+"Yeah, I could try to limit my social media time. That might help with the comparisons.",P,Next Steps
+That sounds like a great plan. How much time do you think you’d like to limit yourself to?,T,Insignificant
+Maybe just 30 minutes a day? I’ll try to focus on creating instead.,P,Next Steps
+Perfect! Let’s touch base on how that goes in our next session. Is there anything else you want to discuss today?,T,Insignificant
+I think that covers it. I feel a bit lighter after talking about it.,P,Mental Health Observations
+"I’m glad to hear that. Remember, it’s a process, and you’re doing great. I look forward to hearing how your journaling and music go next time.",T,Insignificant
+"Thanks, Ellie. I appreciate it.",P,Insignificant
+"You’re welcome! Take care, and see you soon.",T,Insignificant
+Bye!,P,Insignificant

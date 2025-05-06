@@ -1,0 +1,60 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It's nice to see you. How have you been since our last session?,T,Insignificant
+"I've been good, just keeping busy with work and stuff.",P,Insignificant
+That's great to hear. Did you have a chance to think about any of the topics we discussed last time?,T,Insignificant
+A little bit. I thought about my family visits and how much they mean to me.,P,Psychosocial History
+That’s wonderful. Family can be such a strong support system. How did those thoughts make you feel?,T,Insignificant
+"They made me feel happy, just remembering the good times.",P,Psychosocial History
+Happy is a great feeling. Have you had any family visits since we last talked?,T,Insignificant
+"Not yet, but I’m planning one for the holidays.",P,Psychosocial History
+That sounds exciting! Do you have any specific plans for the visit?,T,Insignificant
+"Just spending time together, maybe going out to eat and catching up.",P,Psychosocial History
+That sounds lovely. Spending quality time can really strengthen those bonds. How do you usually feel when you’re with your family?,T,Insignificant
+I feel relaxed and comfortable. It’s nice to be around them.,P,Psychosocial History
+"That’s good to hear. Have you noticed any changes in your mood or behavior lately, especially when you’re busy?",T,Insignificant
+I think I get a bit more stressed when I have a lot going on.,P,History of Present Illness (HPI)
+Stress can definitely creep in. What do you usually do to cope with that stress?,T,Insignificant
+I try to listen to music or go to the gym.,P,Therapeutic Interventions
+Those are great strategies. How effective do you find them in managing your stress?,T,Insignificant
+They help a lot. Working out really clears my head.,P,Therapeutic Interventions
+That’s fantastic. Physical activity can be a great release. Have you had any moments recently where you felt overwhelmed?,T,Insignificant
+"Yeah, sometimes at work, when deadlines are tight.",P,History of Present Illness (HPI)
+Understandable. How do you typically handle those moments?,T,Insignificant
+"I usually just push through it, but sometimes I feel like I might snap.",P,Risk Assessment
+It’s good that you recognize that feeling. Would you like to explore some additional coping strategies for those moments?,T,Insignificant
+"Sure, that would be helpful.",P,Insignificant
+One technique could be mindfulness or deep breathing exercises. Have you ever tried them?,T,Insignificant
+"Not really, but I’ve heard they can help.",P,Insignificant
+They can be quite effective. Would you be open to trying a short breathing exercise together?,T,Insignificant
+"Yeah, let’s do it.",P,Insignificant
+Great! Let’s take a deep breath in for four counts... hold it for four... and breathe out for six. ,T,Insignificant
+<breathes> ,P,Insignificant
+How did that feel?,T,Insignificant
+"It felt nice, actually. Calming.",P,Therapeutic Interventions
+I’m glad to hear that. You can use that technique anytime you start to feel overwhelmed. ,T,Therapeutic Interventions
+I’ll definitely try to remember that.,P,Insignificant
+Awesome! Is there anything else on your mind that you'd like to talk about today?,T,Insignificant
+"I’ve been thinking about my friendships a lot, too.",P,Psychosocial History
+That’s an important topic. What specifically about your friendships has been on your mind?,T,Insignificant
+"I really value them, but sometimes I worry that I’m not a good enough friend.",P,Psychosocial History
+It’s natural to have those thoughts. Can you tell me more about why you feel that way?,T,Insignificant
+I guess I just feel like I’m not always there for them as much as I should be.,P,Psychosocial History
+Have you had any recent experiences that made you feel this way?,T,Insignificant
+"Well, I missed a couple of get-togethers lately because I was busy.",P,Psychosocial History
+It’s understandable to be busy. How do you think your friends feel about that?,T,Insignificant
+"I think they understand, but I still feel guilty.",P,Psychosocial History
+It’s good to acknowledge that guilt. Have you had the chance to communicate with them about your feelings?,T,Insignificant
+"No, I haven’t really talked about it.",P,Insignificant
+"Would it be helpful to share your feelings with them? Sometimes, opening up can strengthen those connections.",T,Insignificant
+"Yeah, I think that could help. I just don’t want them to think I don’t care.",P,Psychosocial History
+It sounds like you do care a lot. Being honest about your feelings can actually show them how much you value the friendship.,T,Insignificant
+That makes sense.,P,Insignificant
+How about setting a goal to reach out to them this week? Maybe just a text or a call to check in?,T,Next Steps
+I can do that.,P,Insignificant
+Great! Let’s touch base on that in our next session. How does that sound?,T,Insignificant
+Sounds good.,P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+"No, I think we covered a lot.",P,Insignificant
+"I’m glad to hear that. Thank you for sharing today, and I look forward to hearing about your family visit and your conversations with your friends next time!",T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant

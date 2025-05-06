@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have the past week and your goals been for you?,T,Insignificant
+"Hey! It’s been alright. I tried to play with my dog more, and I think it helped a bit.",P,History of Present Illness (HPI)
+That’s wonderful to hear! How did it feel to set aside that time for him?,T,Insignificant
+It was nice. Just being outside and playing fetch made me feel a little better.,P,History of Present Illness (HPI)
+That’s fantastic! And how about the eating habits? Were you able to try eating smaller meals?,T,Insignificant
+I did! I started making sandwiches or having some fruit. It’s been easier than I thought.,P,History of Present Illness (HPI)
+That’s great progress! How did that impact your mood or energy levels?,T,Insignificant
+"I think it helped a little. I felt less sluggish, so that’s a win.",P,Physiological Observations
+"Absolutely! Small victories can lead to bigger changes. Now, how about the sleep? Were you able to try reading or listening to music before bed?",T,Insignificant
+"I tried reading, but I fell asleep pretty quickly. So I guess that’s a good thing!",P,Physiological Observations
+That’s definitely a good thing! It sounds like you’re finding some effective strategies to help you unwind. ,T,Insignificant
+"Yeah, I’m surprised it worked so well.",P,Insignificant
+It’s great to discover what works for you. Is there anything you found challenging this past week?,T,Insignificant
+"I still have moments where I feel really down, especially when I think about the job situation.",P,History of Present Illness (HPI)
+That’s completely understandable. Job searching can be really taxing emotionally. How do you cope with those feelings when they arise?,T,Insignificant
+"I try to distract myself, but sometimes it feels like it just lingers.",P,History of Present Illness (HPI)
+That’s tough. Would you be open to exploring some mindfulness techniques together that might help with those feelings?,T,Insignificant
+"Sure, I’d like that.",P,Insignificant
+One technique is called “grounding.” It involves focusing on the present moment and can help reduce feelings of anxiety or sadness. Would you like to try a quick exercise now?,T,Therapeutic Interventions
+"Okay, let’s do it.",P,Insignificant
+"Great! Let’s start by taking a deep breath in... and out. Now, I want you to focus on your feet. Feel them touching the ground. Can you describe what you feel?",T,Insignificant
+"Uh, it feels solid. Like I’m really here.",P,Mental Health Observations
+"Exactly! Now, let’s move up to your legs. Notice any sensations there. Just observe without judgment.",T,Insignificant
+"They feel a little tense, but I can feel the chair supporting me.",P,Mental Health Observations
+"Good! That’s a great observation. Now, let’s take another deep breath in... and out. Remember that you can return to this exercise whenever you feel overwhelmed.",T,Therapeutic Interventions
+"I like that. It’s simple, but it helps.",P,Insignificant
+I’m glad to hear that! It’s all about finding what works for you. How about we set a goal to practice this grounding technique a few times this week?,T,Next Steps
+"Yeah, I can do that.",P,Next Steps
+Excellent! Is there anything else you’d like to discuss today?,T,Insignificant
+I think I’m good for now. Just trying to take it one step at a time.,P,Insignificant
+"That’s a great mindset! Remember, progress doesn’t have to be fast. It’s all about consistency. I look forward to hearing how the week goes when we meet next.",T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+You’re very welcome! Take care and see you next time.,T,Insignificant
+Bye!,P,Insignificant

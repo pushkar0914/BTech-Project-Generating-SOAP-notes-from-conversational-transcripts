@@ -1,0 +1,27 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing pretty well. I reached out to a couple of friends.",P,Psychosocial History
+That’s fantastic! How did those conversations go?,T,Insignificant
+They were really positive. It felt good to reconnect and share what I’ve been going through.,P,History of Present Illness (HPI)
+I’m so glad to hear that! It sounds like you’re building a supportive network. How did it feel to share your journey with them?,T,Insignificant
+"It felt freeing, actually. I didn’t realize how much I needed that.",P,History of Present Illness (HPI)
+That’s wonderful! Connection can be incredibly healing. Have you been able to incorporate any of your mom’s recipes since we last spoke?,T,Insignificant
+"Yes! I made one for a small gathering with friends, and they loved it. It brought back some great memories.",P,Psychosocial History
+That’s beautiful! It sounds like you’re creating new memories while honoring her. How did that experience feel for you?,T,Insignificant
+It was really emotional but in a good way. I felt like she was there with us.,P,History of Present Illness (HPI)
+That’s so special. It’s important to find ways to keep that connection alive. Have you thought about any other rituals or practices to remember her?,T,Insignificant
+I’ve been thinking about writing down some of my favorite memories and recipes. ,P,Next Steps
+"That’s a lovely idea! It could serve as a keepsake for you and your friends. Shifting gears a bit, how has your temper been lately?",T,Insignificant
+"I’ve had a couple of moments, but I’ve been able to catch myself before it escalates.",P,History of Present Illness (HPI)
+That’s progress! It’s great that you’re recognizing those feelings. Have you been practicing your breathing exercises regularly?,T,Insignificant
+"Yes, I’ve made it a habit. It really helps in those tense moments.",P,Therapeutic Interventions
+That’s wonderful to hear! Consistency is key. Have you faced any new challenges at work that have tested your patience?,T,Insignificant
+"A few. There was a project deadline that had everyone stressed, but I managed to stay calm.",P,History of Present Illness (HPI)
+That’s impressive! It seems like you’re applying what we’ve discussed. How did it feel to maintain that calmness?,T,Insignificant
+It felt empowering. I was proud of myself for not losing my cool.,P,History of Present Illness (HPI)
+"You should be proud! It’s a significant achievement. As we wrap up today, what goals would you like to set for the upcoming week?",T,Insignificant
+I want to keep reaching out to friends and maybe start that memory book for my mom.,P,Next Steps
+"Those are beautiful goals. I look forward to hearing how those go next time. Remember, you’re making meaningful strides in your journey.",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"You’re doing the work, and it’s paying off. Take care, and I’ll see you next time!",T,Insignificant
+Bye!,P,Insignificant

@@ -1,0 +1,43 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+Hi! I’ve been okay. I tried waking up earlier like we talked about.,P,History of Present Illness (HPI)
+That’s great to hear! How did that go for you?,T,Insignificant
+"It was tough at first, but I think it helped a bit. I felt less rushed in the mornings.",P,History of Present Illness (HPI)
+That’s a fantastic outcome! What changes did you notice throughout your day?,T,Insignificant
+"I was less stressed, and I had time to eat breakfast, which made a difference.",P,History of Present Illness (HPI)
+I’m glad to hear that! Having a good breakfast can really set a positive tone. Have you been able to maintain that routine?,T,Insignificant
+"Mostly, but I still struggle on days when I have to work early.",P,History of Present Illness (HPI)
+That’s understandable. It’s important to be flexible with your routine. Maybe you can adjust your wake-up time slightly on those days?,T,Insignificant
+"Yeah, I could do that. I’ll have to plan better.",P,Insignificant
+"Planning ahead can definitely help. Now, how about football? Have you been able to play or practice since we last spoke?",T,Insignificant
+Yes! I played a few times with some friends. It felt really good.,P,History of Present Illness (HPI)
+That’s wonderful! How did it impact your mood?,T,Insignificant
+It made me feel happier and more energized.,P,History of Present Illness (HPI)
+That’s fantastic! Engaging in activities you love can be a great mood booster. Are there any other activities you’d like to explore that might bring you joy?,T,Insignificant
+I’d like to try joining a local league or something. Just to get back into it.,P,Next Steps
+That sounds like a great idea! Being part of a team can also provide social support. Have you looked into any local leagues yet?,T,Insignificant
+"Not yet, but I’ll check it out.",P,Next Steps
+"Excellent! Let’s keep that as a goal for the upcoming weeks. Now, how have things been with your son? Any new developments?",T,Insignificant
+"He’s been doing well! We’ve been spending more time together, especially with homework.",P,Psychosocial History
+That’s wonderful to hear! How has that experience been for you both?,T,Insignificant
+"It’s been good. I feel more connected with him, and he seems to appreciate the help.",P,Psychosocial History
+That connection is so important. Have you noticed any changes in his attitude or behavior since you’ve been more involved?,T,Insignificant
+"Yeah, he seems more confident. He’s been excited to show me his work.",P,Psychosocial History
+"That’s a great sign! Encouragement and involvement can really foster that confidence. Now, let’s talk about sleep again. How has your sleep been since we last spoke?",T,Insignificant
+"I’ve been trying the bedtime routine, but I still have some rough nights.",P,History of Present Illness (HPI)
+"It’s a process, and it’s okay to have ups and downs. What elements of the routine have been working for you?",T,Insignificant
+"The stretching helps a bit, but I still have trouble shutting my mind off.",P,History of Present Illness (HPI)
+That’s a common challenge. Have you considered mindfulness or meditation techniques to help clear your mind before bed?,T,Insignificant
+"I’ve heard about it, but I haven’t tried it yet.",P,Insignificant
+Mindfulness can be really beneficial. Would you like to try a simple breathing exercise together now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+Great! Let’s take a deep breath in through your nose… and out through your mouth. Focus on the breath. In… and out. ,T,Therapeutic Interventions
+*breathes*,P,Insignificant
+"As you breathe, let go of any tension in your body. Just focus on this moment.",T,Therapeutic Interventions
+That feels nice.,P,Insignificant
+I’m glad! Practicing this for a few minutes each night could help ease your mind. Would you be willing to try that?,T,Therapeutic Interventions
+"Yes, I’ll give it a shot.",P,Next Steps
+Wonderful! It’s all about finding what works for you. Is there anything else you’d like to explore today?,T,Insignificant
+I think that’s it for now.,P,Insignificant
+Alright! I’m looking forward to hearing how your week goes. Remember to be kind to yourself as you work through these changes. Take care!,T,Insignificant
+Thank you! See you next time.,P,Insignificant

@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I've been okay, a bit busy with work, but overall, I’m doing well.",P,Insignificant
+"That’s good to hear. Last time, we talked about your recovery from PTSD and how you were coping with some nightmares. Have you noticed any changes in that area?",T,History of Present Illness (HPI)
+"Yeah, actually. I’ve been trying to stick to my meditation routine before bed, and it seems to be helping a little bit.",P,History of Present Illness (HPI)
+That’s great! Meditation can be a powerful tool. Have you found a specific technique that works best for you?,T,Insignificant
+I’ve been focusing on breathing exercises and visualizing a peaceful place. It helps me feel more relaxed.,P,History of Present Illness (HPI)
+That sounds like a wonderful practice. Have you had any particularly challenging nights recently?,T,History of Present Illness (HPI)
+"A few, but I think the meditation helped me get back to sleep faster.",P,History of Present Illness (HPI)
+That’s a positive step! It sounds like you’re making progress. How about your feelings of anxiety or any other symptoms related to PTSD? Have they shifted at all?,T,History of Present Illness (HPI)
+"I still have moments of anxiety, especially when I think about my family, but it’s not as overwhelming as before.",P,History of Present Illness (HPI)
+That’s encouraging to hear. It seems like you’re managing it better. Would you say that your estrangement from your family has contributed to that?,T,History of Present Illness (HPI)
+"Yes, definitely. Not having to deal with their toxic behavior has made a big difference.",P,Psychosocial History
+That’s an important realization. It’s okay to prioritize your mental well-being. How do you feel about your decision to stay away from them now?,T,Insignificant
+"I feel good about it. It was a tough decision, but I know it was the right one for me.",P,Psychosocial History
+"That’s a strong choice. Last time, you mentioned feeling guilty about not cleaning your car. Have you had a chance to address that since we last spoke?",T,Insignificant
+"I did! I finally took it to the car wash last weekend, so that felt good.",P,Current Functional Status
+That’s fantastic! Sometimes small accomplishments can really boost our mood. Are there other small tasks you’ve been able to tackle recently?,T,Insignificant
+I’ve been trying to keep up with my grocery shopping and meal prepping. It helps me feel more organized.,P,Current Functional Status
+That’s a great strategy! Staying organized can help reduce anxiety and give you a sense of control. How do you feel when you accomplish those tasks?,T,Insignificant
+I feel accomplished and proud. It’s nice to have everything planned out for the week.,P,Current Functional Status
+That’s wonderful to hear. You’re doing a great job taking care of yourself. Let’s shift gears a bit. You mentioned feeling happy most of the time. What are some things that have contributed to that happiness lately?,T,Insignificant
+Spending time with my dogs has been a big part of it. They always make me smile.,P,Psychosocial History
+Animals can bring so much joy and comfort. How do you spend time with them?,T,Insignificant
+"We go on hikes, play at the park, and just cuddle on the couch. They really help me unwind.",P,Psychosocial History
+That sounds lovely. It’s important to have those moments of connection. Are there any other activities you enjoy that contribute to your happiness?,T,Insignificant
+I’ve also been enjoying my reading. That cookbook I mentioned last time has been really inspiring.,P,Psychosocial History
+Cooking can be such a creative outlet. Have you tried any new recipes from that book?,T,Insignificant
+"Yes! I made a ratatouille last week, and it turned out really well.",P,Psychosocial History
+That’s impressive! Cooking can be a great way to express yourself and unwind. Have you thought about how you can incorporate more of these activities into your routine?,T,Insignificant
+I’d like to cook more often and maybe even host a dinner for friends.,P,Psychosocial History
+That sounds like a wonderful idea! Social connections can also enhance our happiness. How do you feel about reaching out to friends?,T,Insignificant
+"I’ve been a bit hesitant, but I think hosting could be a good way to reconnect.",P,Psychosocial History
+"It sounds like a great opportunity. Remember, it’s okay to take small steps. What do you think might be a good first step in reaching out?",T,Insignificant
+I could send a message to a couple of friends and see if they’d be interested in coming over.,P,Next Steps
+That’s a perfect start! How does the idea of reconnecting with friends make you feel?,T,Insignificant
+"A bit nervous, but also excited. It’s been a while since I’ve had people over.",P,Psychosocial History
+"Those feelings are completely normal. It’s a big step, but it can also be very rewarding. Would you like to set a goal for yourself regarding this?",T,Insignificant
+"Yes, I think I’ll aim to reach out by the end of the week.",P,Next Steps
+That’s a great goal! How about we check in on that next time? ,T,Next Steps
+Sounds good!,P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+"No, I think we’ve covered a lot. Thank you!",P,Insignificant
+You’re welcome! I’m glad we could talk. I look forward to hearing about your progress next time. Take care!,T,Insignificant
+"You too, Ellie. Bye!",P,Insignificant
+Goodbye!,T,Insignificant

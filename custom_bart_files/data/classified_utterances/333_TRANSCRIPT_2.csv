@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s nice to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing pretty well, actually. I took a couple of walks by the beach like we talked about.",P,History of Present Illness (HPI)
+That’s fantastic! How did those walks make you feel?,T,Insignificant
+"They were really refreshing. I felt so much more relaxed afterward, and I even got some ideas for my screenplay while I was walking.",P,Physiological Observations: History of Present Illness (HPI)
+That’s wonderful to hear! It seems like being in nature really helps your creativity. Did you find it easier to focus on your writing afterward?,T,Insignificant
+"Yes, definitely! I felt more inspired and motivated to write.",P,History of Present Illness (HPI)
+That’s great progress! How has your writing routine been this past week?,T,Insignificant
+"I’ve been writing almost every day, which is a big improvement for me. ",P,Current Functional Status
+That’s amazing! What do you think motivated you to stick with it?,T,Insignificant
+"I think it was just feeling good about the ideas I had. Plus, I really wanted to keep that momentum going.",P,History of Present Illness (HPI)
+Momentum is key! Have you faced any challenges while writing this week?,T,Insignificant
+"A few times, I felt a bit of self-doubt creeping in, like maybe my ideas weren’t good enough.",P,History of Present Illness (HPI): Risk Assessment
+"Self-doubt can be tough. When those thoughts come up, how do you usually respond?",T,Insignificant
+I try to remind myself that it’s part of the process and that not every idea has to be perfect.,P,History of Present Illness (HPI)
+That’s a healthy perspective! Would you like to explore some strategies to help manage those self-doubts when they arise?,T,Insignificant
+"Yes, I’d love that.",P,Insignificant
+One approach is to create a “success journal.” You can write down positive feedback you’ve received or moments when you felt proud of your work. Would you be willing to try that?,T,Therapeutic Interventions
+That sounds helpful. I think I’d like to do that.,P,Therapeutic Interventions
+Great! It can serve as a reminder of your accomplishments during tougher times. Have you had any moments of doubt that stand out recently?,T,Insignificant
+"Yes, I had a moment where I thought about submitting one of my screenplays to a contest, but I hesitated because I was worried it wouldn’t be good enough.",P,History of Present Illness (HPI): Risk Assessment
+"It’s normal to feel that way, especially with something so personal. What do you think would happen if you took the leap and submitted it anyway?",T,Insignificant
+"I think I’d feel proud of myself for putting my work out there, regardless of the outcome.",P,History of Present Illness (HPI)
+Absolutely! Sometimes taking that risk can lead to growth and new opportunities. Would you be open to setting a goal around submitting your screenplay?,T,Next Steps
+"Yes, I’d like to aim to submit it by the end of the month.",P,Next Steps
+"That sounds like a solid plan! Remember, it’s about the experience and the growth that comes with it. Is there anything else on your mind today?",T,Insignificant
+Just thinking about some friendships. I feel like I haven’t been as connected to my friends lately.,P,History of Present Illness (HPI)
+That’s important to acknowledge. What do you think has contributed to that feeling?,T,Insignificant
+I think I’ve been so focused on my writing that I haven’t made time for socializing.,P,History of Present Illness (HPI)
+It’s easy to get wrapped up in our passions. How about setting a goal to reconnect with a friend this week?,T,Next Steps
+That sounds good! I’ll reach out to a couple of them.,P,Next Steps
+Perfect! It’s all about balance. Thank you for sharing your progress and thoughts today. I’m looking forward to hearing about your submissions and reconnections next time!,T,Insignificant
+"Thank you, Ellie! I appreciate the support.",P,Insignificant
+"You’re welcome! Take care, and see you next week.",T,Insignificant
+Bye!,P,Insignificant

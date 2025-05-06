@@ -1,0 +1,60 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?  ,T,Insignificant
+"I’ve been okay, just trying to manage everything with my wife being pregnant.  ",P,History of Present Illness (HPI)
+That sounds like a significant change. How are you feeling about that?  ,T,Insignificant
+"Excited, but also a bit overwhelmed.  ",P,History of Present Illness (HPI)
+That’s understandable. It’s a big transition. Have you noticed any specific feelings or thoughts that have been challenging for you?  ,T,Insignificant
+I guess I’ve been feeling a bit anxious about being a good dad.  ,P,History of Present Illness (HPI)
+Anxiety about new roles can be common. What specifically worries you about being a dad?  ,T,Insignificant
+Just the pressure to provide and be there for my family.  ,P,History of Present Illness (HPI)
+It sounds like you care deeply about your family. How do you think you can prepare yourself for this new role?  ,T,Insignificant
+I’ve been reading parenting books and talking to friends who are already parents.  ,P,Current Functional Status
+That’s a proactive approach! Have you found any advice that resonated with you?  ,T,Insignificant
+"Yeah, a lot of it is about being present and supportive, which makes sense to me.  ",P,Insignificant
+Being present is crucial. How do you plan to balance work and family time?  ,T,Insignificant
+"I’m not sure yet. I want to be there for my wife and the baby, but I also have work commitments.  ",P,Current Functional Status
+It might help to set boundaries around work hours. Have you thought about how to communicate those boundaries to your employer?  ,T,Insignificant
+I haven’t really talked to them about it yet.  ,P,Insignificant
+That might be a good conversation to have. What do you think would be a reasonable request?  ,T,Insignificant
+Maybe to have flexible hours for a while after the baby arrives.  ,P,Current Functional Status
+That sounds reasonable. How do you feel about approaching that conversation?  ,T,Insignificant
+"A bit nervous, but I think it’s necessary.  ",P,Risk Assessment
+It’s normal to feel nervous. Would it help to practice what you want to say?  ,T,Insignificant
+"Yeah, that could help.  ",P,Insignificant
+Let’s role-play that conversation. I’ll be your employer. Ready?  ,T,Insignificant
+Sure.  ,P,Insignificant
+Hi! Thanks for coming in. What’s on your mind?  ,T,Insignificant
+"Um, well, I wanted to discuss my schedule once the baby arrives.  ",P,Current Functional Status
+"Okay, tell me more.  ",T,Insignificant
+I’d like to request some flexibility in my hours to help support my wife and the baby.  ,P,Current Functional Status
+That’s understandable. What kind of flexibility are you thinking?  ,T,Insignificant
+"Maybe starting earlier or later some days, depending on our needs.  ",P,Current Functional Status
+Sounds reasonable. How do you think that will impact your work?  ,T,Insignificant
+I believe I can still meet my deadlines and stay productive.  ,P,Current Functional Status
+Great! How did that feel for you?  ,T,Insignificant
+A bit easier than I thought.  ,P,Insignificant
+That’s wonderful! Remember that practice can build confidence. Have you thought about any coping strategies for your anxiety?  ,T,Insignificant
+"I’ve been running more, but sometimes it’s hard to find the time.  ",P,Current Functional Status
+Exercise is a great outlet. What about incorporating mindfulness or relaxation techniques?  ,T,Insignificant
+"I’ve heard of mindfulness, but I’m not really sure how to start.  ",P,Insignificant
+Would you like to try a simple breathing exercise together?  ,T,Insignificant
+"Sure, I’d like that.  ",P,Insignificant
+Let’s take a deep breath in through our noses... and out through our mouths.  ,T,Insignificant
+<deep breath>  ,P,Insignificant
+Good. Let’s do that a few more times. In... and out...  ,T,Insignificant
+<deep breath>  ,P,Insignificant
+How does that feel?  ,T,Insignificant
+"It feels calming, actually.  ",P,Physiological Observations
+That’s great to hear! You can use this technique whenever you feel overwhelmed. How do you think you can incorporate this into your daily routine?  ,T,Insignificant
+Maybe in the mornings before work or even at the gym.  ,P,Current Functional Status
+That sounds like a good plan. Let’s set a goal for you to practice this technique daily. How does that sound?  ,T,Next Steps
+I can do that.  ,P,Next Steps
+Excellent! Is there anything else you’d like to discuss today?  ,T,Insignificant
+Just trying to manage my feelings about the pregnancy and work-life balance.  ,P,History of Present Illness (HPI)
+"It’s a lot to juggle. Remember, it’s okay to ask for help. You don’t have to do it all alone.  ",T,Insignificant
+I appreciate that.  ,P,Insignificant
+Let’s check in on your progress next time. I’m here to support you through this transition.  ,T,Next Steps
+"Thank you, Ellie.  ",P,Insignificant
+You’re welcome! Looking forward to our next session. Goodbye!  ,T,Insignificant
+Bye!,P,Insignificant

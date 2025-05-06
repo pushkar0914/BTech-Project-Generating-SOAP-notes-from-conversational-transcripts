@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+"hi, ellie",P,Insignificant
+hi! It's great to see you again. How have you been since our last session?,T,Insignificant
+"I've been okay, just trying to keep everything balanced with the kids and school.",P,History of Present Illness (HPI)
+That sounds like a lot to juggle. Have you had any moments where you felt particularly stressed or overwhelmed?,T,History of Present Illness (HPI)
+"Yeah, definitely. There were a few days where I felt like I was just running on empty, especially with the kids' activities and my school assignments piling up.",P,History of Present Illness (HPI)
+How did you cope with those feelings?,T,History of Present Illness (HPI)
+"I tried to take some time for myself, even if it was just a few minutes to breathe or meditate. But honestly, it was tough to find that time.",P,History of Present Illness (HPI)
+It sounds like you're aware of the importance of self-care. Have you been able to incorporate any new strategies since we last talked?,T,History of Present Illness (HPI)
+I’ve been trying to go to the beach more often. Just sitting there helps clear my mind.,P,History of Present Illness (HPI)
+That’s a great idea! Nature can be very grounding. How did it feel to spend that time at the beach?,T,History of Present Illness (HPI)
+It felt refreshing. I could just watch the waves and forget about everything for a moment.,P,History of Present Illness (HPI)
+That’s wonderful to hear. Have you noticed any changes in your mood after those beach visits?,T,History of Present Illness (HPI)
+"Yes, I feel calmer and more centered. It’s like a reset button for me.",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like you’re finding effective ways to manage stress. Have you been able to share your feelings with your friends or family?,T,History of Present Illness (HPI)
+"I’ve talked to my friend a bit, but sometimes I feel like I don’t want to burden them with my problems.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you considered how sharing might strengthen those relationships?,T,History of Present Illness (HPI)
+"I guess it could, but I worry they might not understand. ",P,History of Present Illness (HPI)
+"That’s a valid concern. What if you approached it from a place of wanting to connect, rather than just sharing your burdens?",T,History of Present Illness (HPI)
+That could work. Maybe I should focus on how they can support me rather than just venting.,P,History of Present Illness (HPI)
+"Exactly! It can be a collaborative conversation. Speaking of support, how is your schoolwork going?",T,History of Present Illness (HPI)
+"It’s been challenging, but I’m keeping up. Some subjects are tougher than others.",P,History of Present Illness (HPI)
+Which subjects do you find most challenging?,T,History of Present Illness (HPI)
+"Business is a bit hard for me. I’m trying to grasp all the concepts, but sometimes it feels overwhelming.",P,History of Present Illness (HPI)
+Have you thought about forming a study group with classmates?,T,Next Steps
+That’s a good idea! I haven’t thought of that. I usually study alone.,P,Next Steps
+Studying with others can provide different perspectives and make learning more enjoyable. Would you feel comfortable reaching out to classmates?,T,Next Steps
+I think so. I just need to find the right people to connect with.,P,Next Steps
+"That’s a great start! You have a lot of strengths in communication, so I believe you’d do well in that environment. ",T,Next Steps
+"Thanks, I appreciate that. I’ll give it a try.",P,Next Steps
+Wonderful! How are the boys doing? Any new developments?,T,Insignificant
+"They’re doing well, but my oldest is starting to push back a little more. It’s a bit challenging.",P,History of Present Illness (HPI)
+That’s common during the teenage years. How have you been handling that?,T,History of Present Illness (HPI)
+"I try to talk to him, but sometimes it feels like he shuts down.",P,History of Present Illness (HPI)
+Have you considered asking him open-ended questions to encourage him to share more?,T,Next Steps
+I haven’t really tried that. I usually just ask him how his day was.,P,Next Steps
+"Open-ended questions can invite deeper conversations. For example, asking what he enjoyed most about his day might open up more dialogue.",T,Next Steps
+That makes sense. I’ll give it a shot.,P,Next Steps
+Great! And how do you feel when he shuts down?,T,History of Present Illness (HPI)
+"Frustrated, mostly. I just want to understand him better.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. Have you tried expressing that to him?,T,Next Steps
+"No, I haven’t. I guess I could let him know that I just want to be there for him.",P,Next Steps
+That could help him feel more comfortable opening up. It might reassure him that you’re on his side.,T,Next Steps
+I’ll definitely try that. Thanks for the suggestion.,P,Next Steps
+You’re welcome! It sounds like you’re making some solid plans. What’s one goal you’d like to focus on before our next session?,T,Next Steps
+I’d like to work on my communication with my son and maybe reach out to classmates for study help.,P,Next Steps
+Those sound like excellent goals! How about we check in on your progress with those in our next session?,T,Next Steps
+Sounds good to me.,P,Insignificant
+Great! Thank you for sharing today. I look forward to hearing about your experiences next time.,T,Insignificant
+"Thank you, Ellie. Bye for now!",P,Insignificant
+Bye! Take care.,T,Insignificant

@@ -1,0 +1,69 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+"Hi, welcome back. How have you been since our last session?  ",T,Insignificant
+"Um, I've been okay, I guess. Trying to take things one day at a time.  ",P,Psychosocial History
+That sounds like a positive approach. Have you noticed any changes in your mood or thoughts?  ,T,Insignificant
+"A little. I’ve been trying to be more aware of my feelings, especially the negative ones.  ",P,History of Present Illness (HPI)
+That's great to hear. What have you been doing to increase that awareness?  ,T,Insignificant
+I’ve started journaling. It helps me to put my thoughts down and see them clearly.  ,P,Therapeutic Interventions
+Journaling can be a powerful tool. What have you discovered about yourself through that process?  ,T,Insignificant
+"I realized that I often feel overwhelmed, but writing it down makes it feel more manageable.  ",P,History of Present Illness (HPI)
+That’s a significant insight. Have you been able to identify any specific triggers for those overwhelming feelings?  ,T,Insignificant
+"Yes, I think stress about my kids and work plays a big role.  ",P,History of Present Illness (HPI)
+Can you tell me more about that?  ,T,Insignificant
+"Well, I worry a lot about my kids' futures and whether I'm doing enough for them.  ",P,Psychosocial History
+It sounds like you carry a lot of responsibility on your shoulders. How does that affect your daily life?  ,T,Insignificant
+It makes me anxious. Sometimes I can’t focus on anything else.  ,P,History of Present Illness (HPI): Risk Assessment
+Have you noticed any coping strategies that help when you start feeling anxious?  ,T,Insignificant
+"I try to take deep breaths and remind myself to stay present, but it doesn’t always work.  ",P,Therapeutic Interventions
+That’s a good start. Would you be open to exploring some additional techniques?  ,T,Insignificant
+"Sure, I’m willing to try anything.  ",P,Insignificant
+How about we try some mindfulness exercises together? It can help ground you in the present moment.  ,T,Therapeutic Interventions
+That sounds good.  ,P,Insignificant
+Great! Let’s take a moment to practice. Close your eyes and focus on your breath. Inhale deeply... and exhale slowly.  ,T,Insignificant
+<deep breath>  ,P,Insignificant
+Notice any sensations in your body as you breathe. What do you feel?  ,T,Insignificant
+I feel a bit of tension in my shoulders.  ,P,Mental Health Observations
+"Acknowledging that tension is a good step. As you breathe out, imagine releasing that tension.  ",T,Insignificant
+<sigh>  ,P,Insignificant
+How did that feel for you?  ,T,Insignificant
+It felt nice. I think I need to do that more often.  ,P,Therapeutic Interventions
+I’m glad to hear that. We can incorporate this into your daily routine. How do you feel about setting a goal to practice mindfulness for a few minutes each day?  ,T,Next Steps
+I think I can do that.  ,P,Insignificant
+Wonderful! Let’s also talk about your journaling. Have you written about your feelings towards parenting?  ,T,Insignificant
+"Yes, I’ve written about feeling inadequate sometimes.  ",P,Psychosocial History
+That’s an important topic to explore. What specifically makes you feel inadequate?  ,T,Insignificant
+"I feel like I should be doing more for them, especially financially.  ",P,Psychosocial History
+It’s understandable to feel that way. Have you considered discussing these feelings with your children?  ,T,Insignificant
+"I haven’t, but maybe I should.  ",P,Insignificant
+Opening that line of communication could help both you and them understand each other better.  ,T,Insignificant
+"Yeah, I think it would.  ",P,Insignificant
+Is there a specific situation you’d like to address with them?  ,T,Insignificant
+Maybe explaining why I can’t provide certain things they want.  ,P,Psychosocial History
+That sounds like a good idea. How do you think they would respond?  ,T,Insignificant
+"I think they’d understand, but I worry about disappointing them.  ",P,Risk Assessment
+"It’s natural to worry, but honesty can strengthen your relationship. How do you feel about that possibility?  ",T,Insignificant
+"It makes me feel a bit lighter, honestly.  ",P,Psychosocial History
+That’s a positive shift! What else can we work on today?  ,T,Insignificant
+I’d like to talk more about my self-esteem issues.  ,P,Presenting Problem / Chief Complaint
+Absolutely. You mentioned wanting to feel more motivated. Can you elaborate on that?  ,T,Insignificant
+"I often feel stuck, like I’m not moving forward in life.  ",P,History of Present Illness (HPI)
+That feeling can be very challenging. What do you think is holding you back?  ,T,Insignificant
+I think it’s a mix of fear and self-doubt.  ,P,History of Present Illness (HPI)
+Fear can be paralyzing. What are you afraid of?  ,T,Insignificant
+I’m afraid of failing or not being good enough.  ,P,Risk Assessment
+It’s common to have those fears. How do you usually respond to them?  ,T,Insignificant
+I tend to avoid situations where I might fail.  ,P,Current Functional Status
+"Avoidance can feel safe in the moment, but it often prevents growth. What would it look like for you to face those fears?  ",T,Insignificant
+I guess it would mean taking small steps and being okay with making mistakes.  ,P,Therapeutic Interventions
+That’s a healthy mindset. Would you be willing to set a small goal for yourself this week?  ,T,Next Steps
+"Yes, I think I could try that.  ",P,Insignificant
+"How about setting a goal to try something new, even if it’s just a small task?  ",T,Next Steps
+"Okay, I can do that.  ",P,Insignificant
+Excellent! Let’s check in on that goal during our next session. How do you feel about today’s discussion?  ,T,Insignificant
+I feel like I have some tools to work with.  ,P,Therapeutic Interventions
+"I’m glad to hear that. Remember, progress takes time, and it’s okay to take it one step at a time.  ",T,Insignificant
+"Thank you, Ellie.  ",P,Insignificant
+You’re welcome! I look forward to hearing about your experiences next time.  ,T,Insignificant
+Me too. Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

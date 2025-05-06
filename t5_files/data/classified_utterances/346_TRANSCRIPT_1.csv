@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. I'm glad to see you today. How have you been since our last session?  ",T,Insignificant
+"Hi, Ellie. I've been okay, I guess. Just trying to keep busy like we talked about.  ",P,Insignificant
+That's good to hear. Have you noticed any changes in your mood or sleep since we last spoke?  ,T,History of Present Illness (HPI)
+"A little bit, I think. I still struggle with sleep, but I had a few nights where I managed to get a decent amount.  ",P,Physiological Observations
+That’s a positive step. What do you think contributed to those better nights?  ,T,Insignificant
+I think I was just really tired from being out and about. I spent time with friends and just tried to stay active.  ,P,History of Present Illness (HPI)
+Staying active can definitely help. Did you find any particular activities that helped you feel more relaxed?  ,T,Insignificant
+"Yeah, I went to a comedy show, and it was a lot of fun. Laughter really helps.  ",P,History of Present Illness (HPI)
+That's wonderful! Laughter can be a great stress reliever. Did you notice how you felt afterward?  ,T,Insignificant
+"I felt lighter, like a weight was lifted. But then I crashed afterward and felt down again.  ",P,History of Present Illness (HPI)
+"It’s common to feel that way after a high. What do you think causes that ""crash"" for you?  ",T,Insignificant
+"I think it’s just the reality setting back in. Like, I have fun, but then I remember my worries.  ",P,History of Present Illness (HPI)
+That makes sense. It sounds like a contrast between the joy of the moment and the stress of your everyday life.  ,T,Insignificant
+Exactly. It’s frustrating.  ,P,Insignificant
+Have you considered any coping strategies for when those feelings come back?  ,T,Insignificant
+"Not really. I mean, I try to distract myself, but sometimes it feels like I’m just avoiding the problem.  ",P,History of Present Illness (HPI)
+"Avoidance can be tempting, but it might help to process those feelings as they come. Would you be open to exploring that?  ",T,Insignificant
+"Sure, I guess. What do you mean by processing?  ",P,Insignificant
+"Processing involves acknowledging your feelings, understanding them, and finding ways to cope with them rather than just pushing them away.  ",T,Insignificant
+"Okay, that sounds like it might be helpful.  ",P,Insignificant
+Great! Let’s start by identifying a recent moment when you felt overwhelmed. Can you think of one?  ,T,Insignificant
+"Yeah, actually. A few days ago, I had a really bad day. I felt anxious all day, and it just spiraled.  ",P,History of Present Illness (HPI)
+What triggered that anxiety for you?  ,T,Insignificant
+"I was just thinking about my future and how uncertain everything feels, especially with acting.  ",P,History of Present Illness (HPI)
+That’s understandable. The uncertainty of pursuing a passion can be quite stressful. How did you cope with that anxiety?  ,T,Insignificant
+I ended up just isolating myself. I didn’t want to talk to anyone.  ,P,History of Present Illness (HPI)
+"Isolation can sometimes feel like a safe option, but it can also intensify feelings of loneliness and anxiety. How did you feel afterward?  ",T,Insignificant
+"I felt worse, honestly. I regretted not reaching out to my boyfriend.  ",P,History of Present Illness (HPI)
+It’s important to have support during tough times. Would you be willing to try reaching out next time you feel that way?  ,T,Insignificant
+"Yeah, I think I could do that. He’s really understanding.  ",P,Insignificant
+That’s great to hear. Supportive relationships can really help us cope. What else do you think might help when you start feeling anxious?  ,T,Insignificant
+Maybe I could try writing down my feelings or something.  ,P,Next Steps
+Writing can be a powerful tool for processing emotions. Would you be willing to commit to journaling when you feel overwhelmed?  ,T,Next Steps
+"Yeah, I can try that.  ",P,Next Steps
+Excellent! Let’s also talk about mindfulness. Have you ever practiced mindfulness or meditation?  ,T,Insignificant
+"I’ve heard of it, but I’ve never really tried it.  ",P,Insignificant
+Mindfulness can help ground you in the present moment and reduce anxiety. Would you like to try a simple exercise with me?  ,T,Therapeutic Interventions
+"Sure, I’m open to it.  ",P,Insignificant
+Let’s take a moment to focus on our breath. Inhale deeply through your nose... and exhale slowly through your mouth.  ,T,Therapeutic Interventions
+*breathes*  ,P,Insignificant
+"Great. As you breathe, notice any tension in your body and try to let it go with each exhale.  ",T,Therapeutic Interventions
+"Okay, I feel a little calmer.  ",P,Physiological Observations
+Wonderful! You can practice this whenever you feel anxiety rising. Would you be willing to try this at home?  ,T,Next Steps
+"Yeah, I think I could do that.  ",P,Next Steps
+Fantastic! We can check in about how it goes next time. Is there anything else you’d like to discuss today?  ,T,Insignificant
+I think that’s about it for now. I feel a bit better after talking.  ,P,Insignificant
+"I’m glad to hear that. Remember, it’s okay to reach out for support and to process your feelings.  ",T,Insignificant
+"Thanks, Ellie. I appreciate it.  ",P,Insignificant
+You're welcome! I look forward to hearing about your experiences next session. Take care!  ,T,Insignificant
+You too! Bye.  ,P,Insignificant
+Goodbye!,T,Insignificant

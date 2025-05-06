@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>  ,P,Insignificant
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+I did clean my room!  ,P,Insignificant
+That’s fantastic! How did it feel to accomplish that?  ,T,Insignificant
+It felt good. I was proud of myself.  ,P,History of Present Illness (HPI)
+You should be! It’s a big step. Did you notice any changes in your mood afterward?  ,T,Insignificant
+"Yeah, I felt less stressed.  ",P,History of Present Illness (HPI)
+That’s wonderful to hear. Sometimes a clean space can really help clear our minds. Have you been able to use your affirmation when you felt embarrassed?  ,T,Insignificant
+"Yes, I tried it at a gathering.  ",P,Insignificant
+How did that go?  ,T,Insignificant
+"I tripped, but I laughed it off and said, ""It's okay to make mistakes.""  ",P,Insignificant
+That’s amazing! How did the people around you react?  ,T,Insignificant
+"They laughed with me, and it felt okay.  ",P,Insignificant
+That’s a great outcome! It sounds like you’re building confidence in those moments. What else have you been reflecting on since we last talked?  ,T,Insignificant
+I’ve been thinking about my job situation.  ,P,History of Present Illness (HPI)
+What are your thoughts about it?  ,T,Insignificant
+I’m not happy with where I am.  ,P,History of Present Illness (HPI)
+I see. What do you think is making you unhappy?  ,T,Insignificant
+I feel stuck and unmotivated.  ,P,History of Present Illness (HPI)
+That’s a tough place to be. What would you like to change about your current situation?  ,T,Insignificant
+I want to find a job that I enjoy.  ,P,Presenting Problem / Chief Complaint
+That’s a great goal. Have you thought about what kind of job that would be?  ,T,Insignificant
+I want to work in film again.  ,P,Presenting Problem / Chief Complaint
+That sounds exciting! What steps could you take to move toward that goal?  ,T,Insignificant
+I could start networking or looking for internships.  ,P,Next Steps
+Those are excellent ideas! Networking can open many doors. Would you like to set a specific goal around that for our next session?  ,T,Insignificant
+"Yes, I can try to reach out to some people this week.  ",P,Next Steps
+Perfect! How many people do you think is manageable for you?  ,T,Insignificant
+Maybe two or three?  ,P,Next Steps
+That sounds very doable. How will you feel about reaching out to them?  ,T,Insignificant
+"A little nervous, but I think it’s worth it.  ",P,History of Present Illness (HPI)
+"That’s a healthy mindset! Remember, it’s okay to feel nervous. You’re taking a positive step forward.  ",T,Insignificant
+"Thanks, that helps.  ",P,Insignificant
+You’re welcome! Is there anything else you’d like to discuss today?  ,T,Insignificant
+I’ve been feeling a bit anxious about the future.  ,P,History of Present Illness (HPI)
+That’s completely understandable. What specifically about the future is making you anxious?  ,T,Insignificant
+I worry about not finding a job I like.  ,P,History of Present Illness (HPI)
+That’s a valid concern. Have you experienced this anxiety before?  ,T,Insignificant
+"Yes, especially when I was in school.  ",P,History of Present Illness (HPI)
+How did you cope with that anxiety back then?  ,T,Insignificant
+I would talk to friends or distract myself with movies.  ,P,History of Present Illness (HPI)
+Those sound like healthy coping strategies. Would you like to explore some additional techniques to manage your anxiety?  ,T,Insignificant
+"Yes, I’d like that.  ",P,Insignificant
+One technique is mindfulness. Have you ever tried mindfulness exercises?  ,T,Insignificant
+"No, I haven’t.  ",P,Insignificant
+Mindfulness can help ground you in the present moment. Would you like to try a simple breathing exercise together?  ,T,Therapeutic Interventions
+Sure!  ,P,Insignificant
+Great! Let’s take a deep breath in through your nose… and out through your mouth.  ,T,Therapeutic Interventions
+<inhales> <exhales>  ,P,Insignificant
+Good! Let’s do that a few more times. Inhale… and exhale.  ,T,Therapeutic Interventions
+<inhales> <exhales>  ,P,Insignificant
+How does that feel?  ,T,Insignificant
+It feels calming.  ,P,Mental Health Observations
+I’m glad to hear that! Practicing this regularly can help reduce anxiety. Would you like to commit to trying it a few times this week?  ,T,Next Steps
+"Yes, I can do that.  ",P,Next Steps
+Excellent! It sounds like you’re making great strides. Thank you for sharing today. I look forward to hearing about your experiences in our next session.  ,T,Insignificant
+Bye!  ,P,Insignificant
+Bye!  ,T,Insignificant

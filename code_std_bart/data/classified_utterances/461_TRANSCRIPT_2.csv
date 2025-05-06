@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How has your week been?,T,Insignificant
+It’s been alright. I managed to apply for three jobs like we talked about.,P,Current Functional Status
+That’s great to hear! How did that feel?,T,Insignificant
+"It felt good to finally get them done. I was nervous, but I did it.",P,History of Present Illness (HPI)
+That’s a significant accomplishment! Did you hear back from any of them?,T,Insignificant
+"Not yet, but I’m trying to stay positive.",P,History of Present Illness (HPI)
+"That’s a healthy mindset. Remember, it can take time to hear back. How has your new bedtime routine been going?",T,Insignificant
+"I’ve been trying to stick to it. I put my phone away, and I started reading instead.",P,Current Functional Status
+That’s wonderful! Have you noticed any changes in your sleep?,T,Insignificant
+"A little. I still wake up, but I feel more relaxed before bed.",P,Physiological Observations
+That’s a step in the right direction. It sounds like you’re making progress. Would you like to build on that and add another element to your routine?,T,Insignificant
+"Sure, what do you suggest?",P,Insignificant
+"Perhaps we could add a gratitude practice. Before bed, you could take a moment to write down three things you’re grateful for that day. ",T,Therapeutic Interventions
+I like that idea. It could help shift my focus.,P,Insignificant
+Exactly! Focusing on the positive can help reduce anxiety. Would you like to commit to that this week?,T,Insignificant
+"Yes, I can do that.",P,Insignificant
+"Fantastic! Now, last time we talked about exploring mindfulness techniques. Are you ready to dive into that today?",T,Insignificant
+"Yes, I’ve been curious about it.",P,Insignificant
+"Great! Let’s start with a simple mindfulness exercise. I’ll guide you through it. Find a comfortable position, close your eyes, and take a deep breath in through your nose... and out through your mouth.",T,Therapeutic Interventions
+*breathes*,P,Insignificant
+"As you breathe, focus on the sensation of the air filling your lungs. Notice how your body feels. If your mind wanders, gently bring it back to your breath.",T,Therapeutic Interventions
+*pauses* ,P,Insignificant
+Let’s do this for a couple of minutes. Just breathe and be present.,T,Therapeutic Interventions
+"Now, slowly open your eyes. How was that for you?",T,Insignificant
+It felt calming. I could feel the tension easing.,P,Mental Health Observations
+That’s wonderful! Mindfulness can be a powerful tool for managing anxiety. Would you like to practice this technique daily?,T,Therapeutic Interventions
+"Yes, I think it could help me a lot.",P,Insignificant
+Perfect! Let’s set a goal for you to practice mindfulness for just five minutes each day this week.,T,Next Steps
+I can do that.,P,Insignificant
+Excellent! Is there anything else on your mind today?,T,Insignificant
+I still feel guilty about not being a better father. ,P,Presenting Problem / Chief Complaint
+That’s a heavy burden to carry. Can you share more about what’s making you feel that way?,T,Insignificant
+I keep thinking about times I wasn’t there for my kids when they needed me.,P,Trauma History
+"It’s natural to reflect on past actions, but it’s important to remember that you’ve also made positive contributions to their lives.",T,Insignificant
+"I know, but I can’t help but focus on the negatives.",P,Insignificant
+Let’s practice self-compassion. Can you think of a time recently when you did something positive as a parent?,T,Insignificant
+I helped my daughter with her school project last week.,P,History of Present Illness (HPI)
+That’s a great example! You’re showing up for them in meaningful ways. How can you remind yourself of these moments moving forward?,T,Insignificant
+Maybe I can write them down in a journal.,P,Therapeutic Interventions
+That sounds like a wonderful idea! Focusing on the positives can help shift your perspective. ,T,Insignificant
+I’ll try that.,P,Insignificant
+"I’m glad to hear it. Remember, it’s okay to have regrets, but it’s also important to recognize your efforts and growth as a parent.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+You’re very welcome. I’m proud of the progress you’re making. Let’s continue to build on these strategies in our next session.,T,Insignificant
+Sounds good. See you next week!,P,Insignificant
+"Take care, and have a great week!",T,Insignificant
+Bye!,P,Insignificant

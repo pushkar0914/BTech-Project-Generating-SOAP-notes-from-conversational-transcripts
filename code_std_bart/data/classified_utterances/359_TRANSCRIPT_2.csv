@@ -1,0 +1,42 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I’ve actually been doing a bit better. I tried the free writing exercise you suggested.",P,History of Present Illness (HPI)
+That’s fantastic! How did it go?,T,Insignificant
+"It felt really good to just let my thoughts flow. I didn’t worry about making it perfect, and I wrote for about fifteen minutes.",P,History of Present Illness (HPI)
+That’s amazing! What did you write about?,T,Insignificant
+I wrote about my experiences with gambling and how it felt to lose everything. It was kind of cathartic.,P,Trauma History
+That’s a powerful topic. How did it feel to put those feelings on paper?,T,Insignificant
+It felt like I was releasing some pent-up emotions. I didn’t realize how much I needed to express that.,P,History of Present Illness (HPI)
+I’m so glad to hear that! Writing can be a wonderful tool for processing emotions. Do you think you’ll continue with it?,T,Insignificant
+Definitely. I think I’ll make it a regular thing.,P,Next Steps
+That’s great! You’re taking positive steps. Have you had a chance to practice the breathing exercises before bed?,T,Insignificant
+"Yes! I’ve been doing it for about a week now, and I think it’s helping. I’ve been sleeping a bit better.",P,Physiological Observations
+That’s wonderful news! Consistency is key. How are you feeling overall with your sleep and mood?,T,Insignificant
+"I still have my off days, but I’m feeling a bit more hopeful, which is nice.",P,History of Present Illness (HPI)
+That’s a positive shift! It sounds like you’re making progress. Have you noticed any changes in your anger towards others?,T,Insignificant
+"Yeah, I’ve been trying to remind myself that everyone has their own battles. It’s still hard sometimes, but I’m working on it.",P,History of Present Illness (HPI)
+"That’s a great mindset to have. It sounds like you’re becoming more compassionate towards others, which can be really healing for you as well.",T,Insignificant
+"Thanks, I appreciate that. I’m trying to be more understanding.",P,History of Present Illness (HPI)
+"It’s a journey, and you’re doing well. Are there any specific situations that still trigger that anger for you?",T,Insignificant
+"Not really, just the usual stuff I see on the streets. But I’m trying to manage my reactions better.",P,History of Present Illness (HPI)
+That’s a healthy approach. Have you thought more about volunteering since we last talked?,T,Insignificant
+"Yes, I looked up some local organizations. I think I might start volunteering at a food bank.",P,Next Steps
+That sounds like a fantastic opportunity! Helping others can be really fulfilling. When do you think you’ll start?,T,Insignificant
+"I’m planning to go this weekend. I’m a little nervous, but I think it’ll be good for me.",P,Next Steps
+"It’s normal to feel nervous before starting something new. Just remember, you’re doing this to help others and yourself. ",T,Insignificant
+"Yeah, I’ll keep that in mind.",P,Insignificant
+How do you feel about your family relationships? You mentioned feeling distant from your mother.,T,Insignificant
+Still the same. I haven’t reached out. I just don’t know what to say.,P,Psychosocial History
+That’s understandable. It can be tough to bridge those gaps. Would you be open to exploring ways to reconnect with her?,T,Insignificant
+"Maybe. I guess I’ve thought about it, but I’m not sure if it’s worth it.",P,Insignificant
+It could be worth exploring. Even a simple message to check in could open the door to communication. ,T,Insignificant
+"Yeah, I suppose. ",P,Insignificant
+"It’s up to you, of course. Just know that it’s okay to take small steps. ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+"Of course! I’m here to help. Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I think we covered a lot. I’m feeling good about the writing and volunteering.,P,Progress Evaluation
+That’s great to hear! Let’s continue to build on that momentum. I’m looking forward to hearing about your experiences next time.,T,Insignificant
+Me too! Thanks for everything.,P,Insignificant
+"You’re welcome! Have a great week, and take care.",T,Insignificant
+Bye!,P,Insignificant
+Bye!,T,Insignificant

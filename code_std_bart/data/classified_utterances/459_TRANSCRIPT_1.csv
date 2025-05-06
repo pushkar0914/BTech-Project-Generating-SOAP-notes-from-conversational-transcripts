@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it's great to see you. How have you been since our last session?",T,Insignificant
+"Hey, Ellie. I've been okay, I guess. A bit up and down, but overall, not too bad.",P,Insignificant
+I’m glad to hear that. Last time we spoke about your relationship with your family and some challenges you face with anger. Have there been any new developments there?,T,History of Present Illness (HPI)
+"Yeah, I had another argument with my mom last week. It was about something small, but it escalated quickly.",P,History of Present Illness (HPI)
+I see. Can you tell me more about what happened?,T,Insignificant
+"We were just discussing chores, and I felt like she was being unfair. I ended up raising my voice again, and I felt bad afterward.",P,History of Present Illness (HPI)
+How did you cope with those feelings afterward?,T,Insignificant
+I took a walk with my dog to calm down. It helped a little.,P,Therapeutic Interventions
+"That’s a good strategy. Walking can be a great way to release tension. Have you thought about any other coping mechanisms we discussed last time, like meditation?",T,Therapeutic Interventions
+"I tried meditating a couple of times, but I find it hard to focus when I’m upset.",P,History of Present Illness (HPI)
+"That’s understandable. Sometimes it takes practice to find the right moment to meditate. Would it be helpful to set aside a specific time each day for it, even when you’re feeling okay?",T,Therapeutic Interventions
+"Yeah, I could try that. Maybe in the mornings before my day starts?",P,Next Steps
+That sounds like a good plan. Establishing a routine can help make it easier to practice. What else has been on your mind lately?,T,Insignificant
+"I’ve been thinking about my future a lot. Like, what I really want to do with my life.",P,Insignificant
+That’s a big topic. What are some of the thoughts you've had?,T,Insignificant
+"Well, I’m still considering becoming a personal trainer, but I’m also thinking about going back to school for something else, maybe psychology.",P,Insignificant
+That’s interesting! What draws you to psychology?,T,Insignificant
+"I think it could be really rewarding to help others, especially since I’ve been through a lot myself. I feel like I could relate to people.",P,Psychosocial History
+That’s a great motivation. It sounds like you have a lot of empathy. Have you considered taking any introductory courses to see if it’s something you’d enjoy?,T,Next Steps
+"I haven’t yet, but I think I might look into it. It’d be nice to have a direction.",P,Next Steps
+Absolutely. It can be helpful to explore your options. You mentioned last time that you struggle with sleep. Have there been any changes there?,T,History of Present Illness (HPI)
+"Not really. I still have trouble falling asleep, and it’s affecting my mood during the day.",P,History of Present Illness (HPI):Physiological Observations
+That sounds tough. Have you tried any new strategies to help with your sleep?,T,Insignificant
+"I’ve been watching less TV before bed, but it’s still hard to unwind.",P,Physiological Observations
+"That’s a good start. Sometimes, creating a relaxing bedtime routine can help signal to your body that it’s time to sleep. Would you be open to trying some relaxation exercises before bed?",T,Therapeutic Interventions
+"Yeah, I could try that. Maybe some light stretching or breathing exercises.",P,Therapeutic Interventions
+Great idea! Let’s focus on that for this week. How about we check in on your progress next time?,T,Next Steps
+Sounds good.,P,Insignificant
+Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m just worried about my mom’s health. She’s been stressed with work and hasn’t been eating well.,P,Psychosocial History
+That’s understandable. It can be hard to see loved ones struggle. Have you talked to her about your concerns?,T,Insignificant
+"I’ve tried, but she brushes it off. I feel helpless.",P,History of Present Illness (HPI)
+"It’s tough when we want to help someone who isn’t ready to accept it. Maybe you could suggest doing something together, like cooking a healthy meal?",T,Therapeutic Interventions
+That could work. I’ll give it a shot.,P,Next Steps
+"Good! Remember to take care of yourself, too. Your well-being is important. ",T,Insignificant
+"Thanks, Ellie. I appreciate that.",P,Insignificant
+"Of course! I’m glad we could talk today. Let’s set a goal for your meditation and sleep routine for next week, and we can discuss how it went.",T,Next Steps
+"Okay, sounds good.",P,Insignificant
+Great! I look forward to hearing about your progress. Take care until next time!,T,Insignificant
+"You too, bye!",P,Insignificant

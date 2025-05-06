@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey, I've been okay, I guess. Just the usual stuff.",P,Insignificant
+That's understandable. Last time we talked about some of the pressures you feel regarding your career and your studies. Have you had any thoughts about that since we last spoke?,T,History of Present Illness (HPI)
+"Yeah, I’ve been thinking a lot about my grad school audition. It still bothers me.",P,History of Present Illness (HPI)
+It sounds like that experience is weighing heavily on your mind. Can you tell me more about what specifically bothers you?,T,History of Present Illness (HPI)
+"I just keep replaying it in my head, like what I could have done differently. I feel like I let myself down.",P,History of Present Illness (HPI)
+"It’s common to ruminate on past experiences, especially those that feel significant. What do you think you could have done differently?",T,History of Present Illness (HPI)
+"I could have practiced more. I could have been more confident. I just... I don’t know, I feel like I choked.",P,History of Present Illness (HPI)
+It’s tough when we feel like we haven’t met our own expectations. How do you typically cope with feelings of disappointment?,T,History of Present Illness (HPI)
+"I usually just push through it, you know? I throw myself into my work.",P,History of Present Illness (HPI)
+That makes sense. Sometimes throwing ourselves into work can be a way to distract from those feelings. How has that worked for you?,T,History of Present Illness (HPI)
+"Well, it helps for a bit, but then I just feel exhausted and still think about the audition.",P,History of Present Illness (HPI)
+"It sounds like it might be a temporary fix. Have you considered other ways to process those feelings, perhaps through mindfulness or self-compassion exercises?",T,History of Present Illness (HPI)
+"I’ve heard of those, but I’m not sure they’d work for me.",P,Insignificant
+That’s fair. It can feel a bit foreign at first. Would you be open to trying a simple exercise together now?,T,Therapeutic Interventions
+"Sure, I’m willing to give it a shot.",P,Therapeutic Interventions
+Great! Let’s start with a simple breathing exercise. Take a deep breath in... and out. Focus on how your body feels as you breathe. ,T,Therapeutic Interventions
+Okay... I’m doing it.,P,Therapeutic Interventions
+"Good. Now, as you breathe, think about the pressure you feel regarding your audition. Acknowledge it without judgment. ",T,Therapeutic Interventions
+It’s hard not to judge it. I just feel like I should be over it by now.,P,History of Present Illness (HPI)
+"It’s completely normal to feel that way. It’s a part of your journey. Remember, it’s okay to still be processing these feelings. ",T,Insignificant
+I guess that makes sense. ,P,Insignificant
+How does it feel to acknowledge that?,T,Insignificant
+"I feel a bit lighter, actually. Like it’s okay to not have it all figured out.",P,History of Present Illness (HPI)
+That’s a wonderful realization. What might be a small step you could take to continue this process of self-compassion?,T,Next Steps
+Maybe I could write about my feelings? ,P,Next Steps
+Writing can be a powerful tool for processing emotions. Would you be open to setting some time aside this week to do that?,T,Next Steps
+"Yeah, I can do that.",P,Next Steps
+Great! What else would you like to focus on today?,T,Insignificant
+I’ve been thinking about my sleep issues too. It’s still a struggle.,P,History of Present Illness (HPI)
+Sleep is crucial for our overall well-being. What do you think is keeping you from getting a good night’s sleep?,T,History of Present Illness (HPI)
+My mind just races. I think about everything I have to do.,P,History of Present Illness (HPI)
+It sounds overwhelming. Have you tried any techniques to calm your mind before bed?,T,History of Present Illness (HPI)
+Not really. I usually just scroll my phone until I fall asleep.,P,Current Functional Status
+That’s a common habit. Sometimes screens can actually keep our minds active. Would you be willing to explore some alternatives to that?,T,Therapeutic Interventions
+"Sure, what do you suggest?",P,Therapeutic Interventions
+"You might try reading a book or listening to calming music. You could also try a relaxation technique, like progressive muscle relaxation.",T,Therapeutic Interventions
+I’ve never heard of that. How does it work?,P,Insignificant
+It involves tensing and relaxing different muscle groups in your body. It helps release tension and can promote better sleep. Would you like to try that together?,T,Therapeutic Interventions
+"Yeah, let’s do it.",P,Therapeutic Interventions

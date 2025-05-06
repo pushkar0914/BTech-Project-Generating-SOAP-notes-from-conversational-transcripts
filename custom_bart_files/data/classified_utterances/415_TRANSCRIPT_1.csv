@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. It's great to see you back. How have you been since our last session?",T,Insignificant
+"Hey! I've been okay, just busy with work and school, you know how it is.",P,Insignificant
+I understand. It's a lot to juggle. Have you noticed any changes in how you're managing your stress levels since we last spoke?,T,History of Present Illness (HPI)
+"Yeah, I’ve been trying to practice mindfulness a bit more. I downloaded an app that guides me through some breathing exercises.",P,History of Present Illness (HPI)
+That’s a great step! How has that been working for you?,T,Insignificant
+"It helps, especially when I feel overwhelmed. I just take a few minutes to breathe and it calms me down.",P,History of Present Illness (HPI)
+"Excellent! Mindfulness can be really effective. Have you been able to find time to relax and enjoy music, as you mentioned before?",T,Insignificant
+I have! I’ve been listening to a lot of different genres lately. It really helps me unwind after a long day.,P,Insignificant
+That’s wonderful to hear. Music can be such a powerful tool for emotional expression. Have you found any particular songs or artists that resonate with you more during tough times?,T,Insignificant
+"I’ve been really into some old-school R&B. It just feels comforting, you know?",P,Insignificant
+"Absolutely, R&B has a way of connecting with deep emotions. Speaking of emotions, how have you been feeling overall? Any ups and downs?",T,History of Present Illness (HPI)
+"Honestly, I’ve had some ups and downs. I still think about my brother sometimes, especially when I hear about police incidents on the news.",P,History of Present Illness (HPI):Trauma History
+That makes sense. It’s completely natural to feel that way. Have you had any conversations with your family about how you’re feeling?,T,Insignificant
+Not really. I don’t want to worry them. I just keep it to myself.,P,Psychosocial History
+"I understand wanting to protect them, but sharing might help you process those feelings. What do you think holds you back from discussing it with them?",T,Insignificant
+I guess I just don’t want them to think I’m not coping well. I want to seem strong for them.,P,Psychosocial History
+That’s a common concern. It’s important to remember that vulnerability can be a strength too. It might actually bring you closer together. ,T,Insignificant
+"Yeah, I see that. Maybe I’ll try to bring it up next time we talk.",P,Next Steps
+That sounds like a good plan. How do you feel about your sleep patterns? Have they improved at all?,T,Physiological Observations
+Not really. I’m still pretty much a zombie. My work schedule is all over the place.,P,Physiological Observations
+Have you tried any strategies to improve your sleep hygiene?,T,Insignificant
+"I’ve tried to limit my screen time before bed, but it’s hard with work.",P,Physiological Observations
+"It can definitely be a challenge. Perhaps we could explore some other strategies together, or even set a goal for you to try this week?",T,Next Steps
+"Sure, that could help!",P,Insignificant
+"Great! How about setting a specific bedtime for yourself? Even if it’s just 15 minutes earlier than usual, it could help.",T,Next Steps
+I can definitely try that. I usually stay up late just scrolling through my phone.,P,Insignificant
+That’s a step in the right direction! What about your interactions with others? You mentioned feeling shorter with people lately. Has that continued?,T,History of Present Illness (HPI)
+"Yeah, I think it has. I’ve been feeling a bit more irritable. ",P,History of Present Illness (HPI)
+"That’s understandable, especially with all the stress you’re under. Have you noticed if there are specific triggers that lead to that irritability?",T,Insignificant
+Mostly when I feel overwhelmed with work or school. It’s like I just snap at little things.,P,History of Present Illness (HPI)
+It sounds like finding ways to manage your stress could be beneficial. Would you be open to practicing some assertive communication techniques to express your feelings instead of snapping?,T,Therapeutic Interventions
+I’d be willing to try that.,P,Insignificant
+Fantastic! We can work on that together. It might help you express yourself without feeling like you’re losing control. ,T,Therapeutic Interventions
+That sounds good. I want to be more mindful of how I communicate.,P,Next Steps
+That’s a great intention. Let’s also talk about your goals for the future. You mentioned wanting to venture into real estate with your sisters. How is that progressing?,T,Insignificant
+We’re still working on it! We just finished a course on property management.,P,Current Functional Status
+That’s exciting! How did you feel about the course?,T,Insignificant
+"It was really informative. I learned a lot about the legal side of things, which was a bit overwhelming but necessary.",P,Current Functional Status
+That’s a big step! It sounds like you’re committed to making your dream a reality. How does that make you feel?,T,Insignificant
+"It feels good, but also a bit scary. What if it doesn’t work out?",P,History of Present Illness (HPI)
+"It’s natural to feel apprehensive about big changes. What if we reframed that fear? Instead of focusing on what could go wrong, what if you focused on what could go right?",T,Insignificant
+I like that idea. I guess I could think about the possibilities instead of just the risks.,P,Next Steps
+Exactly! Embracing a growth mindset can be really empowering. You and your sisters are already doing something impressive by investing in properties together.,T,Insignificant
+"Thanks, Ellie. That makes me feel a bit more confident.",P,Insignificant
+"I’m glad to hear that! Remember, it’s about taking small steps towards your goals. What’s one small action you can take this week to move closer to your dream?",T,Next Steps
+Maybe I’ll start researching properties more seriously. I could set aside some time this weekend.,P,Next Steps
+That sounds perfect! It’s a manageable step. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now. I feel like I have some good things to work on.,P,Insignificant
+I’m glad to hear that. You’ve made some great insights today. Let’s plan to check in on your progress next time. ,T,Next Steps
+"Sounds good! Thanks, Ellie.",P,Insignificant
+"You’re welcome! Take care, and I look forward to seeing you next time.",T,Insignificant
+Bye!,P,Insignificant

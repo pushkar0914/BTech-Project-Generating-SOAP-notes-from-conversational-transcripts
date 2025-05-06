@@ -1,0 +1,58 @@
+﻿Utterance,Type,Classified_Subsection
+<sighs>  ,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?  ,T,Insignificant
+"I've been doing okay, I guess. Trying to stay positive like we talked about.  ",P,History of Present Illness (HPI)
+That’s good to hear! Have you noticed any specific changes in your mood or thoughts?  ,T,History of Present Illness (HPI)
+"Yeah, I’ve been trying to focus on the good things more.  ",P,History of Present Illness (HPI)
+That’s a great practice. Can you share an example of a good thing you've focused on recently?  ,T,Insignificant
+"Well, I went to the beach last weekend, and it felt really nice to just relax and enjoy the sun.  ",P,History of Present Illness (HPI)
+Sounds lovely! Did you do anything special while you were there?  ,T,Insignificant
+Just walked along the shore with my wife. We talked about our future plans.  ,P,Psychosocial History
+That’s wonderful. What are some of those plans?  ,T,Insignificant
+"We’re thinking about traveling more, maybe even moving to a different state.  ",P,Psychosocial History
+That’s exciting! What’s drawing you to that idea?  ,T,Insignificant
+"Just the thought of a fresh start, you know? Less traffic, more nature.  ",P,Psychosocial History
+I can see why that would appeal to you. Have you thought about where you might want to move?  ,T,Insignificant
+Maybe somewhere like Oregon or Washington. I love the outdoors.  ,P,Psychosocial History
+Those are beautiful places. Have you visited either of them?  ,T,Insignificant
+"No, but I’ve seen pictures and heard great things.  ",P,Insignificant
+"That’s a good motivation to explore! Speaking of exploring, have you been able to engage in any art since we last spoke?  ",T,Insignificant
+A little bit. I painted a small piece last week.  ,P,History of Present Illness (HPI)
+How did that feel?  ,T,Insignificant
+It felt really good. I missed it.  ,P,History of Present Illness (HPI)
+That’s great! Art can be such a therapeutic outlet. What inspired your painting?  ,T,Insignificant
+Just the colors of the sunset. I wanted to capture that feeling.  ,P,History of Present Illness (HPI)
+Beautiful. It sounds like you’re connecting with your creative side again. How does that impact your mood?  ,T,Insignificant
+It definitely lifts my spirits.  ,P,History of Present Illness (HPI)
+That’s great to hear. Have you noticed if there are any barriers that prevent you from creating more often?  ,T,History of Present Illness (HPI)
+"Sometimes I feel like I don’t have enough time, or I get stuck on what to create.  ",P,History of Present Illness (HPI)
+Time can be a challenge. What if we set a small goal for you to create something each week?  ,T,Next Steps
+That could work. Maybe I could set aside a couple of hours on the weekend.  ,P,Next Steps
+"That sounds like a solid plan. And if you get stuck on ideas, we can brainstorm together.  ",T,Therapeutic Interventions
+"Yeah, I’d like that.  ",P,Insignificant
+Great! Let’s also talk about your relationship with your brother. How has that been since our last session?  ,T,Insignificant
+We talked a bit about our argument. I think we’re in a better place now.  ,P,History of Present Illness (HPI)
+That’s a positive step. What helped improve the situation?  ,T,Insignificant
+I just tried to be more understanding of his stress.  ,P,History of Present Illness (HPI)
+That’s a mature approach. It’s important to recognize how stress can affect our interactions.  ,T,Insignificant
+"Yeah, I think it helped us both.  ",P,Insignificant
+Have you been able to communicate more openly since then?  ,T,Insignificant
+A little. I think we’re getting there.  ,P,History of Present Illness (HPI)
+That’s encouraging. Communication is key in any relationship. How do you feel about your relationship with your family overall?  ,T,Insignificant
+It’s good. Just sometimes feels like they don’t get me.  ,P,Psychosocial History
+That’s understandable. Have you thought about how you might express your feelings to them?  ,T,Insignificant
+"I haven’t really, but I think I should.  ",P,Insignificant
+It could be helpful. Maybe we can work on some strategies for that.  ,T,Therapeutic Interventions
+"Yeah, I’d like that.  ",P,Insignificant
+How about we also check in on your mindfulness practice? Have you been able to incorporate it into your daily routine?  ,T,Insignificant
+A little bit. I try to take a moment in the morning to breathe and set my intentions.  ,P,History of Present Illness (HPI)
+That’s a great start! How does that feel for you?  ,T,Insignificant
+It helps me feel grounded.  ,P,History of Present Illness (HPI)
+Fantastic! Let’s continue to build on that. Would you be open to trying a guided meditation together next session?  ,T,Next Steps
+"Sure, I’d like to try that.  ",P,Insignificant
+Excellent! We can explore different techniques that might resonate with you.  ,T,Therapeutic Interventions
+Sounds good.  ,P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?  ",T,Insignificant
+"No, I think we covered a lot.  ",P,Insignificant
+Great! I’m looking forward to hearing about your creative projects and family conversations next time. Take care!  ,T,Insignificant
+"Thanks, see you next week!  ",P,Insignificant

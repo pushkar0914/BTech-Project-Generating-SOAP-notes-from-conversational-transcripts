@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi! Welcome back. How have you been since our last session?  ,T,Insignificant
+"I’ve been okay. I tried that pros and cons list we talked about, and it helped a bit.  ",P,Progress Evaluation
+That’s great to hear! What did you discover from the list?  ,T,Insignificant
+"I realized that I have more options than I thought, which was kind of relieving.  ",P,Mental Health Observations
+That’s a valuable insight. Did anything surprise you about the options you considered?  ,T,Insignificant
+"Yeah, I didn’t think I’d be interested in applying for jobs outside of journalism, but some other fields caught my attention.  ",P,History of Present Illness (HPI)
+That’s interesting! What other fields are you considering?  ,T,Insignificant
+"Well, I thought about public relations and even some marketing roles. They seem like they could use my skills too.  ",P,History of Present Illness (HPI)
+That’s a smart way to broaden your horizons. How do you feel about these new possibilities?  ,T,Insignificant
+I feel excited but also a bit scared. It’s like stepping into the unknown.  ,P,History of Present Illness (HPI)
+That’s completely normal. Change can be intimidating. How do you usually cope with that fear?  ,T,Insignificant
+I try to remind myself that it’s okay to be scared. I also talk to friends for support.  ,P,History of Present Illness (HPI)
+That’s a healthy approach. Have you noticed how your friends react when you share these fears?  ,T,Insignificant
+They’re usually really supportive. They remind me that it’s a part of growing up.  ,P,Psychosocial History
+It sounds like you have a good support system. Have you thought about how you can lean on them during this transition?  ,T,Insignificant
+I think I’ll definitely reach out more. It helps to talk things through.  ,P,Next Steps
+"Communication is key. Speaking of communication, how have things been with your family since our last session?  ",T,Insignificant
+"It’s been a bit better. I tried to be more open about my plans, and my mom seemed to appreciate it.  ",P,Progress Evaluation
+That’s wonderful progress. How did you approach that conversation?  ,T,Insignificant
+I just explained my goals and reassured her that I’d keep her in the loop about my decisions.  ,P,History of Present Illness (HPI)
+That sounds effective. How did it feel to express your thoughts more assertively?  ,T,Insignificant
+"It felt good, actually. I think it made her feel more included in my life choices.  ",P,Progress Evaluation
+That’s a great step towards strengthening your relationship. Are there other areas where you’d like to practice assertiveness?  ,T,Insignificant
+"Yeah, I think I need to work on it with my friends too. Sometimes I hesitate to speak up.  ",P,History of Present Illness (HPI)
+What holds you back from speaking up with your friends?  ,T,Insignificant
+I guess I worry about hurting their feelings or causing conflict.  ,P,History of Present Illness (HPI)
+That’s a common concern. What if you approached it as sharing your perspective rather than confronting them?  ,T,Insignificant
+That could work. I can frame it as just sharing how I feel instead of making it a big deal.  ,P,Mental Health Observations
+Exactly! It’s about expressing yourself honestly while being considerate of their feelings.  ,T,Insignificant
+I like that approach. I’ll try to keep it in mind next time.  ,P,Next Steps
+Good! Let’s also explore some coping mechanisms for when you feel overwhelmed in those situations. What do you usually do?  ,T,Insignificant
+"I usually just take a moment to breathe, but I think I can do more.  ",P,Current Functional Status
+"Breathing exercises are a great start. Have you tried any other techniques, like journaling or mindfulness?  ",T,Insignificant
+"I’ve thought about journaling, but I haven’t really committed to it.  ",P,History of Present Illness (HPI)
+Journaling can be a powerful tool for processing emotions. Would you be open to starting a simple journaling practice?  ,T,Therapeutic Interventions
+"Yeah, I think I could try that. Just writing down my thoughts and feelings might help.  ",P,Therapeutic Interventions
+Absolutely! It doesn’t have to be anything formal; just write what comes to mind.  ,T,Insignificant
+I’ll give it a shot. I think it could help me clarify my feelings.  ,P,Therapeutic Interventions
+Great! I’d love to hear about your experiences with it in our next session.  ,T,Next Steps
+Sounds good!  ,P,Insignificant
+Is there anything else you’d like to discuss today?  ,T,Insignificant
+I think we’ve covered a lot. I just want to keep working on being more assertive.  ,P,Next Steps
+"That’s a solid goal. Remember, practice makes perfect. You’re doing really well!  ",T,Insignificant
+"Thanks, Ellie. I appreciate your encouragement.  ",P,Insignificant
+You’re welcome! I’m here to support you. See you next week!  ,T,Insignificant
+See you then!,P,Insignificant

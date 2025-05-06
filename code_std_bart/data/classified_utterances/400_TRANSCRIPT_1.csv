@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's Ellie again. I'm glad to see you back today. How have you been since our last session?",T,Insignificant
+"I've been okay, I guess. Just trying to keep up with everything.",P,Insignificant
+"That's understandable. Last time, you mentioned feeling better than you have in a long time. Do you still feel that way?",T,History of Present Illness (HPI)
+"Yeah, I do. The diet change has really helped. I feel clearer, you know?",P,History of Present Illness (HPI)
+That's great to hear! Have you noticed any specific changes in your mood or interactions with others?,T,History of Present Illness (HPI)
+"Well, I think I've been less irritable, which is nice. I’m not snapping at people as much.",P,History of Present Illness (HPI)
+That’s a positive step. You also mentioned feeling guilty about not supporting your friends. Have you had any opportunities to reach out to them?,T,History of Present Illness (HPI)
+"I haven’t really. I want to, but I guess I’m just nervous about it.",P,History of Present Illness (HPI)
+It’s normal to feel nervous about reconnecting. What do you think is holding you back?,T,History of Present Illness (HPI)
+I don’t know. Maybe it’s the fear of them not understanding where I’m at right now.,P,History of Present Illness (HPI)
+That makes sense. It can be daunting to share your journey with others. Would it help to think about what you might say to them?,T,Insignificant
+"Yeah, I could try that. I just don’t want them to think I’m judging them or anything.",P,Insignificant
+That’s a valid concern. Perhaps you could frame it as sharing what has helped you rather than a critique of their choices.,T,Insignificant
+"That sounds good. I could say something like, ""This is what’s working for me.""",P,Insignificant
+"Exactly! It’s about sharing your experience. Speaking of sharing, how do you feel about talking to me about your mom's passing? We didn’t get to delve into that last time.",T,History of Present Illness (HPI)
+<sigh> I still feel pretty raw about it. Some days are harder than others.,P,History of Present Illness (HPI)
+That’s completely understandable. Grief doesn’t follow a linear path. Are there specific moments that trigger those harder days?,T,History of Present Illness (HPI)
+"Sometimes it’s just random things, like a song or a place we used to go together.",P,History of Present Illness (HPI)
+Those reminders can be tough. Have you found any coping strategies that help when those moments arise?,T,History of Present Illness (HPI)
+I usually try to distract myself with something fun like cooking or watching a show.,P,History of Present Illness (HPI)
+Those sound like healthy distractions. Have you thought about incorporating any rituals to honor her memory?,T,History of Present Illness (HPI)
+I haven't really. What do you mean?,P,Insignificant
+"It could be something simple, like cooking a dish she loved or lighting a candle when you think of her. It can help you feel connected.",T,Insignificant
+"That sounds nice, actually. I might try that.",P,Insignificant
+I’m glad to hear that. It’s important to find ways to keep those memories alive. How about your temper? You mentioned struggling to control it sometimes. Have there been any situations recently where you felt that way?,T,History of Present Illness (HPI)
+"Yeah, I had a bit of a blow-up at work last week. It was embarrassing.",P,History of Present Illness (HPI)
+"It happens to everyone, but it’s good that you recognize it. What do you think triggered that reaction?",T,History of Present Illness (HPI)
+"I was just really stressed about deadlines, and then someone made a comment that rubbed me the wrong way.",P,History of Present Illness (HPI)
+Stress can definitely heighten our reactions. Have you considered any techniques for managing stress in those moments?,T,Therapeutic Interventions
+"I’ve tried deep breathing, but it’s hard to remember when I’m in the heat of the moment.",P,Therapeutic Interventions
+It can be challenging. Maybe we could work on creating a quick grounding exercise you can use when you feel that tension rising. Would you be open to that?,T,Therapeutic Interventions
+"Sure, that sounds helpful.",P,Therapeutic Interventions
+"Great! Let’s brainstorm a few quick techniques. How about a simple five-second breathing exercise? Inhale for four seconds, hold for one, and exhale for four. ",T,Therapeutic Interventions
+That sounds doable.,P,Therapeutic Interventions
+Excellent! You could practice that a few times a day to help it become more automatic. Would you like to set a goal to try this technique over the next week?,T,Next Steps
+"Yeah, I’ll give it a shot.",P,Next Steps
+Wonderful! I’d love to hear how it goes next time. Is there anything else on your mind today?,T,Insignificant
+Not really. I think we covered a lot.,P,Insignificant
+"I'm glad to hear that. Remember, it’s a process, and you’re doing great. Let’s check in about your goals next session. Take care!",T,Insignificant
+"Thanks, Ellie. See you next time!",P,Insignificant

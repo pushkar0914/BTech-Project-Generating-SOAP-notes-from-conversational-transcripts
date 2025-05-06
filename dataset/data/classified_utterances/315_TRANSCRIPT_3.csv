@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have things been since our last session?,T,Insignificant
+"Hi, Ellie! Things have been pretty good. We’ve been celebrating our daughter’s little wins, and it seems to be working.",P,Psychosocial History
+That’s fantastic news! How has she reacted to the celebrations?,T,Insignificant
+She’s been really excited about it. It’s motivated her to try harder in school.,P,Psychosocial History
+That’s wonderful to hear! It sounds like you’re creating a positive reinforcement cycle. Have you noticed any changes in her behavior as a result?,T,Insignificant
+"Yes, she seems more engaged and willing to ask for help when she needs it.",P,Psychosocial History
+That’s a significant improvement! Encouraging her to ask for help is a great step. How do you feel about the progress you’re making as a parent?,T,Insignificant
+I feel proud. It’s nice to see her responding positively to our efforts.,P,Psychosocial History
+That’s great! It’s important to acknowledge your successes. Have you been able to apply any conflict resolution strategies with your girlfriend?,T,Insignificant
+"Yes, we’ve been trying to communicate better. I’ve been more open about my feelings, and it’s helped.",P,Psychosocial History
+That’s a positive development! How has she responded to your openness?,T,Insignificant
+She’s been receptive and has opened up more as well. It feels like we’re on the same team now.,P,Psychosocial History
+That’s wonderful to hear! Working together as a team can strengthen your relationship. Have you encountered any challenges while implementing these strategies?,T,Insignificant
+"There were a couple of times we slipped back into old habits, but we caught ourselves quickly.",P,History of Present Illness (HPI)
+"That’s completely normal! Change takes time, and it’s great that you’re recognizing those moments. What do you think helped you catch those habits?",T,Insignificant
+"I think being aware of our goals has kept us focused. Plus, we remind each other to stay on track.",P,Psychosocial History
+That’s an effective strategy! Supporting each other can create a more positive environment. Is there anything specific you’d like to work on today?,T,Insignificant
+"I’d like to explore how to handle disagreements better, especially when we’re both stressed.",P,Presenting Problem / Chief Complaint
+That’s a valuable topic. Stress can amplify disagreements. What strategies have you tried so far to manage stress during conflicts?,T,Insignificant
+"We’ve tried taking breaks to cool down before discussing things, which helps.",P,History of Present Illness (HPI)
+Taking breaks can be a great way to regain perspective. Have you found it easy to implement that strategy?,T,Insignificant
+Sometimes it’s hard to remember to take a break when emotions run high.,P,History of Present Illness (HPI)
+That’s understandable. Would it help to establish a signal or phrase that indicates when one of you needs a break?,T,Insignificant
+That could work! It would be a gentle reminder without escalating things.,P,Therapeutic Interventions
+Absolutely! Having a mutual understanding can help both of you feel more secure in those moments. What phrase do you think would work for you?,T,Insignificant
+Maybe something simple like “Let’s take a moment” would be good.,P,Therapeutic Interventions
+That sounds effective! It’s clear and non-confrontational. How do you feel about using that in the future?,T,Insignificant
+I think it’ll help a lot. It’ll give us both a moment to breathe.,P,Therapeutic Interventions
+"That’s great to hear! Along with that, have you considered any other stress-relief techniques you can use individually?",T,Insignificant
+I’ve been trying to exercise more. It helps clear my mind.,P,Physiological Observations
+Exercise is a fantastic way to relieve stress. How has that been going for you?,T,Insignificant
+It’s been good! I feel more energized and focused after a workout.,P,Physiological Observations
+That’s excellent! Incorporating regular exercise can enhance your overall well-being. Is there anything else you’d like to discuss today?,T,Insignificant
+I think I’m good for now. Just focusing on these strategies is a lot to process!,P,Insignificant
+"That’s perfectly okay! It’s important to take things one step at a time. For our next session, we can check in on how the strategies are working and explore any new challenges that arise.",T,Next Steps
+Sounds good! I appreciate your help.,P,Insignificant
+You’re doing great! I look forward to hearing about your progress next time.,T,Insignificant
+"Thanks, Ellie. Bye!",P,Insignificant
+Bye! Take care!,T,Insignificant

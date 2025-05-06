@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+Hi! I’ve been good. I’ve been practicing the breathing exercises before bed.,P,History of Present Illness (HPI)
+That’s fantastic! How has that been working for you?,T,Insignificant
+"It’s helped a lot. I feel more relaxed, and I’ve been sleeping better.",P,History of Present Illness (HPI): Physiological Observations
+That’s wonderful news! Consistent practice can make a significant difference. Have you noticed any other changes in your daily routine?,T,Insignificant
+"I’ve been more focused at work and school, which is nice.",P,Current Functional Status
+That’s great to hear! It sounds like you’re making some positive strides. Have you been able to maintain the earlier wake-up time?,T,Insignificant
+"Yes, I’ve been waking up at 6:00 AM most days.",P,Physiological Observations
+Excellent! That’s a big commitment. How do you feel about your mornings now?,T,Insignificant
+"They feel less chaotic, and I actually enjoy having that quiet time.",P,Current Functional Status
+"That’s wonderful! It’s great to hear that you’re finding joy in that part of your day. Now, how is football going? Have you been able to join a league or practice more?",T,Insignificant
+I found a local league! I’m really excited to start.,P,Current Functional Status
+That’s amazing! How do you feel about being part of a team again?,T,Insignificant
+I feel really good about it. I think it’ll help me connect with others and have fun.,P,Current Functional Status
+Absolutely! Being part of a team can provide a sense of community and support. When do you start?,T,Insignificant
+Next week! I can’t wait.,P,Insignificant
+"That’s exciting! I’m looking forward to hearing about your experiences. Now, let’s talk about your son. How has your connection with him been since we last spoke?",T,Insignificant
+"It’s been great! We’ve been doing more activities together, like going to the park.",P,Current Functional Status: Psychosocial History
+That sounds wonderful! Spending quality time together can really strengthen your bond. Have you noticed any changes in his behavior or mood?,T,Insignificant
+He seems happier and more engaged. It’s nice to see.,P,Current Functional Status: Psychosocial History
+That’s fantastic! It sounds like your involvement is making a positive impact. Have you had any challenges as a parent recently?,T,Insignificant
+"A few. Sometimes he gets frustrated with his schoolwork, and I have to remind him to stay patient.",P,History of Present Illness (HPI): Psychosocial History
+Patience can be tough for kids. How do you handle those moments?,T,Insignificant
+I try to be calm and encourage him to take breaks when he gets too frustrated.,P,Therapeutic Interventions
+"That’s a great approach! Encouraging breaks can help him reset and refocus. Now, let’s revisit the topic of stress. Have you encountered any new stressors since our last session?",T,Insignificant
+"Not really. Work has been steady, and I’m managing my time better.",P,History of Present Illness (HPI)
+That’s excellent! It sounds like you’re becoming more adept at handling stress. Have you found any new coping strategies that work for you?,T,Insignificant
+"I’ve been journaling a bit, just to get my thoughts out.",P,Therapeutic Interventions
+Journaling can be a great tool for processing emotions. How has that been for you?,T,Insignificant
+It helps me clear my mind and reflect on my day.,P,Therapeutic Interventions
+That’s wonderful to hear! Reflection can lead to greater self-awareness. Is there anything specific you’ve been reflecting on lately?,T,Insignificant
+I’ve been thinking about my goals and what I want to achieve this year.,P,History of Present Illness (HPI)
+That’s a healthy focus! What goals have you identified for yourself?,T,Insignificant
+"I want to finish my degree, improve my football skills, and be a better parent.",P,History of Present Illness (HPI)
+"Those are all meaningful goals. How can we break those down into smaller, actionable steps?",T,Insignificant
+"For school, I can set aside specific study times. For football, I can practice a couple of times a week. And for parenting, I can plan more activities with my son.",P,Next Steps
+Those sound like excellent plans! Setting specific times can help you stay on track. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now.,P,Insignificant
+Alright! I’m excited to hear about your progress in our next session. Remember to celebrate each small step you take. Take care!,T,Insignificant
+Thank you! See you next time.,P,Insignificant

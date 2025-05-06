@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing alright. I actually tried painting like we talked about.",P,History of Present Illness (HPI)
+That’s wonderful! How was the experience for you?,T,Insignificant
+"It was really nice. I felt relaxed, and it was great to just focus on something creative.",P,History of Present Illness (HPI)
+"I’m so glad to hear that! Did you find it helped with your feelings of being in ""one note land""?",T,History of Present Illness (HPI)
+"Yes, it definitely brightened my mood a bit. I think I’ll keep it up.",P,History of Present Illness (HPI)
+That’s fantastic! Regular creativity can really help with emotional expression. Did you have the chance to socialize since our last talk?,T,Insignificant
+"Yes, I went to a small gathering and tried to introduce myself to someone new.",P,Current Functional Status
+How did that go?,T,Insignificant
+"It was a bit awkward at first, but I managed to talk to someone for a little while. I felt proud of myself.",P,Current Functional Status
+That’s a huge accomplishment! It’s great that you stepped out of your comfort zone. How did it feel afterward?,T,Insignificant
+"It felt good, but I was also drained afterward, which I guess is normal for me now.",P,Physiological Observations
+"That’s completely understandable. Socializing can take a lot of energy, especially if it’s not something you’re used to. How did you cope with that drain?",T,Insignificant
+I just took some time to myself afterward. I watched some reality TV to unwind.,P,Current Functional Status
+"That sounds like a healthy way to recharge. It’s important to give yourself that space. Speaking of your dad, did you have the opportunity to talk with him about your feelings?",T,Insignificant
+"I did! I approached him like we practiced, and he was surprisingly receptive.",P,History of Present Illness (HPI)
+That’s great news! What did he say?,T,Insignificant
+"He listened, and while he didn’t completely agree, he said he would try to understand my perspective more.",P,History of Present Illness (HPI)
+That’s a positive step! It shows that he values your feelings. How did that make you feel?,T,Insignificant
+It made me feel relieved. I didn’t expect him to be so open.,P,History of Present Illness (HPI)
+That’s a wonderful outcome. It sounds like you’re making progress in your communication with him. Is there anything else you’d like to address today?,T,Insignificant
+I think I still struggle with feeling like I don’t belong here in L.A. Sometimes I miss home more than I thought I would.,P,History of Present Illness (HPI)
+"That’s a valid feeling, especially since you mentioned how close-knit your family is. Have you thought about ways to maintain that connection while you’re here?",T,Insignificant
+"I’ve been trying to call my family more often, but it’s still hard. I feel like I’m missing out on things.",P,History of Present Illness (HPI)
+It’s tough to balance those feelings. Perhaps you could plan a visit back home or even organize a family video call to feel more connected?,T,Next Steps
+I could definitely try to set up a video call. That might help.,P,Next Steps
+That sounds like a good plan! Making those connections can help ease that sense of longing. Have you noticed any changes in your anxiety since we began working together?,T,Insignificant
+"I think I’m managing it a bit better. I still have moments, but I feel more equipped to deal with them.",P,Progress Evaluation
+That’s a great sign of progress! What strategies do you think have been most helpful for you?,T,Insignificant
+I think the breathing exercises and focusing on creativity have made a difference. They help me stay grounded.,P,Progress Evaluation
+I’m glad to hear that! Would you like to explore any new techniques or coping strategies today?,T,Insignificant
+Maybe we could look into mindfulness? I’ve heard it can be helpful.,P,Therapeutic Interventions
+Absolutely! Mindfulness can be a powerful tool. Would you like to try a short mindfulness exercise together now?,T,Therapeutic Interventions
+"Yes, I’d like that.",P,Therapeutic Interventions
+Let’s take a moment to find a comfortable position. Close your eyes if that feels okay. Focus on your breath. Inhale deeply… hold… and exhale slowly. Just notice how your body feels in this moment.,T,Therapeutic Interventions
+<breathes deeply> It feels calming.,P,Therapeutic Interventions
+"Good. As you breathe, try to let go of any thoughts that come to mind. Acknowledge them, then let them drift away like clouds in the sky.",T,Therapeutic Interventions
+I like this. It feels freeing.,P,Therapeutic Interventions
+That’s wonderful! Mindfulness can help you stay present and reduce anxiety. Would you be willing to practice this a few times a week?,T,Next Steps
+"Yes, I think I can commit to that.",P,Next Steps
+Great! Let’s check in about your experience with mindfulness in our next session. Is there anything else you’d like to cover today?,T,Insignificant
+I think that’s it for now. I feel good about what we discussed.,P,Insignificant
+"I’m glad to hear that! Remember to keep practicing those new strategies, and I look forward to our next session. Take care!",T,Insignificant
+"Thank you, Ellie! See you next time!",P,Insignificant
+Bye!,T,Insignificant

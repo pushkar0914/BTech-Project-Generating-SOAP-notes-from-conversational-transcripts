@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Welcome back! How have you been since our last session?,T,Insignificant
+"I’ve been good, a bit stressed with work, but managing.",P,History of Present Illness (HPI)
+It’s great to see you again. Did you have a chance to reach out to your friends like we discussed last time?,T,Insignificant
+"Yes, I did! I texted them, and we’re planning to get together next week.",P,Psychosocial History
+That’s fantastic! How did it feel to reach out to them?,T,Insignificant
+"It felt really good. I was nervous at first, but they were really understanding.",P,Psychosocial History
+That’s wonderful to hear. It sounds like you’re building stronger connections. How did the conversation go?,T,Insignificant
+"We talked about how busy we all are, but they appreciated me checking in.",P,Psychosocial History
+"That’s a great sign. It’s important to maintain those connections, especially during busy times. How have you been feeling about your friendships since then?",T,Insignificant
+I feel more at ease. I realized they go through the same stuff I do.,P,Psychosocial History
+That’s a valuable insight. Knowing you’re not alone can be comforting. Have you had any recent experiences that made you feel particularly connected to them?,T,Insignificant
+Just our conversations about life and work. It felt nice to share.,P,Psychosocial History
+Sharing experiences can really strengthen bonds. Have you noticed any changes in your stress levels since reaching out?,T,Insignificant
+"A bit, yeah. I feel less overwhelmed now that I’ve talked to them.",P,History of Present Illness (HPI)
+"That’s great progress! Remember, it’s okay to lean on your friends when you need support. Have you been using any of the mindfulness techniques we discussed?",T,Insignificant
+"Yes, I’ve been trying the breathing exercises when I feel stressed.",P,Therapeutic Interventions
+That’s excellent! How have they been working for you?,T,Insignificant
+"They help a lot, especially before meetings at work.",P,Therapeutic Interventions
+I’m glad to hear that. You’re taking positive steps to manage your stress. Have there been any new challenges at work lately?,T,Insignificant
+"Just the usual deadlines, but I feel more equipped to handle them now.",P,Current Functional Status
+That’s a fantastic mindset to have. How do you think your friends would describe the way you handle stress?,T,Insignificant
+"They’d probably say I’m pretty resilient, but I can be a bit anxious sometimes.",P,Risk Assessment
+"It’s normal to feel anxious, especially under pressure. Have you had any moments of anxiety that you’d like to talk about?",T,Insignificant
+"I had a presentation last week, and I was really nervous before it.",P,History of Present Illness (HPI)
+Presentations can be nerve-wracking. How did you manage that anxiety?,T,Insignificant
+"I used the breathing exercises, and it helped me focus.",P,Therapeutic Interventions
+That’s a great strategy! It sounds like you’re learning to cope effectively. What do you think you could do to prepare for future presentations?,T,Insignificant
+Maybe practice more in front of friends to get feedback.,P,Next Steps
+That’s a solid plan! Practicing can help build confidence. Would you like to set that as a goal for the next week?,T,Insignificant
+"Yes, I’d like that.",P,Next Steps
+Perfect! We can check in on your progress next time. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers everything. I feel like I’m making progress.,P,Progress Evaluation
+You absolutely are! It’s been a pleasure to see your growth. Keep practicing your techniques and reaching out to your friends. I look forward to hearing about your presentation practice next time!,T,Insignificant
+"Thank you, Ellie. I appreciate your help!",P,Insignificant
+"You’re welcome! Take care, and see you next session!",T,Insignificant

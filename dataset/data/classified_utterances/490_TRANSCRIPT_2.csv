@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie! I'm back.",P,Insignificant
+Hi! It's great to see you again. How has your week been?,T,Insignificant
+"It’s been a mix. I talked to my wife like we discussed, and it went really well.",P,History of Present Illness (HPI)
+That’s fantastic! What did you share with her?,T,Insignificant
+I told her how I’ve been feeling about my health journey and how I sometimes feel stressed. She was really understanding.,P,History of Present Illness (HPI)
+That’s wonderful to hear! How did that make you feel?,T,Insignificant
+It felt good to share. I think it brought us closer.,P,History of Present Illness (HPI)
+That’s a significant step forward! Have you noticed any changes in how you approach stress since then?,T,History of Present Illness (HPI)
+"Yeah, I feel like I can talk to her more openly now. It’s less of a burden, I guess.",P,History of Present Illness (HPI)
+That’s a great realization! Communication can really alleviate feelings of isolation. Have there been any challenges this week?,T,Insignificant
+"Well, I did have a few stressful days at work, and I found myself slipping back into some old habits.",P,History of Present Illness (HPI)
+That’s understandable. It’s a process. What old habits did you notice creeping back in?,T,Insignificant
+I skipped my workouts a couple of times and grabbed takeout instead of cooking.,P,History of Present Illness (HPI)
+It’s okay to have setbacks. What do you think triggered those choices?,T,Insignificant
+I think it was just being overwhelmed with deadlines. I didn’t want to think about cooking.,P,History of Present Illness (HPI)
+That’s a common reaction. How did that make you feel afterwards?,T,Insignificant
+"I felt guilty, like I was letting myself down.",P,History of Present Illness (HPI)
+Guilt can be tough to navigate. How can you reframe that feeling into something more constructive?,T,Insignificant
+Maybe I can see it as a learning experience instead of a failure?,P,History of Present Illness (HPI)
+Exactly! Each experience gives you insight into what works and what doesn’t. What might you try next time you feel overwhelmed?,T,Insignificant
+I could plan easier meals for those busy days or even involve my kids in cooking.,P,Next Steps
+That sounds like a great idea! Involving your kids can make it fun and also teach them valuable skills. ,T,Insignificant
+"Yeah, they love helping in the kitchen. ",P,Insignificant
+That’s wonderful! It sounds like you’re creating a positive environment for both you and your family. Have you had any moments of joy this week despite the stress?,T,Insignificant
+"Yes! We went to the park together, and it was really nice to see them play and have fun.",P,History of Present Illness (HPI)
+That’s lovely! Those moments can be so rejuvenating. How do you feel when you spend time with your family like that?,T,Insignificant
+I feel happy and more connected to them.,P,History of Present Illness (HPI)
+That’s great! It’s important to cherish those connections. Is there anything else you’d like to work on today?,T,Insignificant
+I think I want to focus on managing my stress better.,P,Presenting Problem / Chief Complaint
+That’s a valuable focus. Would you like to explore some more coping strategies together?,T,Insignificant
+"Yes, that would be helpful.",P,Insignificant
+"How about we try another mindfulness exercise? This time, we can focus on grounding techniques. ",T,Therapeutic Interventions
+Sounds good!,P,Insignificant
+"Let’s start by taking a moment to notice your surroundings. What do you see, hear, and feel right now?",T,Insignificant
+"I see the sunlight coming through the window, I hear some birds outside, and I feel relaxed sitting here.",P,Mental Health Observations
+Excellent! Focusing on your senses can help bring you back to the present moment. You can use this technique whenever you feel overwhelmed. ,T,Therapeutic Interventions
+I like that. I’ll try to remember it.,P,Insignificant
+"Wonderful! As we wrap up today, what’s one thing you’d like to take away from this session?",T,Insignificant
+I think I want to focus on being kinder to myself when I slip up.,P,Next Steps
+"That’s a powerful takeaway. Remember, progress takes time, and it’s okay to have ups and downs. ",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+You’re very welcome! I look forward to hearing more about your journey next time. ,T,Insignificant
+Me too! See you soon!,P,Insignificant
+Goodbye!,T,Insignificant

@@ -1,0 +1,52 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s nice to see you. How have you been since our last session?  ,T,Insignificant
+"I’ve been doing pretty well, actually. I’ve been sticking to my goals.  ",P,Current Functional Status
+That’s wonderful to hear! What have you been working on?  ,T,Insignificant
+I’ve been studying for my history course and I even found a local volunteering opportunity.  ,P,Current Functional Status
+That’s fantastic! How did you find the volunteering opportunity?  ,T,Insignificant
+I reached out to a community center and they were really welcoming.  ,P,Current Functional Status
+That’s great! How did that interaction feel for you?  ,T,Insignificant
+"It felt good. I was nervous at first, but they were really friendly.  ",P,Mental Health Observations
+It’s normal to feel nervous. How did you manage that feeling?  ,T,Insignificant
+"I used the breathing technique, and it helped calm me down.  ",P,Therapeutic Interventions
+"That’s a great application of what we’ve discussed. So, what’s the next step for your volunteering?  ",T,Insignificant
+"I’m scheduled to start next week, and I’ll be helping with an after-school program.  ",P,Current Functional Status
+How exciting! What are you most looking forward to about it?  ,T,Insignificant
+I’m looking forward to connecting with the kids and hopefully making a difference.  ,P,Current Functional Status
+That’s a beautiful intention. Have you thought about how you might handle any challenges that come up?  ,T,Insignificant
+"I think I’ll just remember to take it one day at a time, like we talked about.  ",P,Therapeutic Interventions
+That’s a solid approach. What about your studies? How have they been going?  ,T,Insignificant
+They’ve been going well! I’ve been keeping up with the material.  ,P,Current Functional Status
+That’s excellent. Have you found any particular topics interesting?  ,T,Insignificant
+"Yes, I’ve been fascinated by the Civil War and its impact on society.  ",P,Current Functional Status
+That’s a significant period in history. What intrigues you most about it?  ,T,Insignificant
+I think it’s interesting how it shaped the future of the country and the lessons we can learn from it.  ,P,Current Functional Status
+"Absolutely, history often provides valuable insights. Have you had any discussions about it with others?  ",T,Insignificant
+"Not yet, but I’m hoping to join a study group soon.  ",P,Current Functional Status
+Joining a study group could be a great way to deepen your understanding.  ,T,Insignificant
+I think so too.  ,P,Insignificant
+Have you experienced any challenges with your PTSD since we last spoke?  ,T,History of Present Illness (HPI)
+"I had a couple of rough nights, but I used the breathing techniques.  ",P,History of Present Illness (HPI):Therapeutic Interventions
+I’m glad to hear that you’re applying those techniques. Have you noticed any patterns in your nightmares?  ,T,Insignificant
+Sometimes they seem to be triggered by stress or when I’m feeling overwhelmed.  ,P,History of Present Illness (HPI)
+That’s insightful. It might help to keep a journal of your experiences. Would you be open to trying that?  ,T,Next Steps
+"Sure, I can do that.  ",P,Next Steps
+Journaling can be a helpful way to process your thoughts and emotions.  ,T,Therapeutic Interventions
+I think it would help me understand my triggers better.  ,P,Next Steps
+Exactly. You might find it useful to reflect on your day and any feelings that arise.  ,T,Therapeutic Interventions
+I’ll definitely give it a try.  ,P,Next Steps
+Great! Is there anything else on your mind today?  ,T,Insignificant
+I guess I’m still worried about how I’ll balance everything.  ,P,Risk Assessment
+It’s important to remember that balance is a process. It’s okay to adjust your goals as needed.  ,T,Insignificant
+"Right, I need to be flexible with myself.  ",P,Insignificant
+"Yes, and don’t forget to celebrate your achievements, no matter how small.  ",T,Insignificant
+I’ll try to remember that.  ,P,Insignificant
+How do you plan to celebrate your progress?  ,T,Insignificant
+Maybe I’ll treat myself to a nice dinner or something.  ,P,Next Steps
+That sounds like a lovely idea! You deserve to reward yourself for your hard work.  ,T,Insignificant
+Thank you!  ,P,Insignificant
+You’re making great strides. Let’s continue to build on this momentum in our next session.  ,T,Progress Evaluation
+I’m looking forward to it.  ,P,Insignificant
+Me too! Take care until then.  ,T,Insignificant
+Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

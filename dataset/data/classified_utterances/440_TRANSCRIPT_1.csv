@@ -1,0 +1,56 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"I've been okay, just dealing with some ups and downs.",P,History of Present Illness (HPI)
+Can you tell me more about the ups and downs?,T,History of Present Illness (HPI)
+"Well, I had a good visit with my son last week, but I’m still feeling stressed about his situation.",P,History of Present Illness (HPI)
+It’s understandable to feel that way. What was it like to see him?,T,Insignificant
+"It was nice to see him doing well, but I also felt a lot of guilt about his situation.",P,History of Present Illness (HPI)
+That’s a heavy burden to carry. How do you cope with those feelings of guilt?,T,Insignificant
+"I try to keep busy with my jewelry design, but sometimes it just creeps back in.",P,History of Present Illness (HPI)
+Have you found any specific activities help you manage those feelings more effectively?,T,Insignificant
+"I think when I’m creating, I can lose myself in the process. But then I feel guilty for enjoying it.",P,History of Present Illness (HPI)
+It’s okay to find joy in your passions. You deserve that. How do you feel about allowing yourself to enjoy your hobbies?,T,Insignificant
+"I know I should, but it feels selfish sometimes.",P,History of Present Illness (HPI)
+It’s important to remember that self-care isn’t selfish. It can actually help you be a better parent. What do you think about that?,T,Insignificant
+I see your point. I guess I just worry about what others might think.,P,History of Present Illness (HPI)
+It sounds like you’re concerned about external judgment. How does that affect your decisions?,T,Insignificant
+It makes me hesitate to do things for myself. I feel like I should always put my kids first.,P,History of Present Illness (HPI)
+That’s a common struggle for many parents. Let’s talk about how you can balance your needs with your responsibilities.,T,Insignificant
+"Okay, I’d like that.",P,Insignificant
+Great! What are some small steps you could take to prioritize your own well-being?,T,Insignificant
+Maybe I could set aside a few hours a week just for my jewelry.,P,Next Steps
+That sounds like a wonderful idea. How would you feel about making that commitment?,T,Insignificant
+I think it would help me feel more centered.,P,History of Present Illness (HPI)
+Excellent! Would you like to set a specific time for that?,T,Insignificant
+How about Saturday mornings? I usually have a bit of quiet then.,P,Next Steps
+That sounds perfect. What else do you think might help you cope with the stress around your son’s situation?,T,Insignificant
+I’ve been thinking about journaling my thoughts and feelings.,P,Next Steps
+Journaling can be a great outlet. What do you hope to gain from that practice?,T,Insignificant
+I think it might help me process my emotions better.,P,Next Steps
+Absolutely. It can allow you to reflect on your feelings without judgment. Would you like to set a goal for journaling?,T,Insignificant
+"Yes, I could try to write a few times a week.",P,Next Steps
+That sounds like a manageable goal. How do you feel about sharing some of what you write in our future sessions?,T,Insignificant
+"That could be helpful, I think.",P,Next Steps
+Wonderful! Let’s check in on how that goes next time. Is there anything else on your mind today?,T,Insignificant
+Just my husband and I have had some tension lately.,P,History of Present Illness (HPI)
+What’s been causing that tension?,T,Insignificant
+It’s the same old issues—communication and feeling disconnected.,P,History of Present Illness (HPI)
+That can be really tough. Have you had a chance to talk about it with him?,T,Insignificant
+"We’ve tried, but it usually ends up in the same cycle of misunderstandings.",P,History of Present Illness (HPI)
+Would you like to explore some strategies to improve that communication?,T,Insignificant
+"Yes, I would love that.",P,Insignificant
+Great! Let’s think about some techniques that can help both of you express yourselves more clearly.,T,Insignificant
+Okay.,P,Insignificant
+"One approach is using “I” statements. For example, instead of saying “You never listen,” you could say “I feel unheard when you don’t respond.”",T,Therapeutic Interventions
+That makes sense. It feels less accusatory.,P,Insignificant
+Exactly! It can open up a more constructive dialogue. How do you think your husband would respond to that?,T,Insignificant
+"He might be more receptive, I hope.",P,Insignificant
+It’s worth a try. What’s one thing you’d like to communicate to him using this approach?,T,Insignificant
+I want to tell him that I feel overwhelmed and need his support.,P,History of Present Illness (HPI)
+That’s a great start. How do you plan to bring it up?,T,Insignificant
+I think I’ll wait for a calm moment and just be honest.,P,Next Steps
+That sounds like a good strategy. I’m glad you’re finding ways to address these feelings. How do you feel about our session today?,T,Insignificant
+I feel more hopeful about managing things.,P,History of Present Illness (HPI)
+That’s wonderful to hear! Let’s continue to build on that hope in our next session. Thank you for sharing today.,T,Insignificant
+Thank you!,P,Insignificant

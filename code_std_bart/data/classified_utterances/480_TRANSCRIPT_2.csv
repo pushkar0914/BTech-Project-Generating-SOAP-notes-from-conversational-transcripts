@@ -1,0 +1,48 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! It’s great to see you again. How did the week go for you?,T,Insignificant
+It was pretty good! I managed to write a little bit of new material.,P,History of Present Illness (HPI)
+That’s fantastic! How did it feel to create something new?,T,Insignificant
+It felt really satisfying. I hadn’t realized how much I missed it.,P,History of Present Illness (HPI)
+That’s wonderful to hear! It sounds like you’re getting back into the creative flow. Did you perform at an open mic night as well?,T,Insignificant
+"Not yet, but I’m planning to. I want to be ready before I go.",P,History of Present Illness (HPI)
+That’s a smart approach. It’s great that you’re preparing. What’s holding you back from performing?,T,Insignificant
+I guess I’m just a bit nervous about how people will react.,P,History of Present Illness (HPI):Risk Assessment
+That’s completely normal. Many performers feel that way. How do you usually cope with performance anxiety?,T,Insignificant
+"I try to remind myself that everyone is there to enjoy themselves, not to judge.",P,History of Present Illness (HPI)
+That’s a healthy perspective. Have you thought about any techniques to manage that anxiety before performing?,T,Insignificant
+I’ve considered some breathing exercises. ,P,Therapeutic Interventions
+Breathing exercises can be very effective. Would you like to practice a few together?,T,Insignificant
+"Sure, that would be helpful.",P,Insignificant
+Let’s take a deep breath in through the nose… hold for a moment… and now exhale slowly through your mouth. ,T,Therapeutic Interventions
+<breathes> That feels nice.,P,Insignificant
+Let’s do that a couple more times. Inhale… hold… and exhale. One more time. ,T,Therapeutic Interventions
+<breathes> I feel calmer already.,P,Mental Health Observations
+Excellent! Incorporating these techniques before performing can help ground you. Have you had any opportunities to connect with friends since our last session?,T,Insignificant
+"Yes, I reached out to another friend, and we chatted for a bit. ",P,Psychosocial History
+That’s great! How did that conversation go?,T,Insignificant
+It was nice. We talked about some funny experiences we’ve had. It made me laugh.,P,Psychosocial History
+Laughter is such a good stress reliever. It sounds like you’re building your support network nicely. ,T,Insignificant
+I hope so. I feel more connected.,P,Psychosocial History
+That’s wonderful! How about your work? Have you been able to set boundaries around your working hours?,T,Insignificant
+"I’ve started to, but it’s still a work in progress. ",P,Current Functional Status
+That’s okay! Change takes time. What’s one boundary you’ve been able to implement?,T,Insignificant
+I’ve been trying to shut my laptop by 7 PM.,P,Current Functional Status
+That’s a great start. How has that affected your evenings?,T,Insignificant
+I’ve had more time to relax and even watch some shows.,P,Current Functional Status
+That’s fantastic! It’s important to recharge. Have you found any new shows or hobbies that you enjoy?,T,Insignificant
+I started watching a comedy series that’s been really funny.,P,Current Functional Status
+That sounds like a good way to inspire your own comedy! Have you thought about incorporating any of that inspiration into your material?,T,Insignificant
+I have! I’ve been jotting down ideas that come to me while watching.,P,History of Present Illness (HPI)
+That’s a wonderful way to fuel your creativity. Keep nurturing that inspiration! Is there anything else on your mind today?,T,Insignificant
+I guess I’m still feeling a bit of that pressure to succeed. ,P,History of Present Illness (HPI):Risk Assessment
+"That’s understandable, especially in a competitive field. Can we explore what success means to you?",T,Insignificant
+I think it’s about being able to perform regularly and make people laugh.,P,History of Present Illness (HPI)
+That’s a meaningful goal. It’s important to recognize the small victories along the way. How can we celebrate those successes?,T,Insignificant
+Maybe I can treat myself after each performance?,P,Next Steps
+"That sounds like a fantastic idea! Celebrating your achievements, no matter how small, can keep you motivated. ",T,Insignificant
+I like that. I’ll definitely do it.,P,Insignificant
+I’m looking forward to hearing about your next performance and how you celebrate! ,T,Insignificant
+Thanks! I appreciate your guidance.,P,Insignificant
+"Of course! Remember to keep practicing those breathing exercises, and enjoy your creative journey. ",T,Therapeutic Interventions
+I will! See you next time.,P,Insignificant
+Take care!,T,Insignificant

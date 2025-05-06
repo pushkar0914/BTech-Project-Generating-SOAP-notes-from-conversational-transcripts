@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?  ,T,Insignificant
+"Hi! I’ve been doing okay, just busy with family and work.  ",P,Insignificant
+"That’s good to hear! Last time, we talked about your job search and some of the coping strategies we planned to explore. How has that been going?  ",T,Insignificant
+"I’ve been applying to more jobs, but I still feel anxious about it.  ",P,History of Present Illness (HPI)
+It’s understandable to feel anxious. Have you had a chance to practice any mindfulness techniques since we last spoke?  ,T,Insignificant
+"I tried a few breathing exercises, and they helped a little.  ",P,History of Present Illness (HPI)
+That’s a positive step! Breathing exercises can be very grounding. Would you like to practice another technique together today?  ,T,Therapeutic Interventions
+"Yes, I’d like that.  ",P,Insignificant
+Great! Let’s try a simple body scan exercise. Find a comfortable position and close your eyes if you’re comfortable.  ,T,Therapeutic Interventions
+Okay.  ,P,Insignificant
+"Now, take a deep breath in… hold it for a moment… and exhale slowly.  ",T,Therapeutic Interventions
+*Breathes deeply*  ,P,Insignificant
+"Good. Now, bring your awareness to your toes. Notice any sensations there…  ",T,Therapeutic Interventions
+I feel a bit of tension.  ,P,Mental Health Observations
+"That’s perfectly normal. As you breathe out, imagine releasing that tension.  ",T,Insignificant
+*Exhales*  ,P,Insignificant
+"Now, slowly move your awareness up to your feet, your legs, and continue to breathe deeply.  ",T,Therapeutic Interventions
+I feel more relaxed now.  ,P,Mental Health Observations
+"Excellent! Just take your time. When you’re ready, you can open your eyes.  ",T,Insignificant
+"*Opens eyes* Wow, that was nice.  ",P,Mental Health Observations
+I’m glad you found it helpful. How do you feel now compared to when we started?  ,T,Insignificant
+I feel calmer. I think I could use this before interviews.  ,P,Mental Health Observations
+That’s a great idea! Incorporating mindfulness before stressful situations can help reduce anxiety. Have you had any interviews since we last met?  ,T,Insignificant
+"No interviews yet, but I’m hoping to get some soon.  ",P,History of Present Illness (HPI)
+"That’s understandable. Remember, each application is a step forward. Have you received any feedback from your networking efforts?  ",T,Insignificant
+"Yes, one of my contacts mentioned a potential opening and said they’d refer me.  ",P,History of Present Illness (HPI)
+That’s fantastic! It sounds like your networking is paying off. How does that make you feel?  ,T,Insignificant
+It feels good to know that people are looking out for me.  ,P,Mental Health Observations
+Absolutely! It’s a reminder that you’re not alone in this process. How have you been coping with any moments of self-doubt?  ,T,Insignificant
+"I’ve been trying to focus on my strengths again, like we discussed.  ",P,Therapeutic Interventions
+That’s a great strategy! Would you like to add anything new to your coping toolkit?  ,T,Insignificant
+Maybe some positive affirmations?  ,P,Therapeutic Interventions
+"That’s a wonderful idea! Let’s brainstorm a few together. How about, “I am capable and deserving of success”?  ",T,Therapeutic Interventions
+I like that one!  ,P,Insignificant
+"Great! You can repeat it to yourself, especially when you’re feeling anxious. Any other affirmations come to mind?  ",T,Insignificant
+“I learn and grow from every experience.”  ,P,Therapeutic Interventions
+That’s a powerful affirmation! It emphasizes resilience. Would you like to create a list of affirmations to keep handy?  ,T,Therapeutic Interventions
+"Yes, I’d love that!  ",P,Insignificant
+Perfect! We can work on that together. Is there anything else you’d like to focus on today?  ,T,Insignificant
+I think I’m good for now.  ,P,Insignificant
+Alright! Thank you for sharing your journey with me. I’m proud of the progress you’re making.  ,T,Insignificant
+Thank you! I appreciate your support.  ,P,Insignificant
+Looking forward to our next session. Take care!  ,T,Insignificant
+Bye!  ,P,Insignificant
+Goodbye!,T,Insignificant

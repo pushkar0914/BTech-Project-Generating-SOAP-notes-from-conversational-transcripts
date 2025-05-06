@@ -1,0 +1,34 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! Welcome back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing well, actually. I cooked a couple of healthy meals like we talked about!",P,History of Present Illness (HPI)
+That’s fantastic! How did it feel to get back into cooking?,T,Insignificant
+"It felt great! I made a stir-fry and a salad, and I enjoyed both. I forgot how much I like cooking.",P,History of Present Illness (HPI)
+That’s wonderful to hear! It sounds like you’re finding joy in preparing your meals. Have you noticed any changes in how you feel physically or emotionally since you started cooking more?,T,Insignificant
+I think I feel more energized. Eating healthier has definitely helped my mood.,P,Physiological Observations: History of Present Illness (HPI)
+That’s excellent! It seems like you’re really taking control of your health. How has your sleep been with these changes?,T,Insignificant
+"My sleep has been good! I’m still reading before bed, and I think that helps too.",P,Physiological Observations
+It sounds like you’re establishing a healthy routine. Have there been any challenges in maintaining these habits?,T,Insignificant
+"Not really. I’m trying to stay consistent, but sometimes I still feel the urge to eat out when I’m busy.",P,History of Present Illness (HPI)
+That’s understandable. It’s all about balance. Would it be helpful to plan for those busier days in advance?,T,Insignificant
+"Yes, if I could prepare meals ahead of time, that would definitely help.",P,Insignificant
+Great idea! Let’s set a goal for meal prepping this week. You could make a few extra portions to have on hand for when you’re busy.,T,Next Steps
+I can do that! I’ll try to set aside some time this weekend for meal prep.,P,Next Steps
+"Perfect! I’m excited to hear how that goes. Now, let’s revisit the topic of your acting career. Have you had any auditions or opportunities since we last spoke?",T,Insignificant
+"I actually had a couple of auditions! They went okay, but I didn’t get a callback for either.",P,History of Present Illness (HPI)
+It’s good that you’re putting yourself out there. How did you feel after those auditions?,T,Insignificant
+"I felt a bit disappointed, but I tried to remind myself that it’s part of the process.",P,History of Present Illness (HPI)
+"That’s a healthy perspective! Remember, rejection is common in the acting industry. How do you typically cope with that disappointment?",T,Insignificant
+I try to talk to friends who understand what I’m going through. It helps to share my feelings.,P,History of Present Illness (HPI)
+That’s a great strategy. Building a support network can really help during tough times. Are there any other coping strategies you’ve found effective?,T,Insignificant
+"Sometimes I just take a break and do something else I enjoy, like going for a walk or listening to music.",P,History of Present Illness (HPI)
+Those sound like excellent ways to reset. Have you had a chance to incorporate those activities more into your routine?,T,Insignificant
+"Yes, I’ve been walking more often, especially when I feel overwhelmed. It helps clear my mind.",P,Physiological Observations
+That’s wonderful! It seems like you’re developing a toolkit for managing stress. Are there any new goals you’d like to set for yourself in terms of your acting or personal life?,T,Insignificant
+I’d like to focus on building my confidence for auditions. Maybe I could find a class or workshop to help with that.,P,Next Steps
+That sounds like a fantastic goal! Taking a class could provide valuable skills and boost your confidence. Would you like to research some options this week?,T,Insignificant
+"Yes, I’ll look into that. I think it would really help.",P,Next Steps
+"Great! I’m excited to hear about what you find. Before we wrap up, is there anything else you’d like to discuss or any concerns you want to address?",T,Insignificant
+"No, I think we covered everything. Thank you for the support, Ellie!",P,Insignificant
+You’re very welcome! I’m proud of the progress you’re making. I look forward to our next session. Take care!,T,Insignificant
+"You too, goodbye!",P,Insignificant
+Goodbye!,T,Insignificant

@@ -1,0 +1,36 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been doing well, just keeping busy with school and work.",P,Insignificant
+"That's great to hear! Last time, we talked about your studies and how you're feeling about your psychology major. Have you thought any more about that?",T,Insignificant
+"Yeah, I have. I’m still unsure if I want to pursue sports psychology. I’m kind of feeling lost, to be honest.",P,History of Present Illness (HPI)
+"It’s completely normal to feel that way, especially when you’re nearing graduation. What do you think is causing that uncertainty?",T,Insignificant
+I guess I’m worried about finding a job in that field. And I’m not sure if it’s really what I want anymore.,P,History of Present Illness (HPI)
+That makes sense. The pressure to find a career path can be overwhelming. Have you thought about exploring other areas of psychology or related fields?,T,Insignificant
+I’ve considered counseling or maybe even teaching. I like the idea of helping people directly.,P,History of Present Illness (HPI)
+Those are both excellent options. It might be helpful to explore what aspects of psychology resonate with you the most. What do you enjoy about counseling or teaching?,T,Insignificant
+"I think I like the idea of making a difference in someone’s life. Like, being there for someone when they need support.",P,History of Present Illness (HPI)
+"That’s a wonderful motivation. Have you had any experiences, either personally or through your studies, that have reinforced that desire to help others?",T,Insignificant
+"Well, I’ve been volunteering at a local community center. It’s been really fulfilling to see the impact we can have on people.",P,History of Present Illness (HPI)
+That sounds like a rewarding experience! What have you learned from that volunteer work?,T,Insignificant
+"I’ve learned that everyone has their struggles, and sometimes just listening can help a lot. It feels good to be that person for someone.",P,History of Present Illness (HPI)
+Listening is such a valuable skill. How do you feel about your listening skills? Do you think they could help you in a future career?,T,Insignificant
+I think I’m a pretty good listener. I try to be present and really understand what people are saying.,P,Mental Health Observations
+"That’s a great quality to have. In our last session, you mentioned wanting to study more and exercise more. Have you made any progress on those goals?",T,Insignificant
+"I’ve been trying to set aside time to study, but it’s hard with my schedule. I haven’t really exercised though.",P,Current Functional Status
+It can be tough to balance everything. What do you think is holding you back from exercising?,T,Insignificant
+I think I just feel too tired after work and school. It’s hard to find the motivation.,P,Physiological Observations
+That’s understandable. Sometimes starting small can help. Have you thought about incorporating short exercises or activities into your day?,T,Insignificant
+I haven’t really tried that. Maybe just a quick walk or something?,P,Insignificant
+Exactly! Even a short walk can boost your mood and energy levels. Would you be willing to try that this week?,T,Insignificant
+"Yeah, I can try to do that. I think it would help me feel better overall.",P,Next Steps
+That sounds like a great plan. How about your sleep? Last time you mentioned it wasn’t easy due to your schedule. How is that going?,T,Insignificant
+"It’s still a bit rough. I have to wake up early for work, so I don’t always get enough rest.",P,Physiological Observations
+Sleep is so important for both your physical and mental health. Have you considered any strategies to improve your sleep quality?,T,Insignificant
+"I’ve thought about trying to stick to a routine, like going to bed and waking up at the same time.",P,Next Steps
+That’s a solid approach! Consistency can really help regulate your sleep patterns. Would you like to set a goal around that for this week?,T,Insignificant
+"Sure, I can try to do that!",P,Next Steps
+Great! Let's check in on that next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now. I appreciate your help!,P,Insignificant
+I’m glad to hear that! I look forward to hearing about your progress next time. Take care!,T,Insignificant
+"Thank you, Ellie! Bye!",P,Insignificant
+Goodbye!,T,Insignificant

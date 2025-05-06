@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, I guess. Just the same ups and downs.",P,History of Present Illness (HPI)
+That’s understandable. Last time we talked about some feelings of sadness and how you were coping. Have you noticed any changes in how you feel or how you've been coping?,T,Insignificant
+"Not really. I still feel pretty down. I try to keep busy, but it’s hard.",P,History of Present Illness (HPI)
+Keeping busy can be a good strategy. Have you been able to engage in any activities that you enjoy?,T,Insignificant
+"I went to the beach a couple of times. That was nice, but I didn’t feel as happy as I used to.",P,History of Present Illness (HPI)
+"It's great that you made it to the beach. Sometimes, even when we do things we enjoy, it doesn't always bring the same level of happiness. What do you think might be affecting that?",T,Insignificant
+"I guess I just feel like I’m going through the motions. Like, I’m there, but I’m not really present.",P,History of Present Illness (HPI)
+That sounds tough. It seems like there’s a disconnect between your actions and your feelings. Have you had any moments where you felt more connected or present?,T,Insignificant
+Maybe when I was with my kids during the holidays. That felt nice. But it’s like it fades away quickly.,P,History of Present Illness (HPI)
+Those moments with your kids sound special. What do you think made those moments feel more fulfilling?,T,Insignificant
+"I think it’s just being with them, sharing laughs and memories. It reminds me of the good times.",P,Psychosocial History
+That makes sense. It sounds like family connection is important to you. How do you feel when those moments fade?,T,Insignificant
+"I just feel... empty, I guess. Like I’m missing something.",P,History of Present Illness (HPI)
+"That emptiness can be really difficult to sit with. Have you been able to talk to anyone about how you're feeling, like your kids or friends?",T,Insignificant
+Not really. I don’t want to burden them with my problems.,P,Psychosocial History
+"It’s understandable to feel that way, but sometimes sharing can lighten the load. What do you think would happen if you did share your feelings with them?",T,Insignificant
+"I don't know. They might worry, and I don’t want to make them feel bad.",P,Psychosocial History
+"It’s natural to want to protect them. But remember, they care about you too. Sharing might even strengthen your bond. Would you be open to trying that?",T,Insignificant
+I guess I could try. Maybe just a little bit.,P,Psychosocial History
+That sounds like a good step. How about we work on some coping strategies to help you feel a bit more connected to those moments of joy? ,T,Insignificant
+"Sure, what do you have in mind?",P,Insignificant
+One technique we can explore is mindfulness. It helps us stay present in the moment. Have you ever tried mindfulness or meditation before?,T,Insignificant
+"Not really. I’ve heard about it, but I’m not sure how to do it.",P,History of Present Illness (HPI)
+It’s quite simple. It involves focusing on your breath and observing your thoughts without judgment. Would you like to try a short exercise together?,T,Insignificant
+"Okay, I can try that.",P,Insignificant
+"Great! Let's take a moment. Close your eyes if you feel comfortable. Take a deep breath in... and out. Focus on your breath. If your mind wanders, gently bring it back to your breath.",T,Insignificant
+"*pauses* Okay, I’m trying.",P,Insignificant
+Good. Just notice how your body feels and any thoughts that come up. Just acknowledge them and let them float away.,T,Insignificant
+*pauses* This is... kind of nice. I feel a little calmer.,P,Physiological Observations
+That’s wonderful! Practicing this for a few minutes each day can help you feel more grounded. How does that sound?,T,Insignificant
+I think I could do that. It feels nice to take a break from everything.,P,Physiological Observations
+I’m glad to hear that. Let’s set a goal for you to practice this mindfulness exercise a few times this week. How does that feel?,T,Next Steps
+That sounds doable. I’ll give it a shot.,P,Next Steps
+Excellent! I’d love to hear how it goes in our next session. Is there anything else you’d like to talk about today?,T,Insignificant
+Just how I feel like I’m stuck in this rut. I want to feel better but don’t know how.,P,History of Present Illness (HPI)
+Feeling stuck can be really frustrating. It might help to explore what’s keeping you in that rut. Are there specific thoughts or situations that seem to trigger those feelings?,T,Insignificant
+"I think it’s just a mix of everything. Work, family, just life. It feels overwhelming sometimes.",P,History of Present Illness (HPI)
+That makes sense. It can feel like a lot to manage. How do you usually cope when you feel overwhelmed?,T,Insignificant
+I usually just shut down. I don’t want to deal with anything.,P,History of Present Illness (HPI)
+"That’s a common response. It’s a way of protecting yourself, but it can also lead to more feelings of sadness. Would you be open to exploring healthier coping mechanisms together?",T,Insignificant
+"Yeah, I think I need that.",P,History of Present Illness (HPI)
+"Great! We can start by identifying small steps you can take when you feel overwhelmed. For instance, reaching out to someone for support or taking a short walk. What do you think?",T,Next Steps
+I could try that. I think I need to be more proactive.,P,Next Steps
+"That’s a positive mindset! Let’s focus on that for our next session. Remember, it’s okay to take small steps. ",T,Next Steps
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"You’re welcome! I’m glad you’re here, and I look forward to hearing about your progress next time. Take care!",T,Insignificant
+Bye!,P,Insignificant

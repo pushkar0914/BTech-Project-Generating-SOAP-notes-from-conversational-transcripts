@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie. I’ve been okay. I reached out to a couple of old colleagues.",P,History of Present Illness (HPI)
+That’s fantastic! How did that go for you?,T,Insignificant
+"It was nerve-wracking, but I did it. One of them responded positively.",P,History of Present Illness (HPI)
+That’s wonderful news! How did you feel after sending those messages?,T,Insignificant
+"I felt relieved, like a weight was lifted off my shoulders.",P,History of Present Illness (HPI)
+That’s a great feeling! It sounds like taking that step was beneficial for you. What’s next in that regard?,T,Insignificant
+I’m going to meet one of them for coffee next week.,P,History of Present Illness (HPI)
+That’s excellent! Meeting face-to-face can strengthen those connections. How do you feel about the upcoming meeting?,T,Insignificant
+"A bit anxious, but also excited. I hope it goes well.",P,History of Present Illness (HPI):Risk Assessment
+It’s completely normal to feel anxious. What do you hope to discuss during your meeting?,T,Insignificant
+I want to catch up and see if they know of any job openings.,P,History of Present Illness (HPI)
+That’s a good plan. It’s a great opportunity to network. Have you thought about how you want to approach that conversation?,T,Insignificant
+I think I’ll keep it casual and just see where it goes.,P,Insignificant
+That sounds like a healthy approach. Just being open and genuine can lead to meaningful discussions. Let’s talk about your family communication. Have you had a chance to draft that message?,T,Insignificant
+"I did! I wrote down my thoughts, but I haven’t sent it yet.",P,History of Present Illness (HPI)
+That’s a great first step! What’s holding you back from sending it?,T,Insignificant
+"I’m worried about their reaction, I guess.",P,Risk Assessment
+"It’s understandable to feel that way. Remember, you’re expressing your feelings, which is important. What would be the worst-case scenario in your mind?",T,Insignificant
+They might not respond or might dismiss my feelings.,P,Risk Assessment
+"That’s a possibility, but it’s also possible they could surprise you. What if you focused on the potential for a positive response instead?",T,Insignificant
+That could help. I want to be heard.,P,Insignificant
+Exactly! You deserve to be heard. How about setting a goal to send that message by the end of the week?,T,Next Steps
+I think I can do that. ,P,Next Steps
+Great! Let’s check in on your mood. Have you noticed any changes since last week?,T,Insignificant
+I’ve felt a bit more hopeful since reconnecting with my colleagues.,P,History of Present Illness (HPI)
+That’s wonderful to hear! Building connections can often lift our spirits. Are there other activities or practices you’ve engaged in that have helped?,T,Insignificant
+I’ve been biking a lot more. It’s nice to get outside.,P,Physiological Observations
+That’s excellent! Nature can be so rejuvenating. Have you considered incorporating mindfulness or relaxation techniques into your routine?,T,Insignificant
+"I haven’t, but I’ve heard about it. ",P,Insignificant
+Mindfulness can be a powerful tool for managing stress and anxiety. Would you be open to trying a simple mindfulness exercise together now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Therapeutic Interventions
+Great! Let’s take a moment to focus on our breath. Inhale deeply through your nose… and exhale slowly through your mouth. ,T,Therapeutic Interventions
+*breathes* ,P,Insignificant
+"Let’s do that a few more times. As you breathe, allow yourself to let go of any tension. ",T,Therapeutic Interventions
+This feels nice.,P,Insignificant
+I’m glad to hear that. Mindfulness can be a great way to ground yourself. How do you feel after this exercise?,T,Insignificant
+"More relaxed, actually.",P,Physiological Observations
+"That’s wonderful! Incorporating short mindfulness practices into your day could help with your overall mood. As we wrap up today, what are your goals for our next session?",T,Insignificant
+I want to send that message to my family and see how my meeting goes with my colleague.,P,Next Steps
+"Those are excellent goals! I’m looking forward to hearing about both. You’re making great strides, and I’m proud of you.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Keep up the good work, and I’ll see you next time.",T,Insignificant
+"Bye, Ellie!",P,Insignificant

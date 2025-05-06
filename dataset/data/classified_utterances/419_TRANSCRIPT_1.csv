@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I've been doing okay, just trying to enjoy my vacation time. ",P,Insignificant
+That sounds nice! Did you manage to do anything special during your time off?,T,Insignificant
+"Yes, actually! I went to the beach with my husband, and we had a lovely time. It was really relaxing.",P,Insignificant
+"I'm glad to hear that! Last time we talked, you mentioned feeling shy in social situations. Have you had any opportunities to practice being more outgoing?",T,History of Present Illness (HPI)
+"A little bit, actually. I went to a small gathering with some friends, and I tried to engage more in conversations. It was a bit uncomfortable, but I pushed myself.",P,History of Present Illness (HPI)
+That's a great step! How did it feel to put yourself out there?,T,Insignificant
+"It felt rewarding, but I still felt that anxiety creeping in. I was worried about saying the wrong thing.",P,History of Present Illness (HPI)
+That’s completely understandable. Would you like to explore some strategies that might help you feel more comfortable in those situations?,T,Insignificant
+"Yes, I think that would be helpful.",P,Insignificant
+"One technique we can try is cognitive restructuring, where we challenge those anxious thoughts. For example, when you think, ""What if I say something silly?"" we can reframe it to, ""It's okay to make mistakes; everyone does."" How does that sound?",T,Therapeutic Interventions
+That sounds good! I definitely need to remind myself that it's okay to not be perfect.,P,Insignificant
+Great! We can also practice some mindfulness exercises. Focusing on your breath can help ground you in the moment. Would you be open to trying a short breathing exercise now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Insignificant
+"Okay, let’s take a deep breath in through our noses... and out through our mouths. Let’s do that a couple more times. How did that feel for you?",T,Insignificant
+"It felt calming. I think I need to do that more often, especially before social events.",P,Physiological Observations
+"Absolutely! It can really help manage anxiety. Speaking of anxiety, you mentioned waking up multiple times during the night. Have you noticed any changes in your sleep since we last spoke?",T,History of Present Illness (HPI)
+"Not really, I still wake up a lot. I think my mind is always racing.",P,Physiological Observations
+That’s tough. Have you tried any relaxation techniques before bed?,T,Insignificant
+"I usually just scroll through my phone, which probably isn’t the best idea.",P,Insignificant
+It might be helpful to establish a bedtime routine that doesn’t involve screens. Maybe reading or listening to calming music could help signal to your brain that it’s time to wind down.,T,Therapeutic Interventions
+That makes sense. I’ll definitely give that a try.,P,Insignificant
+Fantastic! How about we set a goal for you to try this new bedtime routine at least three times before our next session?,T,Next Steps
+I can do that!,P,Insignificant
+Wonderful! Let’s also revisit your relationship with your best friend. You mentioned having a conflict last time. Have you had a chance to talk to her since then?,T,History of Present Illness (HPI)
+"Yes, we did. I reached out and apologized for my part in the argument, and we talked it out.",P,History of Present Illness (HPI)
+That’s great to hear! How did that conversation go?,T,Insignificant
+"It went well! We both expressed our feelings, and I think we understand each other better now.",P,Insignificant
+That’s a positive outcome! It shows you’re making progress in managing your relationships. Is there anything you want to focus on for our next session?,T,Insignificant
+"I’d like to work on my patience, especially with my family. Sometimes I get frustrated easily.",P,Presenting Problem / Chief Complaint
+"That’s a valuable goal. We can explore some techniques for improving patience, like mindfulness and communication strategies. ",T,Therapeutic Interventions
+I’d appreciate that.,P,Insignificant
+Perfect! I’m looking forward to hearing how your new sleep routine and social interactions go. ,T,Insignificant
+"Me too! Thank you, Ellie.",P,Insignificant
+You’re welcome! See you next time!,T,Insignificant
+Bye!,P,Insignificant

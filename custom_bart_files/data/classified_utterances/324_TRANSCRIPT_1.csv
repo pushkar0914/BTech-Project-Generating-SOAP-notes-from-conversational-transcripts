@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi again, it’s Ellie. I’m glad to see you back today.",T,Insignificant
+"Hey, thanks for having me.",P,Insignificant
+"Last time we spoke about your goals and some of the challenges you’ve faced, particularly with anger management. How have you been since our last session?",T,Insignificant
+"I’ve been okay, I guess. Trying to keep my cool, but it’s still tough sometimes.",P,History of Present Illness (HPI)
+It sounds like you're aware of the challenges. Have there been any specific situations where you felt your anger rising?,T,Insignificant
+"Yeah, actually. I had a disagreement with a coworker last week. It was over something small, but I felt my temper flare up.",P,History of Present Illness (HPI)
+What happened in that moment? How did you respond?,T,Insignificant
+I just walked away. I didn’t want to say something I’d regret.,P,Current Functional Status
+That’s a good strategy. Walking away can be really effective. How did you feel after you stepped away?,T,Insignificant
+"A bit relieved, honestly. I didn’t want to escalate things.",P,Current Functional Status
+That’s a positive reflection. It shows you’re making progress in managing your reactions. Are there any techniques you’ve been using to help with that?,T,Insignificant
+I’ve been trying to breathe deeply when I feel like I’m getting angry. It helps a little.,P,Therapeutic Interventions
+Deep breathing is a great technique. It can really help ground you in those moments. Have you noticed any other changes in your mood or behavior since we last spoke?,T,Insignificant
+"I’ve had some mood swings, still. I feel like they come out of nowhere sometimes.",P,History of Present Illness (HPI)
+Can you think of any triggers for those mood swings?,T,Insignificant
+"Sometimes it’s just little things, like someone cutting me off in traffic or a comment that rubs me the wrong way.",P,History of Present Illness (HPI)
+It sounds like those small irritations can build up for you. Would it be helpful to explore some coping strategies for those moments?,T,Insignificant
+"Yeah, I think that would be good.",P,Insignificant
+"Great! One technique we can try is cognitive reframing. It involves changing the way you think about a situation. For example, if someone cuts you off, instead of feeling angry, you could think, “Maybe they’re having a rough day.” What do you think about that approach?",T,Therapeutic Interventions
+I guess that makes sense. It’s worth a shot.,P,Insignificant
+"Absolutely! It takes practice, but it can help reduce the intensity of your emotions. Are there any other areas in your life where you feel stuck or challenged?",T,Insignificant
+"Well, I still feel like I’m not moving forward as quickly as I’d like in my career. ",P,History of Present Illness (HPI)
+That’s understandable. Progress can sometimes feel slow. What specific goals do you have in mind for your career?,T,Insignificant
+"I want to move up at LAX, maybe into a management position.",P,Presenting Problem / Chief Complaint
+That’s a great goal! Have you thought about what steps you might need to take to reach that position?,T,Insignificant
+I guess I could look into some training or courses that would help.,P,Next Steps
+That sounds like a solid plan. Continuous learning can really enhance your skills. Would you like to set a specific goal for the next session regarding this?,T,Insignificant
+"Yeah, I could research some courses by next week.",P,Next Steps
+Perfect! Let’s check in on that next time. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think that covers it for now.",P,Insignificant
+"Alright, thank you for sharing. It’s been great to hear about your progress. I look forward to our next session!",T,Insignificant
+"Thanks, Ellie. See you next time!",P,Insignificant

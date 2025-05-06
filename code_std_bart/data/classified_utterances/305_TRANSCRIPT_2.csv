@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I’ve been doing alright. I started my job at Ralphs last week.",P,Psychosocial History
+That’s fantastic! How has your first week been?,T,Insignificant
+"It’s been pretty good, actually. I’m getting the hang of things, and the people are nice.",P,Current Functional Status
+That’s great to hear! Have you felt any changes in your mood since you started working?,T,Insignificant
+I think so. I feel a little more motivated and less anxious. It’s nice to have a routine again.,P,History of Present Illness (HPI)
+That’s wonderful! A routine can really help stabilize emotions. Have you had a chance to talk to your girlfriend about your feelings?,T,Insignificant
+"Yeah, I did. I told her how I was feeling about my job search and how I was worried about being a burden.",P,History of Present Illness (HPI)
+How did she respond?,T,Insignificant
+She was really understanding. She told me she’s proud of me for getting the job and that I’m not a burden at all.,P,Psychosocial History
+That’s so encouraging! It’s great to have that kind of support. How did it feel for you to share that with her?,T,Insignificant
+"It felt good. I was worried she’d think differently of me, but it was a relief to be honest.",P,History of Present Illness (HPI)
+That’s a significant step forward. Honesty can really strengthen relationships. Have you been practicing the mindfulness techniques we discussed?,T,Insignificant
+"I have! I’ve been trying to take a few minutes each day to focus on my breathing, especially when I feel overwhelmed.",P,Therapeutic Interventions
+That’s excellent! How has that been for you?,T,Insignificant
+"It helps, especially when I start feeling anxious at work. I just take a moment to breathe and it calms me down.",P,Therapeutic Interventions
+I’m glad to hear that! It’s a powerful tool. Have you noticed any specific triggers at work that lead to those anxious moments?,T,Insignificant
+Sometimes it’s just the pressure of being in a new environment. I worry about making mistakes.,P,History of Present Illness (HPI)
+"That’s completely normal. It might be helpful to remind yourself that everyone makes mistakes, especially when they’re learning something new.",T,Insignificant
+"Yeah, I try to keep that in mind. ",P,Insignificant
+You’re doing great. What else have you noticed about your thoughts or feelings since starting the job?,T,Insignificant
+I feel like I’m starting to regain some confidence. I’m learning new things and it feels good.,P,History of Present Illness (HPI)
+That’s wonderful! Building confidence is a key part of personal growth. How do you think this new confidence will affect your other relationships?,T,Insignificant
+"I think it’ll help. I’m starting to feel less insecure about my past, and that’s a relief.",P,History of Present Illness (HPI)
+That’s a positive shift! It sounds like you’re on the right path. Have you had any moments of frustration or anger this week?,T,Insignificant
+"A little, but I’ve been able to manage it better. I just remind myself to breathe and let it go.",P,Therapeutic Interventions
+That’s a great approach. It’s important to have those coping strategies in place. Have you had any moments where you felt overwhelmed?,T,Insignificant
+"Yeah, I had a day where everything felt too much, but I took a break and went for a walk. That helped clear my head.",P,Therapeutic Interventions
+Walking can be a great way to process emotions. It’s good that you’re finding ways to cope. ,T,Insignificant
+"I’m trying to be more mindful of my feelings, you know?",P,Therapeutic Interventions
+That’s a valuable skill to develop. It allows you to respond to your emotions rather than react impulsively.,T,Insignificant
+Exactly. I feel like I’m slowly learning that.,P,Insignificant
+It sounds like you’re making significant progress. What other goals do you have for the coming weeks?,T,Insignificant
+I want to keep building my confidence at work and maybe start looking into culinary courses.,P,Next Steps
+That sounds like a great plan! Learning new skills could open up more opportunities for you.,T,Insignificant
+"Yeah, I think it would. I’ve always wanted to do that.",P,Insignificant
+Let’s set that as a goal for our next session. You can research some courses and see what interests you.,T,Next Steps
+I’ll do that.,P,Insignificant
+Wonderful! Is there anything else you’d like to discuss today?,T,Insignificant
+I think that’s it for now. I feel good about everything we talked about.,P,Insignificant
+"I’m glad to hear that. You’re doing so well! Keep up the great work, and I look forward to hearing about your progress next time.",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+Anytime! See you next week!,T,Insignificant
+Bye!,P,Insignificant

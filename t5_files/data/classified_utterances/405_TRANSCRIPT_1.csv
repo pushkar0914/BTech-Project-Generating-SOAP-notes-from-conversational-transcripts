@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hi, Ellie. I've been okay, I guess. A bit overwhelmed, to be honest.",P,Presenting Problem / Chief Complaint
+Overwhelmed? Can you tell me more about what’s been overwhelming for you?,T,Presenting Problem / Chief Complaint
+"Well, I've been thinking a lot about the divorce and how I need to start looking for a job. It’s just a lot to handle.",P,History of Present Illness (HPI)
+That sounds like a significant amount of stress. Have you made any progress on the job search?,T,History of Present Illness (HPI)
+"Not really. I keep telling myself I need to start, but I just feel stuck. ",P,History of Present Illness (HPI)
+It's understandable to feel stuck. Sometimes taking the first step can be the hardest. What do you think is holding you back?,T,History of Present Illness (HPI)
+"I guess I’m afraid of failing. I haven't worked in years, and I don’t even know where to start.",P,History of Present Illness (HPI)
+"Fear of failure is a common feeling, especially during transitions. What if we explored some potential job options together? ",T,History of Present Illness (HPI)
+That might help. I just feel like I don’t have any skills anymore.,P,History of Present Illness (HPI)
+What skills do you think you possess? Sometimes we underestimate our abilities.,T,History of Present Illness (HPI)
+"Well, I’ve organized events for my daughters’ schools, and I was a stay-at-home mom for a long time. ",P,History of Present Illness (HPI)
+"Those are valuable skills! Event planning requires organization and communication, which are highly sought after in many jobs. ",T,History of Present Illness (HPI)
+I never thought of it that way. ,P,Insignificant
+It’s easy to overlook our own strengths. How do you feel about possibly looking for part-time work in event planning?,T,History of Present Illness (HPI)
+That could be interesting. I just worry that I won’t find anything.,P,History of Present Illness (HPI)
+What if we set a small goal for this week? Maybe you could look up a few local event planning companies or even volunteer for an event to get your feet wet.,T,Next Steps
+That sounds doable. I could handle that.,P,Next Steps
+Great! How do you feel about setting a specific time to do that?,T,Next Steps
+Maybe I could set aside an hour on Saturday to research.,P,Next Steps
+That sounds like a solid plan. How about we check in on that next session?,T,Next Steps
+"Yes, I’d like that.",P,Insignificant
+"Now, let’s talk about your feelings regarding the divorce. How are you coping with that?",T,History of Present Illness (HPI)
+"It’s been tough. I feel guilty for wanting to leave, even though I know it’s the right decision.",P,History of Present Illness (HPI)
+"It’s common to feel guilt during a divorce, especially when children are involved. Have you been able to talk to your daughters about it?",T,History of Present Illness (HPI)
+Not really. I don’t want to upset them more than they already are.,P,History of Present Illness (HPI)
+"It’s understandable to want to protect them. However, sometimes being honest about your feelings can help them process their own emotions. ",T,History of Present Illness (HPI)
+"I know, but I just don’t know how to approach the conversation.",P,History of Present Illness (HPI)
+We can work on that together. What do you think would be important to convey to them?,T,History of Present Illness (HPI)
+I want them to know that I love them and that this is not their fault.,P,History of Present Illness (HPI)
+That’s a great start. Perhaps we can role-play the conversation to help you feel more prepared?,T,Therapeutic Interventions
+"That could help. I’m nervous, though.",P,History of Present Illness (HPI)
+It’s okay to feel nervous. Let’s take it step by step. Imagine how you would want to start the conversation.,T,Therapeutic Interventions
+"I guess I’d say something like, ""I want to talk to you both about some changes happening in our family.""",P,History of Present Illness (HPI)
+That sounds like a gentle approach. How do you think they might respond?,T,History of Present Illness (HPI)
+"I think they’ll be upset. They’ve seen us argue a bit, but I don’t think they fully understand.",P,History of Present Illness (HPI)
+It might be helpful to reassure them that it’s okay to feel upset and that you’re there to support them.,T,Therapeutic Interventions
+"Yes, I like that idea.",P,Insignificant
+"I’m glad to hear that. Remember, it’s a process, and you don’t have to have all the answers right away.",T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+Of course! Let’s wrap up for today. I look forward to hearing how your research goes and how the conversation with your daughters unfolds.,T,Next Steps
+Me too. Thanks again!,P,Insignificant
+"Take care, and see you next time!",T,Insignificant
+Bye!,P,Insignificant

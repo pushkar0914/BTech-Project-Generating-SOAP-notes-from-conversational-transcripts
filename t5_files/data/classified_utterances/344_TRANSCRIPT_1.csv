@@ -1,0 +1,70 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's great to see you again. How have you been since our last session?  ",T,Insignificant
+"I've been okay, a bit up and down, but I'm managing.  ",P,History of Present Illness (HPI)
+That’s understandable. Last time we talked about your motivation to get back into school. Have you made any progress on that?  ,T,Insignificant
+"Yes, actually! I was able to get enrolled in an online history course.  ",P,Presenting Problem / Chief Complaint
+That’s fantastic! How do you feel about starting classes?  ,T,Insignificant
+I'm excited but also a bit anxious. It's been a while since I've been in a learning environment.  ,P,History of Present Illness (HPI)
+That’s a normal feeling. What do you think is causing your anxiety?  ,T,Insignificant
+I guess I worry about keeping up with the work and if I’ll be able to handle it.  ,P,History of Present Illness (HPI)
+Those are valid concerns. Have you thought about how you might manage that anxiety?  ,T,Insignificant
+I’ve been trying to remind myself to take things one step at a time.  ,P,Therapeutic Interventions
+That’s a great strategy. Mindfulness can really help with that. Would you like to explore some mindfulness techniques together?  ,T,Insignificant
+"Sure, I’d like that.  ",P,Insignificant
+One technique is focused breathing. Would you like to try it now?  ,T,Insignificant
+Okay.  ,P,Insignificant
+Let’s take a deep breath in through your nose… and out through your mouth. Good. Let’s do that a few more times.  ,T,Insignificant
+(breathes)  ,P,Insignificant
+How do you feel after doing that?  ,T,Insignificant
+"A little calmer, actually.  ",P,Mental Health Observations
+That’s great to hear. You can use that technique whenever you feel anxious.  ,T,Insignificant
+I will definitely try that.  ,P,Insignificant
+Have you noticed any changes in your mood or feelings since we last spoke?  ,T,Insignificant
+"I’ve had a few more good days than bad, which is nice.  ",P,History of Present Illness (HPI)
+That’s a positive shift! What do you think is contributing to those better days?  ,T,Insignificant
+I think focusing on my goals and having a plan has helped.  ,P,Psychosocial History
+That’s excellent. Setting goals can be very motivating. What are some other goals you have in mind?  ,T,Insignificant
+"I want to volunteer with kids, maybe at a local school or community center.  ",P,Presenting Problem / Chief Complaint
+That sounds like a wonderful goal. What draws you to working with kids?  ,T,Insignificant
+"I just want to help them see their potential, like I didn’t always see mine.  ",P,Psychosocial History
+That’s a beautiful motivation. Have you looked into any volunteer opportunities yet?  ,T,Insignificant
+"Not yet, but I plan to start researching soon.  ",P,Next Steps
+That’s a good idea. It sounds like you’re taking proactive steps towards your goals.  ,T,Insignificant
+"Yes, I’m trying to be more proactive.  ",P,Psychosocial History
+How does it feel to be taking those steps?  ,T,Insignificant
+"It feels empowering, like I'm finally taking control of my life.  ",P,Psychosocial History
+That’s a significant realization. It’s important to feel in control. Have you faced any challenges while trying to stay proactive?  ,T,Insignificant
+"Sometimes I feel overwhelmed, like I’m taking on too much at once.  ",P,Risk Assessment
+That’s understandable. It might help to prioritize your tasks. Would you like to discuss how to break things down?  ,T,Insignificant
+"Yes, that could help.  ",P,Insignificant
+Let’s start by listing your current tasks and goals.  ,T,Insignificant
+"Okay, um… I have school, volunteering, and then I want to work on my health too.  ",P,Current Functional Status
+Great start! How would you rank those in terms of priority?  ,T,Insignificant
+"I think school should come first, then volunteering, and health last.  ",P,Current Functional Status
+"That makes sense. How about setting smaller, achievable goals for each?  ",T,Insignificant
+"Yeah, I could set a daily study goal for school, like an hour a day.  ",P,Next Steps
+That’s a good plan. What about volunteering?  ,T,Insignificant
+I could aim to find one opportunity this month.  ,P,Next Steps
+Perfect! And for your health?  ,T,Insignificant
+"I can try to walk a bit each day, maybe start with 10 minutes.  ",P,Next Steps
+Those are all very manageable goals. How do you feel about this plan?  ,T,Insignificant
+I feel good about it. It feels more doable now.  ,P,Current Functional Status
+I’m glad to hear that. Remember to be kind to yourself if things don’t go perfectly.  ,T,Insignificant
+I’ll try.  ,P,Insignificant
+You mentioned earlier that you experience PTSD. Have you noticed any changes in your symptoms lately?  ,T,Insignificant
+"I’ve had a few less intense nightmares, which is a relief.  ",P,History of Present Illness (HPI)
+That’s encouraging! Have you been using any coping strategies for those nightmares?  ,T,Insignificant
+I’ve been practicing that breathing technique we did last time.  ,P,Therapeutic Interventions
+That’s excellent! It’s great to see you applying what we’ve discussed.  ,T,Insignificant
+"Yeah, it really helps.  ",P,Insignificant
+Is there anything else you’d like to talk about today?  ,T,Insignificant
+I guess I’m just worried about how I’ll manage everything.  ,P,Risk Assessment
+"It’s okay to feel that way. Remember, you don’t have to do everything at once.  ",T,Insignificant
+"Right, I need to remind myself of that.  ",P,Insignificant
+Absolutely. We can keep working on this together.  ,T,Insignificant
+"Thank you, I appreciate it.  ",P,Insignificant
+You’re welcome! Let’s keep building on this progress.  ,T,Insignificant
+I look forward to it.  ,P,Insignificant
+Great! I’ll see you next time.  ,T,Insignificant
+Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you back today. How have you been since our last session?  ,T,Insignificant
+"I've been okay, just keeping busy with family and work.  ",P,Insignificant
+"That’s good to hear. Last time, we talked about your feelings surrounding your mother's passing and how it affects you. Have you noticed any changes in those feelings since then?  ",T,History of Present Illness (HPI)
+"I think about her a lot, but I’ve been trying to focus on the good memories, like we discussed.  ",P,History of Present Illness (HPI)
+That sounds like a positive approach. Have you had any specific memories that brought you joy recently?  ,T,History of Present Illness (HPI)
+"Yeah, actually. I was looking through some old photos, and there was one of us at the beach. It made me smile.  ",P,History of Present Illness (HPI)
+That’s wonderful! It’s great that you can find joy in those memories. How did you feel afterward?  ,T,History of Present Illness (HPI)
+"A bit nostalgic, but in a good way. It didn’t make me sad.  ",P,History of Present Illness (HPI)
+That's a significant step. Do you feel like you’re coping better with your grief?  ,T,History of Present Illness (HPI)
+"I think so. It’s still hard, but I’m trying to accept that it’s part of life.  ",P,History of Present Illness (HPI)
+Absolutely. Grief can be a long process. You mentioned feeling down sometimes. Have there been any triggers for those feelings lately?  ,T,History of Present Illness (HPI)
+"Not really. I mean, there are moments, but they’re not as intense as before.  ",P,History of Present Illness (HPI)
+That’s encouraging to hear. It sounds like you’re making progress. Have you been able to engage in activities that you enjoy?  ,T,Current Functional Status
+Yes! I’ve been spending more time with my friends and even went hiking last weekend.  ,P,Current Functional Status
+That sounds lovely! How did that experience feel for you?  ,T,History of Present Illness (HPI)
+It was refreshing. Being outdoors helped clear my mind.  ,P,History of Present Illness (HPI)
+Nature can be very therapeutic. Have you considered incorporating more outdoor activities into your routine?  ,T,Next Steps
+I think I will. It’s nice to disconnect and just enjoy the moment.  ,P,Next Steps
+Great! How do you feel about your job situation? Any updates since we last spoke?  ,T,History of Present Illness (HPI)
+"I’ve been applying to a few positions, but nothing yet. It’s a bit frustrating.  ",P,History of Present Illness (HPI)
+I can understand that. Job searching can be a challenging process. How do you cope with that frustration?  ,T,History of Present Illness (HPI)
+I try not to dwell on it. I remind myself that it takes time.  ,P,History of Present Illness (HPI)
+That’s a healthy mindset. Have you thought about any specific strategies to help with your job search?  ,T,Next Steps
+"I’ve been networking more, reaching out to old colleagues.  ",P,Next Steps
+Networking is a fantastic strategy! Have you had any positive responses from those outreach efforts?  ,T,History of Present Illness (HPI)
+A couple of people offered to help me look for openings.  ,P,History of Present Illness (HPI)
+That’s a great start! It sounds like you’re building a support system. How does that make you feel?  ,T,Current Functional Status
+It feels good. I like knowing that I have people willing to help.  ,P,Current Functional Status
+Support is crucial during challenging times. Have you had any moments of self-doubt during this process?  ,T,History of Present Illness (HPI)
+"Sometimes, I wonder if I’m good enough for the jobs I’m applying for.  ",P,History of Present Illness (HPI)
+"It’s common to feel that way, especially in competitive job markets. How do you usually counter those thoughts?  ",T,History of Present Illness (HPI)
+I try to remind myself of my skills and experiences.  ,P,History of Present Illness (HPI)
+That’s a solid strategy. Would it be helpful to create a list of your strengths and achievements together?  ,T,Next Steps
+"Yeah, that could be useful.  ",P,Next Steps
+Let’s do that. What are some strengths you believe you possess?  ,T,Next Steps
+"I’m patient, creative, and good at problem-solving.  ",P,Next Steps
+"Those are excellent qualities, especially for working with children. Can you think of specific examples where you demonstrated these strengths?  ",T,Next Steps
+"Well, when I was volunteering, I helped kids with their homework, and I had to come up with different ways to explain things.  ",P,Next Steps
+That’s a fantastic example! It shows your creativity and patience. How does reflecting on these strengths make you feel?  ,T,History of Present Illness (HPI)
+It boosts my confidence a bit.  ,P,History of Present Illness (HPI)
+"That’s great to hear! Building confidence is essential, especially as you navigate your job search. What other goals would you like to focus on in our future sessions?  ",T,Next Steps
+I think I’d like to work on managing my anxiety about the job search and maybe explore more coping strategies.  ,P,Next Steps
+Absolutely! We can definitely explore that. Would it be helpful to practice some mindfulness techniques in our next session?  ,T,Next Steps
+"Yes, I think that would be beneficial.  ",P,Next Steps
+Wonderful! We can incorporate that into our next meeting. Is there anything else you’d like to discuss today?  ,T,Insignificant
+"No, I think we covered a lot.  ",P,Insignificant
+I agree! Thank you for sharing so openly. I look forward to our next session.  ,T,Insignificant
+Me too! Thank you!  ,P,Insignificant
+Goodbye for now!  ,T,Insignificant
+Bye!,P,Insignificant

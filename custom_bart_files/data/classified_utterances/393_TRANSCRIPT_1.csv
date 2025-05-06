@@ -1,0 +1,46 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+"Hi, it's Ellie again. I'm glad to see you back. How have you been since our last session?",T,Insignificant
+"I've been okay, just busy with work and everything.",P,Insignificant
+That's understandable. You mentioned wanting to work on your weight. How has that been going for you?,T,History of Present Illness (HPI)
+"I've started going to the gym more regularly, so I feel like I'm making progress.",P,History of Present Illness (HPI)
+That’s great to hear! What kind of workouts are you doing?,T,Insignificant
+Mostly cardio and some weight training. I’m trying to mix it up a bit.,P,Insignificant
+That sounds like a solid plan. How do you feel after your workouts?,T,Insignificant
+"I feel good, but sometimes I struggle to stay motivated.",P,History of Present Illness (HPI)
+Motivation can be challenging. What do you think contributes to that struggle?,T,Insignificant
+I guess I get tired of the routine sometimes. I want to see results faster.,P,History of Present Illness (HPI)
+"It’s common to want quick results, but sometimes progress takes time. Have you set any specific goals for yourself?",T,Insignificant
+"I want to lose about 15 pounds, but I also want to build muscle.",P,History of Present Illness (HPI)
+Those are excellent goals. Have you thought about how you would measure your progress besides the scale?,T,Insignificant
+I guess I could track my workouts and how my clothes fit.,P,Current Functional Status
+That’s a great idea! Focusing on how you feel and how your body changes can be more motivating than just the number on the scale. How do you feel about your eating habits?,T,Insignificant
+They could definitely be better. I tend to snack a lot when I'm working.,P,History of Present Illness (HPI)
+"Snacking can be tricky, especially with a busy schedule. Have you tried any strategies to manage that?",T,Insignificant
+"Sometimes I try to keep healthy snacks around, but I still end up reaching for junk food.",P,History of Present Illness (HPI)
+It can be hard to resist those cravings. What do you think triggers those cravings for you?,T,Insignificant
+"Stress, I think. When I’m stressed, I just want to eat something comforting.",P,History of Present Illness (HPI)
+That makes sense. Stress eating is quite common. Have you found any alternative ways to cope with stress?,T,Insignificant
+I usually just work out or hang out with friends.,P,Current Functional Status
+"Those are healthy outlets. Have you considered incorporating any relaxation techniques, like mindfulness or meditation?",T,Insignificant
+"I haven’t really thought about it, but I’ve heard it can help.",P,Insignificant
+It can be very beneficial. Would you be open to trying some mindfulness exercises in our next session?,T,Therapeutic Interventions
+"Sure, I’d be willing to give it a shot.",P,Therapeutic Interventions
+Great! Let’s also talk about your relationships. You mentioned a mentor from church. How has that relationship been for you?,T,Insignificant
+It’s been good. He gives me good advice and helps me think about my career.,P,Psychosocial History
+That’s wonderful. Do you feel comfortable discussing your career goals with him?,T,Insignificant
+"Yeah, I do. He encourages me to pursue my dreams.",P,Psychosocial History
+That’s important. It sounds like a supportive relationship. Are there any other relationships in your life that you would like to improve?,T,Insignificant
+Maybe with my brother. I want to work on that.,P,Psychosocial History
+That’s a valuable goal. What do you think is holding you back from improving that relationship?,T,Insignificant
+I guess there’s just been a lot of misunderstandings between us.,P,Psychosocial History
+Would you be open to exploring ways to communicate more effectively with him?,T,Insignificant
+"Yeah, I think that could help.",P,Insignificant
+Excellent. We can brainstorm some strategies together. How do you feel about setting a goal to reach out to him this week?,T,Next Steps
+I could do that. I’ll try to call him.,P,Next Steps
+That sounds like a good plan. How about we check in on how that goes in our next session?,T,Next Steps
+"Sure, I’ll let you know.",P,Next Steps
+Great! Is there anything else you want to discuss today?,T,Insignificant
+Not really. I think we covered a lot.,P,Insignificant
+I agree. Thank you for sharing today. I look forward to hearing about your progress next time. Take care!,T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant

@@ -1,0 +1,59 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey! I've been alright, you know, just riding the wave. ",P,Insignificant
+"That’s good to hear. Last time, you mentioned a lot about your adventures and how they make you feel alive. Have you had any new experiences since then?",T,Insignificant
+"Yeah, I actually went to this music festival over the weekend. It was wild! ",P,History of Present Illness (HPI)
+Sounds exciting! What stood out to you about that experience?,T,Insignificant
+"Just the energy, man. Everyone was just vibing, dancing, and having a good time. I felt really connected to everyone.",P,History of Present Illness (HPI)
+That sense of connection is really important. Do you think those moments help you feel more grounded?,T,Insignificant
+Definitely. It’s like all the worries fade away when I’m in that environment.,P,History of Present Illness (HPI)
+That's great. You also mentioned partying quite a bit last time. How have you been managing that aspect of your life?,T,Insignificant
+"I’ve been trying to pace myself. I don’t wanna burn out, you know?",P,History of Present Illness (HPI)
+That’s a healthy perspective. Have you noticed any changes in how you feel physically or emotionally when you pace yourself?,T,Insignificant
+"Yeah, actually. I feel more clear-headed. When I party too hard, I get these crazy comedowns, and it’s just not worth it.",P,History of Present Illness (HPI):Physiological Observations
+"It sounds like you’re becoming more aware of your limits, which is a positive step. What strategies are you using to help you pace yourself?",T,Insignificant
+I’ve been trying to drink more water and take breaks. Just chill for a bit instead of going all out.,P,Current Functional Status
+Those are great strategies! How do you feel about that approach?,T,Insignificant
+"It feels good, honestly. I think I’m learning to enjoy the moments without needing to go overboard.",P,History of Present Illness (HPI)
+That’s a wonderful insight. How do you think this new approach will affect your relationships with friends when you go out?,T,Insignificant
+I think it’ll help me be more present. Sometimes I get too caught up in the moment and forget to enjoy it.,P,Current Functional Status
+Being present is key. Have you had any conversations with your friends about this?,T,Insignificant
+"A little. They’re supportive, but some still want to party hard, you know?",P,Psychosocial History
+It’s great that you have supportive friends. Have you thought about how you can maintain your boundaries while still enjoying time with them?,T,Insignificant
+"Yeah, I think I can just be honest. Like, “Yo, I can’t do all that tonight, but let’s hang and chill.”",P,Current Functional Status
+That’s a healthy way to communicate. It seems like you’re really working on finding balance in your life. ,T,Insignificant
+For sure. I want to keep exploring but not at the expense of my well-being.,P,History of Present Illness (HPI)
+That's an admirable goal. How do you feel about your current coping mechanisms? Are they serving you well?,T,Insignificant
+"I think so. I mean, I still smoke weed to relax, but I’m trying to be more mindful about it.",P,Substance Use History
+Mindfulness can be a powerful tool. Have you tried any specific mindfulness techniques?,T,Insignificant
+"I’ve looked into meditation a bit. I’m not super consistent, but I’m trying.",P,Current Functional Status
+That’s a good start! Meditation can help with grounding yourself. Would you like to explore some techniques together?,T,Insignificant
+"Yeah, that’d be cool. I’m open to it.",P,Insignificant
+Great! We can start with some simple breathing exercises. How does that sound?,T,Insignificant
+Sounds good! I could use that.,P,Insignificant
+Awesome! Let’s try a quick exercise. Close your eyes and take a deep breath in... hold it for a moment... and now exhale slowly. ,T,Insignificant
+*breathes deeply* ,P,Insignificant
+How does that feel for you?,T,Insignificant
+It feels nice. I like focusing on my breath.,P,Current Functional Status
+Breathing can be a great anchor to bring you back to the present moment. We can incorporate this into your routine if you’d like.,T,Therapeutic Interventions
+"Yeah, I’d like that. ",P,Therapeutic Interventions
+Wonderful! Is there anything else on your mind that you’d like to discuss today?,T,Insignificant
+"I guess I’m just thinking about my future a lot. Like, am I doing enough with my music?",P,History of Present Illness (HPI)
+That’s a valid concern. What are your goals for your music right now?,T,Insignificant
+"I want to get more shows, maybe even record an album. But sometimes I feel like I’m not making progress.",P,History of Present Illness (HPI)
+It’s common to feel that way in creative fields. Have you set any specific steps to reach those goals?,T,Insignificant
+"Not really. I just kinda go with the flow, but maybe I should be more proactive.",P,History of Present Illness (HPI)
+Being proactive can help you feel more in control. Would you like to brainstorm some actionable steps together?,T,Insignificant
+"Yeah, I’d love that.",P,Insignificant
+Great! Let’s start with what you can do this week to move towards that goal. ,T,Insignificant
+Maybe I can reach out to local venues and see if they have open mic nights?,P,Next Steps
+That sounds like a fantastic idea! It’s a good way to get your name out there.,T,Insignificant
+"Yeah, I feel more motivated just thinking about it.",P,Current Functional Status
+"That’s the spirit! Remember, every small step counts. ",T,Insignificant
+For sure. I appreciate your help with this.,P,Insignificant
+Of course! I’m here to support you. Let's set a goal to check in on your progress next time.,T,Next Steps
+Sounds like a plan!,P,Next Steps
+Great! I’m looking forward to hearing how it goes. ,T,Insignificant
+Me too! Thanks for today.,P,Insignificant
+You’re welcome. Take care until next time!,T,Insignificant
+Bye!,P,Insignificant

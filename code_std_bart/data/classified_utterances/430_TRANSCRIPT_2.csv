@@ -1,0 +1,33 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie! I’ve been okay. I’ve been thinking a lot about our last discussion on my family.",P,History of Present Illness (HPI)
+That’s good to hear. What have you been reflecting on?,T,Insignificant
+"I realized that I often feel disconnected from my parents. We don’t talk much, and I miss that closeness.",P,History of Present Illness (HPI)
+It sounds like that’s weighing on you. What do you think is causing that disconnection?,T,Insignificant
+I think it’s partly my fault. I’ve been so focused on my own life and struggles that I haven’t made an effort to reach out.,P,History of Present Illness (HPI)
+Acknowledging that is an important step. Have you thought about how you might bridge that gap?,T,Insignificant
+"I’ve considered calling them more often, but I worry about what to say. It feels awkward.",P,History of Present Illness (HPI)
+"That’s understandable. Sometimes, starting the conversation can be the hardest part. What if you approached it with curiosity? You could ask them about their lives.",T,Insignificant
+That might work! I think I’d like to hear about their experiences. It could help me understand them better.,P,History of Present Illness (HPI)
+Exactly! It can also open the door for deeper conversations. How do you think they would respond?,T,Insignificant
+"I think they’d appreciate the effort. They’ve always been supportive, even if we don’t communicate much.",P,History of Present Illness (HPI)
+That’s a positive sign. It seems like you have a foundation to build on. Is there anything else you’d like to address about your family dynamics?,T,Insignificant
+I guess I feel guilty sometimes for not being more present in their lives. I want to change that.,P,History of Present Illness (HPI)
+Guilt can be a heavy burden. It’s important to remember that change takes time. What steps can you take to alleviate that guilt?,T,Insignificant
+I think just making an effort to reach out regularly would help. Maybe even visiting them more often.,P,Next Steps
+"That’s a proactive approach! Setting small, achievable goals can make a big difference. How do you feel about that plan?",T,Insignificant
+I feel hopeful. I think it’ll make me feel more connected.,P,Next Steps
+"That’s wonderful! As you work on this, remember to be kind to yourself. It’s okay to take gradual steps. Is there anything else you’ve been thinking about?",T,Insignificant
+I’ve also been feeling a bit anxious about my job lately. I’m not sure if I’m in the right place.,P,History of Present Illness (HPI)
+That’s an important topic to explore. What specifically is causing you to feel anxious about your job?,T,Insignificant
+"I feel like I’m not challenged enough, and I worry about stagnating. I want to grow, but I’m not sure how.",P,History of Present Illness (HPI)
+It’s understandable to seek growth in your career. Have you considered discussing your feelings with your supervisor or seeking new responsibilities?,T,Insignificant
+"I haven’t yet, but that’s a good idea. I think I need to be more proactive about my career.",P,Next Steps
+Absolutely! Taking initiative can often lead to new opportunities. What steps can you take to start that conversation?,T,Insignificant
+"I guess I could prepare some ideas for projects I’d like to take on. That way, I have something concrete to discuss.",P,Next Steps
+That’s a great plan! It shows your commitment and readiness to contribute. How does that make you feel?,T,Insignificant
+It makes me feel empowered. I like the idea of taking control of my career.,P,Next Steps
+"Empowerment is key! Remember, it’s about finding the right balance between your current role and your aspirations. Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I think that’s it for now. I have a lot to think about!,P,Insignificant
+That’s perfectly fine! I appreciate you sharing your thoughts with me. I look forward to hearing about your progress in our next session. Take care!,T,Insignificant
+"Thank you, Ellie! I’ll see you next time.",P,Insignificant

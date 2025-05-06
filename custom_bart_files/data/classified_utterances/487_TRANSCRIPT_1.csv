@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"I've been doing alright, thanks for asking. A bit busy with work, but managing.",P,History of Present Illness (HPI)
+That’s good to hear. You mentioned you were working on several projects. How has that been going?,T,Insignificant
+"It's been a bit overwhelming at times, but I’ve been trying to stay organized. ",P,History of Present Illness (HPI)
+Staying organized can definitely help reduce stress. Have you been able to implement any of the strategies we discussed last time?,T,Insignificant
+"Yes, I’ve been using a planner to keep track of everything. It helps to see things laid out.",P,Therapeutic Interventions
+That’s a great start! How does it feel to have that visual representation of your tasks?,T,Insignificant
+"It feels relieving, actually. I can prioritize better and it makes everything seem less daunting.",P,History of Present Illness (HPI)
+Fantastic! Have you noticed any changes in your stress levels since you started using the planner?,T,Insignificant
+I think my stress has decreased a little. I feel more in control.,P,History of Present Illness (HPI)
+That’s encouraging! You also mentioned that you find happiness in small moments. Have you had any memorable moments lately?,T,Insignificant
+"Yes, I went hiking last weekend and the view was breathtaking. It reminded me why I love being outdoors.",P,History of Present Illness (HPI)
+That sounds wonderful! How did that experience impact your mood?,T,Insignificant
+"It lifted my spirits. I felt so connected to nature, and it was a much-needed break from my routine.",P,History of Present Illness (HPI)
+Nature can be really grounding. Have you considered making that a regular part of your routine?,T,Insignificant
+I’d like to! I think it would help me recharge.,P,History of Present Illness (HPI)
+That’s a great idea. It’s important to take time for yourself. How about your family? How are your relationships with them?,T,Insignificant
+They’re pretty good. I’ve been trying to communicate more openly with my siblings.,P,Psychosocial History
+That’s a positive step. How has that been going for you?,T,Insignificant
+"It’s been a little challenging, but I think they appreciate my effort. We had a good talk last week.",P,Progress Evaluation:Psychosocial History
+That’s wonderful progress! Open communication can really strengthen relationships. Did you find any specific strategies helpful during that conversation?,T,Insignificant
+I just tried to listen more and not jump to conclusions. It helped to validate their feelings.,P,Therapeutic Interventions
+Excellent approach! Listening is a powerful tool. Have you noticed any changes in how they respond to you since you’ve been more open?,T,Insignificant
+"Yes, they seem more willing to share their thoughts with me. It feels good.",P,Progress Evaluation:Psychosocial History
+That’s great to hear! Building that trust can lead to deeper connections. Are there any other areas in your life where you’d like to focus on?,T,Insignificant
+I think I’d like to work on my self-care routine. I tend to neglect it when I’m busy.,P,Presenting Problem / Chief Complaint
+"Self-care is essential, especially when you’re juggling multiple responsibilities. What does self-care look like for you?",T,Insignificant
+"It usually involves reading, going for walks, and sometimes just taking a moment to breathe.",P,History of Present Illness (HPI)
+Those are all wonderful activities. How often do you find time for those?,T,Insignificant
+Not as often as I’d like. I often push them aside for work.,P,History of Present Illness (HPI)
+It’s easy to do that. How about setting a specific time each week dedicated to self-care?,T,Insignificant
+That could work! Maybe I can schedule it like an appointment.,P,Next Steps
+Exactly! Treating it as a priority can help you stick to it. What day do you think would work best for you?,T,Insignificant
+I think Sundays would be ideal. It’s a good way to recharge for the week ahead.,P,Next Steps
+That sounds perfect! How do you plan to spend your self-care Sundays?,T,Insignificant
+"I’d like to go for a hike, read a book, and just relax without any distractions.",P,Next Steps
+That sounds like a lovely plan. I encourage you to stick to it and see how it impacts your overall well-being.,T,Insignificant
+I will! I’m excited to try it out.,P,Insignificant
+Great! Let’s check in on that next session. Is there anything else you’d like to discuss today?,T,Insignificant
+I think that covers it for now. I feel good about our conversation.,P,Insignificant
+"I’m glad to hear that! Remember, it’s important to celebrate the small victories. I look forward to hearing about your self-care journey next time.",T,Insignificant
+"Thank you, Ellie. See you next time!",P,Insignificant
+Bye for now!,T,Insignificant

@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+<sync>,P,Insignificant
+"Hi, it’s good to see you again. How have you been since our last session?",T,Insignificant
+"Hey, I’ve been okay. A bit up and down, but overall, I’m trying to focus on the positive.",P,History of Present Illness (HPI)
+"That’s great to hear. Last time, you mentioned feeling better with the change in weather. Have you been able to maintain that positivity?",T,History of Present Illness (HPI)
+"Yes, definitely! I’ve been walking my dog more, and I even started going to a local hiking group.",P,Current Functional Status
+That sounds wonderful! How has that experience been for you?,T,Insignificant
+"It’s been really nice. I met some new people, and it feels good to be outdoors again. I forgot how much I love hiking.",P,Current Functional Status
+That’s fantastic! Engaging in activities you enjoy can really help with mood. Have you noticed any changes in your overall feelings since joining the group?,T,History of Present Illness (HPI)
+"I feel more connected, and it helps with the loneliness I sometimes feel. I think being around others who share similar interests is uplifting.",P,History of Present Illness (HPI):Psychosocial History
+That’s a significant step forward. You mentioned loneliness last time. Have you been able to address that in other areas of your life?,T,History of Present Illness (HPI)
+"Yes, I’ve been reaching out to friends more often. I even hosted a small game night last weekend.",P,Current Functional Status:Psychosocial History
+That’s excellent! How did that go?,T,Insignificant
+It was a lot of fun! We played some board games and just laughed a lot. It felt good to have people in my space.,P,Current Functional Status:Psychosocial History
+It sounds like you’re building a supportive network. How do you feel about your ability to maintain these connections?,T,Insignificant
+I think I’m getting better at it. I’ve realized that I need to prioritize relationships more.,P,History of Present Illness (HPI):Psychosocial History
+That’s a valuable insight. What do you think has changed in your perspective?,T,Insignificant
+"I think I’ve started to value my own needs more. I used to think I was a burden to others, but now I see that friendships are mutual.",P,History of Present Illness (HPI)
+That’s a healthy realization. Have you had any challenges in this area?,T,Insignificant
+"Sometimes I still feel anxious about reaching out, like I’m interrupting someone’s life.",P,History of Present Illness (HPI):Risk Assessment
+That’s common. Have you tried any coping strategies when those feelings arise?,T,Insignificant
+I usually remind myself that it’s okay to ask for help and that friends want to be there for each other.,P,Therapeutic Interventions
+That’s a great strategy! It shows you’re working on your self-acceptance. Have you noticed any improvements in your anxiety levels overall?,T,Insignificant
+"Yes, I think so. I’m trying to practice mindfulness when I feel overwhelmed.",P,Therapeutic Interventions
+Mindfulness can be a powerful tool. Can you share how you practice it?,T,Insignificant
+"I’ve been doing some guided meditations, focusing on my breath. It helps calm my racing thoughts.",P,Therapeutic Interventions
+That’s wonderful! How do you feel after practicing mindfulness?,T,Insignificant
+I feel more centered and less reactive. It’s like I can step back and observe my thoughts instead of getting caught up in them.,P,Current Functional Status
+That’s an important skill to develop. Have you noticed any specific situations where this has helped you?,T,Insignificant
+"Definitely. I had a tough conversation with my fiancé about finances, and instead of getting defensive, I stayed calm and listened.",P,Current Functional Status
+That’s a significant achievement! How did that conversation go?,T,Insignificant
+"It was productive. We both shared our concerns, and I felt like we were really communicating.",P,Current Functional Status
+Communication is key in any relationship. It sounds like you’re making progress. Are there any other areas you feel you’d like to work on?,T,Insignificant
+"I think I still struggle with self-doubt, especially regarding my career path.",P,History of Present Illness (HPI)
+That’s understandable. What specifically makes you feel doubtful?,T,Insignificant
+I often question if I’m capable of pursuing my interests in animals. I worry I might fail.,P,History of Present Illness (HPI)
+It’s natural to have those fears. Have you considered taking small steps towards that goal?,T,Insignificant
+"I have! I’ve been volunteering at an animal shelter on weekends, which feels fulfilling.",P,Current Functional Status
+That’s a fantastic way to gain experience and build confidence. How has that been for you?,T,Insignificant
+"It’s been really rewarding. I love being around the animals, and it feels good to contribute.",P,Current Functional Status
+That sounds like a meaningful experience. How do you feel about the future in relation to this path?,T,Insignificant
+"I feel hopeful. I think I can explore this further, maybe even consider taking some courses.",P,History of Present Illness (HPI):Next Steps
+"That’s a great plan! Setting small, achievable goals can help you build momentum. Would you like to set a goal for this next week?",T,Next Steps
+"Yes, I’d like to research some local courses or workshops related to animal care.",P,Next Steps
+That’s a perfect goal! How about we check in on that in our next session?,T,Next Steps
+Sounds good to me!,P,Insignificant
+Great! I’m really proud of the progress you’re making. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we covered a lot. Thank you for your support!",P,Insignificant
+You’re welcome! I look forward to hearing about your research next time. Take care!,T,Insignificant

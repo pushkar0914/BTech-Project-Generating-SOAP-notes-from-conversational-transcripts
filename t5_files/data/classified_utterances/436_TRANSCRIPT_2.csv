@@ -1,0 +1,32 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi there! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"Hey! I’ve been okay, just busy with school and everything.",P,Insignificant
+That’s great to hear! How have the courses been going for you?,T,Insignificant
+"They’ve been challenging, but I’m keeping up with the assignments.",P,Current Functional Status
+That’s impressive! Have you been able to incorporate the breathing exercises we discussed?,T,Insignificant
+"Yes, I’ve been doing them in the mornings. It really helps set a positive tone for the day.",P,Therapeutic Interventions
+I’m glad to hear that! Have you noticed any changes in your mood or how you handle stress since you started?,T,Insignificant
+"Definitely! I feel less anxious when I start my day, and it helps me think clearer.",P,History of Present Illness (HPI): Mental Health Observations
+That’s wonderful progress! Have there been any recent situations where you felt your temper rising again?,T,Insignificant
+"Yeah, I had a disagreement with a classmate about a project. I felt frustrated but managed to stay calm this time.",P,History of Present Illness (HPI)
+That’s fantastic! How did you manage to keep your cool?,T,Insignificant
+I remembered to breathe and took a moment before responding. It helped me think before I reacted.,P,Therapeutic Interventions
+That’s a great strategy! It sounds like you’re becoming more aware of your emotions and how to manage them. ,T,Mental Health Observations
+"Yeah, I feel like I’m getting better at it.",P,Mental Health Observations
+That’s a significant accomplishment! How do you feel about your relationship with your girlfriend? Have you been able to communicate your feelings more effectively?,T,Insignificant
+"Yes, we’ve been talking more openly, and it feels good. ",P,History of Present Illness (HPI): Psychosocial History
+Communication can really strengthen a relationship. Have you noticed any changes in how you both interact?,T,Insignificant
+"Definitely. We’re more understanding of each other, which helps a lot.",P,History of Present Illness (HPI): Psychosocial History
+That’s great to hear! It sounds like you’re making meaningful progress in both your personal growth and your relationships. What would you like to focus on in our next session?,T,Insignificant
+I think I’d like to explore more about managing stress and maybe some new coping techniques.,P,Next Steps
+Absolutely! We can work on some new strategies. Have you considered any particular stressors that you’d like to address?,T,Insignificant
+"Work can be a bit overwhelming sometimes, especially with school and everything else.",P,History of Present Illness (HPI)
+That’s understandable. Balancing multiple responsibilities can be challenging. Would you like to explore time management techniques as well?,T,Insignificant
+That sounds helpful. I sometimes feel like I don’t have enough time to get everything done.,P,History of Present Illness (HPI)
+We can definitely work on that. Setting priorities and organizing your tasks can make a big difference. ,T,Therapeutic Interventions
+"Yeah, I think that would help me a lot.",P,Insignificant
+"Okay, let’s make that a goal for our next session. Keep practicing your breathing exercises, and let’s see how they continue to help you manage stress.",T,Next Steps
+I will! Thank you for your help.,P,Insignificant
+You’re very welcome! I’m looking forward to hearing about your progress next time. Take care!,T,Insignificant
+Bye!,P,Insignificant

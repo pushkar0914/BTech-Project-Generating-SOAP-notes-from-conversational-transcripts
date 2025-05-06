@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It's great to see you back. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I've been doing well, thanks. Just keeping busy with work and hanging out with friends.",P,Insignificant
+"That’s good to hear! Last time, you mentioned enjoying your travels and the experiences they bring. Have you traveled anywhere recently?",T,Insignificant
+"Actually, yes! I just got back from a short trip to San Francisco for a weekend getaway. It was nice to explore a new city.",P,History of Present Illness (HPI)
+That sounds exciting! What did you enjoy most about San Francisco?,T,Insignificant
+I really loved the food scene there. I tried some amazing seafood and the views from the Golden Gate Bridge were breathtaking.,P,Insignificant
+It sounds like a refreshing experience. How did you feel during the trip? Any moments that stood out to you?,T,Insignificant
+I felt really happy and relaxed. It was nice to take a break from my routine. I even took some time to just sit by the water and reflect.,P,History of Present Illness (HPI)
+Reflection can be a powerful tool. What were some of the thoughts or feelings that came up during that time?,T,Insignificant
+I found myself thinking about my career and where I want to be in the next few years. I guess I’m feeling a bit uncertain about my future.,P,History of Present Illness (HPI)
+That’s an important topic to explore. What specific uncertainties are you facing regarding your career?,T,Insignificant
+"Well, I love my job in IT, but I sometimes wonder if I should pursue something more creative, like working in tech design or development.",P,History of Present Illness (HPI)
+It’s great that you’re considering different paths. What attracts you to the idea of a more creative role?,T,Insignificant
+"I’ve always enjoyed being creative, whether it's through photography or video games. I think it would be fulfilling to combine that with my technical skills.",P,History of Present Illness (HPI)
+That sounds like a wonderful blend of your interests. Have you thought about how you might transition into a more creative role?,T,Insignificant
+I’ve considered taking some design courses or even working on personal projects to build my portfolio. But I’m a bit hesitant to take that leap.,P,History of Present Illness (HPI)
+It’s understandable to feel hesitant when contemplating a big change. What do you think is holding you back from pursuing those courses or projects?,T,Insignificant
+I guess it’s the fear of failing or not being good enough. I worry about investing time and not seeing results.,P,Risk Assessment
+Fear of failure is a common concern. How do you typically cope with those feelings when they arise?,T,Insignificant
+I usually try to distract myself by keeping busy with work or hanging out with friends. But I know that doesn't really solve the underlying issue.,P,Current Functional Status
+"It sounds like you're aware of the distractions, which is a good first step. Would you be open to exploring some strategies to manage that fear of failure?",T,Insignificant
+"Yeah, I’d be open to that.",P,Insignificant
+"One approach could be reframing your thoughts around failure. Instead of seeing it as a negative outcome, consider it a learning opportunity. How does that resonate with you?",T,Therapeutic Interventions
+"I like that idea. I guess I’ve always seen failure as something to avoid, but it does make sense that it can be a part of growth.",P,Therapeutic Interventions
+"Absolutely! Another strategy could be setting small, achievable goals related to your creative interests. This way, you can build confidence gradually. What do you think about that?",T,Therapeutic Interventions
+That sounds manageable. I could start with a small photography project or a design challenge.,P,Next Steps
+Great! Setting those smaller goals can help you feel accomplished and reduce the pressure. Would you like to set a specific goal for our next session?,T,Insignificant
+Sure! I think I’ll aim to complete a photography project by next time. Maybe something themed around my recent trip?,P,Next Steps
+That sounds like a fantastic idea! I’m excited to hear about it. How do you feel about committing to this goal?,T,Insignificant
+I feel motivated! It’ll give me something to work on and look forward to.,P,Current Functional Status
+"Wonderful! Before we wrap up, is there anything else on your mind today that you’d like to discuss?",T,Insignificant
+"No, I think we covered a lot. I’m looking forward to working on my project!",P,Insignificant
+I’m glad to hear that! I look forward to hearing all about it in our next session. Take care and enjoy the process!,T,Insignificant
+"Thanks, Ellie! See you next time.",P,Insignificant

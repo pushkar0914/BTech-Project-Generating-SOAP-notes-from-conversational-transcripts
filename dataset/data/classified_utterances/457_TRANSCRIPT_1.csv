@@ -1,0 +1,53 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! How have you been since our last session?",T,Insignificant
+"Hey, Ellie! I've been pretty good, actually. Still feeling that spark of excitement.",P,Presenting Problem / Chief Complaint
+That's great to hear! You mentioned feeling inspired and excited. Have you been able to channel that into any projects or activities?,T,Insignificant
+"Yeah! I've been working on this art project with my friends. It's a mural in our neighborhood, and it's turning out really well.",P,Psychosocial History
+That sounds amazing! How does it feel to collaborate with your friends on something like that?,T,Insignificant
+"It feels incredible. It's like we all bring our own energy and ideas to the table, and it just clicks. ",P,Psychosocial History
+I can see how that would be fulfilling. Have you noticed any challenges while working on the mural?,T,Insignificant
+"Well, sometimes we have different visions for what it should look like, and that can lead to some heated discussions.",P,History of Present Illness (HPI)
+How do you handle those discussions when they arise?,T,Insignificant
+"I try to stay calm and listen to everyone’s ideas. But I admit, I get a bit defensive about my vision sometimes.",P,Psychosocial History
+It’s understandable to feel protective of your ideas. How do you feel after those discussions?,T,Insignificant
+"Usually, I feel a bit drained. But when we reach a compromise, it feels rewarding.",P,History of Present Illness (HPI)
+Compromise can be challenging but also rewarding. Have you thought about ways to approach those conversations differently?,T,Insignificant
+"Yeah, I think I could practice being more open to suggestions. Maybe even suggest a brainstorming session next time.",P,Therapeutic Interventions
+That sounds like a proactive approach! How do you feel about your communication skills in general?,T,Insignificant
+"I think I’m pretty good at talking, but sometimes I struggle with listening.",P,Psychosocial History
+Listening is a crucial part of effective communication. What do you think holds you back from listening fully?,T,Insignificant
+I guess I get caught up in my own thoughts and what I want to say next. ,P,Psychosocial History
+That’s a common challenge. Have you ever tried any mindfulness techniques to help you stay present in conversations?,T,Insignificant
+"Not really. I’ve heard about it, but I haven’t given it a shot.",P,Therapeutic Interventions
+Mindfulness can be a great tool. Would you be open to trying a simple mindfulness exercise before our next session?,T,Insignificant
+Sure! What do you have in mind?,P,Insignificant
+We could start with a short breathing exercise. Just take a few deep breaths and focus on your breath for a minute or two. It can help ground you.,T,Therapeutic Interventions
+Sounds easy enough. I’ll give it a try.,P,Therapeutic Interventions
+Wonderful! Let’s check in on your feelings about family. You mentioned your relationship with them being positive but sparse. Have there been any changes in that area?,T,Insignificant
+"Not really. I still keep in touch with my brother, and we have a good time. My mom is still… well, my mom.",P,Psychosocial History
+It sounds like you have a good bond with your brother. How do you feel about your relationship with your mom?,T,Insignificant
+"It’s complicated. I love her, but she drives me a bit crazy sometimes.",P,Psychosocial History
+"That’s understandable. Do you think there are ways to improve that relationship, or are you content with it as is?",T,Insignificant
+I think I’m content for now. I don’t want to force anything that isn’t there.,P,Psychosocial History
+That’s a healthy perspective. It’s important to recognize what feels right for you. How about your relationship with Jackrabbit? Any updates there?,T,Insignificant
+"We’ve been hanging out more! She’s really inspiring, and I feel like I can be myself around her.",P,Psychosocial History
+That’s wonderful! How do you think she influences your creativity and excitement?,T,Insignificant
+She brings out a side of me that I didn’t know existed. It’s like she helps me see the world through a different lens.,P,Psychosocial History
+It’s great to have someone like that in your life. Have you had any conversations with her about your feelings?,T,Insignificant
+Not yet. I’m a bit shy about expressing that kind of stuff.,P,Psychosocial History
+It can be daunting to share those feelings. What do you think is holding you back from opening up to her?,T,Insignificant
+I guess I’m afraid of being vulnerable and getting rejected.,P,Risk Assessment
+"Vulnerability can be scary, but it can also lead to deeper connections. Perhaps you could start with small steps—maybe compliment her or share something personal?",T,Insignificant
+That makes sense. I’ll think about it.,P,Insignificant
+"Great! Let’s also touch on your sleep. You mentioned it’s hard to go to bed, but once you’re asleep, you’re good. Have you noticed anything that helps you wind down?",T,Insignificant
+I’ve been listening to some calming music before bed. It helps a bit.,P,Physiological Observations
+That’s a good strategy! How do you feel when you wake up after a good night’s sleep?,T,Insignificant
+I feel energized and ready to tackle the day. It’s such a difference from when I don’t sleep well.,P,Physiological Observations
+Sleep quality can definitely impact your mood and energy levels. Are there any other habits you’d like to explore to improve your sleep?,T,Insignificant
+Maybe I should try to set a consistent bedtime. That might help.,P,Therapeutic Interventions
+Consistency can be very beneficial! Let’s make that a goal for you this week. ,T,Next Steps
+Sounds good! I’ll aim for that.,P,Next Steps
+"Perfect! As we wrap up, what’s one thing you’d like to focus on before our next session?",T,Insignificant
+I want to work on being more open in conversations and maybe try that mindfulness exercise.,P,Next Steps
+Excellent goals! I look forward to hearing about your progress. Thank you for sharing today.,T,Insignificant
+"Thanks, Ellie! See you next time.",P,Insignificant

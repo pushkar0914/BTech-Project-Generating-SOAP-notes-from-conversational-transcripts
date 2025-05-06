@@ -1,0 +1,41 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! I hope you’ve had a good week. Last time we talked about your experiences with traveling and your aspirations in real estate. How has your week been since then?,T,Insignificant
+"It’s been okay, I guess. I’ve been thinking a lot about what we discussed, especially about my temper.",P,History of Present Illness (HPI)
+That’s great to hear you’re reflecting on it. Have you noticed any specific situations where your temper has come up this week?,T,History of Present Illness (HPI)
+"Yeah, actually. I had a little argument with my ex over the weekend. It was about the kids and how we manage things. I felt myself getting really frustrated.",P,History of Present Illness (HPI)
+I see. How did you handle that frustration in the moment?,T,Insignificant
+"I tried to take a deep breath and remind myself to stay calm, but I still ended up raising my voice a bit. ",P,History of Present Illness (HPI)
+"It sounds like you’re making an effort to control your reactions, which is a positive step. What do you think triggered your frustration?",T,History of Present Illness (HPI)
+"I think it was just feeling overwhelmed. He wasn’t understanding my point of view, and it felt like we were going in circles.",P,History of Present Illness (HPI)
+That can be really challenging. Would it help to explore some coping strategies for when you feel overwhelmed in those conversations?,T,Therapeutic Interventions
+"Yes, definitely. I want to learn how to keep my cool.",P,Therapeutic Interventions
+One technique we could try is grounding exercises. They can help you stay present and manage your emotions. Would you like to practice one together now?,T,Therapeutic Interventions
+"Sure, I’d like that.",P,Therapeutic Interventions
+Great! Let’s take a moment to focus on your breathing. Inhale deeply through your nose... and exhale slowly through your mouth. How does that feel?,T,Therapeutic Interventions
+It feels calming. ,P,Therapeutic Interventions
+Excellent. You can use that technique whenever you feel your temper rising. What do you think about practicing this before your conversations with your ex?,T,Therapeutic Interventions
+I think that would be helpful. I’ll definitely try it.,P,Therapeutic Interventions
+"Wonderful. Now, shifting gears a bit, how has your pursuit of becoming a real estate agent been going?",T,Insignificant
+"I’ve been studying for the exam, and I feel like I’m making progress. It’s a lot of information, though.",P,History of Present Illness (HPI)
+That’s understandable. Have you set any specific goals for your study sessions?,T,Insignificant
+"I’m trying to study at least an hour each day, but sometimes I get distracted.",P,Current Functional Status
+It’s normal to face distractions. Would it help to create a structured study plan or schedule to keep you focused?,T,Therapeutic Interventions
+"Yes, I think that could help. I need to be more organized.",P,Therapeutic Interventions
+Let’s outline a simple plan together. How many days a week do you want to dedicate to studying?,T,Insignificant
+"I can do five days a week, I think.",P,Therapeutic Interventions
+"Perfect! Now, let’s break it down. How about you focus on a specific topic each day? ",T,Therapeutic Interventions
+That sounds good. I can start with the basics of real estate law.,P,Therapeutic Interventions
+"Excellent choice. As you progress, we can discuss what you’ve learned and any challenges you face. ",T,Therapeutic Interventions
+That would be great! ,P,Therapeutic Interventions
+"Now, you mentioned you like to travel. Any new places you’d like to visit this year?",T,Insignificant
+I’m hoping to go to New York. I’ve never been there.,P,Insignificant
+That sounds exciting! What draws you to New York?,T,Insignificant
+Just the energy of the city and all the sights. I want to experience the culture.,P,Insignificant
+It sounds like a fantastic plan. Traveling can also be a great way to relieve stress. ,T,Insignificant
+"Yes, I agree. ",P,Insignificant
+"As we wrap up today, let’s set a goal for the next session. How about you practice the breathing technique and stick to your study schedule? ",T,Next Steps
+I can do that.,P,Next Steps
+Great! I look forward to hearing about your progress. ,T,Insignificant
+Thank you! I appreciate the support.,P,Insignificant
+You’re welcome! See you next week.,T,Insignificant
+Bye!,P,Insignificant

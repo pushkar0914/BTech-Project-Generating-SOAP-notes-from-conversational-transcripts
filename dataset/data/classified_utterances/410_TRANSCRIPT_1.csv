@@ -1,0 +1,34 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, welcome back! It's great to see you again. How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been okay. It's been a busy week with my daughter's birthday and everything.",P,Psychosocial History
+I can imagine! How did the birthday celebrations go?,T,Insignificant
+"Oh, it was wonderful! We had a little party at the park, and she loved it. Seeing her happy made all the effort worth it.",P,Insignificant
+That sounds lovely. It's great to hear that you’re finding joy in those moments. Have you had any moments of reflection since our last talk about your mom?,T,Insignificant
+"Yeah, I’ve thought about it a lot. I still feel that guilt sometimes, but I try to focus on the good memories we had.",P,History of Present Illness (HPI)
+That’s a healthy approach. It’s important to cherish the positive memories while also acknowledging your feelings. Have you been able to talk about your feelings with anyone else?,T,Insignificant
+Not really. I don’t want to burden anyone with my problems. I feel like I should just handle it myself.,P,History of Present Illness (HPI)
+"I understand that feeling, but it’s okay to seek support. Sharing can sometimes lighten the load. Have you considered talking to your sister or a friend about it?",T,Insignificant
+"I haven’t thought about it, but maybe I should. I just don’t want to seem weak.",P,History of Present Illness (HPI)
+Seeking support doesn’t make you weak; it shows strength and a willingness to grow. How do you feel about your parenting since we last spoke?,T,Insignificant
+"I feel like I’m doing okay, but there are days when I feel overwhelmed. Like, I want to do everything right for my daughter.",P,History of Present Illness (HPI)
+"It’s completely normal to feel overwhelmed, especially being a young parent. What do you find most overwhelming?",T,Insignificant
+I think it’s just the pressure to provide for her and be a good role model. I want to make sure she has everything she needs.,P,History of Present Illness (HPI)
+"That’s a lot of responsibility. Have you thought about what ""being a good role model"" means to you?",T,Insignificant
+"I guess it means showing her how to be strong and independent, but also how to be kind and caring.",P,History of Present Illness (HPI)
+Those are wonderful values to instill in her. What are some ways you practice those values in your daily life?,T,Insignificant
+I try to be honest with her and teach her to be respectful to others. I also encourage her to express her feelings.,P,Current Functional Status
+That’s great! Encouraging emotional expression is so important. How does she respond to that?,T,Insignificant
+She’s really open about her feelings. Sometimes it surprises me how articulate she is for her age.,P,Current Functional Status
+That’s wonderful to hear. It sounds like you’re creating a safe space for her to express herself. Have you noticed any changes in your own emotional expression since you’ve been working on this?,T,Insignificant
+"I think I’m getting better at it. I used to bottle things up, but now I try to talk about how I feel, even if it’s just to myself.",P,Progress Evaluation
+That’s a significant step forward! Self-reflection is key to emotional growth. Have you thought about incorporating any mindfulness practices to help with your stress?,T,Insignificant
+"I haven’t really, but I’ve heard about it. What do you suggest?",P,Insignificant
+Mindfulness can be as simple as taking a few moments each day to focus on your breath or to appreciate your surroundings. Would you be willing to try that this week?,T,Therapeutic Interventions
+"Yeah, I can give it a shot. I think it might help.",P,Therapeutic Interventions
+"Great! And remember, it doesn’t have to be long—just a few minutes can make a difference. How about we set a goal for you to practice mindfulness at least three times this week?",T,Next Steps
+That sounds doable! I’ll try to make it a routine.,P,Next Steps
+Perfect! I’m looking forward to hearing how it goes next time. Is there anything else on your mind today?,T,Insignificant
+I think I’m good for now. I just appreciate having a space to talk about things.,P,Insignificant
+"I’m glad to hear that! It’s important to have that space. I look forward to our next session, and remember, it’s okay to reach out if you need support before then.",T,Insignificant
+"Thank you, Ellie. I’ll see you next time!",P,Insignificant
+"Take care, and see you soon!",T,Insignificant

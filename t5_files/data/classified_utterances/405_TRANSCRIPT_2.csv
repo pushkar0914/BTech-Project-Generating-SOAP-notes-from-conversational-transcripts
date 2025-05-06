@@ -1,0 +1,35 @@
+﻿Utterance,Type,Classified_Subsection
+Welcome back! How did your research on event planning go?,T,Insignificant
+"Hi, Ellie! It went well! I found a couple of companies and even reached out to one.",P,History of Present Illness (HPI)
+That’s fantastic! How did it feel to take that step?,T,Insignificant
+"Honestly, it felt empowering. I was nervous, but once I did it, I felt a bit lighter.",P,History of Present Illness (HPI)
+That’s wonderful to hear! Taking action can really help alleviate some of that overwhelm. Have you received any responses yet?,T,Insignificant
+"Yes, they got back to me and invited me for an informal chat next week!",P,History of Present Illness (HPI)
+That’s excellent news! How are you feeling about the meeting?,T,Insignificant
+I’m excited but also nervous. What if I mess up?,P,History of Present Illness (HPI)
+"It’s completely normal to feel nervous before an interview. Remember, it’s just a conversation. What do you hope to convey during your chat?",T,Insignificant
+I want them to see that I’m passionate about event planning and that I’m willing to learn.,P,History of Present Illness (HPI)
+That’s a great mindset! Focusing on your passion can help ease some of that anxiety. Would you like to practice some potential questions they might ask?,T,Insignificant
+"Yes, I think that would help.",P,Insignificant
+Great! Let’s start with a common question: “What interests you about event planning?”,T,Insignificant
+"Hmm, I’d say something like, “I love bringing people together and creating memorable experiences.”",P,Insignificant
+"That’s a strong answer! You’re highlighting your passion and purpose. How about another question, like, “What challenges do you think you might face in this role?”",T,Insignificant
+"I guess I could say, “I might need to improve my time management skills, but I’m eager to learn and adapt.”",P,Insignificant
+"That’s a solid response. Acknowledging areas for growth shows self-awareness, which is important. ",T,Insignificant
+Thanks! I feel more prepared already.,P,Insignificant
+"I’m glad to hear that! Now, let’s shift gears and talk about your daughters. How did the conversation go about the divorce?",T,Insignificant
+"It was tough. They were upset, but I think it went better than I expected.",P,History of Present Illness (HPI)
+That’s a relief to hear. What do you think helped during the conversation?,T,Insignificant
+I think being honest and letting them express their feelings made a difference. I reassured them it wasn’t their fault.,P,History of Present Illness (HPI)
+That’s a crucial aspect. It’s important for them to feel safe expressing their emotions. Have they opened up more since then?,T,Insignificant
+"Yes, they have. We’ve had a couple of heart-to-heart talks, and it feels good to connect with them.",P,Current Functional Status
+That’s wonderful progress! Building that open communication will help strengthen your relationship with them during this transition.,T,Insignificant
+I hope so. I want them to feel secure and loved.,P,Insignificant
+You’re doing a great job by being present and supportive. Is there anything specific you’d like to focus on for our next session?,T,Insignificant
+Maybe we can talk about coping strategies for when I feel overwhelmed again.,P,Presenting Problem / Chief Complaint
+Absolutely! We can explore some mindfulness techniques and stress management strategies. ,T,Therapeutic Interventions
+That sounds perfect.,P,Insignificant
+"Great! I look forward to it. Keep up the good work, and remember to be gentle with yourself through this process.",T,Insignificant
+"Thank you, Ellie. I really appreciate your help.",P,Insignificant
+"You’re welcome! Take care, and see you next time!",T,Insignificant
+Bye!,P,Insignificant

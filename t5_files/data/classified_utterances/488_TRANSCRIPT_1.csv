@@ -1,0 +1,73 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi again! It's good to see you. How have you been since our last session?  ,T,Insignificant
+"I've been okay, I guess. Just trying to keep up with everything.  ",P,Insignificant
+That sounds like a lot. What specifically have you been keeping up with?  ,T,Insignificant
+"Well, I started that summer class, and I’m trying to find a job too.  ",P,History of Present Illness (HPI)
+How's the class going for you?  ,T,Insignificant
+"It's interesting. It's a philosophy class on ethics, and I love it.  ",P,Insignificant
+That’s great to hear! What about the job search? How’s that going?  ,T,Insignificant
+"Not great. I’ve applied to a few places, but I haven’t heard back yet.  ",P,History of Present Illness (HPI)
+That can be really frustrating. How do you feel when you don’t hear back?  ,T,Insignificant
+"Honestly, it makes me anxious. I keep worrying if I’m not good enough or if I did something wrong.  ",P,Risk Assessment
+"Those feelings are understandable, especially during a job search. Have you found any strategies to cope with that anxiety?  ",T,Insignificant
+"I try to remind myself that it’s not personal, but sometimes it’s hard to shake off those negative thoughts.  ",P,History of Present Illness (HPI)
+It sounds like you’re doing a good job of trying to manage those thoughts. Would you like to explore some techniques to help with that?  ,T,Insignificant
+"Yeah, I think that would be helpful.  ",P,Insignificant
+One technique we could try is cognitive restructuring. It involves identifying negative thoughts and challenging them. Would you like to give it a try?  ,T,Therapeutic Interventions
+"Sure, I’m open to that.  ",P,Insignificant
+Great! Let’s take a recent example. Can you think of a specific negative thought you had regarding your job search?  ,T,Insignificant
+"I keep thinking, “I’ll never get hired.”  ",P,History of Present Illness (HPI)
+"Okay, let’s challenge that thought. What evidence do you have that supports this belief?  ",T,Insignificant
+"Well, I haven’t heard back from anyone yet.  ",P,History of Present Illness (HPI)
+"That’s valid. Now, what evidence contradicts that thought?  ",T,Insignificant
+"I mean, I have applied to several places, and I did get an interview last year.  ",P,History of Present Illness (HPI)
+"Excellent! So, based on that, how might you reframe that thought?  ",T,Insignificant
+"I could say, “I haven’t heard back yet, but that doesn’t mean I won’t get hired.”  ",P,Therapeutic Interventions
+Exactly! That’s a much more balanced perspective. How does that feel?  ,T,Insignificant
+"It feels a bit relieving, actually.  ",P,History of Present Illness (HPI)
+I’m glad to hear that! Would you like to practice this technique more with other thoughts?  ,T,Insignificant
+"Yes, let’s do it.  ",P,Insignificant
+What’s another thought that comes to mind?  ,T,Insignificant
+I sometimes think I’m not good enough to be a philosophy major.  ,P,History of Present Illness (HPI)
+Let’s challenge that. What evidence supports that thought?  ,T,Insignificant
+I guess I sometimes struggle with certain concepts.  ,P,History of Present Illness (HPI)
+And what evidence contradicts it?  ,T,Insignificant
+"Well, I’ve done well in my classes overall, and I really enjoy the subject.  ",P,History of Present Illness (HPI)
+Great! How might you reframe that thought?  ,T,Insignificant
+"Maybe I could say, “I’m still learning, and I’ve done well so far.”  ",P,Therapeutic Interventions
+That’s a fantastic reframe! How does that feel to you?  ,T,Insignificant
+"Much better, actually.  ",P,History of Present Illness (HPI)
+Excellent! It seems like you’re starting to build a toolkit for managing those negative thoughts. Would you like to set a goal for yourself related to this?  ,T,Insignificant
+I think I’d like to practice reframing at least once a day.  ,P,Next Steps
+That sounds like a solid goal! How will you remind yourself to do that?  ,T,Insignificant
+I could set a reminder on my phone.  ,P,Next Steps
+"Perfect! Now, let’s shift gears a bit. You mentioned feeling anxious about your job search. How is that impacting your daily life?  ",T,Insignificant
+Sometimes I find it hard to concentrate on my studies because I’m just worried about the job.  ,P,Current Functional Status
+That’s a common experience. Have you tried any relaxation techniques to help with that?  ,T,Insignificant
+"I’ve done some deep breathing exercises, but I don’t always remember to do them.  ",P,Therapeutic Interventions
+Would you like to explore a simple mindfulness exercise that you could do regularly?  ,T,Insignificant
+Sure!  ,P,Insignificant
+"One exercise is the “5-4-3-2-1” grounding technique. It involves identifying five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste.  ",T,Therapeutic Interventions
+That sounds interesting.  ,P,Insignificant
+"You can do this anywhere, and it helps bring you back to the present moment. Would you like to practice it now?  ",T,Insignificant
+Yes!  ,P,Insignificant
+"Okay, let’s start. What are five things you can see right now?  ",T,Insignificant
+"I see the clock, a plant, my phone, some papers, and a picture on the wall.  ",P,Insignificant
+"Great! Now, what are four things you can touch?  ",T,Insignificant
+"My chair, my desk, my notebook, and my pen.  ",P,Insignificant
+Perfect! What about three things you can hear?  ,T,Insignificant
+"I can hear the air conditioning, some birds outside, and my own voice.  ",P,Insignificant
+"Excellent. Now, two things you can smell?  ",T,Insignificant
+I smell coffee and a little bit of the soap from earlier.  ,P,Insignificant
+"And finally, what’s one thing you can taste?  ",T,Insignificant
+I can taste the mint from my gum.  ,P,Insignificant
+Wonderful! How do you feel after doing that exercise?  ,T,Insignificant
+I feel a bit more relaxed.  ,P,Physiological Observations
+That’s fantastic! You can use this exercise whenever you feel anxious. Would you like to set a goal to practice this technique as well?  ,T,Insignificant
+"Yes, I’ll try to do it at least once a day.  ",P,Next Steps
+"Great! You’re setting some positive goals for yourself. Before we wrap up, is there anything else you want to discuss today?  ",T,Insignificant
+I think we covered a lot. I feel more equipped to handle my anxiety now.  ,P,Progress Evaluation
+"I’m glad to hear that! Remember, progress takes time, so be gentle with yourself. Let’s check in on these goals during our next session.  ",T,Insignificant
+"Sounds good! Thank you, Ellie.  ",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next time.  ",T,Insignificant

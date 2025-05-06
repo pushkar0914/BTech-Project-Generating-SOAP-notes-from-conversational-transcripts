@@ -1,0 +1,76 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi again! It's great to see you. How have you been since our last session?  ,T,Insignificant
+"Um, I've been okay, I guess. Just trying to keep up with school and everything.  ",P,Psychosocial History
+That sounds like a lot. Have you had any challenges with your studies?  ,T,Insignificant
+"Yeah, I feel really overwhelmed sometimes. Like, I’m not sure if I’m cut out for this.  ",P,History of Present Illness (HPI)
+What specifically makes you feel overwhelmed?  ,T,Insignificant
+I think it's just the amount of work and trying to balance everything else in my life.  ,P,History of Present Illness (HPI)
+That makes sense. Have you found any strategies that help you manage your workload?  ,T,Insignificant
+"I’ve tried making to-do lists, but I still feel like I’m not getting enough done.  ",P,History of Present Illness (HPI)
+To-do lists can be helpful. Maybe we can explore breaking down your tasks into smaller steps?  ,T,Therapeutic Interventions
+"Yeah, that might help. I just feel like I have so much to do all at once.  ",P,History of Present Illness (HPI)
+"It’s understandable to feel that way. Sometimes, prioritizing tasks can ease that stress.  ",T,Insignificant
+"Right, but I struggle with knowing what to prioritize.  ",P,History of Present Illness (HPI)
+How about we try an exercise? We can list out your tasks and categorize them by urgency and importance.  ,T,Therapeutic Interventions
+"Sure, that sounds good.  ",P,Insignificant
+Great! What tasks do you have on your plate right now?  ,T,Insignificant
+"Well, I have a paper due next week, a midterm coming up, and I have to study for my finals.  ",P,Current Functional Status
+Let’s write those down. Which one feels the most urgent to you?  ,T,Insignificant
+"The paper, I guess.  ",P,Current Functional Status
+"Okay, so we can focus on that first. What’s the next task?  ",T,Insignificant
+"The midterm, I think.  ",P,Current Functional Status
+"And finally, studying for finals. How does that feel?  ",T,Insignificant
+It feels a bit better to see it laid out like this.  ,P,History of Present Illness (HPI)
+"I’m glad to hear that. Now, let’s think about how you can tackle the paper. What are the steps you need to take?  ",T,Therapeutic Interventions
+"Um, I need to research, outline, and then write it.  ",P,Current Functional Status
+Perfect! Let’s set a timeline for each step. How much time do you think you need for research?  ,T,Insignificant
+Maybe two days?  ,P,Current Functional Status
+Sounds reasonable. How about we set aside specific times for that?  ,T,Therapeutic Interventions
+"Yeah, I can do that.  ",P,Insignificant
+"Excellent! After research, how long do you think outlining will take?  ",T,Insignificant
+Probably a day.  ,P,Current Functional Status
+"Great. Now, what about writing the paper?  ",T,Insignificant
+I think I’ll need at least three days to write it.  ,P,Current Functional Status
+That’s a solid plan. Would you like to set specific goals for each day?  ,T,Therapeutic Interventions
+"Yeah, that would help keep me on track.  ",P,Insignificant
+"Perfect! Let’s summarize your timeline: two days for research, one day for outlining, and three days for writing.  ",T,Therapeutic Interventions
+"Yes, I like that.  ",P,Insignificant
+How does that make you feel about the paper?  ,T,Insignificant
+"A little less anxious, honestly.  ",P,History of Present Illness (HPI)
+"That’s wonderful to hear! Remember, it’s okay to take breaks too.  ",T,Insignificant
+"Right, I tend to forget that.  ",P,Insignificant
+Taking breaks can help recharge your mind. What do you like to do during breaks?  ,T,Insignificant
+I usually go for a walk or watch a show.  ,P,Psychosocial History
+Those sound like great ways to relax. How about incorporating those into your study schedule?  ,T,Therapeutic Interventions
+"Yeah, I’ll try to do that.  ",P,Insignificant
+Do you feel like you have a good support system for your studies?  ,T,Insignificant
+"I do have friends, but I don’t always reach out when I need help.  ",P,Psychosocial History
+What holds you back from reaching out?  ,T,Insignificant
+I think I don’t want to burden them with my problems.  ,P,Psychosocial History
+"It’s understandable to feel that way, but friends often want to help. Would you consider sharing your feelings with them?  ",T,Therapeutic Interventions
+Maybe. I just don’t want to seem weak.  ,P,Psychosocial History
+Seeking support doesn’t show weakness; it shows strength. It’s okay to lean on others.  ,T,Therapeutic Interventions
+That’s true. I’ll think about it.  ,P,Insignificant
+Good! How have you been feeling physically?  ,T,Insignificant
+"I still feel pretty tired, honestly.  ",P,Physiological Observations
+Have you been able to address your sleep issues?  ,T,Insignificant
+Not really. I’m still trying to figure it out with my doctor.  ,P,Medical and Psychiatric History
+That’s a good step. Have you tried any relaxation techniques before bed?  ,T,Insignificant
+"No, I haven’t. What do you suggest?  ",P,Insignificant
+Mindfulness or deep breathing can be helpful. Would you like to try a brief exercise?  ,T,Therapeutic Interventions
+"Sure, I can try that.  ",P,Insignificant
+Let’s take a few deep breaths together. Inhale deeply… and exhale slowly.  ,T,Therapeutic Interventions
+<inhales and exhales>  ,P,Insignificant
+How does that feel?  ,T,Insignificant
+"It feels nice, actually.  ",P,Physiological Observations
+I’m glad to hear that. You can use this technique whenever you feel stressed.  ,T,Therapeutic Interventions
+I’ll definitely keep that in mind.  ,P,Insignificant
+"Great! As we wrap up, what is one goal you’d like to focus on before our next session?  ",T,Insignificant
+I think I want to stick to my study plan for the paper.  ,P,Current Functional Status
+That sounds like a solid goal. Let’s check in on that next time.  ,T,Next Steps
+"Okay, I can do that.  ",P,Insignificant
+Thank you for sharing today. I look forward to hearing about your progress!  ,T,Insignificant
+"Thanks, Ellie.  ",P,Insignificant
+Goodbye!  ,T,Insignificant
+Bye!,P,Insignificant

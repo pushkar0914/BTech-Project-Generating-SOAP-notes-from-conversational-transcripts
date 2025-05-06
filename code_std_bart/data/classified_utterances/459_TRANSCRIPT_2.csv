@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hey, Ellie. I’ve had a pretty good week, actually. I’ve been trying to stick to the meditation and sleep routine.",P,History of Present Illness (HPI)
+That’s wonderful to hear! How has it been going for you?,T,Insignificant
+"The meditation in the morning has helped me feel a bit more centered throughout the day. I still struggle with sleep, but I think it’s getting a little better.",P,History of Present Illness (HPI): Physiological Observations
+That’s a fantastic start! It’s great that you’re noticing some positive changes. Have you been able to incorporate any relaxation exercises before bed?,T,Insignificant
+"Yeah, I’ve been doing some light stretching and breathing exercises. It helps a bit.",P,Therapeutic Interventions
+Excellent! It sounds like you’re developing a healthy routine. Have you noticed any changes in your mood or anger levels?,T,Insignificant
+"Actually, yeah. I’ve been a bit less irritable. I think the meditation is helping with that.",P,History of Present Illness (HPI): Mental Health Observations
+That’s great progress! It’s encouraging to see you finding ways to manage your emotions. Have you had any conflicts with your mom recently?,T,Insignificant
+Not since our last argument. I’ve been trying to keep the peace.,P,History of Present Illness (HPI): Psychosocial History
+"That’s a wise choice. Sometimes, stepping back can help create a calmer environment. Have you had any conversations with her about your concerns regarding her health?",T,Insignificant
+"I did suggest we cook together, and we made a healthy dinner last weekend. She seemed to appreciate it.",P,History of Present Illness (HPI): Psychosocial History
+That’s wonderful! It sounds like you’re taking positive steps to connect with her. How did that make you feel?,T,Insignificant
+It felt good. I think she enjoyed spending time together.,P,History of Present Illness (HPI): Psychosocial History
+That’s so important. Building those connections can be very beneficial for both of you. Is there anything else you’d like to explore today?,T,Insignificant
+I’ve been thinking about my dad a lot lately. I still feel a lot of anger towards him for how he treated me and my dog.,P,Trauma History
+That’s a heavy burden to carry. It’s okay to feel angry about past experiences. Have you found any ways to process those feelings?,T,Insignificant
+"Not really. I just try to push it aside, but it keeps coming back.",P,History of Present Illness (HPI)
+"It’s understandable to want to avoid those feelings, but sometimes facing them can be helpful. Would you be open to exploring those feelings more deeply?",T,Insignificant
+I guess so. I just don’t know where to start.,P,Insignificant
+We can start by talking about specific memories that come to mind when you think of your dad. What stands out to you?,T,Insignificant
+I remember a time when he was really angry and took it out on my dog. I felt so powerless.,P,Trauma History
+That sounds incredibly painful. It’s natural to feel anger and sadness about that experience. Have you ever had the chance to express that anger in a safe way?,T,Insignificant
+"No, I usually just keep it bottled up.",P,History of Present Illness (HPI)
+It might be helpful to find a constructive outlet for that anger. Some people find it useful to write about their feelings or even engage in physical activity to release pent-up energy. What do you think?,T,Therapeutic Interventions
+Writing could be good. I’ve never really tried that before.,P,Therapeutic Interventions
+It could be a helpful way to process your feelings without feeling overwhelmed. Would you be willing to give it a try?,T,Insignificant
+"Yeah, I can try writing about it.",P,Next Steps
+Great! Let’s check in on that progress next time. Have you noticed any other emotions surfacing in your life lately?,T,Insignificant
+"I’ve had moments of sadness, especially when I think about my past.",P,History of Present Illness (HPI)
+That’s completely understandable. It’s important to honor those feelings. Have you found any coping strategies that help during those times?,T,Insignificant
+"I usually call my girlfriend, and she helps me feel better.",P,History of Present Illness (HPI): Psychosocial History
+"That’s wonderful! It’s great to have someone supportive in your life. Remember, it’s okay to lean on others when you’re feeling down. ",T,Insignificant
+"Thanks, Ellie. I appreciate your support.",P,Insignificant
+Of course! I’m here to help you navigate these feelings. Let’s set a goal for writing about your feelings and checking in on your sleep routine for next week.,T,Next Steps
+Sounds good to me.,P,Insignificant
+I look forward to hearing about your experiences. Take care until then!,T,Insignificant
+"Bye, Ellie!",P,Insignificant

@@ -1,0 +1,38 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How has your week been?,T,Insignificant
+"Hey, Ellie. It’s been alright, I guess. I tried that pause technique we talked about.",P,History of Present Illness (HPI)
+That’s fantastic! How did it go for you?,T,Insignificant
+"Honestly, it was a mixed bag. There were moments when I remembered to pause, and others where I forgot completely.",P,History of Present Illness (HPI)
+That’s completely normal! It’s all part of the learning process. Can you share a specific situation where you used the technique?,T,Insignificant
+"Yeah, there was a moment when I was playing video games with friends, and one of them made a joke about my skills. I felt that anger creeping in, but I took a breath and paused. ",P,History of Present Illness (HPI)
+That’s a great example! How did your friends respond when you took that moment?,T,Insignificant
+"They were surprised at first, but then I just laughed it off instead of flipping out. It felt good.",P,History of Present Illness (HPI)
+That’s a wonderful outcome! It sounds like you were able to redirect the situation positively. What do you think helped you remember to pause in that moment?,T,Insignificant
+I think I was just really aware of how I didn’t want to react like I used to. It was like I had a little voice in my head reminding me.,P,History of Present Illness (HPI)
+That awareness is key! It shows that you’re making progress. Were there any situations where you didn’t remember to pause?,T,Insignificant
+"Yeah, there was one time when I got really mad at my roommate over something dumb. I just exploded.",P,History of Present Illness (HPI)
+It’s okay to have those moments too. What do you think triggered that anger?,T,Insignificant
+"It was just a buildup of stuff. I felt like he wasn’t respecting my space, and it just boiled over.",P,History of Present Illness (HPI)
+It sounds like there might be some underlying feelings there. Have you had a chance to talk to your roommate about it since that incident?,T,Insignificant
+"No, not yet. I’m kind of avoiding it because I feel embarrassed.",P,History of Present Illness (HPI)
+"That’s understandable. However, addressing it could help clear the air. Would you like to discuss how you might approach that conversation?",T,Insignificant
+"Yeah, I think I need to. I don’t want to keep feeling this way.",P,History of Present Illness (HPI)
+"That’s a great mindset. How about starting with expressing how you felt during that moment? You could say something like, “I felt overwhelmed when…”",T,Insignificant
+That sounds good. I’ll try that.,P,Insignificant
+"Excellent! Remember, it’s okay to express your feelings. It can lead to a better understanding between you both. Is there anything else you’d like to work on today?",T,Insignificant
+I think I want to dive more into why I get angry so easily. I want to understand it better.,P,Presenting Problem / Chief Complaint
+That’s a valuable insight. Let’s explore that. Can you think of any patterns or situations that often lead to your anger?,T,Insignificant
+I guess it’s mostly when I feel disrespected or ignored. Like I’m not being taken seriously.,P,History of Present Illness (HPI)
+That’s an important realization. Feeling disrespected can trigger strong emotions. Have you experienced that feeling in other relationships or situations?,T,Insignificant
+"Yeah, definitely. It’s not just with my roommate. It’s happened with my wife too.",P,History of Present Illness (HPI)
+That connection is significant. It might help to explore how those feelings have influenced your relationships. Would you like to share an example?,T,Insignificant
+"Well, there were times when I thought she wasn’t listening to me, and I’d just blow up. I didn’t mean to, but it just happened.",P,History of Present Illness (HPI)
+It’s understandable that those feelings can surface in intimate relationships. How do you think you might address that moving forward?,T,Insignificant
+"I guess I need to communicate better. Instead of just reacting, I need to express how I feel before it escalates.",P,Presenting Problem / Chief Complaint
+That’s a great insight! Communication is key. Would you like to set a goal for yourself regarding this?,T,Insignificant
+"Yeah, I want to try to talk to my roommate and be more open with my feelings. I’ll also work on expressing myself to others before getting angry.",P,Next Steps
+"That sounds like a solid plan! I’m proud of you for wanting to take these steps. Remember, it’s a journey, and you’re making progress. ",T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+You’re very welcome! I’m looking forward to hearing about your experiences next time. Take care!,T,Insignificant
+"Bye, Ellie!",P,Insignificant
+Bye for now!,T,Insignificant

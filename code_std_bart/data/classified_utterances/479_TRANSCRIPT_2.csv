@@ -1,0 +1,50 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, Ellie. ",P,Insignificant
+Hi! It’s good to see you again. How did the past week go with your goals? ,T,Insignificant
+"Um, it was okay. ",P,Insignificant
+Just okay? Which goals did you manage to work on? ,T,Insignificant
+"I did some research on personal training, but I didn’t get to the mindfulness or budgeting. ",P,History of Present Illness (HPI)
+That’s alright! It’s a process. What did you find out about personal training? ,T,Insignificant
+"There are a lot of certifications, and some seem really expensive. ",P,History of Present Illness (HPI)
+That’s a valid concern. Did you find any that seemed more affordable? ,T,Insignificant
+"Yeah, there’s one that’s online and not too pricey. ",P,History of Present Illness (HPI)
+That’s a great start! Would you like to set a goal to enroll in that course? ,T,Next Steps
+I think I could do that. ,P,Next Steps
+Excellent! How about we aim for next week? ,T,Next Steps
+Sure. ,P,Next Steps
+How about the mindfulness breathing? Did you give it a try? ,T,History of Present Illness (HPI)
+I forgot most nights. ,P,History of Present Illness (HPI)
+That’s okay! It can be challenging to remember to do something new. Would setting a reminder help? ,T,Next Steps
+"Yeah, probably. ",P,Next Steps
+Great! Let’s try that. What about the budget? ,T,Insignificant
+I didn’t do that either. ,P,History of Present Illness (HPI)
+No worries. Would it help to start with just one meal a week where you limit spending? ,T,Next Steps
+That sounds better. ,P,Next Steps
+Perfect! Let’s say one meal out this week. ,T,Next Steps
+Okay. ,P,Next Steps
+How do you feel about sharing your struggles with your friends? ,T,Insignificant
+I haven’t done that yet. ,P,Insignificant
+That’s understandable. What’s holding you back? ,T,Insignificant
+I’m just not sure how to start the conversation. ,P,Insignificant
+"How about a simple, “Hey, I’ve been feeling a bit overwhelmed with work and finances”? ",T,Next Steps
+I could try that. ,P,Next Steps
+It’s a good approach. You might be surprised by how supportive they’ll be. ,T,Insignificant
+"Yeah, I hope so. ",P,Insignificant
+Let’s talk about how you felt about your stress levels this week. ,T,Insignificant
+They were pretty high. ,P,History of Present Illness (HPI)
+What do you think contributed to that? ,T,Insignificant
+Just work stuff and thinking about money. ,P,History of Present Illness (HPI)
+Have you noticed any physical symptoms when you feel stressed? ,T,History of Present Illness (HPI)
+I get headaches sometimes. ,P,History of Present Illness (HPI)
+That’s tough. Have you tried any physical activities to help with that? ,T,Insignificant
+"I’ve been working out, but it doesn’t always help. ",P,History of Present Illness (HPI)
+It sounds like you’re doing your best. Have you considered talking to a doctor about your headaches? ,T,Next Steps
+Not really. ,P,Insignificant
+"It might be worth it, especially if they’re frequent. ",T,Next Steps
+"Yeah, I’ll think about it. ",P,Next Steps
+"As we wrap up today, what are your goals for next week? ",T,Next Steps
+"I want to enroll in the personal training course, set a meal budget, and try the mindfulness again. ",P,Next Steps
+Those are great goals! I’m excited to hear how it all goes. ,T,Insignificant
+Me too. ,P,Insignificant
+"Thank you for sharing today, and I’ll see you next week! ",T,Insignificant
+Bye!,P,Insignificant

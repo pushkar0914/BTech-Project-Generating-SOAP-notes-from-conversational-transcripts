@@ -1,0 +1,44 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! It’s good to see you again. How have you been since our last session?,T,Insignificant
+"I’ve been okay, trying to stick to the self-care schedule we talked about.",P,Current Functional Status
+That’s great to hear! How has that been working for you?,T,Insignificant
+It’s been helpful. I’ve been drawing more and making time to relax.,P,Current Functional Status
+That’s wonderful! Have you noticed any changes in your mood or anxiety levels?,T,Insignificant
+"Yes, I feel less anxious when I take that time for myself.",P,History of Present Illness (HPI)
+That’s a positive development! It sounds like self-care is making a difference. Have you had a chance to talk to your husband about your feelings?,T,Insignificant
+"I did! We had a good conversation, and he was very supportive.",P,Psychosocial History
+I’m glad to hear that. Open communication can strengthen your relationship. How did it feel to share your concerns with him?,T,Insignificant
+It felt relieving. I didn’t realize how much I needed to talk about it.,P,History of Present Illness (HPI)
+That’s a significant step forward. It’s essential to have that support. Have you been able to set any boundaries while caring for your friend?,T,Insignificant
+"Yes, I’ve started saying no to some things that I know I can’t handle.",P,Current Functional Status
+That’s excellent! Setting boundaries is crucial for your well-being. How has your friend responded to those boundaries?,T,Insignificant
+"He hasn’t pushed back, which is good. I think he understands I need to take care of myself too.",P,Current Functional Status
+That’s a healthy dynamic. It’s important for both of you to have that understanding. Have you faced any challenges with those boundaries?,T,Insignificant
+"There were a couple of times I felt guilty for saying no, but overall, I’m managing.",P,History of Present Illness (HPI)
+"Guilt is a common feeling when we set boundaries, but it’s essential to remind yourself that your needs matter too. How do you cope with that guilt?",T,Insignificant
+I try to focus on the positive aspects of taking care of myself.,P,Current Functional Status
+That’s a great strategy. Reinforcing the benefits of self-care can help diminish guilt. Have you noticed any changes in your friend’s condition?,T,Insignificant
+"He’s been improving slowly, which is encouraging.",P,History of Present Illness (HPI)
+That’s wonderful news! It sounds like your support is making a difference. How do you feel about the progress he’s making?,T,Insignificant
+I’m hopeful. It’s nice to see him getting better.,P,History of Present Illness (HPI)
+Hope can be a powerful motivator. Have you found any new coping strategies that work for you?,T,Insignificant
+"I’ve been practicing that breathing technique we discussed, and it helps.",P,Therapeutic Interventions
+Fantastic! Breathing exercises can be very effective in managing anxiety. Have you noticed any particular situations where it helps the most?,T,Insignificant
+Mostly when I start to feel overwhelmed or anxious about my friend’s situation.,P,History of Present Illness (HPI)
+That’s a great insight. Being proactive with your coping strategies can help you feel more in control. Is there anything else you’d like to explore today?,T,Insignificant
+I’d like to talk about my feelings regarding my son’s death. It’s been on my mind lately.,P,Presenting Problem / Chief Complaint
+Of course. It’s important to process those feelings. What specifically has been coming up for you?,T,Insignificant
+I’ve been reflecting on how I handled that experience and if I could have done anything differently.,P,History of Present Illness (HPI)
+It’s natural to revisit those moments. What feelings are surfacing as you reflect on that time?,T,Insignificant
+"I feel a mix of sadness and guilt, wondering if I made the right decisions.",P,History of Present Illness (HPI)
+Those feelings are valid. It’s crucial to remember that you made the best decisions you could at that time with the information you had. Have you been able to talk about this with anyone?,T,Insignificant
+Not really. I keep it to myself.,P,History of Present Illness (HPI)
+It might be helpful to share those feelings with someone you trust. Would you consider reaching out to a support group or a close friend?,T,Insignificant
+I might. It could be beneficial to talk to someone who understands.,P,Next Steps
+"That sounds like a positive step. Processing grief can be a long journey, and it’s okay to seek support along the way. How do you feel about setting a goal to reach out this week?",T,Next Steps
+I think I can do that.,P,Next Steps
+Wonderful! Let’s check in on how that goes in our next session. Is there anything else you’d like to discuss today?,T,Insignificant
+"No, I think we’ve covered a lot.",P,Insignificant
+"I’m glad you feel that way. Remember, you’re not alone in this. Take care, and I look forward to our next session!",T,Insignificant
+"Thank you, Ellie. Bye!",P,Insignificant

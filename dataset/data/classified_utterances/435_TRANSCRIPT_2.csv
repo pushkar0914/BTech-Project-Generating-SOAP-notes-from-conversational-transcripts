@@ -1,0 +1,55 @@
+﻿Utterance,Type,Classified_Subsection
+<sigh>  ,P,Insignificant
+Hi there! Welcome back. How has your week been?  ,T,Insignificant
+"It’s been okay, a bit challenging, but I tried to stick to my goals.  ",P,History of Present Illness (HPI)
+That’s great to hear! Can you share what challenges you faced?  ,T,Insignificant
+"I attempted to talk to my kids about my feelings, but it didn’t go as smoothly as I hoped.  ",P,History of Present Illness (HPI)
+That’s understandable. What happened?  ,T,Insignificant
+They seemed distracted and didn’t really engage with what I was saying.  ,P,History of Present Illness (HPI)
+It can be tough when communication doesn’t go as planned. How did that make you feel?  ,T,Insignificant
+I felt disappointed and a bit rejected.  ,P,History of Present Illness (HPI)
+Those feelings are valid. Did you find any ways to cope with those emotions?  ,T,Insignificant
+I went for a long walk and did some journaling afterward.  ,P,Therapeutic Interventions
+That’s a positive way to process your feelings. What did you write about?  ,T,Insignificant
+I wrote about my expectations and how I might need to adjust them.  ,P,History of Present Illness (HPI)
+Adjusting expectations can be a healthy approach. What insights did you gain from that reflection?  ,T,Insignificant
+"I realized that I can’t control how they respond, but I can control how I communicate.  ",P,History of Present Illness (HPI)
+That’s a powerful realization. How do you plan to approach future conversations with them?  ,T,Insignificant
+I think I’ll try to be more patient and maybe choose a better time to talk.  ,P,Next Steps
+That sounds like a wise strategy. Have you thought about what you want to communicate next time?  ,T,Insignificant
+I want to focus more on my love for them and less on my worries.  ,P,Next Steps
+That’s a beautiful intention. Shifting the focus can foster a more positive dialogue.  ,T,Insignificant
+I hope so.  ,P,Insignificant
+Is there anything else you’d like to explore today?  ,T,Insignificant
+"Yes, I want to talk about my self-esteem again.  ",P,Presenting Problem / Chief Complaint
+Of course. Have you noticed any changes since we last discussed it?  ,T,Insignificant
+"I’ve been trying to challenge my negative thoughts, but it’s tough.  ",P,History of Present Illness (HPI)
+It can be a difficult process. What specific thoughts have you been challenging?  ,T,Insignificant
+I often think I’m not good enough for my job or my kids.  ,P,History of Present Illness (HPI)
+Those thoughts can be very damaging. What evidence do you have that contradicts those beliefs?  ,T,Insignificant
+"I’ve received positive feedback at work, and my kids often tell me they love me.  ",P,History of Present Illness (HPI)
+That’s wonderful evidence! How can you remind yourself of those affirmations when those negative thoughts creep in?  ,T,Insignificant
+I could write them down and keep them somewhere visible.  ,P,Therapeutic Interventions
+That’s a fantastic idea! Creating a visual reminder can help reinforce those positive beliefs.  ,T,Insignificant
+I’ll definitely try that.  ,P,Next Steps
+Is there a specific area in your life where you’d like to boost your self-esteem?  ,T,Insignificant
+I’d like to feel more confident in social situations.  ,P,Presenting Problem / Chief Complaint
+That’s a great goal. Have you thought of any small steps to help build that confidence?  ,T,Insignificant
+Maybe I could join a local group or class.  ,P,Next Steps
+That sounds like a wonderful opportunity! What kind of group or class are you considering?  ,T,Insignificant
+I’m thinking about a yoga class or a book club.  ,P,Next Steps
+Both sound like excellent choices! They can provide a supportive environment to connect with others.  ,T,Insignificant
+I’m excited but also a bit nervous.  ,P,History of Present Illness (HPI)
+It’s normal to feel nervous about new experiences. How can you support yourself through that nervousness?  ,T,Insignificant
+I could remind myself that it’s okay to feel uncomfortable and that everyone else is probably feeling the same way.  ,P,Next Steps
+"That’s a healthy perspective. Remember, growth often happens outside of our comfort zones.  ",T,Insignificant
+I’ll try to keep that in mind.  ,P,Insignificant
+How do you feel about setting a goal to attend one class or group this month?  ,T,Insignificant
+I think I can do that!  ,P,Next Steps
+Wonderful! We can check in on your progress next time. Is there anything else you’d like to discuss today?  ,T,Insignificant
+I think that covers it for now.  ,P,Insignificant
+Great! Thank you for sharing your journey with me. You’re making significant strides.  ,T,Insignificant
+"Thank you for your support, Ellie.  ",P,Insignificant
+You’re very welcome! I look forward to our next session.  ,T,Insignificant
+Me too. Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

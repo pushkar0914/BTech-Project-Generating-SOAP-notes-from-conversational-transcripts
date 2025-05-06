@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How has your week been?,T,Insignificant
+"Hi, Ellie. It’s been a mixed bag, honestly. I tried going to the park, but I didn’t get to go as much as I wanted.",P,Insignificant
+That’s okay! Sometimes life gets in the way. Did you manage to go at all?,T,Insignificant
+"I went once, and it was nice. I felt good being outside.",P,Physiological Observations
+That’s great to hear! Even one visit can be a positive step. How did you feel afterward?,T,Insignificant
+"I felt a bit more relaxed, but the anxiety crept back as the week went on.",P,History of Present Illness (HPI)
+It’s common for anxiety to fluctuate. Let’s talk about what triggered it this week.,T,Insignificant
+"I had a few job rejections, and that really brought me down.",P,History of Present Illness (HPI)
+I can see how that would affect your mood. Rejection can be tough. How did you cope with those feelings?,T,Insignificant
+"I tried to distract myself with TV and my dog, but it didn’t help much.",P,History of Present Illness (HPI)
+"Distractions can be useful, but they don’t always address the underlying feelings. Have you thought about processing those feelings more directly?",T,Insignificant
+Not really. I guess I just wanted to avoid feeling bad.,P,History of Present Illness (HPI)
+"That’s understandable, but sometimes allowing ourselves to feel and express those emotions can be healing. Would you like to try that now?",T,Insignificant
+"Sure, I can give it a shot.",P,Insignificant
+Let’s start by acknowledging those feelings. What emotions do you feel when you think about the rejections?,T,Insignificant
+I feel sad and frustrated. ,P,History of Present Illness (HPI)
+It’s completely valid to feel that way. Can you think of a specific moment that triggered those emotions?,T,Insignificant
+"I got an email from a job I really wanted, and they said they chose someone else. ",P,History of Present Illness (HPI)
+That must have been really disappointing. It’s okay to grieve that opportunity. How did you respond to that email?,T,Insignificant
+I just stared at it for a while. I didn’t know what to feel.,P,History of Present Illness (HPI)
+"It’s normal to feel stuck in those moments. Instead of pushing those feelings away, what if you allowed yourself to express them? ",T,Insignificant
+Like writing about it or something?,P,Insignificant
+Exactly! Journaling can be a great way to process your emotions. Would you be willing to try that this week?,T,Therapeutic Interventions
+"Yeah, I think I could do that.",P,Therapeutic Interventions
+Wonderful! You could write about your feelings regarding the job rejections and any hopes you have for the future. ,T,Therapeutic Interventions
+That sounds helpful.,P,Therapeutic Interventions
+"I’m glad to hear that. Remember, it’s okay to feel sad about what didn’t work out, but also to hold space for new possibilities. ",T,Insignificant
+"Yeah, I need to remember that.",P,Insignificant
+Is there anything else on your mind that you’d like to explore today?,T,Insignificant
+I’ve been thinking about my relationship with my brother. ,P,History of Present Illness (HPI)
+"Okay, what’s been on your mind regarding that?",T,Insignificant
+"We don’t talk much, and I feel like there’s a wall between us.",P,History of Present Illness (HPI)
+That’s tough. What do you think is causing that distance?,T,Insignificant
+I think we just have different lives and values. It’s hard to connect.,P,History of Present Illness (HPI)
+It can be challenging when family members are on different paths. Have you considered reaching out to him?,T,Insignificant
+"I’ve thought about it, but I’m not sure what to say.",P,History of Present Illness (HPI)
+Starting with a simple message can be a good way to reconnect. You could ask how he’s doing or share something that reminds you of him.,T,Therapeutic Interventions
+That doesn’t sound too hard. ,P,Insignificant
+"It’s a small step, but it could open the door for more communication. How do you feel about trying that?",T,Insignificant
+I think I’ll give it a shot.,P,Next Steps
+"That’s great! Remember, it’s about progress, not perfection. ",T,Insignificant
+Thanks for the reminder.,P,Insignificant
+"Before we end today, is there anything you’d like to set as a goal for our next session?",T,Insignificant
+I’d like to focus on my anxiety again and maybe how to communicate better with my brother.,P,Next Steps
+"Absolutely, we can do that. I’m looking forward to hearing how your journaling goes and how your communication with your brother unfolds.",T,Next Steps
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+"You’re welcome! Take care of yourself, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant

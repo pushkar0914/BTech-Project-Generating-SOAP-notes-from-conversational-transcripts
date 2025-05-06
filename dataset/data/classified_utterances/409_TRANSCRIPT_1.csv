@@ -1,0 +1,37 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi, it's good to see you again! How have you been since our last session?",T,Insignificant
+"Hi, Ellie! I've been okay, I guess. Just kind of going through the motions, you know?",P,Insignificant
+"I understand. Last time, you mentioned feeling a bit mellow but also some underlying sadness. Have those feelings changed at all?",T,History of Present Illness (HPI)
+"Yeah, a little. I still feel mellow, but there are moments when I feel a bit more down. It’s like a wave, I guess.",P,History of Present Illness (HPI)
+That makes sense. Can you tell me about a specific moment when you felt that wave of sadness?,T,History of Present Illness (HPI)
+"Well, the other day I was out for a walk, and I saw a couple holding hands. It hit me that I’m still single, and I felt really lonely.",P,History of Present Illness (HPI)
+That sounds tough. Loneliness can be a heavy feeling. Have you had a chance to talk to anyone about these feelings?,T,Insignificant
+Not really. I don’t want to burden my friends with my stuff. I just keep it to myself.,P,History of Present Illness (HPI)
+"It's understandable to feel that way, but sharing can sometimes lighten the load. Do you think it would help to express those feelings to someone close to you?",T,Insignificant
+Maybe. I just worry they won’t understand or will think I’m being too dramatic.,P,History of Present Illness (HPI)
+"It’s common to have those worries. But often, friends appreciate honesty and might surprise you with their support. Would you consider trying to share with one friend this week?",T,Next Steps
+I guess I could try. There’s one friend I feel a bit closer to. ,P,Next Steps
+"That sounds like a good start. Shifting gears a bit, how has your sleep been since we last spoke? Any improvements?",T,Physiological Observations
+Not really. I still wake up a lot during the night. Sometimes I just lie there thinking too much.,P,Physiological Observations
+It sounds like your mind is quite active at night. Have you tried any relaxation techniques before bed?,T,Insignificant
+"I’ve tried listening to music, but sometimes it feels like it doesn’t help.",P,Insignificant
+"That’s understandable. Would you be open to trying a mindfulness exercise, like deep breathing or guided imagery, before sleep?",T,Therapeutic Interventions
+I could give that a shot. I’ve heard it helps.,P,Therapeutic Interventions
+"Great! Let’s try this: Spend a few minutes focusing on your breath. Inhale deeply through your nose, hold for a moment, and then exhale slowly through your mouth. ",T,Therapeutic Interventions
+"Okay, I’ll try that tonight.",P,Next Steps
+"Wonderful! Let me know how it goes. Now, you mentioned wanting a girlfriend last time. Have you thought more about what that would look like for you?",T,History of Present Illness (HPI)
+"Yeah, I think about it often. I’d like someone to share experiences with, but I feel like I’m not really putting myself out there.",P,History of Present Illness (HPI)
+That’s a common barrier. What do you think is stopping you from putting yourself out there?,T,Insignificant
+I guess I’m afraid of rejection. It’s easier to just stay in my comfort zone.,P,History of Present Illness (HPI)
+That’s a valid concern. Maybe we can work on some small steps to gradually expand that comfort zone. Would you be willing to try?,T,Next Steps
+"Sure, what do you have in mind?",P,Insignificant
+"How about starting with small social interactions? For example, striking up a conversation with a cashier or a neighbor?",T,Next Steps
+That sounds manageable. I can try that.,P,Next Steps
+"Excellent! It’s all about building confidence. Remember, every small interaction counts. How do you feel about that?",T,Insignificant
+"I feel a bit nervous but also a little excited, I guess.",P,History of Present Illness (HPI)
+That’s a good sign! Embracing that mix of feelings can lead to growth. Let’s set a goal for you to have at least one new interaction this week.,T,Next Steps
+Sounds good. I can do that.,P,Next Steps
+"Perfect! Before we wrap up, is there anything else on your mind today?",T,Insignificant
+"No, I think we covered a lot. Thanks, Ellie.",P,Insignificant
+You’re welcome! I’m looking forward to hearing how your week goes. Take care!,T,Insignificant
+"Bye, Ellie!",P,Insignificant

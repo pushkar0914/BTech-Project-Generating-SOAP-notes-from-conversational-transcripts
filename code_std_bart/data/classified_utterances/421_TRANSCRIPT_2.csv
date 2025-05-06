@@ -1,0 +1,40 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! Welcome back. How has your week been? ,T,Insignificant
+"Hi! It’s been a bit of a mixed bag, honestly.",P,Insignificant
+"I see. Last time, we set some goals for you. How did the mindfulness practice and bedtime routine go?",T,Next Steps
+"I tried the mindfulness in the morning a couple of times, and it was nice. The bedtime routine... well, I read once before bed, but I didn’t stick with it.",P,Progress Evaluation:Next Steps
+That’s okay! It’s a process. What do you think made it hard to stick to the bedtime routine?,T,Insignificant
+I think I just got too tired and ended up falling asleep on the couch instead.,P,History of Present Illness (HPI)
+That’s understandable. It can be hard to change habits. Would you like to brainstorm some ways to make it easier to follow through with the bedtime routine?,T,Insignificant
+"Yeah, that would help.",P,Insignificant
+One idea could be to set a reminder on your phone to start winding down at a certain time. Would that be something you’d consider?,T,Next Steps
+That could work. I usually lose track of time when I’m watching TV.,P,Insignificant
+"Great! Let’s set that as a goal for this week. Now, how did you feel after practicing mindfulness?",T,Insignificant
+"I did feel calmer, but some days it was hard to focus.",P,History of Present Illness (HPI)
+That’s completely normal. Mindfulness is a skill that takes time to develop. Have you noticed any changes in your mood since starting those practices?,T,Insignificant
+"I think I’ve been a bit less irritable, but I still have my moments.",P,History of Present Illness (HPI)
+That’s progress! It’s important to acknowledge those small victories. What about your social outing? Did you reach out to a friend?,T,Insignificant
+"Yes! I met a friend for lunch, and it was really nice to catch up.",P,Current Functional Status
+That’s wonderful! How did you feel during and after the lunch?,T,Insignificant
+"I felt really happy while we were talking, and afterward, I felt lighter again.",P,Mental Health Observations
+That’s fantastic! It sounds like social connections are really beneficial for you. ,T,Insignificant
+Definitely. I need to make that a priority.,P,Insignificant
+Absolutely! Socializing can be a great way to combat feelings of sadness and isolation. Is there someone else you’d like to reach out to this week?,T,Insignificant
+I might call another friend I haven’t talked to in a while.,P,Next Steps
+"That sounds like a great plan! Now, let’s talk about your feelings towards your ex-husband. Have you had any new thoughts or feelings about the situation?",T,Insignificant
+"I still feel angry, but I’m trying to remind myself that I can’t control his actions.",P,History of Present Illness (HPI)
+That’s a healthy perspective. Recognizing what you can and cannot control is an important part of healing. ,T,Insignificant
+"Yeah, it’s just hard sometimes.",P,Insignificant
+"It is hard, especially when emotions are involved. Have you been able to express your anger in a healthy way?",T,Insignificant
+"I’ve tried talking to my friends about it, but I still bottle up a lot of it.",P,History of Present Illness (HPI)
+It’s good that you’re talking to friends. Another way to express anger could be through journaling or physical activity. Would you be interested in trying that?,T,Insignificant
+I could try journaling. I used to do it a lot.,P,Next Steps
+That’s a great idea! Writing can be a powerful outlet for emotions. How about setting aside some time to journal this week?,T,Next Steps
+I can do that.,P,Next Steps
+"Excellent! Before we finish today, let’s summarize our goals for the upcoming week. You’ll try to establish a bedtime routine with reminders, practice mindfulness, reach out to another friend, and start journaling. Does that sound good?",T,Next Steps
+"Yes, that sounds very doable.",P,Insignificant
+"Fantastic! I’m looking forward to hearing how everything goes next time. Remember, it’s all about progress, and you’re doing great.",T,Insignificant
+"Thanks, Ellie. I appreciate your help.",P,Insignificant
+"You’re very welcome! Take care of yourself, and I’ll see you next time.",T,Insignificant
+Bye!,P,Insignificant
+Bye! ,T,Insignificant

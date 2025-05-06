@@ -1,0 +1,39 @@
+﻿Utterance,Type,Classified_Subsection
+Hi again! It’s great to see you. How have you been since our last session?,T,Insignificant
+"Hi Ellie! I’ve been doing okay, thanks for asking. ",P,Insignificant
+"That’s good to hear. Last time, we talked about some of the things that make you happy and some of the challenges you face, particularly with motivation and focus. Have you noticed any changes in those areas?",T,Insignificant
+"Yeah, I’ve tried to be a bit more consistent with my writing. I set aside some time each day to work on my screenplays.",P,Current Functional Status
+That sounds like a positive step! How has that been going for you?,T,Insignificant
+"It’s been a bit of a mixed bag. Some days I feel really inspired, and others, it’s hard to get started.",P,History of Present Illness (HPI)
+That’s understandable. It’s common for creative work to have ups and downs. What do you think triggers those days when it’s hard to start?,T,Insignificant
+"I think it’s mostly my mood. If I’m feeling a bit down or anxious about other things, it’s harder to focus on writing.",P,History of Present Illness (HPI)
+"That makes sense. You mentioned feeling “blue” sometimes, especially when financial concerns come into play. Have any financial worries come up recently?",T,Insignificant
+"Yes, actually. I had some unexpected expenses that threw me off a bit. ",P,History of Present Illness (HPI)
+I see. How do you usually cope with those feelings when they arise?,T,Insignificant
+"I try to meditate more during those times. It helps, but I still feel a bit overwhelmed.",P,History of Present Illness (HPI):Psychosocial History
+Meditation can be a great tool. Have you noticed any specific techniques that work better for you?,T,Insignificant
+"I’ve been using guided meditations, which help me focus. But sometimes my mind wanders, and I get frustrated.",P,History of Present Illness (HPI)
+That’s a common experience. It’s important to be gentle with yourself during meditation. Would you like to explore some mindfulness techniques together that might help you stay focused?,T,Insignificant
+"Sure, that would be great!",P,Insignificant
+One technique is to focus on your breath. Let’s try it for a moment. Take a deep breath in… hold it… and now release it slowly. How does that feel?,T,Insignificant
+It feels calming. I like focusing on my breath.,P,Mental Health Observations
+"Great! You can use this simple technique whenever you feel overwhelmed. It can help ground you. Speaking of grounding, have you had any moments recently where you felt really connected to the present?",T,Insignificant
+Yes! I went for a walk by the beach last weekend. It was really nice to just be there and take in the scenery.,P,Current Functional Status
+That sounds lovely. Nature can be a wonderful way to connect with the present moment. How did that experience affect your mood?,T,Insignificant
+It definitely lifted my spirits. I felt more relaxed afterward.,P,Mental Health Observations
+That’s wonderful to hear. Perhaps incorporating more walks or nature time could be beneficial for you. Would you be open to setting a goal for this week to spend time in nature?,T,Next Steps
+"Yes, I’d like that! Maybe I can aim for at least two walks.",P,Next Steps
+That sounds like a great plan! Remember to be kind to yourself if you miss a day. It’s all part of the process. Is there anything else you’d like to discuss today?,T,Insignificant
+I guess I’m still thinking about those opportunities I mentioned last session. I keep wondering if I should have pursued them.,P,History of Present Illness (HPI)
+It’s natural to reflect on past choices. Would you like to explore what those thoughts bring up for you? ,T,Insignificant
+"Yeah, I think I feel a bit of regret, but also a bit of fear about making the wrong choices again.",P,History of Present Illness (HPI):Risk Assessment
+That fear is understandable. It can be helpful to remember that every decision leads to a new path. What if we reframed those past opportunities as learning experiences instead?,T,Insignificant
+I like that idea. It helps to think of them that way. ,P,Insignificant
+"Good! This week, perhaps you could write about those experiences and what you learned from them. ",T,Next Steps
+That sounds doable. ,P,Next Steps
+Excellent! Let’s check in on that next session. Is there anything else on your mind today?,T,Insignificant
+"No, I think that’s everything for now. ",P,Insignificant
+"Great! Thank you for sharing, and I look forward to hearing about your walks and reflections next time. ",T,Insignificant
+"Thank you, Ellie! I appreciate your help. ",P,Insignificant
+"You’re welcome! Take care, and see you next week.",T,Insignificant
+Bye!,P,Insignificant

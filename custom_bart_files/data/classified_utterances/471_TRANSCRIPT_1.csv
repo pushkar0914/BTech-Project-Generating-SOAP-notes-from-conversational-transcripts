@@ -1,0 +1,55 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>  ,P,Insignificant
+Hi again! It’s good to see you. How have you been since our last session?  ,T,Insignificant
+"I've been alright, thank you. Still processing everything.  ",P,History of Present Illness (HPI)
+That's understandable. Last time we talked about your cancer diagnosis and how it's been affecting your thoughts about the future. Have you had any new insights or feelings about that?  ,T,History of Present Illness (HPI)
+"I've been trying to stay positive, but some days it's harder than others.  ",P,History of Present Illness (HPI)
+It makes sense to feel that way. Have there been specific moments or triggers that have made it harder?  ,T,History of Present Illness (HPI)
+"Yeah, I think when I see my friends making plans for the future, it hits me.  ",P,History of Present Illness (HPI)
+That sounds tough. It’s natural to compare your situation to others. How do you usually cope with those feelings?  ,T,History of Present Illness (HPI)
+I try to distract myself with exercise or planning trips.  ,P,History of Present Illness (HPI)
+That's a healthy approach. Have you been able to do any of those activities recently?  ,T,Current Functional Status
+"Yes, I went mountain biking last weekend, and it felt good to be out in nature.  ",P,Current Functional Status
+That’s wonderful! Being in nature can be very healing. Did you notice any changes in your mood after that experience?  ,T,History of Present Illness (HPI)
+Definitely! I felt a sense of freedom and joy.  ,P,History of Present Illness (HPI)
+That’s great to hear. It sounds like those moments are really important for you. Have you thought about how to incorporate more of that into your routine?  ,T,Next Steps
+I’d like to. Maybe I can set a goal to go outside at least once a week.  ,P,Next Steps
+"That sounds like a solid plan. Setting small, achievable goals can be very beneficial. How do you feel about that idea?  ",T,Next Steps
+I think it could help me feel more grounded.  ,P,History of Present Illness (HPI)
+"Absolutely. It could also help with any anxious thoughts about the future. Speaking of which, have you had any anxious thoughts since our last session?  ",T,History of Present Illness (HPI)
+"A few, mostly late at night.  ",P,History of Present Illness (HPI)
+I see. Nighttime can often amplify those feelings. Have you tried any strategies to manage those thoughts?  ,T,History of Present Illness (HPI)
+I’ve been trying to meditate a little before bed.  ,P,Current Functional Status
+That’s a great practice. How has that been working for you?  ,T,Progress Evaluation
+"It helps sometimes, but my mind wanders a lot.  ",P,History of Present Illness (HPI)
+"That’s completely normal. Mindfulness is a practice, and it takes time. Would you like to explore some techniques that might help you stay focused during meditation?  ",T,Therapeutic Interventions
+"Sure, I’d be open to that.  ",P,Insignificant
+"One technique is to focus on your breath. You can count each inhale and exhale, which can help anchor your mind. Would you like to try that together?  ",T,Therapeutic Interventions
+"Yes, let’s do it.  ",P,Insignificant
+"Great! Let’s take a deep breath in… and out. Now, as you breathe in, count “one,” and as you breathe out, count “two.” Let’s do this for a few moments.  ",T,Therapeutic Interventions
+<silence>  ,P,Insignificant
+How was that for you?  ,T,Insignificant
+It was calming. I felt more centered.  ,P,Mental Health Observations
+I’m glad to hear that. Practicing this regularly can help you manage those anxious moments. Would you like to set a goal for how often you’ll practice this?  ,T,Next Steps
+Maybe I can try doing it every night before bed.  ,P,Next Steps
+That sounds like a wonderful plan. How do you feel about incorporating that into your routine?  ,T,Next Steps
+I think it’s doable.  ,P,Insignificant
+"Excellent! Now, let’s shift gears a little. You mentioned your brother during our last session. How has that relationship been for you lately?  ",T,History of Present Illness (HPI)
+It’s still tough. I worry about him a lot.  ,P,History of Present Illness (HPI)
+That’s understandable. It sounds like you care deeply for him. Have you been able to communicate with him at all?  ,T,History of Present Illness (HPI)
+Not really. He’s pretty withdrawn.  ,P,History of Present Illness (HPI)
+That must be hard for you. It can be challenging to see someone you care about struggle. Have you thought about ways to support him from a distance?  ,T,Next Steps
+"I’ve tried sending him messages, but he doesn’t respond.  ",P,History of Present Illness (HPI)
+"That can be frustrating. Sometimes, just letting someone know you’re there for them, even if they don’t respond, can be comforting. Would you like to brainstorm some other ways to support him?  ",T,Next Steps
+Maybe I could write him a letter.  ,P,Next Steps
+That’s a lovely idea. Writing can be a great way to express your feelings without pressure. What would you want to say to him?  ,T,Next Steps
+"I’d want him to know I’m here for him, no matter what.  ",P,Insignificant
+That’s a powerful message. It’s important for him to know he’s not alone. Would you like to set a goal for when you might write that letter?  ,T,Next Steps
+I could try to write it by the end of the week.  ,P,Next Steps
+"That sounds perfect. I think it could be a meaningful gesture. As we wrap up, is there anything else on your mind that you’d like to discuss?  ",T,Insignificant
+I think we’ve covered a lot today.  ,P,Insignificant
+I agree! You’ve shared some valuable insights. Remember to practice your breathing and think about that letter. I look forward to hearing how it goes next time.  ,T,Insignificant
+"Thank you, Ellie.  ",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.  ",T,Insignificant
+Goodbye!  ,P,Insignificant
+Goodbye!,T,Insignificant

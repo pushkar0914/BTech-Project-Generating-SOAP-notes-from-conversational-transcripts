@@ -1,0 +1,45 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have things been since we last met?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I actually updated my resume like I said I would.",P,History of Present Illness (HPI)
+That’s fantastic! How did that feel?,T,Insignificant
+It felt good to finally do it. I was putting it off for a while.,P,History of Present Illness (HPI)
+I’m glad you took that step. Have you had a chance to look for job openings yet?,T,Insignificant
+"Yes, I found a couple of positions I’m interested in.",P,History of Present Illness (HPI)
+That’s wonderful! What kind of roles are you looking at?,T,Insignificant
+I’m looking at nursing positions in a couple of hospitals and clinics nearby.,P,History of Present Illness (HPI)
+That sounds promising! Have you thought about how you’ll approach applying?,T,Insignificant
+I think I’ll just send out a few applications and see what happens.,P,Next Steps
+That’s a solid plan! Remember to tailor your cover letter to each position. It can make a big difference.,T,Next Steps
+"I’ll keep that in mind. I’m a bit nervous about interviews, though.",P,History of Present Illness (HPI)
+That’s completely normal! Would you like to practice some interview questions together?,T,Insignificant
+"Yes, that would help.",P,Insignificant
+Great! Let’s start with a common question: “Tell me about yourself.”,T,Insignificant
+"Okay, um… I’m a recent nursing graduate, and I’ve always wanted to help people. I have experience in customer service, which has helped me develop my communication skills.",P,History of Present Illness (HPI)
+That’s a good start! You might want to add a bit about what you’re looking for in a nursing role.,T,Insignificant
+Right! I’m looking for a position where I can continue to learn and grow in a supportive environment.,P,History of Present Illness (HPI)
+Perfect! That shows your desire for professional development. Let’s try another question: “What are your strengths?”,T,Insignificant
+I think my strengths are being empathetic and patient. I’ve always been good at listening to others.,P,History of Present Illness (HPI)
+Those are excellent strengths for a nurse! How about challenges? Can you think of a weakness you’d like to share?,T,Insignificant
+I guess I can be a bit shy when meeting new people.,P,History of Present Illness (HPI)
+"That’s honest. You could also mention how you’re working on it, like through this therapy.",T,Next Steps
+That’s a good idea. I’ll say I’m trying to improve my confidence in social situations.,P,History of Present Illness (HPI)
+"Great! Remember, it’s all about showing your willingness to grow. How are you feeling about these potential interviews now?",T,Insignificant
+"I feel a bit more confident, actually. Practicing helps.",P,History of Present Illness (HPI)
+I’m glad to hear that! How about your relaxation techniques? Have you been able to use them?,T,Insignificant
+"Yes, I tried the muscle relaxation technique before bed, and it helped me sleep better.",P,Physiological Observations
+That’s wonderful progress! Sleep is so crucial for your overall well-being. Have you noticed any changes in your mood since you’ve been sleeping better?,T,Insignificant
+I think I’ve been less irritable at work. I feel more focused.,P,Physiological Observations
+That’s fantastic to hear! It sounds like you’re making positive strides. Is there anything else on your mind today?,T,Insignificant
+I’ve been thinking about my family a lot. They keep asking me about my job search.,P,Psychosocial History
+It’s great that they’re supportive. How does that make you feel?,T,Insignificant
+"It makes me feel a bit pressured, but I know they mean well.",P,Psychosocial History
+It’s understandable to feel that way. Perhaps you could set boundaries by letting them know when you have updates instead of feeling pressured to share constantly.,T,Next Steps
+That sounds like a good idea. I’ll talk to them about it.,P,Next Steps
+"Excellent! Communication is key. Lastly, how are you feeling about the potential job opportunities?",T,Insignificant
+I feel excited but also a bit anxious about the interviews.,P,History of Present Illness (HPI)
+"That’s completely normal. Remember to take it one step at a time. You’ve prepared well, and you’re capable of handling whatever comes your way.",T,Insignificant
+"Thank you, Ellie. I really appreciate your support.",P,Insignificant
+You’re doing great! Let’s wrap up for today. Keep practicing those techniques and stay positive about your job search.,T,Next Steps
+I will! See you next time!,P,Insignificant
+Bye! Take care!,T,Insignificant
+Bye!,P,Insignificant

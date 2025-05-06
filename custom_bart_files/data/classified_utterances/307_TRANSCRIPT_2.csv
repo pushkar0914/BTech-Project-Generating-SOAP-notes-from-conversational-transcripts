@@ -1,0 +1,49 @@
+﻿Utterance,Type,Classified_Subsection
+"Hi Tatiana, welcome back! How did your week go?  ",T,Insignificant
+"Hi Ellie! It was a mixed bag. I managed to take a photo every day, but I didn’t reach out to my roommates yet.  ",P,History of Present Illness (HPI)
+That’s okay! It’s great that you kept up with the photography. What did you enjoy most about it?  ,T,Insignificant
+I loved getting creative again! It felt good to focus on something I love.  ,P,History of Present Illness (HPI)
+That’s wonderful to hear! Do you feel it helped lift your mood?  ,T,Insignificant
+Definitely! I felt more motivated and less stressed.  ,P,History of Present Illness (HPI)
+That’s fantastic! It’s important to find those small joys. What held you back from reaching out to your roommates?  ,T,Insignificant
+I guess I was just nervous about how it would go.  ,P,History of Present Illness (HPI)
+It’s understandable to feel that way. What do you think would help you feel more comfortable?  ,T,Insignificant
+Maybe just reminding myself it’s okay to be vulnerable and reach out.  ,P,History of Present Illness (HPI)
+"Exactly! Remember, they might be feeling the same way. Would you like to set a date to reach out?  ",T,Insignificant
+"Yes, I think I’ll text them after our session.  ",P,Next Steps
+Great! What will you say?  ,T,Insignificant
+I’ll suggest a movie night this weekend.  ,P,Next Steps
+That sounds perfect! I’m sure they’ll appreciate the effort.  ,T,Insignificant
+I hope so!  ,P,Insignificant
+How about your job search? Have you made any progress?  ,T,Insignificant
+"I applied to a couple of photography gigs, but still no responses.  ",P,History of Present Illness (HPI)
+"It can take time, but it’s great that you’re putting yourself out there. How did it feel to apply?  ",T,Insignificant
+"A bit nerve-wracking, but also exciting. I felt like I was taking steps in the right direction.  ",P,History of Present Illness (HPI)
+That’s a positive mindset! Have you thought about networking or reaching out to any contacts?  ,T,Insignificant
+"I haven’t yet, but that’s a good idea.  ",P,Next Steps
+Networking can open doors. Maybe you could attend a photography workshop or join a local group?  ,T,Next Steps
+I’ll look into that!  ,P,Next Steps
+Excellent! It could be a way to meet new people and gain more experience.  ,T,Insignificant
+"Yeah, I could use that.  ",P,Insignificant
+How’s your relationship with your boyfriend going? Any new developments?  ,T,Insignificant
+"We had a good talk about our feelings, and I think we’re in a better place right now.  ",P,History of Present Illness (HPI)
+That’s great to hear! Open communication is so important.  ,T,Insignificant
+"Yeah, it felt good to be honest with each other.  ",P,History of Present Illness (HPI)
+Do you feel more connected now?  ,T,Insignificant
+I do! It’s nice to feel like we’re on the same team again.  ,P,History of Present Illness (HPI)
+That’s wonderful! Have you thought about planning a fun date together?  ,T,Insignificant
+"Not yet, but that’s a great idea! Maybe we’ll go hiking or something.  ",P,Next Steps
+That sounds like a lovely plan! It can help strengthen your bond.  ,T,Insignificant
+For sure! I’ll suggest it.  ,P,Next Steps
+How are you feeling about your overall mental health? Any changes?  ,T,Insignificant
+I think I’m feeling more positive! The photography and reconnecting with my boyfriend really helped.  ,P,History of Present Illness (HPI)
+That’s fantastic! It’s important to celebrate those small victories.  ,T,Insignificant
+It really is. I’m starting to feel more like myself again.  ,P,History of Present Illness (HPI)
+I’m glad to hear that! Let’s keep building on that momentum.  ,T,Insignificant
+"Yes, let’s!  ",P,Insignificant
+"So, for our next session, you’ll reach out to your roommates, look into networking opportunities, and plan a date with your boyfriend. Sound good?  ",T,Next Steps
+Yes! I’m excited about all of it.  ,P,Insignificant
+I look forward to hearing how it all goes. You’re doing great!  ,T,Insignificant
+"Thanks, Ellie! I appreciate your support.  ",P,Insignificant
+"Of course! See you next time, Tatiana!  ",T,Insignificant
+Bye!,P,Insignificant

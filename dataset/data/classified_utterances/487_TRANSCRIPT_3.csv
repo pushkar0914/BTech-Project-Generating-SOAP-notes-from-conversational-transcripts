@@ -1,0 +1,51 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi! Welcome back. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been doing well. I took your advice and opened up to my siblings about my feelings.",P,History of Present Illness (HPI)
+That’s wonderful! How did that conversation go?,T,Insignificant
+"It was nerve-wracking at first, but they were really supportive. It felt good to share.",P,History of Present Illness (HPI)
+I’m so glad to hear that! It takes courage to be vulnerable. How did it feel afterward?,T,Insignificant
+It felt like a weight was lifted off my shoulders. I realized I’m not alone in this.,P,History of Present Illness (HPI)
+That’s a powerful realization. Sharing your feelings can create a sense of connection. Have you noticed any changes in your relationship with them since then?,T,Insignificant
+"Yes, we’ve been more open with each other. It’s like we understand each other better now.",P,History of Present Illness (HPI)
+That’s fantastic progress! Building that emotional intimacy can strengthen your bond. Is there anything else you want to explore today?,T,Insignificant
+I’d like to talk about how to handle feelings of anxiety when they come up.,P,Presenting Problem / Chief Complaint
+Sure! What situations tend to trigger your anxiety?,T,Insignificant
+I think it’s mostly when I feel overwhelmed with work or personal responsibilities.,P,History of Present Illness (HPI)
+That’s common. Have you noticed any physical symptoms when you feel anxious?,T,Insignificant
+"Yes, I get a tightness in my chest and sometimes my heart races.",P,Physiological Observations
+Those are typical physical responses to anxiety. Have you tried any techniques to manage those feelings when they arise?,T,Insignificant
+"I’ve been practicing deep breathing, which helps a bit.",P,Therapeutic Interventions
+That’s a great technique! Deep breathing can be very calming. Would you like to explore some additional strategies?,T,Insignificant
+"Yes, I’d love that.",P,Insignificant
+How about we try a grounding exercise? It can help you stay present and reduce anxiety.,T,Therapeutic Interventions
+That sounds good! What do I need to do?,P,Insignificant
+Let’s start by taking a few deep breaths together. Inhale deeply through your nose… and exhale slowly through your mouth. ,T,Therapeutic Interventions
+*breathes deeply* ,P,Insignificant
+"Great! Now, I want you to focus on your surroundings. Can you name three things you can see?",T,Insignificant
+"I see a plant, a picture on the wall, and the sunlight coming through the window.",P,Insignificant
+"Excellent! Now, can you name two things you can feel?",T,Insignificant
+I can feel the chair beneath me and the warmth of the sun on my skin.,P,Insignificant
+"Perfect! And finally, can you name one thing you can smell?",T,Insignificant
+I can smell my coffee from earlier.,P,Insignificant
+Wonderful! This exercise can help bring you back to the present moment. How do you feel after doing that?,T,Insignificant
+"I feel a bit calmer, actually. It’s a nice distraction from the racing thoughts.",P,Physiological Observations
+I’m glad to hear that! You can use this grounding technique whenever you start to feel anxious. Would you like to practice it more?,T,Insignificant
+"Yes, I think that would be helpful.",P,Insignificant
+Great! We can incorporate it into our sessions. Is there anything else you’d like to work on today?,T,Insignificant
+I think I want to focus on setting boundaries. I often take on too much for others.,P,Presenting Problem / Chief Complaint
+Setting boundaries is important for your well-being. What areas do you feel you need to set boundaries in?,T,Insignificant
+"Mostly with family and friends. I tend to say yes to everything, even when I don’t have the capacity.",P,History of Present Illness (HPI)
+It’s great that you recognize that. Have you thought about how you might communicate those boundaries?,T,Insignificant
+I’m not sure how to start. I don’t want to hurt anyone’s feelings.,P,Insignificant
+"It’s understandable to feel that way. You can approach it with honesty and compassion. You might say something like, “I really value our time together, but I need to take care of myself too.”",T,Therapeutic Interventions
+That sounds reasonable. I can try that.,P,Insignificant
+Absolutely! Practice makes perfect. How do you feel about trying to set one small boundary this week?,T,Insignificant
+I think I can do that. Maybe with a friend who always asks for favors.,P,Next Steps
+"That’s a great start! Remember, it’s about finding balance and taking care of yourself. ",T,Insignificant
+"Thank you, Ellie. I feel more empowered to address this now.",P,Insignificant
+I’m proud of you for taking these steps! Let’s check in on your progress next time. Is there anything else you’d like to discuss before we wrap up?,T,Insignificant
+"No, I think that’s it for today. Thank you for the support!",P,Insignificant
+You’re welcome! I look forward to hearing about your experiences next session. Have a great week!,T,Insignificant
+Thanks! Bye for now!,P,Insignificant
+Bye!,T,Insignificant

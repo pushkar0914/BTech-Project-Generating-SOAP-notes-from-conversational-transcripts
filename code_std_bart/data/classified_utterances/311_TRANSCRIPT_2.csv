@@ -1,0 +1,30 @@
+﻿Utterance,Type,Classified_Subsection
+Hi! It’s great to see you again. How have you been since our last session?,T,Insignificant
+"Hi, Ellie! I’ve been okay. I tried the mindfulness exercise before bed, and it helped a bit.",P,History of Present Illness (HPI): Physiological Observations
+That’s wonderful to hear! How did it feel to incorporate that into your routine?,T,Insignificant
+"It was nice. I felt more relaxed, but I still woke up a few times.",P,Physiological Observations
+That’s a good start! It can take time to see more significant changes in sleep patterns. How about during the day? Have you noticed any changes in your mood?,T,Insignificant
+I think I’ve been handling my frustration better. I didn’t yell at my neighbor this time!,P,History of Present Illness (HPI)
+That’s a big step! How did that conversation go?,T,Insignificant
+I approached them calmly and said I was feeling overwhelmed by the noise. They actually apologized!,P,History of Present Illness (HPI)
+That’s fantastic! It sounds like your approach made a real difference. How did you feel afterwards?,T,Insignificant
+I felt relieved. It was nice to communicate without fighting.,P,History of Present Illness (HPI)
+That’s a great example of assertive communication in action. What do you think you learned from that experience?,T,Insignificant
+I learned that talking things out can be better than avoiding them. It felt good to express myself.,P,History of Present Illness (HPI)
+Absolutely! And it’s a skill you can continue to develop. Have you faced any other challenges since then?,T,Insignificant
+"Well, I still have moments of sadness. It’s like a wave that comes and goes.",P,History of Present Illness (HPI)
+"That’s understandable, especially with your history of depression. Have you noticed any specific triggers for those waves of sadness?",T,History of Present Illness (HPI)
+"Sometimes it’s just random, but other times it’s when I think about my kids and how far away they are.",P,History of Present Illness (HPI): Psychosocial History
+That makes sense. It’s natural to miss loved ones. How do you cope with those feelings when they arise?,T,Insignificant
+"I try to distract myself with my dogs or watching a movie, but it doesn’t always work.",P,History of Present Illness (HPI)
+"Distraction can be helpful, but it might be worth exploring how you can also process those feelings. Have you considered journaling about your emotions?",T,Insignificant
+"I’ve thought about it, but I’m not sure how to start.",P,Insignificant
+"Journaling can be as simple as writing down your thoughts and feelings as they come. You could start with prompts like, “Today I felt…” or “I miss my kids because…”",T,Therapeutic Interventions
+That sounds doable. I’ll give it a try.,P,Insignificant
+Great! It may help you understand your emotions better and find patterns. Is there anything else you’d like to explore today?,T,Insignificant
+I think that covers it. I just want to keep improving.,P,Insignificant
+That’s a healthy mindset. Remember to be patient with yourself. Progress takes time. I’m proud of the steps you’ve taken.,T,Insignificant
+"Thank you, Ellie. I appreciate your support.",P,Insignificant
+Of course! I’m here for you. Let’s check in on your journaling and any other developments next time. Take care until then!,T,Next Steps
+"Will do! See you soon, Ellie.",P,Insignificant
+Goodbye!,T,Insignificant

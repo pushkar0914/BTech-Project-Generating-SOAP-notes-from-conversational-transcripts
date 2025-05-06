@@ -1,0 +1,47 @@
+﻿Utterance,Type,Classified_Subsection
+<synch>,P,Insignificant
+Hi there! It’s great to see you again. How did your week go with the goals we set?,T,Insignificant
+"Hi! It went pretty well. I managed to walk three times, and I started the sleep diary.",P,Current Functional Status
+That’s fantastic! How did you feel about your walks?,T,Insignificant
+"They were refreshing! I felt more energized afterward, and it was nice to get some fresh air.",P,Mental Health Observations: Physiological Observations
+That’s wonderful to hear! Did you notice any changes in your mood or energy levels after those walks?,T,Insignificant
+"Yes, I definitely felt a bit brighter. I think being outside helped a lot.",P,Mental Health Observations: Physiological Observations
+Great! And how about the sleep diary? What did you find out?,T,Insignificant
+"I realized I’m still waking up around the same time, but I think I’m falling asleep faster.",P,Physiological Observations
+That’s a positive development! Have you noticed any patterns in your sleep?,T,Insignificant
+I think I sleep better on nights when I don’t use my phone right before bed.,P,Physiological Observations
+That’s an important observation. Limiting screen time can really help with sleep quality. Would you like to try to implement that more consistently?,T,Insignificant
+"Yes, I’ll try to put my phone away at least an hour before bedtime.",P,Next Steps
+That sounds like a solid plan. And how did the meal prepping go?,T,Insignificant
+"I prepped for two days, and it was easier than I expected! I enjoyed having healthy meals ready.",P,Current Functional Status
+That’s excellent! What meals did you prepare?,T,Insignificant
+I made a quinoa salad and grilled chicken with vegetables. It was tasty!,P,Current Functional Status
+That sounds delicious! Have you thought about what you might want to prep for next week?,T,Insignificant
+I think I’ll try a stir-fry. It seems simple and quick to make.,P,Next Steps
+That’s a great choice! It’s versatile and you can use whatever vegetables you like. ,T,Insignificant
+Exactly! I’m looking forward to it.,P,Insignificant
+I’m glad to hear you’re enjoying the meal prep. How has your relationship with your sister been since you reached out?,T,Insignificant
+We had a nice conversation! It felt good to reconnect and catch up.,P,Psychosocial History
+That’s wonderful! How did that make you feel?,T,Insignificant
+It made me feel happy and connected. I realized how much I missed talking to her.,P,Mental Health Observations
+It’s great that you’re nurturing those relationships. Is there anything else you’d like to do to strengthen your family connections?,T,Insignificant
+I think I’d like to plan a family get-together. That could be fun!,P,Next Steps
+That sounds like a lovely idea! It could provide a great opportunity to bond. ,T,Insignificant
+"Yes, I’ll bring it up with my brother and sister.",P,Next Steps
+"Perfect! Now, let’s talk about your thyroid and how you’ve been feeling physically.",T,Insignificant
+"My energy has improved a bit since the medication adjustment, but I’m still feeling a bit off.",P,Medical and Psychiatric History
+It might take some time for the medication to fully balance things out. Have you been able to manage any stress related to it?,T,Insignificant
+I’ve been trying to take it easy and not stress too much about it. ,P,Therapeutic Interventions
+That’s a good approach. Stress can definitely impact your physical health. Have you thought about any additional stress-relief techniques?,T,Insignificant
+I’ve been considering yoga or meditation. I think it could help me relax.,P,Therapeutic Interventions
+Those are excellent options! Would you like to set a goal to try a yoga class or meditation session this week?,T,Insignificant
+"Yes, I’ll look for a class to join. ",P,Next Steps
+That sounds great! It could be a wonderful way to connect with your body and mind. ,T,Insignificant
+I’m looking forward to it.,P,Insignificant
+"Before we wrap up, is there anything else you’d like to discuss today?",T,Insignificant
+I think we covered everything I wanted to talk about. ,P,Insignificant
+"Wonderful! To recap, your goals for this week are to put your phone away before bed, prep for a stir-fry, and try a yoga class. Does that sound good?",T,Insignificant
+"Yes, it does! I feel motivated to tackle these goals.",P,Mental Health Observations
+I’m glad to hear that! I look forward to hearing about your progress in our next session. Take care!,T,Insignificant
+Thank you! I’ll see you next time. ,P,Insignificant
+Goodbye!,T,Insignificant

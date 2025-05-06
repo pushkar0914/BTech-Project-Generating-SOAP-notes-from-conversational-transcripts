@@ -1,0 +1,31 @@
+﻿Utterance,Type,Classified_Subsection
+Hi there! It’s great to see you again. How has your week been since we last spoke?,T,Insignificant
+"Hi, Ellie! It’s been a bit better, actually. I’ve been trying to focus on the things we discussed.",P,History of Present Illness (HPI)
+That’s wonderful to hear! What have you been working on?,T,Insignificant
+"I kept a sleep journal, and I’ve been writing more. It’s helped me process some of my feelings.",P,History of Present Illness (HPI)
+That’s fantastic! What insights have you gained from your sleep journal?,T,Insignificant
+I noticed that I sleep worse on days when I’m really stressed about job searching. It’s like a cycle that feeds into itself.,P,History of Present Illness (HPI):Physiological Observations
+That’s a valuable realization. Understanding the connection between stress and sleep can help you develop strategies to manage both. What do you think you can do to alleviate that stress?,T,Insignificant
+"I think I need to be more mindful about my job search, maybe set specific times to work on it instead of letting it consume my day.",P,Next Steps
+That sounds like a great plan! Setting boundaries can help you feel more in control. Have you had any new developments in your job search?,T,Insignificant
+I actually got a response from one of the places I applied to! They want to interview me!,P,History of Present Illness (HPI)
+That’s amazing news! How do you feel about that?,T,Insignificant
+I’m excited but also really nervous. I just hope I don’t mess it up.,P,History of Present Illness (HPI):Risk Assessment
+It’s completely normal to feel nervous before an interview. What strategies can you use to prepare and calm those nerves?,T,Insignificant
+I think practicing answers to common interview questions might help. And maybe doing some deep breathing beforehand.,P,Therapeutic Interventions
+"Those are excellent strategies! Practicing can boost your confidence, and deep breathing can help ground you in the moment. ",T,Insignificant
+I’ll definitely do that.,P,Insignificant
+Great! How about your writing? How has that been going for you?,T,Insignificant
+It’s been therapeutic. I’ve been writing about my feelings around the job search and my experiences with rejection.,P,History of Present Illness (HPI)
+That’s a powerful way to process those emotions. Have you found any patterns in your writing that surprised you?,T,Insignificant
+"Yeah, I realized I often write about feeling inadequate and comparing myself to others. It’s something I struggle with a lot.",P,History of Present Illness (HPI):Psychosocial History
+Recognizing that pattern is a big step. How do you think you can challenge those thoughts of inadequacy?,T,Insignificant
+"I could remind myself of my strengths and accomplishments, like we talked about. Maybe even write those down and keep them visible.",P,Next Steps
+That’s a great idea! Creating a visual reminder can help reinforce positive self-talk. ,T,Insignificant
+I’ll make a list and put it on my fridge or something.,P,Next Steps
+"Perfect! As we wrap up today, let’s summarize your goals for the upcoming week. You’ll prepare for your interview, continue your writing, practice deep breathing, and create a visible reminder of your strengths. Sound good?",T,Next Steps
+"Yes, that sounds like a solid plan!",P,Insignificant
+"Wonderful. I’m really proud of the progress you’ve made. Remember to be gentle with yourself, and I look forward to hearing how everything goes next time.",T,Insignificant
+"Thank you, Ellie! I appreciate your support.",P,Insignificant
+"You’re welcome! Take care, and I’ll see you next week.",T,Insignificant
+Bye!,P,Insignificant
